@@ -1,2395 +1,2427 @@
-{
-  "week1": {
-    "id": 1,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Team  Trick Shot",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 2474.3
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Alonso's  Bunch",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2625.6
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+[
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Team  Trick Shot",
+      "record": {
+        "wins": 1,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Lucky Fuckers",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2481.9
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Riding Bush",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 2176.3
-        }
+      "score": 2474.3
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Alonso's  Bunch",
+      "record": {
+        "wins": 0,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Mingo Unchained",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 2468.9
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": ".......... ........",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2737.4
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Chalupa Batman",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 2770.1
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "GoldenToe's Ghost",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2789.6
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "You gonna spit on me?",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2522.3
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 2333.6
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Cobb's Forced Fumble",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 2081.5
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "Madden Curse",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2661.1
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
-      }
-    ],
+      "score": 2625.6
+    },
     "tags": [
       "WEEK_1",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week2": {
-    "id": 2,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Lucky Fuckers",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 2206.2
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Chalupa Batman",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 2332.3
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Lucky Fuckers",
+      "record": {
+        "wins": 0,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "GoldenToe's Ghost",
-          "record": {
-            "wins": 0,
-            "losses": 2
-          },
-          "score": 3047.2
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Alonso's  Bunch",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 2536.2
-        }
+      "score": 2481.9
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Riding Bush",
+      "record": {
+        "wins": 1,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Mingo Unchained",
-          "record": {
-            "wins": 2,
-            "losses": 0
-          },
-          "score": 2433.8
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "You gonna spit on me?",
-          "record": {
-            "wins": 0,
-            "losses": 2
-          },
-          "score": 3148.3
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2176.3
+    },
+    "tags": [
+      "WEEK_1"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Mingo Unchained",
+      "record": {
+        "wins": 1,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Riding Bush",
-          "record": {
-            "wins": 2,
-            "losses": 0
-          },
-          "score": 2038.5
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Team  Trick Shot",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 2848.4
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2468.9
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": ".......... ........",
+      "record": {
+        "wins": 0,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": ".......... ........",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 1984.3
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Cobb's Forced Fumble",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 2207.8
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2737.4
+    },
+    "tags": [
+      "WEEK_1"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Chalupa Batman",
+      "record": {
+        "wins": 1,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 2532.9
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "Madden Curse",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 2077.7
-        }
-      }
-    ],
+      "score": 2770.1
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "GoldenToe's Ghost",
+      "record": {
+        "wins": 0,
+        "losses": 1
+      },
+      "score": 2789.6
+    },
+    "tags": [
+      "WEEK_1",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "You gonna spit on me?",
+      "record": {
+        "wins": 0,
+        "losses": 1
+      },
+      "score": 2522.3
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 1,
+        "losses": 0
+      },
+      "score": 2333.6
+    },
+    "tags": [
+      "WEEK_1",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Cobb's Forced Fumble",
+      "record": {
+        "wins": 1,
+        "losses": 0
+      },
+      "score": 2081.5
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "Madden Curse",
+      "record": {
+        "wins": 0,
+        "losses": 1
+      },
+      "score": 2661.1
+    },
+    "tags": [
+      "WEEK_1",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Lucky Fuckers",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 2206.2
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Chalupa Batman",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 2332.3
+    },
     "tags": [
       "WEEK_2",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week3": {
-    "id": 3,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Chalupa Batman",
-          "record": {
-            "wins": 1,
-            "losses": 2
-          },
-          "score": 2456.7
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Team  Trick Shot",
-          "record": {
-            "wins": 2,
-            "losses": 1
-          },
-          "score": 2037.8
-        }
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "GoldenToe's Ghost",
+      "record": {
+        "wins": 0,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Alonso's  Bunch",
-          "record": {
-            "wins": 2,
-            "losses": 1
-          },
-          "score": 2023.1
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Riding Bush",
-          "record": {
-            "wins": 2,
-            "losses": 1
-          },
-          "score": 2498.3
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 3047.2
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Alonso's  Bunch",
+      "record": {
+        "wins": 1,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "Madden Curse",
-          "record": {
-            "wins": 2,
-            "losses": 1
-          },
-          "score": 2051
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": ".......... ........",
-          "record": {
-            "wins": 1,
-            "losses": 2
-          },
-          "score": 2379.6
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2536.2
+    },
+    "tags": [
+      "WEEK_2"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Mingo Unchained",
+      "record": {
+        "wins": 2,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 1,
-            "losses": 2
-          },
-          "score": 2762.2
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Mingo Unchained",
-          "record": {
-            "wins": 3,
-            "losses": 0
-          },
-          "score": 2461.6
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2433.8
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "You gonna spit on me?",
+      "record": {
+        "wins": 0,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "GoldenToe's Ghost",
-          "record": {
-            "wins": 1,
-            "losses": 2
-          },
-          "score": 2020.3
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Lucky Fuckers",
-          "record": {
-            "wins": 1,
-            "losses": 2
-          },
-          "score": 2156.7
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 3148.3
+    },
+    "tags": [
+      "WEEK_2",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Riding Bush",
+      "record": {
+        "wins": 2,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "You gonna spit on me?",
-          "record": {
-            "wins": 0,
-            "losses": 3
-          },
-          "score": 2215.4
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Cobb's Forced Fumble",
-          "record": {
-            "wins": 2,
-            "losses": 1
-          },
-          "score": 2202.9
-        }
-      }
-    ],
+      "score": 2038.5
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Team  Trick Shot",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 2848.4
+    },
+    "tags": [
+      "WEEK_2",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": ".......... ........",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 1984.3
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Cobb's Forced Fumble",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 2207.8
+    },
+    "tags": [
+      "WEEK_2",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 2532.9
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "Madden Curse",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 2077.7
+    },
+    "tags": [
+      "WEEK_2"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Chalupa Batman",
+      "record": {
+        "wins": 1,
+        "losses": 2
+      },
+      "score": 2456.7
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Team  Trick Shot",
+      "record": {
+        "wins": 2,
+        "losses": 1
+      },
+      "score": 2037.8
+    },
+    "tags": [
+      "WEEK_3"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Alonso's  Bunch",
+      "record": {
+        "wins": 2,
+        "losses": 1
+      },
+      "score": 2023.1
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Riding Bush",
+      "record": {
+        "wins": 2,
+        "losses": 1
+      },
+      "score": 2498.3
+    },
     "tags": [
       "WEEK_3",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week4": {
-    "id": 4,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "You gonna spit on me?",
-          "record": {
-            "wins": 0,
-            "losses": 4
-          },
-          "score": 2322.8
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Lucky Fuckers",
-          "record": {
-            "wins": 2,
-            "losses": 2
-          },
-          "score": 1892.5
-        }
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "Madden Curse",
+      "record": {
+        "wins": 2,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Riding Bush",
-          "record": {
-            "wins": 3,
-            "losses": 1
-          },
-          "score": 1896.6
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Cobb's Forced Fumble",
-          "record": {
-            "wins": 2,
-            "losses": 2
-          },
-          "score": 2933.5
-        }
+      "score": 2051
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": ".......... ........",
+      "record": {
+        "wins": 1,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Team  Trick Shot",
-          "record": {
-            "wins": 3,
-            "losses": 1
-          },
-          "score": 2605
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": ".......... ........",
-          "record": {
-            "wins": 1,
-            "losses": 3
-          },
-          "score": 2760.4
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Mingo Unchained",
-          "record": {
-            "wins": 4,
-            "losses": 0
-          },
-          "score": 2475
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Chalupa Batman",
-          "record": {
-            "wins": 1,
-            "losses": 3
-          },
-          "score": 2568.9
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Alonso's  Bunch",
-          "record": {
-            "wins": 2,
-            "losses": 2
-          },
-          "score": 2748.4
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "Madden Curse",
-          "record": {
-            "wins": 3,
-            "losses": 1
-          },
-          "score": 2495.1
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 2,
-            "losses": 2
-          },
-          "score": 2374.2
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "GoldenToe's Ghost",
-          "record": {
-            "wins": 1,
-            "losses": 3
-          },
-          "score": 2496.3
-        }
-      }
-    ],
+      "score": 2379.6
+    },
     "tags": [
-      "WEEK_4",
-      "REGULAR_SEASON"
+      "WEEK_3",
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week5": {
-    "id": 5,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Riding Bush",
-          "record": {
-            "wins": 4,
-            "losses": 1
-          },
-          "score": 1801.4
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "GoldenToe's Ghost",
-          "record": {
-            "wins": 1,
-            "losses": 4
-          },
-          "score": 2867.9
-        }
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 1,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Cobb's Forced Fumble",
-          "record": {
-            "wins": 2,
-            "losses": 3
-          },
-          "score": 2567.4
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 3,
-            "losses": 2
-          },
-          "score": 2069.8
-        }
+      "score": 2762.2
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Mingo Unchained",
+      "record": {
+        "wins": 3,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Chalupa Batman",
-          "record": {
-            "wins": 2,
-            "losses": 3
-          },
-          "score": 2509.3
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Alonso's  Bunch",
-          "record": {
-            "wins": 2,
-            "losses": 3
-          },
-          "score": 2555.7
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Lucky Fuckers",
-          "record": {
-            "wins": 3,
-            "losses": 2
-          },
-          "score": 2777.2
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Team  Trick Shot",
-          "record": {
-            "wins": 3,
-            "losses": 2
-          },
-          "score": 3157.4
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "Madden Curse",
-          "record": {
-            "wins": 3,
-            "losses": 2
-          },
-          "score": 3234.9
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Mingo Unchained",
-          "record": {
-            "wins": 5,
-            "losses": 0
-          },
-          "score": 2093.2
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": ".......... ........",
-          "record": {
-            "wins": 2,
-            "losses": 3
-          },
-          "score": 2367.3
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "You gonna spit on me?",
-          "record": {
-            "wins": 0,
-            "losses": 5
-          },
-          "score": 2722.6
-        }
-      }
-    ],
+      "score": 2461.6
+    },
     "tags": [
-      "WEEK_5",
-      "REGULAR_SEASON"
+      "WEEK_3",
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week6": {
-    "id": 6,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Alonso's  Bunch",
-          "record": {
-            "wins": 2,
-            "losses": 4
-          },
-          "score": 2101.3
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Mingo Unchained",
-          "record": {
-            "wins": 6,
-            "losses": 0
-          },
-          "score": 2046.9
-        }
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "GoldenToe's Ghost",
+      "record": {
+        "wins": 1,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "You gonna spit on me?",
-          "record": {
-            "wins": 1,
-            "losses": 5
-          },
-          "score": 2184.9
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "Madden Curse",
-          "record": {
-            "wins": 3,
-            "losses": 3
-          },
-          "score": 2211.5
-        }
+      "score": 2020.3
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Lucky Fuckers",
+      "record": {
+        "wins": 1,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": ".......... ........",
-          "record": {
-            "wins": 3,
-            "losses": 3
-          },
-          "score": 1985.5
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 3,
-            "losses": 3
-          },
-          "score": 2460.9
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Cobb's Forced Fumble",
-          "record": {
-            "wins": 2,
-            "losses": 4
-          },
-          "score": 2663.5
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Lucky Fuckers",
-          "record": {
-            "wins": 4,
-            "losses": 2
-          },
-          "score": 1774.2
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Chalupa Batman",
-          "record": {
-            "wins": 2,
-            "losses": 4
-          },
-          "score": 2591.6
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Riding Bush",
-          "record": {
-            "wins": 5,
-            "losses": 1
-          },
-          "score": 1983.3
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "GoldenToe's Ghost",
-          "record": {
-            "wins": 2,
-            "losses": 4
-          },
-          "score": 2325.1
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Team  Trick Shot",
-          "record": {
-            "wins": 3,
-            "losses": 3
-          },
-          "score": 2428.8
-        }
-      }
-    ],
+      "score": 2156.7
+    },
     "tags": [
-      "WEEK_6",
-      "REGULAR_SEASON"
+      "WEEK_3",
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week7": {
-    "id": 7,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Lucky Fuckers",
-          "record": {
-            "wins": 4,
-            "losses": 3
-          },
-          "score": 2556.1
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Alonso's  Bunch",
-          "record": {
-            "wins": 3,
-            "losses": 4
-          },
-          "score": 1880.9
-        }
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "You gonna spit on me?",
+      "record": {
+        "wins": 0,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Riding Bush",
-          "record": {
-            "wins": 5,
-            "losses": 2
-          },
-          "score": 2206.6
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": ".......... ........",
-          "record": {
-            "wins": 4,
-            "losses": 3
-          },
-          "score": 1846.1
-        }
+      "score": 2215.4
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Cobb's Forced Fumble",
+      "record": {
+        "wins": 2,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "GoldenToe's Ghost",
-          "record": {
-            "wins": 3,
-            "losses": 4
-          },
-          "score": 2305
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "You gonna spit on me?",
-          "record": {
-            "wins": 1,
-            "losses": 6
-          },
-          "score": 2768
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Mingo Unchained",
-          "record": {
-            "wins": 6,
-            "losses": 1
-          },
-          "score": 2181.8
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Cobb's Forced Fumble",
-          "record": {
-            "wins": 3,
-            "losses": 4
-          },
-          "score": 2104.4
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Team  Trick Shot",
-          "record": {
-            "wins": 4,
-            "losses": 3
-          },
-          "score": 1598.4
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "Madden Curse",
-          "record": {
-            "wins": 3,
-            "losses": 4
-          },
-          "score": 2503.6
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 3,
-            "losses": 4
-          },
-          "score": 2914.5
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Chalupa Batman",
-          "record": {
-            "wins": 3,
-            "losses": 4
-          },
-          "score": 1901.4
-        }
-      }
-    ],
+      "score": 2202.9
+    },
     "tags": [
-      "WEEK_7",
-      "REGULAR_SEASON"
+      "WEEK_3"
     ]
   },
-  "week8": {
-    "id": 8,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Cobb's Forced Fumble",
-          "record": {
-            "wins": 3,
-            "losses": 5
-          },
-          "score": 2784.6
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "GoldenToe's Ghost",
-          "record": {
-            "wins": 4,
-            "losses": 4
-          },
-          "score": 2359.2
-        }
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "You gonna spit on me?",
+      "record": {
+        "wins": 0,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Chalupa Batman",
-          "record": {
-            "wins": 4,
-            "losses": 4
-          },
-          "score": 1984.7
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": ".......... ........",
-          "record": {
-            "wins": 4,
-            "losses": 4
-          },
-          "score": 2741.6
-        }
+      "score": 2322.8
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Lucky Fuckers",
+      "record": {
+        "wins": 2,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 3,
-            "losses": 5
-          },
-          "score": 2597.2
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Lucky Fuckers",
-          "record": {
-            "wins": 5,
-            "losses": 3
-          },
-          "score": 1758.9
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "Madden Curse",
-          "record": {
-            "wins": 3,
-            "losses": 5
-          },
-          "score": 2493.5
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Riding Bush",
-          "record": {
-            "wins": 6,
-            "losses": 2
-          },
-          "score": 1924
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Mingo Unchained",
-          "record": {
-            "wins": 7,
-            "losses": 1
-          },
-          "score": 2198
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Team  Trick Shot",
-          "record": {
-            "wins": 4,
-            "losses": 4
-          },
-          "score": 2207.2
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "You gonna spit on me?",
-          "record": {
-            "wins": 2,
-            "losses": 6
-          },
-          "score": 1882
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Alonso's  Bunch",
-          "record": {
-            "wins": 3,
-            "losses": 5
-          },
-          "score": 2333.8
-        }
-      }
-    ],
+      "score": 1892.5
+    },
     "tags": [
-      "WEEK_8",
-      "REGULAR_SEASON"
+      "WEEK_4"
     ]
   },
-  "week9": {
-    "id": 9,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "You gonna spit on me?",
-          "record": {
-            "wins": 3,
-            "losses": 6
-          },
-          "score": 2081.8
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Chalupa Batman",
-          "record": {
-            "wins": 4,
-            "losses": 5
-          },
-          "score": 2492.1
-        }
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Riding Bush",
+      "record": {
+        "wins": 3,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Riding Bush",
-          "record": {
-            "wins": 7,
-            "losses": 2
-          },
-          "score": 1780.1
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 3,
-            "losses": 6
-          },
-          "score": 1947.3
-        }
+      "score": 1896.6
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Cobb's Forced Fumble",
+      "record": {
+        "wins": 2,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "GoldenToe's Ghost",
-          "record": {
-            "wins": 4,
-            "losses": 5
-          },
-          "score": 2655.9
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Mingo Unchained",
-          "record": {
-            "wins": 8,
-            "losses": 1
-          },
-          "score": 2594.2
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Lucky Fuckers",
-          "record": {
-            "wins": 6,
-            "losses": 3
-          },
-          "score": 1859.5
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "Madden Curse",
-          "record": {
-            "wins": 3,
-            "losses": 6
-          },
-          "score": 2136.3
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Alonso's  Bunch",
-          "record": {
-            "wins": 4,
-            "losses": 5
-          },
-          "score": 2457.7
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": ".......... ........",
-          "record": {
-            "wins": 4,
-            "losses": 5
-          },
-          "score": 2947.6
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Team  Trick Shot",
-          "record": {
-            "wins": 5,
-            "losses": 4
-          },
-          "score": 2013.3
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Cobb's Forced Fumble",
-          "record": {
-            "wins": 3,
-            "losses": 6
-          },
-          "score": 2716.4
-        }
-      }
-    ],
+      "score": 2933.5
+    },
     "tags": [
-      "WEEK_9",
-      "REGULAR_SEASON"
+      "WEEK_4"
     ]
   },
-  "week10": {
-    "id": 10,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Riding Bush",
-          "record": {
-            "wins": 7,
-            "losses": 3
-          },
-          "score": 2080
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "You gonna spit on me?",
-          "record": {
-            "wins": 4,
-            "losses": 6
-          },
-          "score": 1923.5
-        }
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Team  Trick Shot",
+      "record": {
+        "wins": 3,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Cobb's Forced Fumble",
-          "record": {
-            "wins": 4,
-            "losses": 6
-          },
-          "score": 2581.1
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Alonso's  Bunch",
-          "record": {
-            "wins": 4,
-            "losses": 6
-          },
-          "score": 2651.6
-        }
+      "score": 2605
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": ".......... ........",
+      "record": {
+        "wins": 1,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Chalupa Batman",
-          "record": {
-            "wins": 5,
-            "losses": 5
-          },
-          "score": 1858.9
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "Madden Curse",
-          "record": {
-            "wins": 3,
-            "losses": 7
-          },
-          "score": 2329.2
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 3,
-            "losses": 7
-          },
-          "score": 2391.5
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Team  Trick Shot",
-          "record": {
-            "wins": 6,
-            "losses": 4
-          },
-          "score": 1900.8
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": ".......... ........",
-          "record": {
-            "wins": 5,
-            "losses": 5
-          },
-          "score": 2528
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "GoldenToe's Ghost",
-          "record": {
-            "wins": 4,
-            "losses": 6
-          },
-          "score": 2536.5
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Mingo Unchained",
-          "record": {
-            "wins": 9,
-            "losses": 1
-          },
-          "score": 1872
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Lucky Fuckers",
-          "record": {
-            "wins": 6,
-            "losses": 4
-          },
-          "score": 2695.4
-        }
-      }
-    ],
+      "score": 2760.4
+    },
     "tags": [
-      "WEEK_10",
-      "REGULAR_SEASON"
+      "WEEK_4"
     ]
   },
-  "week11": {
-    "id": 11,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 4,
-            "losses": 7
-          },
-          "score": 2062
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "You gonna spit on me?",
-          "record": {
-            "wins": 4,
-            "losses": 7
-          },
-          "score": 2249.1
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Mingo Unchained",
+      "record": {
+        "wins": 4,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Alonso's  Bunch",
-          "record": {
-            "wins": 5,
-            "losses": 6
-          },
-          "score": 2121
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Team  Trick Shot",
-          "record": {
-            "wins": 6,
-            "losses": 5
-          },
-          "score": 2761
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2475
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Chalupa Batman",
+      "record": {
+        "wins": 1,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "Madden Curse",
-          "record": {
-            "wins": 3,
-            "losses": 8
-          },
-          "score": 2462.8
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Cobb's Forced Fumble",
-          "record": {
-            "wins": 5,
-            "losses": 6
-          },
-          "score": 2094.1
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2568.9
+    },
+    "tags": [
+      "WEEK_4"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Alonso's  Bunch",
+      "record": {
+        "wins": 2,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Riding Bush",
-          "record": {
-            "wins": 8,
-            "losses": 3
-          },
-          "score": 2400.6
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Mingo Unchained",
-          "record": {
-            "wins": 9,
-            "losses": 2
-          },
-          "score": 2552.6
-        }
+      "score": 2748.4
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "Madden Curse",
+      "record": {
+        "wins": 3,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "GoldenToe's Ghost",
-          "record": {
-            "wins": 4,
-            "losses": 7
-          },
-          "score": 2933.9
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Chalupa Batman",
-          "record": {
-            "wins": 6,
-            "losses": 5
-          },
-          "score": 2626.4
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2495.1
+    },
+    "tags": [
+      "WEEK_4"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 2,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": ".......... ........",
-          "record": {
-            "wins": 6,
-            "losses": 5
-          },
-          "score": 1918.4
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Lucky Fuckers",
-          "record": {
-            "wins": 6,
-            "losses": 5
-          },
-          "score": 2587.6
-        }
-      }
-    ],
+      "score": 2374.2
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "GoldenToe's Ghost",
+      "record": {
+        "wins": 1,
+        "losses": 3
+      },
+      "score": 2496.3
+    },
+    "tags": [
+      "WEEK_4"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Riding Bush",
+      "record": {
+        "wins": 4,
+        "losses": 1
+      },
+      "score": 1801.4
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "GoldenToe's Ghost",
+      "record": {
+        "wins": 1,
+        "losses": 4
+      },
+      "score": 2867.9
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Cobb's Forced Fumble",
+      "record": {
+        "wins": 2,
+        "losses": 3
+      },
+      "score": 2567.4
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 3,
+        "losses": 2
+      },
+      "score": 2069.8
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Chalupa Batman",
+      "record": {
+        "wins": 2,
+        "losses": 3
+      },
+      "score": 2509.3
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Alonso's  Bunch",
+      "record": {
+        "wins": 2,
+        "losses": 3
+      },
+      "score": 2555.7
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Lucky Fuckers",
+      "record": {
+        "wins": 3,
+        "losses": 2
+      },
+      "score": 2777.2
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Team  Trick Shot",
+      "record": {
+        "wins": 3,
+        "losses": 2
+      },
+      "score": 3157.4
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "Madden Curse",
+      "record": {
+        "wins": 3,
+        "losses": 2
+      },
+      "score": 3234.9
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Mingo Unchained",
+      "record": {
+        "wins": 5,
+        "losses": 0
+      },
+      "score": 2093.2
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": ".......... ........",
+      "record": {
+        "wins": 2,
+        "losses": 3
+      },
+      "score": 2367.3
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "You gonna spit on me?",
+      "record": {
+        "wins": 0,
+        "losses": 5
+      },
+      "score": 2722.6
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Alonso's  Bunch",
+      "record": {
+        "wins": 2,
+        "losses": 4
+      },
+      "score": 2101.3
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Mingo Unchained",
+      "record": {
+        "wins": 6,
+        "losses": 0
+      },
+      "score": 2046.9
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "You gonna spit on me?",
+      "record": {
+        "wins": 1,
+        "losses": 5
+      },
+      "score": 2184.9
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "Madden Curse",
+      "record": {
+        "wins": 3,
+        "losses": 3
+      },
+      "score": 2211.5
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": ".......... ........",
+      "record": {
+        "wins": 3,
+        "losses": 3
+      },
+      "score": 1985.5
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 3,
+        "losses": 3
+      },
+      "score": 2460.9
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Cobb's Forced Fumble",
+      "record": {
+        "wins": 2,
+        "losses": 4
+      },
+      "score": 2663.5
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Lucky Fuckers",
+      "record": {
+        "wins": 4,
+        "losses": 2
+      },
+      "score": 1774.2
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Chalupa Batman",
+      "record": {
+        "wins": 2,
+        "losses": 4
+      },
+      "score": 2591.6
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Riding Bush",
+      "record": {
+        "wins": 5,
+        "losses": 1
+      },
+      "score": 1983.3
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "GoldenToe's Ghost",
+      "record": {
+        "wins": 2,
+        "losses": 4
+      },
+      "score": 2325.1
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Team  Trick Shot",
+      "record": {
+        "wins": 3,
+        "losses": 3
+      },
+      "score": 2428.8
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Lucky Fuckers",
+      "record": {
+        "wins": 4,
+        "losses": 3
+      },
+      "score": 2556.1
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Alonso's  Bunch",
+      "record": {
+        "wins": 3,
+        "losses": 4
+      },
+      "score": 1880.9
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Riding Bush",
+      "record": {
+        "wins": 5,
+        "losses": 2
+      },
+      "score": 2206.6
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": ".......... ........",
+      "record": {
+        "wins": 4,
+        "losses": 3
+      },
+      "score": 1846.1
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "GoldenToe's Ghost",
+      "record": {
+        "wins": 3,
+        "losses": 4
+      },
+      "score": 2305
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "You gonna spit on me?",
+      "record": {
+        "wins": 1,
+        "losses": 6
+      },
+      "score": 2768
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Mingo Unchained",
+      "record": {
+        "wins": 6,
+        "losses": 1
+      },
+      "score": 2181.8
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Cobb's Forced Fumble",
+      "record": {
+        "wins": 3,
+        "losses": 4
+      },
+      "score": 2104.4
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Team  Trick Shot",
+      "record": {
+        "wins": 4,
+        "losses": 3
+      },
+      "score": 1598.4
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "Madden Curse",
+      "record": {
+        "wins": 3,
+        "losses": 4
+      },
+      "score": 2503.6
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 3,
+        "losses": 4
+      },
+      "score": 2914.5
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Chalupa Batman",
+      "record": {
+        "wins": 3,
+        "losses": 4
+      },
+      "score": 1901.4
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Cobb's Forced Fumble",
+      "record": {
+        "wins": 3,
+        "losses": 5
+      },
+      "score": 2784.6
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "GoldenToe's Ghost",
+      "record": {
+        "wins": 4,
+        "losses": 4
+      },
+      "score": 2359.2
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Chalupa Batman",
+      "record": {
+        "wins": 4,
+        "losses": 4
+      },
+      "score": 1984.7
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": ".......... ........",
+      "record": {
+        "wins": 4,
+        "losses": 4
+      },
+      "score": 2741.6
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 3,
+        "losses": 5
+      },
+      "score": 2597.2
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Lucky Fuckers",
+      "record": {
+        "wins": 5,
+        "losses": 3
+      },
+      "score": 1758.9
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "Madden Curse",
+      "record": {
+        "wins": 3,
+        "losses": 5
+      },
+      "score": 2493.5
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Riding Bush",
+      "record": {
+        "wins": 6,
+        "losses": 2
+      },
+      "score": 1924
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Mingo Unchained",
+      "record": {
+        "wins": 7,
+        "losses": 1
+      },
+      "score": 2198
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Team  Trick Shot",
+      "record": {
+        "wins": 4,
+        "losses": 4
+      },
+      "score": 2207.2
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "You gonna spit on me?",
+      "record": {
+        "wins": 2,
+        "losses": 6
+      },
+      "score": 1882
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Alonso's  Bunch",
+      "record": {
+        "wins": 3,
+        "losses": 5
+      },
+      "score": 2333.8
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "You gonna spit on me?",
+      "record": {
+        "wins": 3,
+        "losses": 6
+      },
+      "score": 2081.8
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Chalupa Batman",
+      "record": {
+        "wins": 4,
+        "losses": 5
+      },
+      "score": 2492.1
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Riding Bush",
+      "record": {
+        "wins": 7,
+        "losses": 2
+      },
+      "score": 1780.1
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 3,
+        "losses": 6
+      },
+      "score": 1947.3
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "GoldenToe's Ghost",
+      "record": {
+        "wins": 4,
+        "losses": 5
+      },
+      "score": 2655.9
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Mingo Unchained",
+      "record": {
+        "wins": 8,
+        "losses": 1
+      },
+      "score": 2594.2
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Lucky Fuckers",
+      "record": {
+        "wins": 6,
+        "losses": 3
+      },
+      "score": 1859.5
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "Madden Curse",
+      "record": {
+        "wins": 3,
+        "losses": 6
+      },
+      "score": 2136.3
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Alonso's  Bunch",
+      "record": {
+        "wins": 4,
+        "losses": 5
+      },
+      "score": 2457.7
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": ".......... ........",
+      "record": {
+        "wins": 4,
+        "losses": 5
+      },
+      "score": 2947.6
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Team  Trick Shot",
+      "record": {
+        "wins": 5,
+        "losses": 4
+      },
+      "score": 2013.3
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Cobb's Forced Fumble",
+      "record": {
+        "wins": 3,
+        "losses": 6
+      },
+      "score": 2716.4
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Riding Bush",
+      "record": {
+        "wins": 7,
+        "losses": 3
+      },
+      "score": 2080
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "You gonna spit on me?",
+      "record": {
+        "wins": 4,
+        "losses": 6
+      },
+      "score": 1923.5
+    },
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Cobb's Forced Fumble",
+      "record": {
+        "wins": 4,
+        "losses": 6
+      },
+      "score": 2581.1
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Alonso's  Bunch",
+      "record": {
+        "wins": 4,
+        "losses": 6
+      },
+      "score": 2651.6
+    },
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Chalupa Batman",
+      "record": {
+        "wins": 5,
+        "losses": 5
+      },
+      "score": 1858.9
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "Madden Curse",
+      "record": {
+        "wins": 3,
+        "losses": 7
+      },
+      "score": 2329.2
+    },
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 3,
+        "losses": 7
+      },
+      "score": 2391.5
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Team  Trick Shot",
+      "record": {
+        "wins": 6,
+        "losses": 4
+      },
+      "score": 1900.8
+    },
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": ".......... ........",
+      "record": {
+        "wins": 5,
+        "losses": 5
+      },
+      "score": 2528
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "GoldenToe's Ghost",
+      "record": {
+        "wins": 4,
+        "losses": 6
+      },
+      "score": 2536.5
+    },
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Mingo Unchained",
+      "record": {
+        "wins": 9,
+        "losses": 1
+      },
+      "score": 1872
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Lucky Fuckers",
+      "record": {
+        "wins": 6,
+        "losses": 4
+      },
+      "score": 2695.4
+    },
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 4,
+        "losses": 7
+      },
+      "score": 2062
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "You gonna spit on me?",
+      "record": {
+        "wins": 4,
+        "losses": 7
+      },
+      "score": 2249.1
+    },
     "tags": [
       "WEEK_11",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week12": {
-    "id": 12,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "You gonna spit on me?",
-          "record": {
-            "wins": 4,
-            "losses": 8
-          },
-          "score": 2329
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Mingo Unchained",
-          "record": {
-            "wins": 10,
-            "losses": 2
-          },
-          "score": 1956.2
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Alonso's  Bunch",
+      "record": {
+        "wins": 5,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Team  Trick Shot",
-          "record": {
-            "wins": 7,
-            "losses": 5
-          },
-          "score": 2355.2
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Riding Bush",
-          "record": {
-            "wins": 8,
-            "losses": 4
-          },
-          "score": 2629.7
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2121
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Team  Trick Shot",
+      "record": {
+        "wins": 6,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Chalupa Batman",
-          "record": {
-            "wins": 7,
-            "losses": 5
-          },
-          "score": 2106.3
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Lucky Fuckers",
-          "record": {
-            "wins": 6,
-            "losses": 6
-          },
-          "score": 2669.4
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2761
+    },
+    "tags": [
+      "WEEK_11",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "Madden Curse",
+      "record": {
+        "wins": 3,
+        "losses": 8
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "Madden Curse",
-          "record": {
-            "wins": 3,
-            "losses": 9
-          },
-          "score": 2950.2
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "GoldenToe's Ghost",
-          "record": {
-            "wins": 5,
-            "losses": 7
-          },
-          "score": 2443.7
-        }
+      "score": 2462.8
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Cobb's Forced Fumble",
+      "record": {
+        "wins": 5,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Alonso's  Bunch",
-          "record": {
-            "wins": 6,
-            "losses": 6
-          },
-          "score": 1872.1
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 4,
-            "losses": 8
-          },
-          "score": 2029.9
-        }
+      "score": 2094.1
+    },
+    "tags": [
+      "WEEK_11",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Riding Bush",
+      "record": {
+        "wins": 8,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Cobb's Forced Fumble",
-          "record": {
-            "wins": 6,
-            "losses": 6
-          },
-          "score": 2550.3
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": ".......... ........",
-          "record": {
-            "wins": 6,
-            "losses": 6
-          },
-          "score": 2690.5
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
-      }
-    ],
+      "score": 2400.6
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Mingo Unchained",
+      "record": {
+        "wins": 9,
+        "losses": 2
+      },
+      "score": 2552.6
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "GoldenToe's Ghost",
+      "record": {
+        "wins": 4,
+        "losses": 7
+      },
+      "score": 2933.9
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Chalupa Batman",
+      "record": {
+        "wins": 6,
+        "losses": 5
+      },
+      "score": 2626.4
+    },
+    "tags": [
+      "WEEK_11",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": ".......... ........",
+      "record": {
+        "wins": 6,
+        "losses": 5
+      },
+      "score": 1918.4
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Lucky Fuckers",
+      "record": {
+        "wins": 6,
+        "losses": 5
+      },
+      "score": 2587.6
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "You gonna spit on me?",
+      "record": {
+        "wins": 4,
+        "losses": 8
+      },
+      "score": 2329
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Mingo Unchained",
+      "record": {
+        "wins": 10,
+        "losses": 2
+      },
+      "score": 1956.2
+    },
     "tags": [
       "WEEK_12",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week13": {
-    "id": 13,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Lucky Fuckers",
-          "record": {
-            "wins": 6,
-            "losses": 7
-          },
-          "score": 2748.8
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "GoldenToe's Ghost",
-          "record": {
-            "wins": 6,
-            "losses": 7
-          },
-          "score": 2150.4
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Team  Trick Shot",
+      "record": {
+        "wins": 7,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Riding Bush",
-          "record": {
-            "wins": 8,
-            "losses": 5
-          },
-          "score": 2876.2
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Alonso's  Bunch",
-          "record": {
-            "wins": 7,
-            "losses": 6
-          },
-          "score": 2010.5
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2355.2
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Riding Bush",
+      "record": {
+        "wins": 8,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Mingo Unchained",
-          "record": {
-            "wins": 11,
-            "losses": 2
-          },
-          "score": 1899.4
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 4,
-            "losses": 9
-          },
-          "score": 3047.5
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2629.7
+    },
+    "tags": [
+      "WEEK_12",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Chalupa Batman",
+      "record": {
+        "wins": 7,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": ".......... ........",
-          "record": {
-            "wins": 7,
-            "losses": 6
-          },
-          "score": 2072.3
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "Madden Curse",
-          "record": {
-            "wins": 3,
-            "losses": 10
-          },
-          "score": 2755.4
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2106.3
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Lucky Fuckers",
+      "record": {
+        "wins": 6,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Team  Trick Shot",
-          "record": {
-            "wins": 8,
-            "losses": 5
-          },
-          "score": 2390.9
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "You gonna spit on me?",
-          "record": {
-            "wins": 4,
-            "losses": 9
-          },
-          "score": 2569
-        }
+      "score": 2669.4
+    },
+    "tags": [
+      "WEEK_12",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "Madden Curse",
+      "record": {
+        "wins": 3,
+        "losses": 9
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Cobb's Forced Fumble",
-          "record": {
-            "wins": 7,
-            "losses": 6
-          },
-          "score": 2328.8
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Chalupa Batman",
-          "record": {
-            "wins": 7,
-            "losses": 6
-          },
-          "score": 2550.9
-        }
-      }
-    ],
+      "score": 2950.2
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "GoldenToe's Ghost",
+      "record": {
+        "wins": 5,
+        "losses": 7
+      },
+      "score": 2443.7
+    },
+    "tags": [
+      "WEEK_12"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Alonso's  Bunch",
+      "record": {
+        "wins": 6,
+        "losses": 6
+      },
+      "score": 1872.1
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 4,
+        "losses": 8
+      },
+      "score": 2029.9
+    },
+    "tags": [
+      "WEEK_12"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Cobb's Forced Fumble",
+      "record": {
+        "wins": 6,
+        "losses": 6
+      },
+      "score": 2550.3
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": ".......... ........",
+      "record": {
+        "wins": 6,
+        "losses": 6
+      },
+      "score": 2690.5
+    },
+    "tags": [
+      "WEEK_12",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Lucky Fuckers",
+      "record": {
+        "wins": 6,
+        "losses": 7
+      },
+      "score": 2748.8
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "GoldenToe's Ghost",
+      "record": {
+        "wins": 6,
+        "losses": 7
+      },
+      "score": 2150.4
+    },
     "tags": [
       "WEEK_13",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week14": {
-    "id": 14,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "GoldenToe's Ghost",
-          "record": {
-            "wins": 7,
-            "losses": 7
-          },
-          "score": 3369.8,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_8"
-          ]
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Mingo Unchained",
-          "record": {
-            "wins": 11,
-            "losses": 3
-          },
-          "score": 2679.9,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_1"
-          ]
-        }
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Riding Bush",
+      "record": {
+        "wins": 8,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Riding Bush",
-          "record": {
-            "wins": 8,
-            "losses": 6
-          },
-          "score": 1973.6,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_5"
-          ]
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": ".......... ........",
-          "record": {
-            "wins": 8,
-            "losses": 6
-          },
-          "score": 2483.9,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_4"
-          ]
-        }
+      "score": 2876.2
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Alonso's  Bunch",
+      "record": {
+        "wins": 7,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Cobb's Forced Fumble",
-          "record": {
-            "wins": 8,
-            "losses": 6
-          },
-          "score": 2786.4,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_6"
-          ]
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Chalupa Batman",
-          "record": {
-            "wins": 7,
-            "losses": 7
-          },
-          "score": 2098.3,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_3"
-          ]
-        }
+      "score": 2010.5
+    },
+    "tags": [
+      "WEEK_13",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Mingo Unchained",
+      "record": {
+        "wins": 11,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Alonso's Bunch",
-          "record": {
-            "wins": 8,
-            "losses": 6
-          },
-          "score": 2524.5,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_7"
-          ]
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Team Trick Shot",
-          "record": {
-            "wins": 8,
-            "losses": 6
-          },
-          "score": 2142.9,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_2"
-          ]
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 1899.4
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 4,
+        "losses": 9
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 4,
-            "losses": 10
-          },
-          "score": 2388.7,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_10"
-          ]
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Lucky Fuckers",
-          "record": {
-            "wins": 7,
-            "losses": 7
-          },
-          "score": 2595.2,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_9"
-          ]
-        }
+      "score": 3047.5
+    },
+    "tags": [
+      "WEEK_13",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": ".......... ........",
+      "record": {
+        "wins": 7,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "Madden Curse",
-          "record": {
-            "wins": 4,
-            "losses": 10
-          },
-          "score": 2088.7,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_12"
-          ]
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "You gonna spit on me?",
-          "record": {
-            "wins": 4,
-            "losses": 10
-          },
-          "score": 1844.8,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_11"
-          ]
-        }
-      }
-    ],
+      "score": 2072.3
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "Madden Curse",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2755.4
+    },
+    "tags": [
+      "WEEK_13",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Team  Trick Shot",
+      "record": {
+        "wins": 8,
+        "losses": 5
+      },
+      "score": 2390.9
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "You gonna spit on me?",
+      "record": {
+        "wins": 4,
+        "losses": 9
+      },
+      "score": 2569
+    },
+    "tags": [
+      "WEEK_13"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Cobb's Forced Fumble",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2328.8
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Chalupa Batman",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2550.9
+    },
+    "tags": [
+      "WEEK_13"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "GoldenToe's Ghost",
+      "record": {
+        "wins": 7,
+        "losses": 7
+      },
+      "score": 3369.8,
+      "tags": [
+        "WINNER",
+        "SEED_8"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Mingo Unchained",
+      "record": {
+        "wins": 11,
+        "losses": 3
+      },
+      "score": 2679.9,
+      "tags": [
+        "LOSER",
+        "SEED_1"
+      ]
+    },
     "tags": [
       "WEEK_14",
-      "PLAYOFF_ROUND_1"
-    ],
-    "playoffRound": 1
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
   },
-  "week15": {
-    "id": 15,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "GoldenToe's Ghost",
-          "record": {
-            "wins": 8,
-            "losses": 7
-          },
-          "score": 2845.8,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": ".......... ........",
-          "record": {
-            "wins": 8,
-            "losses": 7
-          },
-          "score": 2090.1,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        }
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Riding Bush",
+      "record": {
+        "wins": 8,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Alonso's Bunch",
-          "record": {
-            "wins": 8,
-            "losses": 7
-          },
-          "score": 2301.7,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Cobb's Forced Fumble",
-          "record": {
-            "wins": 9,
-            "losses": 6
-          },
-          "score": 2578.8,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        }
+      "score": 1973.6,
+      "tags": [
+        "LOSER",
+        "SEED_5"
+      ]
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": ".......... ........",
+      "record": {
+        "wins": 8,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Team Trick Shot",
-          "record": {
-            "wins": 8,
-            "losses": 7
-          },
-          "score": 2287.8,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Mingo Unchained",
-          "record": {
-            "wins": 12,
-            "losses": 3
-          },
-          "score": 2963.9,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        }
+      "score": 2483.9,
+      "tags": [
+        "WINNER",
+        "SEED_4"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Cobb's Forced Fumble",
+      "record": {
+        "wins": 8,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Riding Bush",
-          "record": {
-            "wins": 8,
-            "losses": 7
-          },
-          "score": 2023.6,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Chalupa Batman",
-          "record": {
-            "wins": 8,
-            "losses": 7
-          },
-          "score": 2753.3,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        }
+      "score": 2786.4,
+      "tags": [
+        "WINNER",
+        "SEED_6"
+      ]
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Chalupa Batman",
+      "record": {
+        "wins": 7,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "Madden Curse",
-          "record": {
-            "wins": 4,
-            "losses": 11
-          },
-          "score": 2203.3,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Lucky Fuckers",
-          "record": {
-            "wins": 8,
-            "losses": 7
-          },
-          "score": 2267.5,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        }
+      "score": 2098.3,
+      "tags": [
+        "LOSER",
+        "SEED_3"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Alonso's Bunch",
+      "record": {
+        "wins": 8,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "You gonna spit on me?",
-          "record": {
-            "wins": 5,
-            "losses": 10
-          },
-          "score": 2317.5,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 4,
-            "losses": 11
-          },
-          "score": 1991.3,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
-      }
-    ],
+      "score": 2524.5,
+      "tags": [
+        "WINNER",
+        "SEED_7"
+      ]
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Team Trick Shot",
+      "record": {
+        "wins": 8,
+        "losses": 6
+      },
+      "score": 2142.9,
+      "tags": [
+        "LOSER",
+        "SEED_2"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "DIVISIONAL_MATCHUP",
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 4,
+        "losses": 10
+      },
+      "score": 2388.7,
+      "tags": [
+        "LOSER",
+        "SEED_10"
+      ]
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Lucky Fuckers",
+      "record": {
+        "wins": 7,
+        "losses": 7
+      },
+      "score": 2595.2,
+      "tags": [
+        "WINNER",
+        "SEED_9"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "Madden Curse",
+      "record": {
+        "wins": 4,
+        "losses": 10
+      },
+      "score": 2088.7,
+      "tags": [
+        "WINNER",
+        "SEED_12"
+      ]
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "You gonna spit on me?",
+      "record": {
+        "wins": 4,
+        "losses": 10
+      },
+      "score": 1844.8,
+      "tags": [
+        "LOSER",
+        "SEED_11"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "GoldenToe's Ghost",
+      "record": {
+        "wins": 8,
+        "losses": 7
+      },
+      "score": 2845.8,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": ".......... ........",
+      "record": {
+        "wins": 8,
+        "losses": 7
+      },
+      "score": 2090.1,
+      "tags": [
+        "LOSER"
+      ]
+    },
     "tags": [
       "WEEK_15",
-      "PLAYOFF_ROUND_2"
-    ],
-    "playoffRound": 2
+      "PLAYOFF_ROUND_2",
+      "PLAYOFF",
+      "PLAYOFF_SEMIFINAL"
+    ]
   },
-  "week16": {
-    "id": 16,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "GoldenToe's Ghost",
-          "record": {
-            "wins": 8,
-            "losses": 8
-          },
-          "score": 2551.3,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_CHAMPIONSHIP",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "RUNNER_UP",
-            "PLACE_2"
-          ]
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Cobb's Forced Fumble",
-          "record": {
-            "wins": 10,
-            "losses": 6
-          },
-          "score": 2592.1,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_CHAMPIONSHIP",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "CHAMPION",
-            "PLACE_1"
-          ]
-        }
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Alonso's Bunch",
+      "record": {
+        "wins": 8,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Alonso's Bunch",
-          "record": {
-            "wins": 9,
-            "losses": 7
-          },
-          "score": 2250,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "PLACE_3"
-          ]
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": ".......... ........",
-          "record": {
-            "wins": 8,
-            "losses": 8
-          },
-          "score": 1854.1,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "PLACE_4"
-          ]
-        }
+      "score": 2301.7,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Cobb's Forced Fumble",
+      "record": {
+        "wins": 9,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Chalupa Batman",
-          "record": {
-            "wins": 8,
-            "losses": 8
-          },
-          "score": 2604.7,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "PLACE_6"
-          ]
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Mingo Unchained",
-          "record": {
-            "wins": 13,
-            "losses": 3
-          },
-          "score": 3188.1,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "PLACE_5"
-          ]
-        }
+      "score": 2578.8,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2",
+      "PLAYOFF",
+      "PLAYOFF_SEMIFINAL"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Team Trick Shot",
+      "record": {
+        "wins": 8,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Riding Bush",
-          "record": {
-            "wins": 9,
-            "losses": 7
-          },
-          "score": 2095.6,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "PLACE_7"
-          ]
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Team Trick Shot",
-          "record": {
-            "wins": 8,
-            "losses": 8
-          },
-          "score": 1850.3,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "PLACE_8"
-          ]
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2287.8,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Mingo Unchained",
+      "record": {
+        "wins": 12,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "You gonna spit on me?",
-          "record": {
-            "wins": 6,
-            "losses": 10
-          },
-          "score": 2193.5,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "PLACE_9"
-          ]
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Lucky Fuckers",
-          "record": {
-            "wins": 8,
-            "losses": 8
-          },
-          "score": 2068.5,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "PLACE_10"
-          ]
-        }
+      "score": 2963.9,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_SEMIFINAL_THIRD"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Riding Bush",
+      "record": {
+        "wins": 8,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "Madden Curse",
-          "record": {
-            "wins": 4,
-            "losses": 12
-          },
-          "score": 2251.6,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
-            "PLAYOFF_ROUND_3",
-            "CONSOLATION_LAST_PLACE",
-            "LOSER",
-            "PLACE_12",
-            "LAST_PLACE"
-          ]
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 5,
-            "losses": 11
-          },
-          "score": 2278.3,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
-            "PLAYOFF_ROUND_3",
-            "CONSOLATION_LAST_PLACE",
-            "WINNER",
-            "PLACE_11"
-          ]
-        }
-      }
-    ],
+      "score": 2023.6,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Chalupa Batman",
+      "record": {
+        "wins": 8,
+        "losses": 7
+      },
+      "score": 2753.3,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_SEMIFINAL_THIRD"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "Madden Curse",
+      "record": {
+        "wins": 4,
+        "losses": 11
+      },
+      "score": 2203.3,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Lucky Fuckers",
+      "record": {
+        "wins": 8,
+        "losses": 7
+      },
+      "score": 2267.5,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_SEMIFINAL"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "You gonna spit on me?",
+      "record": {
+        "wins": 5,
+        "losses": 10
+      },
+      "score": 2317.5,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 4,
+        "losses": 11
+      },
+      "score": 1991.3,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "DIVISIONAL_MATCHUP",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_SEMIFINAL"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "GoldenToe's Ghost",
+      "record": {
+        "wins": 8,
+        "losses": 8
+      },
+      "score": 2551.3,
+      "tags": [
+        "LOSER",
+        "RUNNER_UP",
+        "PLACE_2"
+      ]
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Cobb's Forced Fumble",
+      "record": {
+        "wins": 10,
+        "losses": 6
+      },
+      "score": 2592.1,
+      "tags": [
+        "WINNER",
+        "CHAMPION",
+        "PLACE_1"
+      ]
+    },
     "tags": [
       "WEEK_16",
-      "PLAYOFF_ROUND_3"
-    ],
-    "playoffRound": 3
+      "PLAYOFF_ROUND_3",
+      "PLAYOFF",
+      "PLAYOFF_CHAMPIONSHIP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Alonso's Bunch",
+      "record": {
+        "wins": 9,
+        "losses": 7
+      },
+      "score": 2250,
+      "tags": [
+        "WINNER",
+        "PLACE_3"
+      ]
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": ".......... ........",
+      "record": {
+        "wins": 8,
+        "losses": 8
+      },
+      "score": 1854.1,
+      "tags": [
+        "LOSER",
+        "PLACE_4"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Chalupa Batman",
+      "record": {
+        "wins": 8,
+        "losses": 8
+      },
+      "score": 2604.7,
+      "tags": [
+        "LOSER",
+        "PLACE_6"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Mingo Unchained",
+      "record": {
+        "wins": 13,
+        "losses": 3
+      },
+      "score": 3188.1,
+      "tags": [
+        "WINNER",
+        "PLACE_5"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Riding Bush",
+      "record": {
+        "wins": 9,
+        "losses": 7
+      },
+      "score": 2095.6,
+      "tags": [
+        "WINNER",
+        "PLACE_7"
+      ]
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Team Trick Shot",
+      "record": {
+        "wins": 8,
+        "losses": 8
+      },
+      "score": 1850.3,
+      "tags": [
+        "LOSER",
+        "PLACE_8"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "DIVISIONAL_MATCHUP",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "You gonna spit on me?",
+      "record": {
+        "wins": 6,
+        "losses": 10
+      },
+      "score": 2193.5,
+      "tags": [
+        "WINNER",
+        "PLACE_9"
+      ]
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Lucky Fuckers",
+      "record": {
+        "wins": 8,
+        "losses": 8
+      },
+      "score": 2068.5,
+      "tags": [
+        "LOSER",
+        "PLACE_10"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "Madden Curse",
+      "record": {
+        "wins": 4,
+        "losses": 12
+      },
+      "score": 2251.6,
+      "tags": [
+        "LOSER",
+        "PLACE_12",
+        "LAST_PLACE"
+      ]
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 5,
+        "losses": 11
+      },
+      "score": 2278.3,
+      "tags": [
+        "WINNER",
+        "PLACE_11"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
+      "CONSOLATION_LAST_PLACE"
+    ]
   }
-}
+]

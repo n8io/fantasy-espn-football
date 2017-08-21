@@ -1,2362 +1,2416 @@
-{
-  "week1": {
-    "id": 1,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2798.2
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "Velocicraptor FUCKINGRAWR",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 1896.2
-        }
+[
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 0,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "The Next Golf Cart Bandit",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 2456.3
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Little Lebowski Urban Achievers",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2594.9
-        }
+      "score": 2798.2
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Velocicraptor FUCKINGRAWR",
+      "record": {
+        "wins": 1,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Incredible Bulk",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 1914.3
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Whatchu Talkin'  'Bout Hillis",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 1962.9
-        }
+      "score": 1896.2
+    },
+    "tags": [
+      "WEEK_1"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "The Next Golf Cart Bandit",
+      "record": {
+        "wins": 1,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "TLOEI Champion",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2997.5
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 1929.5
-        }
+      "score": 2456.3
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Little Lebowski Urban Achievers",
+      "record": {
+        "wins": 0,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2772.8
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "On Side Boob Kicks",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 2586.4
-        }
+      "score": 2594.9
+    },
+    "tags": [
+      "WEEK_1"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Incredible Bulk",
+      "record": {
+        "wins": 1,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Big Upside",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 2283.1
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Your screwed, I'm Angerer",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2379.8
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
-      }
-    ],
+      "score": 1914.3
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Whatchu Talkin'  'Bout Hillis",
+      "record": {
+        "wins": 0,
+        "losses": 1
+      },
+      "score": 1962.9
+    },
+    "tags": [
+      "WEEK_1"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "TLOEI Champion",
+      "record": {
+        "wins": 0,
+        "losses": 1
+      },
+      "score": 2997.5
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 1,
+        "losses": 0
+      },
+      "score": 1929.5
+    },
+    "tags": [
+      "WEEK_1"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 0,
+        "losses": 1
+      },
+      "score": 2772.8
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "On Side Boob Kicks",
+      "record": {
+        "wins": 1,
+        "losses": 0
+      },
+      "score": 2586.4
+    },
+    "tags": [
+      "WEEK_1"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Big Upside",
+      "record": {
+        "wins": 1,
+        "losses": 0
+      },
+      "score": 2283.1
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Your screwed, I'm Angerer",
+      "record": {
+        "wins": 0,
+        "losses": 1
+      },
+      "score": 2379.8
+    },
     "tags": [
       "WEEK_1",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week2": {
-    "id": 2,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "Velocicraptor FUCKINGRAWR",
-          "record": {
-            "wins": 2,
-            "losses": 0
-          },
-          "score": 2613.1
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Little Lebowski Urban Achievers",
-          "record": {
-            "wins": 0,
-            "losses": 2
-          },
-          "score": 2936.6
-        }
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Velocicraptor FUCKINGRAWR",
+      "record": {
+        "wins": 2,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Whatchu Talkin'  'Bout Hillis",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 1902.9
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 2166
-        }
+      "score": 2613.1
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Little Lebowski Urban Achievers",
+      "record": {
+        "wins": 0,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "On Side Boob Kicks",
-          "record": {
-            "wins": 2,
-            "losses": 0
-          },
-          "score": 2300.7
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Your screwed, I'm Angerer",
-          "record": {
-            "wins": 0,
-            "losses": 2
-          },
-          "score": 2401.4
-        }
+      "score": 2936.6
+    },
+    "tags": [
+      "WEEK_2"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Whatchu Talkin'  'Bout Hillis",
+      "record": {
+        "wins": 1,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 2552.4
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "The Next Golf Cart Bandit",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 2552.9
-        }
+      "score": 1902.9
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 1,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Incredible Bulk",
-          "record": {
-            "wins": 2,
-            "losses": 0
-          },
-          "score": 2785.4
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "TLOEI Champion",
-          "record": {
-            "wins": 0,
-            "losses": 2
-          },
-          "score": 2795.3
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2166
+    },
+    "tags": [
+      "WEEK_2"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "On Side Boob Kicks",
+      "record": {
+        "wins": 2,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 2408.3
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Big Upside",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 2459
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
-      }
-    ],
+      "score": 2300.7
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Your screwed, I'm Angerer",
+      "record": {
+        "wins": 0,
+        "losses": 2
+      },
+      "score": 2401.4
+    },
+    "tags": [
+      "WEEK_2"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 2552.4
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "The Next Golf Cart Bandit",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 2552.9
+    },
+    "tags": [
+      "WEEK_2"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Incredible Bulk",
+      "record": {
+        "wins": 2,
+        "losses": 0
+      },
+      "score": 2785.4
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "TLOEI Champion",
+      "record": {
+        "wins": 0,
+        "losses": 2
+      },
+      "score": 2795.3
+    },
     "tags": [
       "WEEK_2",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week3": {
-    "id": 3,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "The Next Golf Cart Bandit",
-          "record": {
-            "wins": 1,
-            "losses": 2
-          },
-          "score": 2181.4
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "Velocicraptor FUCKINGRAWR",
-          "record": {
-            "wins": 3,
-            "losses": 0
-          },
-          "score": 2026.5
-        }
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 1,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "TLOEI Champion",
-          "record": {
-            "wins": 1,
-            "losses": 2
-          },
-          "score": 2437.6
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Whatchu Talkin'  'Bout Hillis",
-          "record": {
-            "wins": 1,
-            "losses": 2
-          },
-          "score": 2594.9
-        }
+      "score": 2408.3
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Big Upside",
+      "record": {
+        "wins": 1,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Big Upside",
-          "record": {
-            "wins": 1,
-            "losses": 2
-          },
-          "score": 2643.2
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "On Side Boob Kicks",
-          "record": {
-            "wins": 3,
-            "losses": 0
-          },
-          "score": 2439.9
-        }
+      "score": 2459
+    },
+    "tags": [
+      "WEEK_2",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "The Next Golf Cart Bandit",
+      "record": {
+        "wins": 1,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Little Lebowski Urban Achievers",
-          "record": {
-            "wins": 0,
-            "losses": 3
-          },
-          "score": 2697.5
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 2,
-            "losses": 1
-          },
-          "score": 2516.9
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2181.4
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Velocicraptor FUCKINGRAWR",
+      "record": {
+        "wins": 3,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 2,
-            "losses": 1
-          },
-          "score": 2330.8
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Incredible Bulk",
-          "record": {
-            "wins": 2,
-            "losses": 1
-          },
-          "score": 2382
-        }
+      "score": 2026.5
+    },
+    "tags": [
+      "WEEK_3"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "TLOEI Champion",
+      "record": {
+        "wins": 1,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Your screwed, I'm Angerer",
-          "record": {
-            "wins": 1,
-            "losses": 2
-          },
-          "score": 2345.4
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 1,
-            "losses": 2
-          },
-          "score": 2564.2
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
-      }
-    ],
+      "score": 2437.6
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Whatchu Talkin'  'Bout Hillis",
+      "record": {
+        "wins": 1,
+        "losses": 2
+      },
+      "score": 2594.9
+    },
+    "tags": [
+      "WEEK_3"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Big Upside",
+      "record": {
+        "wins": 1,
+        "losses": 2
+      },
+      "score": 2643.2
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "On Side Boob Kicks",
+      "record": {
+        "wins": 3,
+        "losses": 0
+      },
+      "score": 2439.9
+    },
+    "tags": [
+      "WEEK_3"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Little Lebowski Urban Achievers",
+      "record": {
+        "wins": 0,
+        "losses": 3
+      },
+      "score": 2697.5
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 2,
+        "losses": 1
+      },
+      "score": 2516.9
+    },
     "tags": [
       "WEEK_3",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week4": {
-    "id": 4,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "Velocicraptor FUCKINGRAWR",
-          "record": {
-            "wins": 4,
-            "losses": 0
-          },
-          "score": 2112.8
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Whatchu Talkin'  'Bout Hillis",
-          "record": {
-            "wins": 1,
-            "losses": 3
-          },
-          "score": 2392.9
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 2,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "The Next Golf Cart Bandit",
-          "record": {
-            "wins": 2,
-            "losses": 2
-          },
-          "score": 2141.9
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "On Side Boob Kicks",
-          "record": {
-            "wins": 3,
-            "losses": 1
-          },
-          "score": 2502.2
-        }
+      "score": 2330.8
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Incredible Bulk",
+      "record": {
+        "wins": 2,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "TLOEI Champion",
-          "record": {
-            "wins": 1,
-            "losses": 3
-          },
-          "score": 2770.3
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Your screwed, I'm Angerer",
-          "record": {
-            "wins": 2,
-            "losses": 2
-          },
-          "score": 1954.3
-        }
+      "score": 2382
+    },
+    "tags": [
+      "WEEK_3"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Your screwed, I'm Angerer",
+      "record": {
+        "wins": 1,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Little Lebowski Urban Achievers",
-          "record": {
-            "wins": 0,
-            "losses": 4
-          },
-          "score": 2605.6
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Big Upside",
-          "record": {
-            "wins": 2,
-            "losses": 2
-          },
-          "score": 2463.3
-        }
+      "score": 2345.4
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 1,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 2,
-            "losses": 2
-          },
-          "score": 2138
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 3,
-            "losses": 1
-          },
-          "score": 1945.9
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2564.2
+    },
+    "tags": [
+      "WEEK_3",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Velocicraptor FUCKINGRAWR",
+      "record": {
+        "wins": 4,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Incredible Bulk",
-          "record": {
-            "wins": 2,
-            "losses": 2
-          },
-          "score": 2539.9
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 2,
-            "losses": 2
-          },
-          "score": 2069.7
-        }
-      }
-    ],
+      "score": 2112.8
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Whatchu Talkin'  'Bout Hillis",
+      "record": {
+        "wins": 1,
+        "losses": 3
+      },
+      "score": 2392.9
+    },
     "tags": [
       "WEEK_4",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week5": {
-    "id": 5,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Incredible Bulk",
-          "record": {
-            "wins": 3,
-            "losses": 2
-          },
-          "score": 2008.6
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "Velocicraptor FUCKINGRAWR",
-          "record": {
-            "wins": 4,
-            "losses": 1
-          },
-          "score": 2051.8
-        }
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "The Next Golf Cart Bandit",
+      "record": {
+        "wins": 2,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Your screwed, I'm Angerer",
-          "record": {
-            "wins": 2,
-            "losses": 3
-          },
-          "score": 2780.2
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "The Next Golf Cart Bandit",
-          "record": {
-            "wins": 3,
-            "losses": 2
-          },
-          "score": 1962.8
-        }
+      "score": 2141.9
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "On Side Boob Kicks",
+      "record": {
+        "wins": 3,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Big Upside",
-          "record": {
-            "wins": 3,
-            "losses": 2
-          },
-          "score": 1847.8
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 3,
-            "losses": 2
-          },
-          "score": 2497.6
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Whatchu Talkin'  'Bout Hillis",
-          "record": {
-            "wins": 1,
-            "losses": 4
-          },
-          "score": 3342.9
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Little Lebowski Urban Achievers",
-          "record": {
-            "wins": 1,
-            "losses": 4
-          },
-          "score": 2215.6
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "On Side Boob Kicks",
-          "record": {
-            "wins": 3,
-            "losses": 2
-          },
-          "score": 1991.8
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "TLOEI Champion",
-          "record": {
-            "wins": 2,
-            "losses": 3
-          },
-          "score": 1877.4
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 3,
-            "losses": 2
-          },
-          "score": 1591.3
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 2,
-            "losses": 3
-          },
-          "score": 2573.7
-        }
-      }
-    ],
+      "score": 2502.2
+    },
     "tags": [
-      "WEEK_5",
-      "REGULAR_SEASON"
+      "WEEK_4"
     ]
   },
-  "week6": {
-    "id": 6,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "Velocicraptor FUCKINGRAWR",
-          "record": {
-            "wins": 5,
-            "losses": 1
-          },
-          "score": 2141.9
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 3,
-            "losses": 3
-          },
-          "score": 2233.1
-        }
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "TLOEI Champion",
+      "record": {
+        "wins": 1,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "The Next Golf Cart Bandit",
-          "record": {
-            "wins": 3,
-            "losses": 3
-          },
-          "score": 2464.1
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 4,
-            "losses": 2
-          },
-          "score": 2039.4
-        }
+      "score": 2770.3
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Your screwed, I'm Angerer",
+      "record": {
+        "wins": 2,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "TLOEI Champion",
-          "record": {
-            "wins": 2,
-            "losses": 4
-          },
-          "score": 2363.4
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Big Upside",
-          "record": {
-            "wins": 4,
-            "losses": 2
-          },
-          "score": 1934.1
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Little Lebowski Urban Achievers",
-          "record": {
-            "wins": 2,
-            "losses": 4
-          },
-          "score": 2417.1
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Incredible Bulk",
-          "record": {
-            "wins": 3,
-            "losses": 3
-          },
-          "score": 2546.2
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Whatchu Talkin'  'Bout Hillis",
-          "record": {
-            "wins": 1,
-            "losses": 5
-          },
-          "score": 2192.9
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Your screwed, I'm Angerer",
-          "record": {
-            "wins": 3,
-            "losses": 3
-          },
-          "score": 2134.4
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 3,
-            "losses": 3
-          },
-          "score": 1981.1
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "On Side Boob Kicks",
-          "record": {
-            "wins": 3,
-            "losses": 3
-          },
-          "score": 2474.4
-        }
-      }
-    ],
+      "score": 1954.3
+    },
     "tags": [
-      "WEEK_6",
-      "REGULAR_SEASON"
+      "WEEK_4"
     ]
   },
-  "week7": {
-    "id": 7,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "TLOEI Champion",
-          "record": {
-            "wins": 2,
-            "losses": 5
-          },
-          "score": 2524.7
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "Velocicraptor FUCKINGRAWR",
-          "record": {
-            "wins": 6,
-            "losses": 1
-          },
-          "score": 2082.4
-        }
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Little Lebowski Urban Achievers",
+      "record": {
+        "wins": 0,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 5,
-            "losses": 2
-          },
-          "score": 1902.9
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Little Lebowski Urban Achievers",
-          "record": {
-            "wins": 2,
-            "losses": 5
-          },
-          "score": 2660.7
-        }
+      "score": 2605.6
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Big Upside",
+      "record": {
+        "wins": 2,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Your screwed, I'm Angerer",
-          "record": {
-            "wins": 3,
-            "losses": 4
-          },
-          "score": 2216.1
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 4,
-            "losses": 3
-          },
-          "score": 2060.8
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "On Side Boob Kicks",
-          "record": {
-            "wins": 3,
-            "losses": 4
-          },
-          "score": 2155.1
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Incredible Bulk",
-          "record": {
-            "wins": 4,
-            "losses": 3
-          },
-          "score": 2045.9
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Whatchu Talkin'  'Bout Hillis",
-          "record": {
-            "wins": 2,
-            "losses": 5
-          },
-          "score": 2171
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "The Next Golf Cart Bandit",
-          "record": {
-            "wins": 3,
-            "losses": 4
-          },
-          "score": 2314.2
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Big Upside",
-          "record": {
-            "wins": 4,
-            "losses": 3
-          },
-          "score": 2401.6
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 4,
-            "losses": 3
-          },
-          "score": 1952
-        }
-      }
-    ],
+      "score": 2463.3
+    },
     "tags": [
-      "WEEK_7",
-      "REGULAR_SEASON"
+      "WEEK_4"
     ]
   },
-  "week8": {
-    "id": 8,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "Velocicraptor FUCKINGRAWR",
-          "record": {
-            "wins": 7,
-            "losses": 1
-          },
-          "score": 1974
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "On Side Boob Kicks",
-          "record": {
-            "wins": 3,
-            "losses": 5
-          },
-          "score": 2981.6
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 2,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Little Lebowski Urban Achievers",
-          "record": {
-            "wins": 2,
-            "losses": 6
-          },
-          "score": 2714
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 5,
-            "losses": 3
-          },
-          "score": 2279.9
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2138
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 3,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "TLOEI Champion",
-          "record": {
-            "wins": 3,
-            "losses": 5
-          },
-          "score": 2051.5
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 5,
-            "losses": 3
-          },
-          "score": 2252.3
-        }
+      "score": 1945.9
+    },
+    "tags": [
+      "WEEK_4",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Incredible Bulk",
+      "record": {
+        "wins": 2,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 5,
-            "losses": 3
-          },
-          "score": 2187.3
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Your screwed, I'm Angerer",
-          "record": {
-            "wins": 3,
-            "losses": 5
-          },
-          "score": 2292.4
-        }
+      "score": 2539.9
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 2,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "The Next Golf Cart Bandit",
-          "record": {
-            "wins": 4,
-            "losses": 4
-          },
-          "score": 1680.5
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Incredible Bulk",
-          "record": {
-            "wins": 4,
-            "losses": 4
-          },
-          "score": 1961.3
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2069.7
+    },
+    "tags": [
+      "WEEK_4"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Incredible Bulk",
+      "record": {
+        "wins": 3,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Whatchu Talkin'  'Bout Hillis",
-          "record": {
-            "wins": 2,
-            "losses": 6
-          },
-          "score": 2640.7
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Big Upside",
-          "record": {
-            "wins": 5,
-            "losses": 3
-          },
-          "score": 2385.1
-        }
-      }
-    ],
+      "score": 2008.6
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Velocicraptor FUCKINGRAWR",
+      "record": {
+        "wins": 4,
+        "losses": 1
+      },
+      "score": 2051.8
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Your screwed, I'm Angerer",
+      "record": {
+        "wins": 2,
+        "losses": 3
+      },
+      "score": 2780.2
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "The Next Golf Cart Bandit",
+      "record": {
+        "wins": 3,
+        "losses": 2
+      },
+      "score": 1962.8
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Big Upside",
+      "record": {
+        "wins": 3,
+        "losses": 2
+      },
+      "score": 1847.8
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 3,
+        "losses": 2
+      },
+      "score": 2497.6
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Whatchu Talkin'  'Bout Hillis",
+      "record": {
+        "wins": 1,
+        "losses": 4
+      },
+      "score": 3342.9
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Little Lebowski Urban Achievers",
+      "record": {
+        "wins": 1,
+        "losses": 4
+      },
+      "score": 2215.6
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "On Side Boob Kicks",
+      "record": {
+        "wins": 3,
+        "losses": 2
+      },
+      "score": 1991.8
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "TLOEI Champion",
+      "record": {
+        "wins": 2,
+        "losses": 3
+      },
+      "score": 1877.4
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 3,
+        "losses": 2
+      },
+      "score": 1591.3
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 2,
+        "losses": 3
+      },
+      "score": 2573.7
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Velocicraptor FUCKINGRAWR",
+      "record": {
+        "wins": 5,
+        "losses": 1
+      },
+      "score": 2141.9
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 3,
+        "losses": 3
+      },
+      "score": 2233.1
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "The Next Golf Cart Bandit",
+      "record": {
+        "wins": 3,
+        "losses": 3
+      },
+      "score": 2464.1
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 4,
+        "losses": 2
+      },
+      "score": 2039.4
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "TLOEI Champion",
+      "record": {
+        "wins": 2,
+        "losses": 4
+      },
+      "score": 2363.4
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Big Upside",
+      "record": {
+        "wins": 4,
+        "losses": 2
+      },
+      "score": 1934.1
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Little Lebowski Urban Achievers",
+      "record": {
+        "wins": 2,
+        "losses": 4
+      },
+      "score": 2417.1
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Incredible Bulk",
+      "record": {
+        "wins": 3,
+        "losses": 3
+      },
+      "score": 2546.2
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Whatchu Talkin'  'Bout Hillis",
+      "record": {
+        "wins": 1,
+        "losses": 5
+      },
+      "score": 2192.9
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Your screwed, I'm Angerer",
+      "record": {
+        "wins": 3,
+        "losses": 3
+      },
+      "score": 2134.4
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 3,
+        "losses": 3
+      },
+      "score": 1981.1
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "On Side Boob Kicks",
+      "record": {
+        "wins": 3,
+        "losses": 3
+      },
+      "score": 2474.4
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "TLOEI Champion",
+      "record": {
+        "wins": 2,
+        "losses": 5
+      },
+      "score": 2524.7
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Velocicraptor FUCKINGRAWR",
+      "record": {
+        "wins": 6,
+        "losses": 1
+      },
+      "score": 2082.4
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 5,
+        "losses": 2
+      },
+      "score": 1902.9
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Little Lebowski Urban Achievers",
+      "record": {
+        "wins": 2,
+        "losses": 5
+      },
+      "score": 2660.7
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Your screwed, I'm Angerer",
+      "record": {
+        "wins": 3,
+        "losses": 4
+      },
+      "score": 2216.1
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 4,
+        "losses": 3
+      },
+      "score": 2060.8
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "On Side Boob Kicks",
+      "record": {
+        "wins": 3,
+        "losses": 4
+      },
+      "score": 2155.1
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Incredible Bulk",
+      "record": {
+        "wins": 4,
+        "losses": 3
+      },
+      "score": 2045.9
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Whatchu Talkin'  'Bout Hillis",
+      "record": {
+        "wins": 2,
+        "losses": 5
+      },
+      "score": 2171
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "The Next Golf Cart Bandit",
+      "record": {
+        "wins": 3,
+        "losses": 4
+      },
+      "score": 2314.2
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Big Upside",
+      "record": {
+        "wins": 4,
+        "losses": 3
+      },
+      "score": 2401.6
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 4,
+        "losses": 3
+      },
+      "score": 1952
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Velocicraptor FUCKINGRAWR",
+      "record": {
+        "wins": 7,
+        "losses": 1
+      },
+      "score": 1974
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "On Side Boob Kicks",
+      "record": {
+        "wins": 3,
+        "losses": 5
+      },
+      "score": 2981.6
+    },
     "tags": [
       "WEEK_8",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week9": {
-    "id": 9,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 6,
-            "losses": 3
-          },
-          "score": 2187.6
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "Velocicraptor FUCKINGRAWR",
-          "record": {
-            "wins": 7,
-            "losses": 2
-          },
-          "score": 2410.4
-        }
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Little Lebowski Urban Achievers",
+      "record": {
+        "wins": 2,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "On Side Boob Kicks",
-          "record": {
-            "wins": 4,
-            "losses": 5
-          },
-          "score": 2483.6
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 5,
-            "losses": 4
-          },
-          "score": 2959.7
-        }
+      "score": 2714
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 5,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Your screwed, I'm Angerer",
-          "record": {
-            "wins": 3,
-            "losses": 6
-          },
-          "score": 2543.8
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Little Lebowski Urban Achievers",
-          "record": {
-            "wins": 3,
-            "losses": 6
-          },
-          "score": 2339.2
-        }
+      "score": 2279.9
+    },
+    "tags": [
+      "WEEK_8",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "TLOEI Champion",
+      "record": {
+        "wins": 3,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "TLOEI Champion",
-          "record": {
-            "wins": 3,
-            "losses": 6
-          },
-          "score": 2179.3
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "The Next Golf Cart Bandit",
-          "record": {
-            "wins": 5,
-            "losses": 4
-          },
-          "score": 2066.5
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2051.5
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 5,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Whatchu Talkin'  'Bout Hillis",
-          "record": {
-            "wins": 3,
-            "losses": 6
-          },
-          "score": 2113.2
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 5,
-            "losses": 4
-          },
-          "score": 2238.4
-        }
+      "score": 2252.3
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 5,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Big Upside",
-          "record": {
-            "wins": 6,
-            "losses": 3
-          },
-          "score": 1829.3
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Incredible Bulk",
-          "record": {
-            "wins": 4,
-            "losses": 5
-          },
-          "score": 2389.3
-        }
-      }
-    ],
+      "score": 2187.3
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Your screwed, I'm Angerer",
+      "record": {
+        "wins": 3,
+        "losses": 5
+      },
+      "score": 2292.4
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "The Next Golf Cart Bandit",
+      "record": {
+        "wins": 4,
+        "losses": 4
+      },
+      "score": 1680.5
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Incredible Bulk",
+      "record": {
+        "wins": 4,
+        "losses": 4
+      },
+      "score": 1961.3
+    },
+    "tags": [
+      "WEEK_8",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Whatchu Talkin'  'Bout Hillis",
+      "record": {
+        "wins": 2,
+        "losses": 6
+      },
+      "score": 2640.7
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Big Upside",
+      "record": {
+        "wins": 5,
+        "losses": 3
+      },
+      "score": 2385.1
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 6,
+        "losses": 3
+      },
+      "score": 2187.6
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Velocicraptor FUCKINGRAWR",
+      "record": {
+        "wins": 7,
+        "losses": 2
+      },
+      "score": 2410.4
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "On Side Boob Kicks",
+      "record": {
+        "wins": 4,
+        "losses": 5
+      },
+      "score": 2483.6
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 5,
+        "losses": 4
+      },
+      "score": 2959.7
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Your screwed, I'm Angerer",
+      "record": {
+        "wins": 3,
+        "losses": 6
+      },
+      "score": 2543.8
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Little Lebowski Urban Achievers",
+      "record": {
+        "wins": 3,
+        "losses": 6
+      },
+      "score": 2339.2
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "TLOEI Champion",
+      "record": {
+        "wins": 3,
+        "losses": 6
+      },
+      "score": 2179.3
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "The Next Golf Cart Bandit",
+      "record": {
+        "wins": 5,
+        "losses": 4
+      },
+      "score": 2066.5
+    },
     "tags": [
       "WEEK_9",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week10": {
-    "id": 10,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "Velocicraptor FUCKINGRAWR",
-          "record": {
-            "wins": 7,
-            "losses": 3
-          },
-          "score": 2638.1
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Your screwed, I'm Angerer",
-          "record": {
-            "wins": 4,
-            "losses": 6
-          },
-          "score": 2118.5
-        }
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Whatchu Talkin'  'Bout Hillis",
+      "record": {
+        "wins": 3,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "The Next Golf Cart Bandit",
-          "record": {
-            "wins": 5,
-            "losses": 5
-          },
-          "score": 2440.4
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Big Upside",
-          "record": {
-            "wins": 7,
-            "losses": 3
-          },
-          "score": 2387.7
-        }
+      "score": 2113.2
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 5,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 5,
-            "losses": 5
-          },
-          "score": 2962.2
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 7,
-            "losses": 3
-          },
-          "score": 2616.1
-        }
+      "score": 2238.4
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Big Upside",
+      "record": {
+        "wins": 6,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Whatchu Talkin'  'Bout Hillis",
-          "record": {
-            "wins": 3,
-            "losses": 7
-          },
-          "score": 2399.4
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "On Side Boob Kicks",
-          "record": {
-            "wins": 5,
-            "losses": 5
-          },
-          "score": 1439.7
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 1829.3
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Incredible Bulk",
+      "record": {
+        "wins": 4,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Little Lebowski Urban Achievers",
-          "record": {
-            "wins": 4,
-            "losses": 6
-          },
-          "score": 2120.3
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "TLOEI Champion",
-          "record": {
-            "wins": 3,
-            "losses": 7
-          },
-          "score": 2661.9
-        }
+      "score": 2389.3
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Velocicraptor FUCKINGRAWR",
+      "record": {
+        "wins": 7,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 6,
-            "losses": 4
-          },
-          "score": 1985.4
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Incredible Bulk",
-          "record": {
-            "wins": 4,
-            "losses": 6
-          },
-          "score": 2442.7
-        }
-      }
-    ],
+      "score": 2638.1
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Your screwed, I'm Angerer",
+      "record": {
+        "wins": 4,
+        "losses": 6
+      },
+      "score": 2118.5
+    },
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "The Next Golf Cart Bandit",
+      "record": {
+        "wins": 5,
+        "losses": 5
+      },
+      "score": 2440.4
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Big Upside",
+      "record": {
+        "wins": 7,
+        "losses": 3
+      },
+      "score": 2387.7
+    },
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 5,
+        "losses": 5
+      },
+      "score": 2962.2
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 7,
+        "losses": 3
+      },
+      "score": 2616.1
+    },
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Whatchu Talkin'  'Bout Hillis",
+      "record": {
+        "wins": 3,
+        "losses": 7
+      },
+      "score": 2399.4
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "On Side Boob Kicks",
+      "record": {
+        "wins": 5,
+        "losses": 5
+      },
+      "score": 1439.7
+    },
     "tags": [
       "WEEK_10",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week11": {
-    "id": 11,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Big Upside",
-          "record": {
-            "wins": 7,
-            "losses": 4
-          },
-          "score": 3001.7
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "Velocicraptor FUCKINGRAWR",
-          "record": {
-            "wins": 8,
-            "losses": 3
-          },
-          "score": 1743.7
-        }
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Little Lebowski Urban Achievers",
+      "record": {
+        "wins": 4,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Your screwed, I'm Angerer",
-          "record": {
-            "wins": 5,
-            "losses": 6
-          },
-          "score": 2126.3
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Incredible Bulk",
-          "record": {
-            "wins": 4,
-            "losses": 7
-          },
-          "score": 2505.2
-        }
+      "score": 2120.3
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "TLOEI Champion",
+      "record": {
+        "wins": 3,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 6,
-            "losses": 5
-          },
-          "score": 2254.7
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "The Next Golf Cart Bandit",
-          "record": {
-            "wins": 5,
-            "losses": 6
-          },
-          "score": 2270.8
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 7,
-            "losses": 4
-          },
-          "score": 2094.3
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Whatchu Talkin'  'Bout Hillis",
-          "record": {
-            "wins": 4,
-            "losses": 7
-          },
-          "score": 1957.4
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "On Side Boob Kicks",
-          "record": {
-            "wins": 5,
-            "losses": 6
-          },
-          "score": 2201.2
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Little Lebowski Urban Achievers",
-          "record": {
-            "wins": 5,
-            "losses": 6
-          },
-          "score": 1972.4
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "TLOEI Champion",
-          "record": {
-            "wins": 3,
-            "losses": 8
-          },
-          "score": 2129.1
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 7,
-            "losses": 4
-          },
-          "score": 1769.3
-        }
-      }
-    ],
+      "score": 2661.9
+    },
     "tags": [
-      "WEEK_11",
-      "REGULAR_SEASON"
+      "WEEK_10"
     ]
   },
-  "week12": {
-    "id": 12,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "Velocicraptor FUCKINGRAWR",
-          "record": {
-            "wins": 8,
-            "losses": 4
-          },
-          "score": 2974.4
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 8,
-            "losses": 4
-          },
-          "score": 2177.2
-        }
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 6,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Little Lebowski Urban Achievers",
-          "record": {
-            "wins": 5,
-            "losses": 7
-          },
-          "score": 2311.2
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "The Next Golf Cart Bandit",
-          "record": {
-            "wins": 6,
-            "losses": 6
-          },
-          "score": 2295.1
-        }
+      "score": 1985.4
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Incredible Bulk",
+      "record": {
+        "wins": 4,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Whatchu Talkin'  'Bout Hillis",
-          "record": {
-            "wins": 5,
-            "losses": 7
-          },
-          "score": 1673.2
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Incredible Bulk",
-          "record": {
-            "wins": 4,
-            "losses": 8
-          },
-          "score": 2307.7
-        }
+      "score": 2442.7
+    },
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Big Upside",
+      "record": {
+        "wins": 7,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 7,
-            "losses": 5
-          },
-          "score": 1802.6
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "TLOEI Champion",
-          "record": {
-            "wins": 3,
-            "losses": 9
-          },
-          "score": 2731.3
-        }
+      "score": 3001.7
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Velocicraptor FUCKINGRAWR",
+      "record": {
+        "wins": 8,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "On Side Boob Kicks",
-          "record": {
-            "wins": 5,
-            "losses": 7
-          },
-          "score": 2635.9
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 8,
-            "losses": 4
-          },
-          "score": 2346
-        }
+      "score": 1743.7
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Your screwed, I'm Angerer",
+      "record": {
+        "wins": 5,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Your screwed, I'm Angerer",
-          "record": {
-            "wins": 6,
-            "losses": 6
-          },
-          "score": 2122.7
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Big Upside",
-          "record": {
-            "wins": 7,
-            "losses": 5
-          },
-          "score": 2635.7
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
-      }
-    ],
+      "score": 2126.3
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Incredible Bulk",
+      "record": {
+        "wins": 4,
+        "losses": 7
+      },
+      "score": 2505.2
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 6,
+        "losses": 5
+      },
+      "score": 2254.7
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "The Next Golf Cart Bandit",
+      "record": {
+        "wins": 5,
+        "losses": 6
+      },
+      "score": 2270.8
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 7,
+        "losses": 4
+      },
+      "score": 2094.3
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Whatchu Talkin'  'Bout Hillis",
+      "record": {
+        "wins": 4,
+        "losses": 7
+      },
+      "score": 1957.4
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "On Side Boob Kicks",
+      "record": {
+        "wins": 5,
+        "losses": 6
+      },
+      "score": 2201.2
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Little Lebowski Urban Achievers",
+      "record": {
+        "wins": 5,
+        "losses": 6
+      },
+      "score": 1972.4
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "TLOEI Champion",
+      "record": {
+        "wins": 3,
+        "losses": 8
+      },
+      "score": 2129.1
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 7,
+        "losses": 4
+      },
+      "score": 1769.3
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Velocicraptor FUCKINGRAWR",
+      "record": {
+        "wins": 8,
+        "losses": 4
+      },
+      "score": 2974.4
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 8,
+        "losses": 4
+      },
+      "score": 2177.2
+    },
+    "tags": [
+      "WEEK_12"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Little Lebowski Urban Achievers",
+      "record": {
+        "wins": 5,
+        "losses": 7
+      },
+      "score": 2311.2
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "The Next Golf Cart Bandit",
+      "record": {
+        "wins": 6,
+        "losses": 6
+      },
+      "score": 2295.1
+    },
+    "tags": [
+      "WEEK_12"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Whatchu Talkin'  'Bout Hillis",
+      "record": {
+        "wins": 5,
+        "losses": 7
+      },
+      "score": 1673.2
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Incredible Bulk",
+      "record": {
+        "wins": 4,
+        "losses": 8
+      },
+      "score": 2307.7
+    },
+    "tags": [
+      "WEEK_12"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 7,
+        "losses": 5
+      },
+      "score": 1802.6
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "TLOEI Champion",
+      "record": {
+        "wins": 3,
+        "losses": 9
+      },
+      "score": 2731.3
+    },
+    "tags": [
+      "WEEK_12"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "On Side Boob Kicks",
+      "record": {
+        "wins": 5,
+        "losses": 7
+      },
+      "score": 2635.9
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 8,
+        "losses": 4
+      },
+      "score": 2346
+    },
+    "tags": [
+      "WEEK_12"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Your screwed, I'm Angerer",
+      "record": {
+        "wins": 6,
+        "losses": 6
+      },
+      "score": 2122.7
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Big Upside",
+      "record": {
+        "wins": 7,
+        "losses": 5
+      },
+      "score": 2635.7
+    },
     "tags": [
       "WEEK_12",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week13": {
-    "id": 13,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Little Lebowski Urban Achievers",
-          "record": {
-            "wins": 6,
-            "losses": 7
-          },
-          "score": 2451.2
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "Velocicraptor FUCKINGRAWR",
-          "record": {
-            "wins": 8,
-            "losses": 5
-          },
-          "score": 2886
-        }
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Little Lebowski Urban Achievers",
+      "record": {
+        "wins": 6,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 8,
-            "losses": 5
-          },
-          "score": 2348.2
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Whatchu Talkin'  'Bout Hillis",
-          "record": {
-            "wins": 5,
-            "losses": 8
-          },
-          "score": 2798.9
-        }
+      "score": 2451.2
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Velocicraptor FUCKINGRAWR",
+      "record": {
+        "wins": 8,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Your screwed, I'm Angerer",
-          "record": {
-            "wins": 6,
-            "losses": 7
-          },
-          "score": 2461
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "On Side Boob Kicks",
-          "record": {
-            "wins": 6,
-            "losses": 7
-          },
-          "score": 2089.5
-        }
+      "score": 2886
+    },
+    "tags": [
+      "WEEK_13"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 8,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "The Next Golf Cart Bandit",
-          "record": {
-            "wins": 6,
-            "losses": 7
-          },
-          "score": 2360.5
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 9,
-            "losses": 4
-          },
-          "score": 2341.9
-        }
+      "score": 2348.2
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Whatchu Talkin'  'Bout Hillis",
+      "record": {
+        "wins": 5,
+        "losses": 8
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "TLOEI Champion",
-          "record": {
-            "wins": 4,
-            "losses": 9
-          },
-          "score": 2120.8
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Incredible Bulk",
-          "record": {
-            "wins": 4,
-            "losses": 9
-          },
-          "score": 2204.4
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2798.9
+    },
+    "tags": [
+      "WEEK_13"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Your screwed, I'm Angerer",
+      "record": {
+        "wins": 6,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Big Upside",
-          "record": {
-            "wins": 8,
-            "losses": 5
-          },
-          "score": 2330
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 8,
-            "losses": 5
-          },
-          "score": 2731.3
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
-      }
-    ],
+      "score": 2461
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "On Side Boob Kicks",
+      "record": {
+        "wins": 6,
+        "losses": 7
+      },
+      "score": 2089.5
+    },
+    "tags": [
+      "WEEK_13"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "The Next Golf Cart Bandit",
+      "record": {
+        "wins": 6,
+        "losses": 7
+      },
+      "score": 2360.5
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 9,
+        "losses": 4
+      },
+      "score": 2341.9
+    },
+    "tags": [
+      "WEEK_13"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "TLOEI Champion",
+      "record": {
+        "wins": 4,
+        "losses": 9
+      },
+      "score": 2120.8
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Incredible Bulk",
+      "record": {
+        "wins": 4,
+        "losses": 9
+      },
+      "score": 2204.4
+    },
     "tags": [
       "WEEK_13",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week14": {
-    "id": 14,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "On Side Boob Kicks",
-          "record": {
-            "wins": 7,
-            "losses": 7
-          },
-          "score": 2854.6,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_8"
-          ]
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 9,
-            "losses": 5
-          },
-          "score": 2263.5,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_1"
-          ]
-        }
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Big Upside",
+      "record": {
+        "wins": 8,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Big Upside",
-          "record": {
-            "wins": 9,
-            "losses": 5
-          },
-          "score": 2402.9,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_5"
-          ]
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "The Next Golf Cart Bandit",
-          "record": {
-            "wins": 6,
-            "losses": 8
-          },
-          "score": 2301.3,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_4"
-          ]
-        }
+      "score": 2330
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 8,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 8,
-            "losses": 6
-          },
-          "score": 2759.3,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_6"
-          ]
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "Velocicraptor FUCKINGRAWR",
-          "record": {
-            "wins": 9,
-            "losses": 5
-          },
-          "score": 2964.5,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_3"
-          ]
-        }
+      "score": 2731.3
+    },
+    "tags": [
+      "WEEK_13",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "On Side Boob Kicks",
+      "record": {
+        "wins": 7,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Urban Achievers",
-          "record": {
-            "wins": 7,
-            "losses": 7
-          },
-          "score": 2363,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_7"
-          ]
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 8,
-            "losses": 6
-          },
-          "score": 1694.5,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_2"
-          ]
-        }
+      "score": 2854.6,
+      "tags": [
+        "WINNER",
+        "SEED_8"
+      ]
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 9,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "'Bout Hillis",
-          "record": {
-            "wins": 5,
-            "losses": 9
-          },
-          "score": 2086,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_10"
-          ]
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Your screwed, I'm Angerer",
-          "record": {
-            "wins": 7,
-            "losses": 7
-          },
-          "score": 2792.2,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_9"
-          ]
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Incredible Bulk",
-          "record": {
-            "wins": 5,
-            "losses": 9
-          },
-          "score": 2257.4,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_12"
-          ]
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "TLOEI Champion",
-          "record": {
-            "wins": 4,
-            "losses": 10
-          },
-          "score": 2036,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_11"
-          ]
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
-      }
-    ],
+      "score": 2263.5,
+      "tags": [
+        "LOSER",
+        "SEED_1"
+      ]
+    },
     "tags": [
       "WEEK_14",
-      "PLAYOFF_ROUND_1"
-    ],
-    "playoffRound": 1
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
   },
-  "week15": {
-    "id": 15,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "On Side Boob Kicks",
-          "record": {
-            "wins": 7,
-            "losses": 8
-          },
-          "score": 2144.2,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Big Upside",
-          "record": {
-            "wins": 10,
-            "losses": 5
-          },
-          "score": 2331.9,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        }
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Big Upside",
+      "record": {
+        "wins": 9,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Urban Achievers",
-          "record": {
-            "wins": 7,
-            "losses": 8
-          },
-          "score": 2273,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "Velocicraptor FUCKINGRAWR",
-          "record": {
-            "wins": 10,
-            "losses": 5
-          },
-          "score": 2305.7,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        }
+      "score": 2402.9,
+      "tags": [
+        "WINNER",
+        "SEED_5"
+      ]
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "The Next Golf Cart Bandit",
+      "record": {
+        "wins": 6,
+        "losses": 8
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 9,
-            "losses": 6
-          },
-          "score": 2532,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 9,
-            "losses": 6
-          },
-          "score": 2282.5,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        }
+      "score": 2301.3,
+      "tags": [
+        "LOSER",
+        "SEED_4"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 8,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 9,
-            "losses": 6
-          },
-          "score": 2602.1,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "The Next Golf Cart Bandit",
-          "record": {
-            "wins": 6,
-            "losses": 9
-          },
-          "score": 2296.3,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        }
+      "score": 2759.3,
+      "tags": [
+        "LOSER",
+        "SEED_6"
+      ]
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Velocicraptor FUCKINGRAWR",
+      "record": {
+        "wins": 9,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Incredible Bulk",
-          "record": {
-            "wins": 6,
-            "losses": 9
-          },
-          "score": 2244.1,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Your screwed, I'm Angerer",
-          "record": {
-            "wins": 7,
-            "losses": 8
-          },
-          "score": 2178.8,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        }
+      "score": 2964.5,
+      "tags": [
+        "WINNER",
+        "SEED_3"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Urban Achievers",
+      "record": {
+        "wins": 7,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "TLOEI Champion",
-          "record": {
-            "wins": 4,
-            "losses": 11
-          },
-          "score": 1653,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "'Bout Hillis",
-          "record": {
-            "wins": 6,
-            "losses": 9
-          },
-          "score": 2425,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        }
-      }
-    ],
+      "score": 2363,
+      "tags": [
+        "WINNER",
+        "SEED_7"
+      ]
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 8,
+        "losses": 6
+      },
+      "score": 1694.5,
+      "tags": [
+        "LOSER",
+        "SEED_2"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "'Bout Hillis",
+      "record": {
+        "wins": 5,
+        "losses": 9
+      },
+      "score": 2086,
+      "tags": [
+        "LOSER",
+        "SEED_10"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Your screwed, I'm Angerer",
+      "record": {
+        "wins": 7,
+        "losses": 7
+      },
+      "score": 2792.2,
+      "tags": [
+        "WINNER",
+        "SEED_9"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Incredible Bulk",
+      "record": {
+        "wins": 5,
+        "losses": 9
+      },
+      "score": 2257.4,
+      "tags": [
+        "WINNER",
+        "SEED_12"
+      ]
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "TLOEI Champion",
+      "record": {
+        "wins": 4,
+        "losses": 10
+      },
+      "score": 2036,
+      "tags": [
+        "LOSER",
+        "SEED_11"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "DIVISIONAL_MATCHUP",
+      "PLAYOFF_ROUND_1",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "On Side Boob Kicks",
+      "record": {
+        "wins": 7,
+        "losses": 8
+      },
+      "score": 2144.2,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Big Upside",
+      "record": {
+        "wins": 10,
+        "losses": 5
+      },
+      "score": 2331.9,
+      "tags": [
+        "WINNER"
+      ]
+    },
     "tags": [
       "WEEK_15",
-      "PLAYOFF_ROUND_2"
-    ],
-    "playoffRound": 2
+      "PLAYOFF_ROUND_2",
+      "PLAYOFF",
+      "PLAYOFF_SEMIFINAL"
+    ]
   },
-  "week16": {
-    "id": 16,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Big Upside",
-          "record": {
-            "wins": 11,
-            "losses": 5
-          },
-          "score": 2542.7,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_CHAMPIONSHIP",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "CHAMPION",
-            "PLACE_1"
-          ]
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "Velocicraptor FUCKINGRAWR",
-          "record": {
-            "wins": 10,
-            "losses": 6
-          },
-          "score": 1919.9,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_CHAMPIONSHIP",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "RUNNER_UP",
-            "PLACE_2"
-          ]
-        }
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Urban Achievers",
+      "record": {
+        "wins": 7,
+        "losses": 8
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "On Side Boob Kicks",
-          "record": {
-            "wins": 8,
-            "losses": 8
-          },
-          "score": 1995.5,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "PLACE_3"
-          ]
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Urban Achievers",
-          "record": {
-            "wins": 7,
-            "losses": 9
-          },
-          "score": 1956.5,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "PLACE_4"
-          ]
-        }
+      "score": 2273,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Velocicraptor FUCKINGRAWR",
+      "record": {
+        "wins": 10,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 10,
-            "losses": 6
-          },
-          "score": 2734.8,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "PLACE_5"
-          ]
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 9,
-            "losses": 7
-          },
-          "score": 1993.7,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "PLACE_6"
-          ]
-        }
+      "score": 2305.7,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2",
+      "PLAYOFF",
+      "PLAYOFF_SEMIFINAL"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 9,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "The Next Golf Cart Bandit",
-          "record": {
-            "wins": 7,
-            "losses": 9
-          },
-          "score": 2455.9,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "PLACE_7"
-          ]
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 9,
-            "losses": 7
-          },
-          "score": 2239.4,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "PLACE_8"
-          ]
-        }
+      "score": 2532,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 9,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Incredible Bulk",
-          "record": {
-            "wins": 7,
-            "losses": 9
-          },
-          "score": 2136.1,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "PLACE_9"
-          ]
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "'Bout Hillis",
-          "record": {
-            "wins": 6,
-            "losses": 10
-          },
-          "score": 2096.2,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "PLACE_10"
-          ]
-        }
+      "score": 2282.5,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_SEMIFINAL_THIRD"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 9,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "TLOEI Champion",
-          "record": {
-            "wins": 4,
-            "losses": 12
-          },
-          "score": 2155.2,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
-            "PLAYOFF_ROUND_3",
-            "CONSOLATION_LAST_PLACE",
-            "LOSER",
-            "PLACE_12",
-            "LAST_PLACE"
-          ]
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Your screwed, I'm Angerer",
-          "record": {
-            "wins": 8,
-            "losses": 8
-          },
-          "score": 2298.5,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
-            "PLAYOFF_ROUND_3",
-            "CONSOLATION_LAST_PLACE",
-            "WINNER",
-            "PLACE_11"
-          ]
-        }
-      }
-    ],
+      "score": 2602.1,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "The Next Golf Cart Bandit",
+      "record": {
+        "wins": 6,
+        "losses": 9
+      },
+      "score": 2296.3,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_SEMIFINAL_THIRD"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Incredible Bulk",
+      "record": {
+        "wins": 6,
+        "losses": 9
+      },
+      "score": 2244.1,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Your screwed, I'm Angerer",
+      "record": {
+        "wins": 7,
+        "losses": 8
+      },
+      "score": 2178.8,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_SEMIFINAL"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "TLOEI Champion",
+      "record": {
+        "wins": 4,
+        "losses": 11
+      },
+      "score": 1653,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "'Bout Hillis",
+      "record": {
+        "wins": 6,
+        "losses": 9
+      },
+      "score": 2425,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_SEMIFINAL"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Big Upside",
+      "record": {
+        "wins": 11,
+        "losses": 5
+      },
+      "score": 2542.7,
+      "tags": [
+        "WINNER",
+        "CHAMPION",
+        "PLACE_1"
+      ]
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Velocicraptor FUCKINGRAWR",
+      "record": {
+        "wins": 10,
+        "losses": 6
+      },
+      "score": 1919.9,
+      "tags": [
+        "LOSER",
+        "RUNNER_UP",
+        "PLACE_2"
+      ]
+    },
     "tags": [
       "WEEK_16",
-      "PLAYOFF_ROUND_3"
-    ],
-    "playoffRound": 3
+      "PLAYOFF_ROUND_3",
+      "PLAYOFF",
+      "PLAYOFF_CHAMPIONSHIP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "On Side Boob Kicks",
+      "record": {
+        "wins": 8,
+        "losses": 8
+      },
+      "score": 1995.5,
+      "tags": [
+        "WINNER",
+        "PLACE_3"
+      ]
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Urban Achievers",
+      "record": {
+        "wins": 7,
+        "losses": 9
+      },
+      "score": 1956.5,
+      "tags": [
+        "LOSER",
+        "PLACE_4"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 10,
+        "losses": 6
+      },
+      "score": 2734.8,
+      "tags": [
+        "WINNER",
+        "PLACE_5"
+      ]
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 9,
+        "losses": 7
+      },
+      "score": 1993.7,
+      "tags": [
+        "LOSER",
+        "PLACE_6"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "The Next Golf Cart Bandit",
+      "record": {
+        "wins": 7,
+        "losses": 9
+      },
+      "score": 2455.9,
+      "tags": [
+        "WINNER",
+        "PLACE_7"
+      ]
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 9,
+        "losses": 7
+      },
+      "score": 2239.4,
+      "tags": [
+        "LOSER",
+        "PLACE_8"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Incredible Bulk",
+      "record": {
+        "wins": 7,
+        "losses": 9
+      },
+      "score": 2136.1,
+      "tags": [
+        "WINNER",
+        "PLACE_9"
+      ]
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "'Bout Hillis",
+      "record": {
+        "wins": 6,
+        "losses": 10
+      },
+      "score": 2096.2,
+      "tags": [
+        "LOSER",
+        "PLACE_10"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "TLOEI Champion",
+      "record": {
+        "wins": 4,
+        "losses": 12
+      },
+      "score": 2155.2,
+      "tags": [
+        "LOSER",
+        "PLACE_12",
+        "LAST_PLACE"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Your screwed, I'm Angerer",
+      "record": {
+        "wins": 8,
+        "losses": 8
+      },
+      "score": 2298.5,
+      "tags": [
+        "WINNER",
+        "PLACE_11"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
+      "CONSOLATION_LAST_PLACE"
+    ]
   }
-}
+]

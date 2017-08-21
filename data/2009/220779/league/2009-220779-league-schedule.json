@@ -1,2371 +1,2419 @@
-{
-  "week1": {
-    "id": 1,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 3428.1
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "Team Whistle Tips",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 2139.1
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+[
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 0,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "League Doormat",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2934.9
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Peyton Is Makin It Wayne",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 2039.2
-        }
+      "score": 3428.1
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Team Whistle Tips",
+      "record": {
+        "wins": 1,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Powdered Toast Man",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 2108.2
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "TDs N Beer",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2327.6
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Team Fuck",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2291.4
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 2080.6
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 1556.2
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Tripple Threat",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 1989
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Loves Being Raped",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2803.4
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Whiskey Ditkas",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 2257.2
-        }
-      }
-    ],
+      "score": 2139.1
+    },
     "tags": [
       "WEEK_1",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week2": {
-    "id": 2,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "Team Whistle Tips",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 3084.6
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Peyton Is Makin It Wayne",
-          "record": {
-            "wins": 2,
-            "losses": 0
-          },
-          "score": 2487.8
-        }
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "League Doormat",
+      "record": {
+        "wins": 0,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "TDs N Beer",
-          "record": {
-            "wins": 0,
-            "losses": 2
-          },
-          "score": 2439.2
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 2,
-            "losses": 0
-          },
-          "score": 2199
-        }
+      "score": 2934.9
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Peyton Is Makin It Wayne",
+      "record": {
+        "wins": 1,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Tripple Threat",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 2366.6
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Whiskey Ditkas",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 2596.3
-        }
+      "score": 2039.2
+    },
+    "tags": [
+      "WEEK_1"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Powdered Toast Man",
+      "record": {
+        "wins": 1,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 0,
-            "losses": 2
-          },
-          "score": 2108.1
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "League Doormat",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 1980.5
-        }
+      "score": 2108.2
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "TDs N Beer",
+      "record": {
+        "wins": 0,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Powdered Toast Man",
-          "record": {
-            "wins": 2,
-            "losses": 0
-          },
-          "score": 2309.8
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "Team Fuck",
-          "record": {
-            "wins": 0,
-            "losses": 2
-          },
-          "score": 2378.2
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2327.6
+    },
+    "tags": [
+      "WEEK_1"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Team Fuck",
+      "record": {
+        "wins": 0,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 2,
-            "losses": 0
-          },
-          "score": 2041.3
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Loves Being Raped",
-          "record": {
-            "wins": 0,
-            "losses": 2
-          },
-          "score": 2679.5
-        }
-      }
-    ],
+      "score": 2291.4
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 1,
+        "losses": 0
+      },
+      "score": 2080.6
+    },
+    "tags": [
+      "WEEK_1"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 1,
+        "losses": 0
+      },
+      "score": 1556.2
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Tripple Threat",
+      "record": {
+        "wins": 0,
+        "losses": 1
+      },
+      "score": 1989
+    },
+    "tags": [
+      "WEEK_1"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Loves Being Raped",
+      "record": {
+        "wins": 0,
+        "losses": 1
+      },
+      "score": 2803.4
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Whiskey Ditkas",
+      "record": {
+        "wins": 1,
+        "losses": 0
+      },
+      "score": 2257.2
+    },
+    "tags": [
+      "WEEK_1"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Team Whistle Tips",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 3084.6
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Peyton Is Makin It Wayne",
+      "record": {
+        "wins": 2,
+        "losses": 0
+      },
+      "score": 2487.8
+    },
+    "tags": [
+      "WEEK_2"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "TDs N Beer",
+      "record": {
+        "wins": 0,
+        "losses": 2
+      },
+      "score": 2439.2
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 2,
+        "losses": 0
+      },
+      "score": 2199
+    },
+    "tags": [
+      "WEEK_2"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Tripple Threat",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 2366.6
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Whiskey Ditkas",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 2596.3
+    },
+    "tags": [
+      "WEEK_2"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 0,
+        "losses": 2
+      },
+      "score": 2108.1
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "League Doormat",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 1980.5
+    },
+    "tags": [
+      "WEEK_2"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Powdered Toast Man",
+      "record": {
+        "wins": 2,
+        "losses": 0
+      },
+      "score": 2309.8
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "Team Fuck",
+      "record": {
+        "wins": 0,
+        "losses": 2
+      },
+      "score": 2378.2
+    },
     "tags": [
       "WEEK_2",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week3": {
-    "id": 3,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "League Doormat",
-          "record": {
-            "wins": 1,
-            "losses": 2
-          },
-          "score": 2370.5
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "Team Whistle Tips",
-          "record": {
-            "wins": 2,
-            "losses": 1
-          },
-          "score": 1974.2
-        }
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 2,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Team Fuck",
-          "record": {
-            "wins": 0,
-            "losses": 3
-          },
-          "score": 1977.8
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "TDs N Beer",
-          "record": {
-            "wins": 1,
-            "losses": 2
-          },
-          "score": 1804.1
-        }
+      "score": 2041.3
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Loves Being Raped",
+      "record": {
+        "wins": 0,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Loves Being Raped",
-          "record": {
-            "wins": 0,
-            "losses": 3
-          },
-          "score": 2491.1
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Tripple Threat",
-          "record": {
-            "wins": 2,
-            "losses": 1
-          },
-          "score": 1789.5
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2679.5
+    },
+    "tags": [
+      "WEEK_2"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "League Doormat",
+      "record": {
+        "wins": 1,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Peyton Is Makin It Wayne",
-          "record": {
-            "wins": 3,
-            "losses": 0
-          },
-          "score": 2430.8
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 0,
-            "losses": 3
-          },
-          "score": 3128.7
-        }
+      "score": 2370.5
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Team Whistle Tips",
+      "record": {
+        "wins": 2,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 2,
-            "losses": 1
-          },
-          "score": 2532.2
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Powdered Toast Man",
-          "record": {
-            "wins": 3,
-            "losses": 0
-          },
-          "score": 2021.1
-        }
+      "score": 1974.2
+    },
+    "tags": [
+      "WEEK_3"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Team Fuck",
+      "record": {
+        "wins": 0,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Whiskey Ditkas",
-          "record": {
-            "wins": 2,
-            "losses": 1
-          },
-          "score": 2022.4
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 2,
-            "losses": 1
-          },
-          "score": 2288.5
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
-      }
-    ],
+      "score": 1977.8
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "TDs N Beer",
+      "record": {
+        "wins": 1,
+        "losses": 2
+      },
+      "score": 1804.1
+    },
+    "tags": [
+      "WEEK_3"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Loves Being Raped",
+      "record": {
+        "wins": 0,
+        "losses": 3
+      },
+      "score": 2491.1
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Tripple Threat",
+      "record": {
+        "wins": 2,
+        "losses": 1
+      },
+      "score": 1789.5
+    },
     "tags": [
       "WEEK_3",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week4": {
-    "id": 4,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "Team Whistle Tips",
-          "record": {
-            "wins": 2,
-            "losses": 2
-          },
-          "score": 2447.9
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "TDs N Beer",
-          "record": {
-            "wins": 2,
-            "losses": 2
-          },
-          "score": 2308.7
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Peyton Is Makin It Wayne",
+      "record": {
+        "wins": 3,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "League Doormat",
-          "record": {
-            "wins": 1,
-            "losses": 3
-          },
-          "score": 2432.8
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Tripple Threat",
-          "record": {
-            "wins": 3,
-            "losses": 1
-          },
-          "score": 2179
-        }
+      "score": 2430.8
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 0,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Team Fuck",
-          "record": {
-            "wins": 0,
-            "losses": 4
-          },
-          "score": 2516.5
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Whiskey Ditkas",
-          "record": {
-            "wins": 3,
-            "losses": 1
-          },
-          "score": 1864.5
-        }
+      "score": 3128.7
+    },
+    "tags": [
+      "WEEK_3"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 2,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Peyton Is Makin It Wayne",
-          "record": {
-            "wins": 4,
-            "losses": 0
-          },
-          "score": 1836.4
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Loves Being Raped",
-          "record": {
-            "wins": 0,
-            "losses": 4
-          },
-          "score": 2843.4
-        }
+      "score": 2532.2
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Powdered Toast Man",
+      "record": {
+        "wins": 3,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 0,
-            "losses": 4
-          },
-          "score": 2491
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 3,
-            "losses": 1
-          },
-          "score": 2215.9
-        }
+      "score": 2021.1
+    },
+    "tags": [
+      "WEEK_3"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Whiskey Ditkas",
+      "record": {
+        "wins": 2,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Powdered Toast Man",
-          "record": {
-            "wins": 4,
-            "losses": 0
-          },
-          "score": 1918.4
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 2,
-            "losses": 2
-          },
-          "score": 2271.8
-        }
-      }
-    ],
+      "score": 2022.4
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 2,
+        "losses": 1
+      },
+      "score": 2288.5
+    },
+    "tags": [
+      "WEEK_3",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Team Whistle Tips",
+      "record": {
+        "wins": 2,
+        "losses": 2
+      },
+      "score": 2447.9
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "TDs N Beer",
+      "record": {
+        "wins": 2,
+        "losses": 2
+      },
+      "score": 2308.7
+    },
     "tags": [
       "WEEK_4",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week5": {
-    "id": 5,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Powdered Toast Man",
-          "record": {
-            "wins": 4,
-            "losses": 1
-          },
-          "score": 2272.4
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "Team Whistle Tips",
-          "record": {
-            "wins": 3,
-            "losses": 2
-          },
-          "score": 1808.2
-        }
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "League Doormat",
+      "record": {
+        "wins": 1,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Whiskey Ditkas",
-          "record": {
-            "wins": 4,
-            "losses": 1
-          },
-          "score": 2474.6
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "League Doormat",
-          "record": {
-            "wins": 1,
-            "losses": 4
-          },
-          "score": 2864.2
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2432.8
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Tripple Threat",
+      "record": {
+        "wins": 3,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Loves Being Raped",
-          "record": {
-            "wins": 0,
-            "losses": 5
-          },
-          "score": 2503
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 4,
-            "losses": 1
-          },
-          "score": 2119.8
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2179
+    },
+    "tags": [
+      "WEEK_4"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Team Fuck",
+      "record": {
+        "wins": 0,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "TDs N Beer",
-          "record": {
-            "wins": 2,
-            "losses": 3
-          },
-          "score": 2573.5
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Peyton Is Makin It Wayne",
-          "record": {
-            "wins": 5,
-            "losses": 0
-          },
-          "score": 1393.2
-        }
+      "score": 2516.5
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Whiskey Ditkas",
+      "record": {
+        "wins": 3,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Tripple Threat",
-          "record": {
-            "wins": 3,
-            "losses": 2
-          },
-          "score": 2636.9
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "Team Fuck",
-          "record": {
-            "wins": 1,
-            "losses": 4
-          },
-          "score": 2285
-        }
+      "score": 1864.5
+    },
+    "tags": [
+      "WEEK_4"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Peyton Is Makin It Wayne",
+      "record": {
+        "wins": 4,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 3,
-            "losses": 2
-          },
-          "score": 1545.1
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 0,
-            "losses": 5
-          },
-          "score": 2064
-        }
-      }
-    ],
+      "score": 1836.4
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Loves Being Raped",
+      "record": {
+        "wins": 0,
+        "losses": 4
+      },
+      "score": 2843.4
+    },
+    "tags": [
+      "WEEK_4"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 0,
+        "losses": 4
+      },
+      "score": 2491
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 3,
+        "losses": 1
+      },
+      "score": 2215.9
+    },
+    "tags": [
+      "WEEK_4"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Powdered Toast Man",
+      "record": {
+        "wins": 4,
+        "losses": 0
+      },
+      "score": 1918.4
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 2,
+        "losses": 2
+      },
+      "score": 2271.8
+    },
+    "tags": [
+      "WEEK_4"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Powdered Toast Man",
+      "record": {
+        "wins": 4,
+        "losses": 1
+      },
+      "score": 2272.4
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Team Whistle Tips",
+      "record": {
+        "wins": 3,
+        "losses": 2
+      },
+      "score": 1808.2
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Whiskey Ditkas",
+      "record": {
+        "wins": 4,
+        "losses": 1
+      },
+      "score": 2474.6
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "League Doormat",
+      "record": {
+        "wins": 1,
+        "losses": 4
+      },
+      "score": 2864.2
+    },
     "tags": [
       "WEEK_5",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week6": {
-    "id": 6,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "Team Whistle Tips",
-          "record": {
-            "wins": 4,
-            "losses": 2
-          },
-          "score": 2722
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 4,
-            "losses": 2
-          },
-          "score": 2738.4
-        }
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Loves Being Raped",
+      "record": {
+        "wins": 0,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "League Doormat",
-          "record": {
-            "wins": 1,
-            "losses": 5
-          },
-          "score": 2868.1
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 4,
-            "losses": 2
-          },
-          "score": 2459.8
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2503
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 4,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Team Fuck",
-          "record": {
-            "wins": 2,
-            "losses": 4
-          },
-          "score": 2532
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Loves Being Raped",
-          "record": {
-            "wins": 0,
-            "losses": 6
-          },
-          "score": 2623.5
-        }
+      "score": 2119.8
+    },
+    "tags": [
+      "WEEK_5",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "TDs N Beer",
+      "record": {
+        "wins": 2,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Peyton Is Makin It Wayne",
-          "record": {
-            "wins": 6,
-            "losses": 0
-          },
-          "score": 1996.6
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Powdered Toast Man",
-          "record": {
-            "wins": 4,
-            "losses": 2
-          },
-          "score": 2013.8
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2573.5
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Peyton Is Makin It Wayne",
+      "record": {
+        "wins": 5,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "TDs N Beer",
-          "record": {
-            "wins": 2,
-            "losses": 4
-          },
-          "score": 2811.1
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Whiskey Ditkas",
-          "record": {
-            "wins": 5,
-            "losses": 1
-          },
-          "score": 2250.7
-        }
+      "score": 1393.2
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Tripple Threat",
+      "record": {
+        "wins": 3,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 1,
-            "losses": 5
-          },
-          "score": 2378.6
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Tripple Threat",
-          "record": {
-            "wins": 3,
-            "losses": 3
-          },
-          "score": 2515.4
-        }
-      }
-    ],
+      "score": 2636.9
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "Team Fuck",
+      "record": {
+        "wins": 1,
+        "losses": 4
+      },
+      "score": 2285
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 3,
+        "losses": 2
+      },
+      "score": 1545.1
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 0,
+        "losses": 5
+      },
+      "score": 2064
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Team Whistle Tips",
+      "record": {
+        "wins": 4,
+        "losses": 2
+      },
+      "score": 2722
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 4,
+        "losses": 2
+      },
+      "score": 2738.4
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "League Doormat",
+      "record": {
+        "wins": 1,
+        "losses": 5
+      },
+      "score": 2868.1
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 4,
+        "losses": 2
+      },
+      "score": 2459.8
+    },
     "tags": [
       "WEEK_6",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week7": {
-    "id": 7,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Team Fuck",
-          "record": {
-            "wins": 2,
-            "losses": 5
-          },
-          "score": 2627.4
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "Team Whistle Tips",
-          "record": {
-            "wins": 5,
-            "losses": 2
-          },
-          "score": 2088.5
-        }
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Team Fuck",
+      "record": {
+        "wins": 2,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 4,
-            "losses": 3
-          },
-          "score": 2405.7
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Peyton Is Makin It Wayne",
-          "record": {
-            "wins": 7,
-            "losses": 0
-          },
-          "score": 2195.9
-        }
+      "score": 2532
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Loves Being Raped",
+      "record": {
+        "wins": 0,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Whiskey Ditkas",
-          "record": {
-            "wins": 6,
-            "losses": 1
-          },
-          "score": 2272.4
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 4,
-            "losses": 3
-          },
-          "score": 2505.6
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Tripple Threat",
-          "record": {
-            "wins": 3,
-            "losses": 4
-          },
-          "score": 2915.4
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Powdered Toast Man",
-          "record": {
-            "wins": 5,
-            "losses": 2
-          },
-          "score": 2085.6
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "TDs N Beer",
-          "record": {
-            "wins": 3,
-            "losses": 4
-          },
-          "score": 1962.5
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "League Doormat",
-          "record": {
-            "wins": 1,
-            "losses": 6
-          },
-          "score": 2329.4
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Loves Being Raped",
-          "record": {
-            "wins": 1,
-            "losses": 6
-          },
-          "score": 1860.8
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 1,
-            "losses": 6
-          },
-          "score": 2517.5
-        }
-      }
-    ],
+      "score": 2623.5
+    },
     "tags": [
-      "WEEK_7",
-      "REGULAR_SEASON"
+      "WEEK_6"
     ]
   },
-  "week8": {
-    "id": 8,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "Team Whistle Tips",
-          "record": {
-            "wins": 6,
-            "losses": 2
-          },
-          "score": 2039.5
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Tripple Threat",
-          "record": {
-            "wins": 3,
-            "losses": 5
-          },
-          "score": 2637.2
-        }
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Peyton Is Makin It Wayne",
+      "record": {
+        "wins": 6,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Peyton Is Makin It Wayne",
-          "record": {
-            "wins": 8,
-            "losses": 0
-          },
-          "score": 1631
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 4,
-            "losses": 4
-          },
-          "score": 2772.1
-        }
+      "score": 1996.6
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Powdered Toast Man",
+      "record": {
+        "wins": 4,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Team Fuck",
-          "record": {
-            "wins": 2,
-            "losses": 6
-          },
-          "score": 1941.8
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 5,
-            "losses": 3
-          },
-          "score": 1886.5
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 2,
-            "losses": 6
-          },
-          "score": 2229.1
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Whiskey Ditkas",
-          "record": {
-            "wins": 6,
-            "losses": 2
-          },
-          "score": 2999.4
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "League Doormat",
-          "record": {
-            "wins": 1,
-            "losses": 7
-          },
-          "score": 2457.3
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Powdered Toast Man",
-          "record": {
-            "wins": 6,
-            "losses": 2
-          },
-          "score": 1932
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "TDs N Beer",
-          "record": {
-            "wins": 3,
-            "losses": 5
-          },
-          "score": 1921.7
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Loves Being Raped",
-          "record": {
-            "wins": 2,
-            "losses": 6
-          },
-          "score": 1633.1
-        }
-      }
-    ],
+      "score": 2013.8
+    },
     "tags": [
-      "WEEK_8",
-      "REGULAR_SEASON"
+      "WEEK_6",
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week9": {
-    "id": 9,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 5,
-            "losses": 4
-          },
-          "score": 2155
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "Team Whistle Tips",
-          "record": {
-            "wins": 7,
-            "losses": 2
-          },
-          "score": 2096
-        }
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "TDs N Beer",
+      "record": {
+        "wins": 2,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Tripple Threat",
-          "record": {
-            "wins": 3,
-            "losses": 6
-          },
-          "score": 2480.7
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 5,
-            "losses": 4
-          },
-          "score": 2119.3
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2811.1
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Whiskey Ditkas",
+      "record": {
+        "wins": 5,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Whiskey Ditkas",
-          "record": {
-            "wins": 6,
-            "losses": 3
-          },
-          "score": 2640.4
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Peyton Is Makin It Wayne",
-          "record": {
-            "wins": 9,
-            "losses": 0
-          },
-          "score": 2604.2
-        }
+      "score": 2250.7
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 1,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Team Fuck",
-          "record": {
-            "wins": 3,
-            "losses": 6
-          },
-          "score": 2120
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "League Doormat",
-          "record": {
-            "wins": 1,
-            "losses": 8
-          },
-          "score": 2288.5
-        }
+      "score": 2378.6
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Tripple Threat",
+      "record": {
+        "wins": 3,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "TDs N Beer",
-          "record": {
-            "wins": 4,
-            "losses": 5
-          },
-          "score": 2614.4
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 2,
-            "losses": 7
-          },
-          "score": 2692.9
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2515.4
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Team Fuck",
+      "record": {
+        "wins": 2,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Loves Being Raped",
-          "record": {
-            "wins": 2,
-            "losses": 7
-          },
-          "score": 2643
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Powdered Toast Man",
-          "record": {
-            "wins": 7,
-            "losses": 2
-          },
-          "score": 1930.2
-        }
-      }
-    ],
+      "score": 2627.4
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Team Whistle Tips",
+      "record": {
+        "wins": 5,
+        "losses": 2
+      },
+      "score": 2088.5
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 4,
+        "losses": 3
+      },
+      "score": 2405.7
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Peyton Is Makin It Wayne",
+      "record": {
+        "wins": 7,
+        "losses": 0
+      },
+      "score": 2195.9
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Whiskey Ditkas",
+      "record": {
+        "wins": 6,
+        "losses": 1
+      },
+      "score": 2272.4
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 4,
+        "losses": 3
+      },
+      "score": 2505.6
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Tripple Threat",
+      "record": {
+        "wins": 3,
+        "losses": 4
+      },
+      "score": 2915.4
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Powdered Toast Man",
+      "record": {
+        "wins": 5,
+        "losses": 2
+      },
+      "score": 2085.6
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "TDs N Beer",
+      "record": {
+        "wins": 3,
+        "losses": 4
+      },
+      "score": 1962.5
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "League Doormat",
+      "record": {
+        "wins": 1,
+        "losses": 6
+      },
+      "score": 2329.4
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Loves Being Raped",
+      "record": {
+        "wins": 1,
+        "losses": 6
+      },
+      "score": 1860.8
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 1,
+        "losses": 6
+      },
+      "score": 2517.5
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Team Whistle Tips",
+      "record": {
+        "wins": 6,
+        "losses": 2
+      },
+      "score": 2039.5
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Tripple Threat",
+      "record": {
+        "wins": 3,
+        "losses": 5
+      },
+      "score": 2637.2
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Peyton Is Makin It Wayne",
+      "record": {
+        "wins": 8,
+        "losses": 0
+      },
+      "score": 1631
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 4,
+        "losses": 4
+      },
+      "score": 2772.1
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Team Fuck",
+      "record": {
+        "wins": 2,
+        "losses": 6
+      },
+      "score": 1941.8
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 5,
+        "losses": 3
+      },
+      "score": 1886.5
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 2,
+        "losses": 6
+      },
+      "score": 2229.1
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Whiskey Ditkas",
+      "record": {
+        "wins": 6,
+        "losses": 2
+      },
+      "score": 2999.4
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "League Doormat",
+      "record": {
+        "wins": 1,
+        "losses": 7
+      },
+      "score": 2457.3
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Powdered Toast Man",
+      "record": {
+        "wins": 6,
+        "losses": 2
+      },
+      "score": 1932
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "TDs N Beer",
+      "record": {
+        "wins": 3,
+        "losses": 5
+      },
+      "score": 1921.7
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Loves Being Raped",
+      "record": {
+        "wins": 2,
+        "losses": 6
+      },
+      "score": 1633.1
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 5,
+        "losses": 4
+      },
+      "score": 2155
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Team Whistle Tips",
+      "record": {
+        "wins": 7,
+        "losses": 2
+      },
+      "score": 2096
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Tripple Threat",
+      "record": {
+        "wins": 3,
+        "losses": 6
+      },
+      "score": 2480.7
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 5,
+        "losses": 4
+      },
+      "score": 2119.3
+    },
     "tags": [
       "WEEK_9",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week10": {
-    "id": 10,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "Team Whistle Tips",
-          "record": {
-            "wins": 7,
-            "losses": 3
-          },
-          "score": 2205.8
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Whiskey Ditkas",
-          "record": {
-            "wins": 7,
-            "losses": 3
-          },
-          "score": 2121.8
-        }
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Whiskey Ditkas",
+      "record": {
+        "wins": 6,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "League Doormat",
-          "record": {
-            "wins": 2,
-            "losses": 8
-          },
-          "score": 2308.9
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Loves Being Raped",
-          "record": {
-            "wins": 2,
-            "losses": 8
-          },
-          "score": 3205.6
-        }
+      "score": 2640.4
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Peyton Is Makin It Wayne",
+      "record": {
+        "wins": 9,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 6,
-            "losses": 4
-          },
-          "score": 2144.8
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 5,
-            "losses": 5
-          },
-          "score": 2180
-        }
+      "score": 2604.2
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Team Fuck",
+      "record": {
+        "wins": 3,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "TDs N Beer",
-          "record": {
-            "wins": 5,
-            "losses": 5
-          },
-          "score": 2280.4
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Tripple Threat",
-          "record": {
-            "wins": 3,
-            "losses": 7
-          },
-          "score": 2327.2
-        }
+      "score": 2120
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "League Doormat",
+      "record": {
+        "wins": 1,
+        "losses": 8
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Peyton Is Makin It Wayne",
-          "record": {
-            "wins": 10,
-            "losses": 0
-          },
-          "score": 2027.1
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "Team Fuck",
-          "record": {
-            "wins": 3,
-            "losses": 7
-          },
-          "score": 3213.3
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2288.5
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "TDs N Beer",
+      "record": {
+        "wins": 4,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 2,
-            "losses": 8
-          },
-          "score": 2720
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Powdered Toast Man",
-          "record": {
-            "wins": 8,
-            "losses": 2
-          },
-          "score": 2311.4
-        }
-      }
-    ],
+      "score": 2614.4
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 2,
+        "losses": 7
+      },
+      "score": 2692.9
+    },
+    "tags": [
+      "WEEK_9",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Loves Being Raped",
+      "record": {
+        "wins": 2,
+        "losses": 7
+      },
+      "score": 2643
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Powdered Toast Man",
+      "record": {
+        "wins": 7,
+        "losses": 2
+      },
+      "score": 1930.2
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Team Whistle Tips",
+      "record": {
+        "wins": 7,
+        "losses": 3
+      },
+      "score": 2205.8
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Whiskey Ditkas",
+      "record": {
+        "wins": 7,
+        "losses": 3
+      },
+      "score": 2121.8
+    },
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "League Doormat",
+      "record": {
+        "wins": 2,
+        "losses": 8
+      },
+      "score": 2308.9
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Loves Being Raped",
+      "record": {
+        "wins": 2,
+        "losses": 8
+      },
+      "score": 3205.6
+    },
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 6,
+        "losses": 4
+      },
+      "score": 2144.8
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 5,
+        "losses": 5
+      },
+      "score": 2180
+    },
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "TDs N Beer",
+      "record": {
+        "wins": 5,
+        "losses": 5
+      },
+      "score": 2280.4
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Tripple Threat",
+      "record": {
+        "wins": 3,
+        "losses": 7
+      },
+      "score": 2327.2
+    },
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Peyton Is Makin It Wayne",
+      "record": {
+        "wins": 10,
+        "losses": 0
+      },
+      "score": 2027.1
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "Team Fuck",
+      "record": {
+        "wins": 3,
+        "losses": 7
+      },
+      "score": 3213.3
+    },
     "tags": [
       "WEEK_10",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week11": {
-    "id": 11,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Loves Being Raped",
-          "record": {
-            "wins": 2,
-            "losses": 9
-          },
-          "score": 2807.9
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "Team Whistle Tips",
-          "record": {
-            "wins": 8,
-            "losses": 3
-          },
-          "score": 2451.6
-        }
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 2,
+        "losses": 8
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Whiskey Ditkas",
-          "record": {
-            "wins": 7,
-            "losses": 4
-          },
-          "score": 2694.3
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Powdered Toast Man",
-          "record": {
-            "wins": 9,
-            "losses": 2
-          },
-          "score": 2454.8
-        }
+      "score": 2720
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Powdered Toast Man",
+      "record": {
+        "wins": 8,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 7,
-            "losses": 4
-          },
-          "score": 1599.2
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "League Doormat",
-          "record": {
-            "wins": 2,
-            "losses": 9
-          },
-          "score": 2262.4
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 6,
-            "losses": 5
-          },
-          "score": 2293.9
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "TDs N Beer",
-          "record": {
-            "wins": 5,
-            "losses": 6
-          },
-          "score": 2449.3
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Tripple Threat",
-          "record": {
-            "wins": 3,
-            "losses": 8
-          },
-          "score": 3144
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Peyton Is Makin It Wayne",
-          "record": {
-            "wins": 11,
-            "losses": 0
-          },
-          "score": 2205.2
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Team Fuck",
-          "record": {
-            "wins": 3,
-            "losses": 8
-          },
-          "score": 2746.6
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 3,
-            "losses": 8
-          },
-          "score": 1893.3
-        }
-      }
-    ],
+      "score": 2311.4
+    },
     "tags": [
-      "WEEK_11",
-      "REGULAR_SEASON"
+      "WEEK_10"
     ]
   },
-  "week12": {
-    "id": 12,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "Team Whistle Tips",
-          "record": {
-            "wins": 8,
-            "losses": 4
-          },
-          "score": 2641.3
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 4,
-            "losses": 8
-          },
-          "score": 2554.4
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Loves Being Raped",
+      "record": {
+        "wins": 2,
+        "losses": 9
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Peyton Is Makin It Wayne",
-          "record": {
-            "wins": 12,
-            "losses": 0
-          },
-          "score": 1802.7
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "League Doormat",
-          "record": {
-            "wins": 2,
-            "losses": 10
-          },
-          "score": 2761.9
-        }
+      "score": 2807.9
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Team Whistle Tips",
+      "record": {
+        "wins": 8,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "TDs N Beer",
-          "record": {
-            "wins": 5,
-            "losses": 7
-          },
-          "score": 3277.2
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Powdered Toast Man",
-          "record": {
-            "wins": 10,
-            "losses": 2
-          },
-          "score": 1743.8
-        }
+      "score": 2451.6
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Whiskey Ditkas",
+      "record": {
+        "wins": 7,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 8,
-            "losses": 4
-          },
-          "score": 1823.5
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "Team Fuck",
-          "record": {
-            "wins": 3,
-            "losses": 9
-          },
-          "score": 2529.3
-        }
+      "score": 2694.3
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Powdered Toast Man",
+      "record": {
+        "wins": 9,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Tripple Threat",
-          "record": {
-            "wins": 3,
-            "losses": 9
-          },
-          "score": 2587.1
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 7,
-            "losses": 5
-          },
-          "score": 2428.5
-        }
+      "score": 2454.8
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 7,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Whiskey Ditkas",
-          "record": {
-            "wins": 7,
-            "losses": 5
-          },
-          "score": 2577.5
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Loves Being Raped",
-          "record": {
-            "wins": 3,
-            "losses": 9
-          },
-          "score": 2234.7
-        }
-      }
-    ],
+      "score": 1599.2
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "League Doormat",
+      "record": {
+        "wins": 2,
+        "losses": 9
+      },
+      "score": 2262.4
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 6,
+        "losses": 5
+      },
+      "score": 2293.9
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "TDs N Beer",
+      "record": {
+        "wins": 5,
+        "losses": 6
+      },
+      "score": 2449.3
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Tripple Threat",
+      "record": {
+        "wins": 3,
+        "losses": 8
+      },
+      "score": 3144
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Peyton Is Makin It Wayne",
+      "record": {
+        "wins": 11,
+        "losses": 0
+      },
+      "score": 2205.2
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Team Fuck",
+      "record": {
+        "wins": 3,
+        "losses": 8
+      },
+      "score": 2746.6
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 3,
+        "losses": 8
+      },
+      "score": 1893.3
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Team Whistle Tips",
+      "record": {
+        "wins": 8,
+        "losses": 4
+      },
+      "score": 2641.3
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 4,
+        "losses": 8
+      },
+      "score": 2554.4
+    },
     "tags": [
       "WEEK_12",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week13": {
-    "id": 13,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Peyton Is Makin It Wayne",
-          "record": {
-            "wins": 13,
-            "losses": 0
-          },
-          "score": 2296.8
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "Team Whistle Tips",
-          "record": {
-            "wins": 8,
-            "losses": 5
-          },
-          "score": 2812.2
-        }
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Peyton Is Makin It Wayne",
+      "record": {
+        "wins": 12,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 9,
-            "losses": 4
-          },
-          "score": 1943.2
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "TDs N Beer",
-          "record": {
-            "wins": 5,
-            "losses": 8
-          },
-          "score": 2750
-        }
+      "score": 1802.7
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "League Doormat",
+      "record": {
+        "wins": 2,
+        "losses": 10
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Whiskey Ditkas",
-          "record": {
-            "wins": 7,
-            "losses": 6
-          },
-          "score": 2821.9
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Tripple Threat",
-          "record": {
-            "wins": 4,
-            "losses": 9
-          },
-          "score": 2532.7
-        }
+      "score": 2761.9
+    },
+    "tags": [
+      "WEEK_12"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "TDs N Beer",
+      "record": {
+        "wins": 5,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "League Doormat",
-          "record": {
-            "wins": 2,
-            "losses": 11
-          },
-          "score": 2517.8
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 5,
-            "losses": 8
-          },
-          "score": 1980
-        }
+      "score": 3277.2
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Powdered Toast Man",
+      "record": {
+        "wins": 10,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Team Fuck",
-          "record": {
-            "wins": 3,
-            "losses": 10
-          },
-          "score": 2348.9
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Powdered Toast Man",
-          "record": {
-            "wins": 11,
-            "losses": 2
-          },
-          "score": 2031.7
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 1743.8
+    },
+    "tags": [
+      "WEEK_12"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 8,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Loves Being Raped",
-          "record": {
-            "wins": 4,
-            "losses": 9
-          },
-          "score": 2201.7
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 7,
-            "losses": 6
-          },
-          "score": 2448.1
-        }
-      }
-    ],
+      "score": 1823.5
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "Team Fuck",
+      "record": {
+        "wins": 3,
+        "losses": 9
+      },
+      "score": 2529.3
+    },
+    "tags": [
+      "WEEK_12"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Tripple Threat",
+      "record": {
+        "wins": 3,
+        "losses": 9
+      },
+      "score": 2587.1
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 7,
+        "losses": 5
+      },
+      "score": 2428.5
+    },
+    "tags": [
+      "WEEK_12"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Whiskey Ditkas",
+      "record": {
+        "wins": 7,
+        "losses": 5
+      },
+      "score": 2577.5
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Loves Being Raped",
+      "record": {
+        "wins": 3,
+        "losses": 9
+      },
+      "score": 2234.7
+    },
+    "tags": [
+      "WEEK_12"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Peyton Is Makin It Wayne",
+      "record": {
+        "wins": 13,
+        "losses": 0
+      },
+      "score": 2296.8
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Team Whistle Tips",
+      "record": {
+        "wins": 8,
+        "losses": 5
+      },
+      "score": 2812.2
+    },
+    "tags": [
+      "WEEK_13"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 9,
+        "losses": 4
+      },
+      "score": 1943.2
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "TDs N Beer",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2750
+    },
+    "tags": [
+      "WEEK_13"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Whiskey Ditkas",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2821.9
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Tripple Threat",
+      "record": {
+        "wins": 4,
+        "losses": 9
+      },
+      "score": 2532.7
+    },
+    "tags": [
+      "WEEK_13"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "League Doormat",
+      "record": {
+        "wins": 2,
+        "losses": 11
+      },
+      "score": 2517.8
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 1980
+    },
+    "tags": [
+      "WEEK_13"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Team Fuck",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2348.9
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Powdered Toast Man",
+      "record": {
+        "wins": 11,
+        "losses": 2
+      },
+      "score": 2031.7
+    },
     "tags": [
       "WEEK_13",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week14": {
-    "id": 14,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 5,
-            "losses": 9
-          },
-          "score": 2299.1,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_8"
-          ]
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Peyton Is Makin It Wayne",
-          "record": {
-            "wins": 14,
-            "losses": 0
-          },
-          "score": 3147.2,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_1"
-          ]
-        }
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Loves Being Raped",
+      "record": {
+        "wins": 4,
+        "losses": 9
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Powdered Toast Man",
-          "record": {
-            "wins": 12,
-            "losses": 2
-          },
-          "score": 2549.6,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_5"
-          ]
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Whiskey Ditkas",
-          "record": {
-            "wins": 7,
-            "losses": 7
-          },
-          "score": 2333.6,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_4"
-          ]
-        }
+      "score": 2201.7
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 7,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 7,
-            "losses": 7
-          },
-          "score": 2449.8,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_6"
-          ]
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "Team Whistle Tips",
-          "record": {
-            "wins": 9,
-            "losses": 5
-          },
-          "score": 3223.9,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_3"
-          ]
-        }
+      "score": 2448.1
+    },
+    "tags": [
+      "WEEK_13"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 5,
+        "losses": 9
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "TDs N Beer",
-          "record": {
-            "wins": 5,
-            "losses": 9
-          },
-          "score": 1927.6,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_7"
-          ]
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 10,
-            "losses": 4
-          },
-          "score": 2004.4,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_2"
-          ]
-        }
+      "score": 2299.1,
+      "tags": [
+        "LOSER",
+        "SEED_8"
+      ]
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Peyton Is Makin It Wayne",
+      "record": {
+        "wins": 14,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Loves Being Raped",
-          "record": {
-            "wins": 4,
-            "losses": 10
-          },
-          "score": 2165.4,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_10"
-          ]
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Tripple Threat",
-          "record": {
-            "wins": 5,
-            "losses": 9
-          },
-          "score": 2534.8,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_9"
-          ]
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "League Doormat",
-          "record": {
-            "wins": 3,
-            "losses": 11
-          },
-          "score": 2617,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_12"
-          ]
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "Team Fuck",
-          "record": {
-            "wins": 3,
-            "losses": 11
-          },
-          "score": 2139.3,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_11"
-          ]
-        }
-      }
-    ],
+      "score": 3147.2,
+      "tags": [
+        "WINNER",
+        "SEED_1"
+      ]
+    },
     "tags": [
       "WEEK_14",
-      "PLAYOFF_ROUND_1"
-    ],
-    "playoffRound": 1
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
   },
-  "week15": {
-    "id": 15,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Powdered Toast Man",
-          "record": {
-            "wins": 12,
-            "losses": 3
-          },
-          "score": 2544,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Peyton Is Makin It Wayne",
-          "record": {
-            "wins": 15,
-            "losses": 0
-          },
-          "score": 2761.5,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Powdered Toast Man",
+      "record": {
+        "wins": 12,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "Team Whistle Tips",
-          "record": {
-            "wins": 10,
-            "losses": 5
-          },
-          "score": 2728.3,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 10,
-            "losses": 5
-          },
-          "score": 2384.5,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        }
+      "score": 2549.6,
+      "tags": [
+        "WINNER",
+        "SEED_5"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Whiskey Ditkas",
+      "record": {
+        "wins": 7,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 7,
-            "losses": 8
-          },
-          "score": 2203.6,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Whiskey Ditkas",
-          "record": {
-            "wins": 8,
-            "losses": 7
-          },
-          "score": 2340.9,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2333.6,
+      "tags": [
+        "LOSER",
+        "SEED_4"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 7,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 5,
-            "losses": 10
-          },
-          "score": 2564.1,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "TDs N Beer",
-          "record": {
-            "wins": 6,
-            "losses": 9
-          },
-          "score": 2574.1,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2449.8,
+      "tags": [
+        "LOSER",
+        "SEED_6"
+      ]
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Team Whistle Tips",
+      "record": {
+        "wins": 9,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "League Doormat",
-          "record": {
-            "wins": 3,
-            "losses": 12
-          },
-          "score": 2062.8,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Tripple Threat",
-          "record": {
-            "wins": 6,
-            "losses": 9
-          },
-          "score": 2549.9,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        }
+      "score": 3223.9,
+      "tags": [
+        "WINNER",
+        "SEED_3"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "TDs N Beer",
+      "record": {
+        "wins": 5,
+        "losses": 9
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Team Fuck",
-          "record": {
-            "wins": 3,
-            "losses": 12
-          },
-          "score": 1827.3,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Loves Being Raped",
-          "record": {
-            "wins": 5,
-            "losses": 10
-          },
-          "score": 2417.9,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        }
-      }
-    ],
+      "score": 1927.6,
+      "tags": [
+        "LOSER",
+        "SEED_7"
+      ]
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 10,
+        "losses": 4
+      },
+      "score": 2004.4,
+      "tags": [
+        "WINNER",
+        "SEED_2"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Loves Being Raped",
+      "record": {
+        "wins": 4,
+        "losses": 10
+      },
+      "score": 2165.4,
+      "tags": [
+        "LOSER",
+        "SEED_10"
+      ]
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Tripple Threat",
+      "record": {
+        "wins": 5,
+        "losses": 9
+      },
+      "score": 2534.8,
+      "tags": [
+        "WINNER",
+        "SEED_9"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "DIVISIONAL_MATCHUP",
+      "PLAYOFF_ROUND_1",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "League Doormat",
+      "record": {
+        "wins": 3,
+        "losses": 11
+      },
+      "score": 2617,
+      "tags": [
+        "WINNER",
+        "SEED_12"
+      ]
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "Team Fuck",
+      "record": {
+        "wins": 3,
+        "losses": 11
+      },
+      "score": 2139.3,
+      "tags": [
+        "LOSER",
+        "SEED_11"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Powdered Toast Man",
+      "record": {
+        "wins": 12,
+        "losses": 3
+      },
+      "score": 2544,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Peyton Is Makin It Wayne",
+      "record": {
+        "wins": 15,
+        "losses": 0
+      },
+      "score": 2761.5,
+      "tags": [
+        "WINNER"
+      ]
+    },
     "tags": [
       "WEEK_15",
-      "PLAYOFF_ROUND_2"
-    ],
-    "playoffRound": 2
+      "DIVISIONAL_MATCHUP",
+      "PLAYOFF_ROUND_2",
+      "PLAYOFF",
+      "PLAYOFF_SEMIFINAL"
+    ]
   },
-  "week16": {
-    "id": 16,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "Team Whistle Tips",
-          "record": {
-            "wins": 10,
-            "losses": 6
-          },
-          "score": 2854.8,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_CHAMPIONSHIP",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "RUNNER_UP",
-            "PLACE_2"
-          ]
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Peyton Is Makin It Wayne",
-          "record": {
-            "wins": 16,
-            "losses": 0
-          },
-          "score": 2920.3,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_CHAMPIONSHIP",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "CHAMPION",
-            "PLACE_1"
-          ]
-        }
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Team Whistle Tips",
+      "record": {
+        "wins": 10,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Powdered Toast Man",
-          "record": {
-            "wins": 12,
-            "losses": 4
-          },
-          "score": 2152.5,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "PLACE_4"
-          ]
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "off in the shower",
-          "record": {
-            "wins": 11,
-            "losses": 5
-          },
-          "score": 2977.9,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "PLACE_3"
-          ]
-        }
+      "score": 2728.3,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 10,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "TDs N Beer",
-          "record": {
-            "wins": 6,
-            "losses": 10
-          },
-          "score": 2514.7,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "PLACE_6"
-          ]
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Whiskey Ditkas",
-          "record": {
-            "wins": 9,
-            "losses": 7
-          },
-          "score": 2841.9,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "PLACE_5"
-          ]
-        }
+      "score": 2384.5,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2",
+      "PLAYOFF",
+      "PLAYOFF_SEMIFINAL"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 7,
+        "losses": 8
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 6,
-            "losses": 10
-          },
-          "score": 2268.8,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "PLACE_7"
-          ]
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 7,
-            "losses": 9
-          },
-          "score": 1904,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "PLACE_8"
-          ]
-        }
+      "score": 2203.6,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Whiskey Ditkas",
+      "record": {
+        "wins": 8,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Loves Being Raped",
-          "record": {
-            "wins": 6,
-            "losses": 10
-          },
-          "score": 2537.3,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "PLACE_9"
-          ]
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Tripple Threat",
-          "record": {
-            "wins": 6,
-            "losses": 10
-          },
-          "score": 2232.4,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "PLACE_10"
-          ]
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2340.9,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "DIVISIONAL_MATCHUP",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_SEMIFINAL_THIRD"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 5,
+        "losses": 10
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "League Doormat",
-          "record": {
-            "wins": 4,
-            "losses": 12
-          },
-          "score": 2345.6,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
-            "PLAYOFF_ROUND_3",
-            "CONSOLATION_LAST_PLACE",
-            "WINNER",
-            "PLACE_11"
-          ]
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "Team Fuck",
-          "record": {
-            "wins": 3,
-            "losses": 13
-          },
-          "score": 1802.8,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
-            "PLAYOFF_ROUND_3",
-            "CONSOLATION_LAST_PLACE",
-            "LOSER",
-            "PLACE_12",
-            "LAST_PLACE"
-          ]
-        }
-      }
-    ],
+      "score": 2564.1,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "TDs N Beer",
+      "record": {
+        "wins": 6,
+        "losses": 9
+      },
+      "score": 2574.1,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "DIVISIONAL_MATCHUP",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_SEMIFINAL_THIRD"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "League Doormat",
+      "record": {
+        "wins": 3,
+        "losses": 12
+      },
+      "score": 2062.8,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Tripple Threat",
+      "record": {
+        "wins": 6,
+        "losses": 9
+      },
+      "score": 2549.9,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_SEMIFINAL"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Team Fuck",
+      "record": {
+        "wins": 3,
+        "losses": 12
+      },
+      "score": 1827.3,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Loves Being Raped",
+      "record": {
+        "wins": 5,
+        "losses": 10
+      },
+      "score": 2417.9,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_SEMIFINAL"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Team Whistle Tips",
+      "record": {
+        "wins": 10,
+        "losses": 6
+      },
+      "score": 2854.8,
+      "tags": [
+        "LOSER",
+        "RUNNER_UP",
+        "PLACE_2"
+      ]
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Peyton Is Makin It Wayne",
+      "record": {
+        "wins": 16,
+        "losses": 0
+      },
+      "score": 2920.3,
+      "tags": [
+        "WINNER",
+        "CHAMPION",
+        "PLACE_1"
+      ]
+    },
     "tags": [
       "WEEK_16",
-      "PLAYOFF_ROUND_3"
-    ],
-    "playoffRound": 3
+      "PLAYOFF_ROUND_3",
+      "PLAYOFF",
+      "PLAYOFF_CHAMPIONSHIP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Powdered Toast Man",
+      "record": {
+        "wins": 12,
+        "losses": 4
+      },
+      "score": 2152.5,
+      "tags": [
+        "LOSER",
+        "PLACE_4"
+      ]
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 11,
+        "losses": 5
+      },
+      "score": 2977.9,
+      "tags": [
+        "WINNER",
+        "PLACE_3"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "TDs N Beer",
+      "record": {
+        "wins": 6,
+        "losses": 10
+      },
+      "score": 2514.7,
+      "tags": [
+        "LOSER",
+        "PLACE_6"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Whiskey Ditkas",
+      "record": {
+        "wins": 9,
+        "losses": 7
+      },
+      "score": 2841.9,
+      "tags": [
+        "WINNER",
+        "PLACE_5"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 6,
+        "losses": 10
+      },
+      "score": 2268.8,
+      "tags": [
+        "WINNER",
+        "PLACE_7"
+      ]
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 7,
+        "losses": 9
+      },
+      "score": 1904,
+      "tags": [
+        "LOSER",
+        "PLACE_8"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Loves Being Raped",
+      "record": {
+        "wins": 6,
+        "losses": 10
+      },
+      "score": 2537.3,
+      "tags": [
+        "WINNER",
+        "PLACE_9"
+      ]
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Tripple Threat",
+      "record": {
+        "wins": 6,
+        "losses": 10
+      },
+      "score": 2232.4,
+      "tags": [
+        "LOSER",
+        "PLACE_10"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "DIVISIONAL_MATCHUP",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "League Doormat",
+      "record": {
+        "wins": 4,
+        "losses": 12
+      },
+      "score": 2345.6,
+      "tags": [
+        "WINNER",
+        "PLACE_11"
+      ]
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "Team Fuck",
+      "record": {
+        "wins": 3,
+        "losses": 13
+      },
+      "score": 1802.8,
+      "tags": [
+        "LOSER",
+        "PLACE_12",
+        "LAST_PLACE"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
+      "CONSOLATION_LAST_PLACE"
+    ]
   }
-}
+]

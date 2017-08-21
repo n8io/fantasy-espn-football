@@ -2,6 +2,7 @@ import $ from 'cheerio';
 import mirrorkey from 'mirrorkey';
 
 import { parseKeyFromUrl } from '../../../utils/urls';
+import unique from '../../../utils/unique';
 import tagsArray from '../../../../config/tags.json';
 
 const tags = mirrorkey(tagsArray);
@@ -89,13 +90,14 @@ export const parseRows = (rows, members) => {
       const matchup = {
         ...parseAwayTeamFromCell(cells[0]),
         ...parseHomeTeamFromCell(cells[3]),
+        tags: [tags[`WEEK_${week}`]],
       };
 
       matchup.homeTeam.score = homeScore;
       matchup.awayTeam.score = awayScore;
 
       if (isDivisionalMatchup(matchup.homeTeam.id, matchup.awayTeam.id, members)) {
-        matchup.tags = [...(matchup.tags || []), tags.DIVISIONAL_MATCHUP];
+        matchup.tags = unique([...(matchup.tags || []), tags.DIVISIONAL_MATCHUP]);
       }
 
       matchups.push(matchup);
@@ -116,7 +118,13 @@ export const parseRows = (rows, members) => {
 
       if (playoffRound) {
         schedule[`week${week}`].playoffRound = playoffRound;
-        schedule[`week${week}`].tags = [...schedule[`week${week}`].tags, tags[`PLAYOFF_ROUND_${playoffRound}`]];
+        schedule[`week${week}`].tags = unique([...schedule[`week${week}`].tags, tags[`PLAYOFF_ROUND_${playoffRound}`]]);
+
+        // eslint-disable-next-line no-loop-func
+        schedule[`week${week}`].matchups = schedule[`week${week}`].matchups.map(mu => ({
+          ...mu,
+          tags: unique([...mu.tags, tags[`PLAYOFF_ROUND_${playoffRound}`]]),
+        }));
       }
 
       matchups = [];

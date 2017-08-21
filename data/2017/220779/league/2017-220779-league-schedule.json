@@ -22,6 +22,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_1",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -43,7 +44,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_1"
+        ]
       },
       {
         "awayTeam": {
@@ -65,6 +69,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_1",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -86,7 +91,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_1"
+        ]
       },
       {
         "awayTeam": {
@@ -108,6 +116,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_1",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -131,6 +140,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_1",
           "DIVISIONAL_MATCHUP"
         ]
       }
@@ -162,6 +172,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_2",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -183,7 +194,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_2"
+        ]
       },
       {
         "awayTeam": {
@@ -205,6 +219,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_2",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -228,6 +243,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_2",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -249,7 +265,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_2"
+        ]
       },
       {
         "awayTeam": {
@@ -271,6 +290,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_2",
           "DIVISIONAL_MATCHUP"
         ]
       }
@@ -302,6 +322,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_3",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -323,7 +344,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_3"
+        ]
       },
       {
         "awayTeam": {
@@ -345,6 +369,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_3",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -366,7 +391,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_3"
+        ]
       },
       {
         "awayTeam": {
@@ -386,7 +414,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_3"
+        ]
       },
       {
         "awayTeam": {
@@ -406,7 +437,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_3"
+        ]
       }
     ],
     "tags": [
@@ -434,7 +468,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_4"
+        ]
       },
       {
         "awayTeam": {
@@ -454,7 +491,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_4"
+        ]
       },
       {
         "awayTeam": {
@@ -474,7 +514,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_4"
+        ]
       },
       {
         "awayTeam": {
@@ -494,7 +537,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_4"
+        ]
       },
       {
         "awayTeam": {
@@ -514,7 +560,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_4"
+        ]
       },
       {
         "awayTeam": {
@@ -534,7 +583,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_4"
+        ]
       }
     ],
     "tags": [
@@ -564,6 +616,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_5",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -587,6 +640,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_5",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -608,7 +662,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_5"
+        ]
       },
       {
         "awayTeam": {
@@ -630,6 +687,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_5",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -653,6 +711,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_5",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -674,7 +733,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_5"
+        ]
       }
     ],
     "tags": [
@@ -702,7 +764,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_6"
+        ]
       },
       {
         "awayTeam": {
@@ -722,7 +787,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_6"
+        ]
       },
       {
         "awayTeam": {
@@ -742,7 +810,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_6"
+        ]
       },
       {
         "awayTeam": {
@@ -762,7 +833,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_6"
+        ]
       },
       {
         "awayTeam": {
@@ -782,7 +856,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_6"
+        ]
       },
       {
         "awayTeam": {
@@ -802,7 +879,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_6"
+        ]
       }
     ],
     "tags": [
@@ -830,7 +910,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_7"
+        ]
       },
       {
         "awayTeam": {
@@ -850,7 +933,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_7"
+        ]
       },
       {
         "awayTeam": {
@@ -870,7 +956,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_7"
+        ]
       },
       {
         "awayTeam": {
@@ -890,7 +979,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_7"
+        ]
       },
       {
         "awayTeam": {
@@ -910,7 +1002,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_7"
+        ]
       },
       {
         "awayTeam": {
@@ -930,7 +1025,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_7"
+        ]
       }
     ],
     "tags": [
@@ -958,7 +1056,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_8"
+        ]
       },
       {
         "awayTeam": {
@@ -978,7 +1079,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_8"
+        ]
       },
       {
         "awayTeam": {
@@ -998,7 +1102,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_8"
+        ]
       },
       {
         "awayTeam": {
@@ -1020,6 +1127,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_8",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -1041,7 +1149,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_8"
+        ]
       },
       {
         "awayTeam": {
@@ -1063,6 +1174,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_8",
           "DIVISIONAL_MATCHUP"
         ]
       }
@@ -1092,7 +1204,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_9"
+        ]
       },
       {
         "awayTeam": {
@@ -1112,7 +1227,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_9"
+        ]
       },
       {
         "awayTeam": {
@@ -1132,7 +1250,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_9"
+        ]
       },
       {
         "awayTeam": {
@@ -1152,7 +1273,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_9"
+        ]
       },
       {
         "awayTeam": {
@@ -1172,7 +1296,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_9"
+        ]
       },
       {
         "awayTeam": {
@@ -1192,7 +1319,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_9"
+        ]
       }
     ],
     "tags": [
@@ -1220,7 +1350,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_10"
+        ]
       },
       {
         "awayTeam": {
@@ -1240,7 +1373,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_10"
+        ]
       },
       {
         "awayTeam": {
@@ -1260,7 +1396,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_10"
+        ]
       },
       {
         "awayTeam": {
@@ -1280,7 +1419,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_10"
+        ]
       },
       {
         "awayTeam": {
@@ -1300,7 +1442,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_10"
+        ]
       },
       {
         "awayTeam": {
@@ -1320,7 +1465,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_10"
+        ]
       }
     ],
     "tags": [
@@ -1348,7 +1496,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_11"
+        ]
       },
       {
         "awayTeam": {
@@ -1368,7 +1519,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_11"
+        ]
       },
       {
         "awayTeam": {
@@ -1388,7 +1542,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_11"
+        ]
       },
       {
         "awayTeam": {
@@ -1408,7 +1565,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_11"
+        ]
       },
       {
         "awayTeam": {
@@ -1428,7 +1588,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_11"
+        ]
       },
       {
         "awayTeam": {
@@ -1448,7 +1611,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_11"
+        ]
       }
     ],
     "tags": [
@@ -1478,6 +1644,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_12",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -1501,6 +1668,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_12",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -1524,6 +1692,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_12",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -1545,7 +1714,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_12"
+        ]
       },
       {
         "awayTeam": {
@@ -1567,6 +1739,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_12",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -1588,7 +1761,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_12"
+        ]
       }
     ],
     "tags": [
@@ -1616,7 +1792,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_13"
+        ]
       },
       {
         "awayTeam": {
@@ -1638,6 +1817,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_13",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -1659,7 +1839,10 @@
             "losses": 0
           },
           "score": 0
-        }
+        },
+        "tags": [
+          "WEEK_13"
+        ]
       },
       {
         "awayTeam": {
@@ -1681,6 +1864,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_13",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -1704,6 +1888,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_13",
           "DIVISIONAL_MATCHUP"
         ]
       },
@@ -1727,6 +1912,7 @@
           "score": 0
         },
         "tags": [
+          "WEEK_13",
           "DIVISIONAL_MATCHUP"
         ]
       }

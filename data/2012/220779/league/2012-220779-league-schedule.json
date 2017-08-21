@@ -1,2377 +1,2421 @@
-{
-  "week1": {
-    "id": 1,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2567.7
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "MJD Draft",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 1975.3
-        }
+[
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 0,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Sack Squatch",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 2103.7
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Phone's Ringing Dude",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2756.5
-        }
+      "score": 2567.7
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "MJD Draft",
+      "record": {
+        "wins": 1,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Consent Optional",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2480.7
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Team Shambles",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 2380.1
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Jovan Belcher",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 1702
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "offintheshower again",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2212.6
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "N8th Place is 2nd",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2246.5
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "DeMarco... Polo",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 2163.8
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 1,
-            "losses": 0
-          },
-          "score": 2320.5
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Lucky Number 11th Place",
-          "record": {
-            "wins": 0,
-            "losses": 1
-          },
-          "score": 2926.5
-        }
-      }
-    ],
+      "score": 1975.3
+    },
     "tags": [
-      "WEEK_1",
-      "REGULAR_SEASON"
+      "WEEK_1"
     ]
   },
-  "week2": {
-    "id": 2,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "MJD Draft",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 2915
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Sack Squatch",
-          "record": {
-            "wins": 2,
-            "losses": 0
-          },
-          "score": 2197.7
-        }
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Sack Squatch",
+      "record": {
+        "wins": 1,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Team Shambles",
-          "record": {
-            "wins": 2,
-            "losses": 0
-          },
-          "score": 2234.5
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 0,
-            "losses": 2
-          },
-          "score": 2702
-        }
+      "score": 2103.7
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Phone's Ringing Dude",
+      "record": {
+        "wins": 0,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "N8th Place is 2nd",
-          "record": {
-            "wins": 0,
-            "losses": 2
-          },
-          "score": 2570.5
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Phone's Ringing Dude",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 2128.5
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Lucky Number 11th Place",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 1974.9
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Consent Optional",
-          "record": {
-            "wins": 0,
-            "losses": 2
-          },
-          "score": 2426.1
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Jovan Belcher",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 3031
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "DeMarco... Polo",
-          "record": {
-            "wins": 2,
-            "losses": 0
-          },
-          "score": 2713.5
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "offintheshower again",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 1861.5
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 1,
-            "losses": 1
-          },
-          "score": 2709.6
-        }
-      }
-    ],
+      "score": 2756.5
+    },
     "tags": [
-      "WEEK_2",
-      "REGULAR_SEASON"
+      "WEEK_1"
     ]
   },
-  "week3": {
-    "id": 3,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Team Shambles",
-          "record": {
-            "wins": 3,
-            "losses": 0
-          },
-          "score": 2620.5
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "MJD Draft",
-          "record": {
-            "wins": 1,
-            "losses": 2
-          },
-          "score": 2803.2
-        }
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Consent Optional",
+      "record": {
+        "wins": 0,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Sack Squatch",
-          "record": {
-            "wins": 3,
-            "losses": 0
-          },
-          "score": 2249.8
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "N8th Place is 2nd",
-          "record": {
-            "wins": 0,
-            "losses": 3
-          },
-          "score": 2511.3
-        }
+      "score": 2480.7
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Team Shambles",
+      "record": {
+        "wins": 1,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Lucky Number 11th Place",
-          "record": {
-            "wins": 1,
-            "losses": 2
-          },
-          "score": 2738.6
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 1,
-            "losses": 2
-          },
-          "score": 2149.5
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2380.1
+    },
+    "tags": [
+      "WEEK_1"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Jovan Belcher",
+      "record": {
+        "wins": 1,
+        "losses": 0
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Jovan Belcher",
-          "record": {
-            "wins": 2,
-            "losses": 1
-          },
-          "score": 1950.4
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Phone's Ringing Dude",
-          "record": {
-            "wins": 1,
-            "losses": 2
-          },
-          "score": 2415.9
-        }
+      "score": 1702
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "offintheshower again",
+      "record": {
+        "wins": 0,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "offintheshower again",
-          "record": {
-            "wins": 2,
-            "losses": 1
-          },
-          "score": 2343.6
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Consent Optional",
-          "record": {
-            "wins": 0,
-            "losses": 3
-          },
-          "score": 2622.2
-        }
+      "score": 2212.6
+    },
+    "tags": [
+      "WEEK_1"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "N8th Place is 2nd",
+      "record": {
+        "wins": 0,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 2,
-            "losses": 1
-          },
-          "score": 2202.4
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "DeMarco... Polo",
-          "record": {
-            "wins": 2,
-            "losses": 1
-          },
-          "score": 2324.6
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
-      }
-    ],
+      "score": 2246.5
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "DeMarco... Polo",
+      "record": {
+        "wins": 1,
+        "losses": 0
+      },
+      "score": 2163.8
+    },
+    "tags": [
+      "WEEK_1"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 1,
+        "losses": 0
+      },
+      "score": 2320.5
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Lucky Number 11th Place",
+      "record": {
+        "wins": 0,
+        "losses": 1
+      },
+      "score": 2926.5
+    },
+    "tags": [
+      "WEEK_1"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "MJD Draft",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 2915
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Sack Squatch",
+      "record": {
+        "wins": 2,
+        "losses": 0
+      },
+      "score": 2197.7
+    },
+    "tags": [
+      "WEEK_2"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Team Shambles",
+      "record": {
+        "wins": 2,
+        "losses": 0
+      },
+      "score": 2234.5
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 0,
+        "losses": 2
+      },
+      "score": 2702
+    },
+    "tags": [
+      "WEEK_2"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "N8th Place is 2nd",
+      "record": {
+        "wins": 0,
+        "losses": 2
+      },
+      "score": 2570.5
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Phone's Ringing Dude",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 2128.5
+    },
+    "tags": [
+      "WEEK_2"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Lucky Number 11th Place",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 1974.9
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Consent Optional",
+      "record": {
+        "wins": 0,
+        "losses": 2
+      },
+      "score": 2426.1
+    },
+    "tags": [
+      "WEEK_2"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Jovan Belcher",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 3031
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "DeMarco... Polo",
+      "record": {
+        "wins": 2,
+        "losses": 0
+      },
+      "score": 2713.5
+    },
+    "tags": [
+      "WEEK_2"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "offintheshower again",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 1861.5
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 2709.6
+    },
+    "tags": [
+      "WEEK_2"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Team Shambles",
+      "record": {
+        "wins": 3,
+        "losses": 0
+      },
+      "score": 2620.5
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "MJD Draft",
+      "record": {
+        "wins": 1,
+        "losses": 2
+      },
+      "score": 2803.2
+    },
+    "tags": [
+      "WEEK_3"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Sack Squatch",
+      "record": {
+        "wins": 3,
+        "losses": 0
+      },
+      "score": 2249.8
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "N8th Place is 2nd",
+      "record": {
+        "wins": 0,
+        "losses": 3
+      },
+      "score": 2511.3
+    },
+    "tags": [
+      "WEEK_3"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Lucky Number 11th Place",
+      "record": {
+        "wins": 1,
+        "losses": 2
+      },
+      "score": 2738.6
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 1,
+        "losses": 2
+      },
+      "score": 2149.5
+    },
     "tags": [
       "WEEK_3",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week4": {
-    "id": 4,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "N8th Place is 2nd",
-          "record": {
-            "wins": 1,
-            "losses": 3
-          },
-          "score": 2155.9
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "MJD Draft",
-          "record": {
-            "wins": 1,
-            "losses": 3
-          },
-          "score": 2642.1
-        }
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Jovan Belcher",
+      "record": {
+        "wins": 2,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Lucky Number 11th Place",
-          "record": {
-            "wins": 1,
-            "losses": 3
-          },
-          "score": 3080.7
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Team Shambles",
-          "record": {
-            "wins": 4,
-            "losses": 0
-          },
-          "score": 2285.4
-        }
+      "score": 1950.4
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Phone's Ringing Dude",
+      "record": {
+        "wins": 1,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Jovan Belcher",
-          "record": {
-            "wins": 3,
-            "losses": 1
-          },
-          "score": 2188.5
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Sack Squatch",
-          "record": {
-            "wins": 3,
-            "losses": 1
-          },
-          "score": 2367.3
-        }
+      "score": 2415.9
+    },
+    "tags": [
+      "WEEK_3"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "offintheshower again",
+      "record": {
+        "wins": 2,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "offintheshower again",
-          "record": {
-            "wins": 3,
-            "losses": 1
-          },
-          "score": 2856.8
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 1,
-            "losses": 3
-          },
-          "score": 3234.9
-        }
+      "score": 2343.6
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Consent Optional",
+      "record": {
+        "wins": 0,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 2,
-            "losses": 2
-          },
-          "score": 2536.2
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Phone's Ringing Dude",
-          "record": {
-            "wins": 2,
-            "losses": 2
-          },
-          "score": 2150.5
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2622.2
+    },
+    "tags": [
+      "WEEK_3"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 2,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "DeMarco... Polo",
-          "record": {
-            "wins": 3,
-            "losses": 1
-          },
-          "score": 2227
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Consent Optional",
-          "record": {
-            "wins": 0,
-            "losses": 4
-          },
-          "score": 2934.9
-        }
-      }
-    ],
+      "score": 2202.4
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "DeMarco... Polo",
+      "record": {
+        "wins": 2,
+        "losses": 1
+      },
+      "score": 2324.6
+    },
+    "tags": [
+      "WEEK_3",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "N8th Place is 2nd",
+      "record": {
+        "wins": 1,
+        "losses": 3
+      },
+      "score": 2155.9
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "MJD Draft",
+      "record": {
+        "wins": 1,
+        "losses": 3
+      },
+      "score": 2642.1
+    },
+    "tags": [
+      "WEEK_4"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Lucky Number 11th Place",
+      "record": {
+        "wins": 1,
+        "losses": 3
+      },
+      "score": 3080.7
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Team Shambles",
+      "record": {
+        "wins": 4,
+        "losses": 0
+      },
+      "score": 2285.4
+    },
+    "tags": [
+      "WEEK_4"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Jovan Belcher",
+      "record": {
+        "wins": 3,
+        "losses": 1
+      },
+      "score": 2188.5
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Sack Squatch",
+      "record": {
+        "wins": 3,
+        "losses": 1
+      },
+      "score": 2367.3
+    },
+    "tags": [
+      "WEEK_4"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "offintheshower again",
+      "record": {
+        "wins": 3,
+        "losses": 1
+      },
+      "score": 2856.8
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 1,
+        "losses": 3
+      },
+      "score": 3234.9
+    },
+    "tags": [
+      "WEEK_4"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 2,
+        "losses": 2
+      },
+      "score": 2536.2
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Phone's Ringing Dude",
+      "record": {
+        "wins": 2,
+        "losses": 2
+      },
+      "score": 2150.5
+    },
     "tags": [
       "WEEK_4",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week5": {
-    "id": 5,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "MJD Draft",
-          "record": {
-            "wins": 2,
-            "losses": 3
-          },
-          "score": 1977.6
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Lucky Number 11th Place",
-          "record": {
-            "wins": 1,
-            "losses": 4
-          },
-          "score": 2538.4
-        }
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "DeMarco... Polo",
+      "record": {
+        "wins": 3,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Jovan Belcher",
-          "record": {
-            "wins": 3,
-            "losses": 2
-          },
-          "score": 2197.8
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "N8th Place is 2nd",
-          "record": {
-            "wins": 2,
-            "losses": 3
-          },
-          "score": 2166.4
-        }
+      "score": 2227
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Consent Optional",
+      "record": {
+        "wins": 0,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Team Shambles",
-          "record": {
-            "wins": 5,
-            "losses": 0
-          },
-          "score": 2330.3
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "offintheshower again",
-          "record": {
-            "wins": 3,
-            "losses": 2
-          },
-          "score": 2565.4
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2934.9
+    },
+    "tags": [
+      "WEEK_4"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "MJD Draft",
+      "record": {
+        "wins": 2,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 2,
-            "losses": 3
-          },
-          "score": 2448.8
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Sack Squatch",
-          "record": {
-            "wins": 4,
-            "losses": 1
-          },
-          "score": 2064.7
-        }
+      "score": 1977.6
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Lucky Number 11th Place",
+      "record": {
+        "wins": 1,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "DeMarco... Polo",
-          "record": {
-            "wins": 3,
-            "losses": 2
-          },
-          "score": 2669.2
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 2,
-            "losses": 3
-          },
-          "score": 2321.8
-        }
+      "score": 2538.4
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Jovan Belcher",
+      "record": {
+        "wins": 3,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Consent Optional",
-          "record": {
-            "wins": 0,
-            "losses": 5
-          },
-          "score": 2252.7
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Phone's Ringing Dude",
-          "record": {
-            "wins": 3,
-            "losses": 2
-          },
-          "score": 1791.8
-        }
-      }
-    ],
+      "score": 2197.8
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "N8th Place is 2nd",
+      "record": {
+        "wins": 2,
+        "losses": 3
+      },
+      "score": 2166.4
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Team Shambles",
+      "record": {
+        "wins": 5,
+        "losses": 0
+      },
+      "score": 2330.3
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "offintheshower again",
+      "record": {
+        "wins": 3,
+        "losses": 2
+      },
+      "score": 2565.4
+    },
     "tags": [
       "WEEK_5",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week6": {
-    "id": 6,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Jovan Belcher",
-          "record": {
-            "wins": 3,
-            "losses": 3
-          },
-          "score": 2727.2
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "MJD Draft",
-          "record": {
-            "wins": 3,
-            "losses": 3
-          },
-          "score": 2222.9
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 2,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "offintheshower again",
-          "record": {
-            "wins": 3,
-            "losses": 3
-          },
-          "score": 2815.5
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Lucky Number 11th Place",
-          "record": {
-            "wins": 2,
-            "losses": 4
-          },
-          "score": 2184.5
-        }
+      "score": 2448.8
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Sack Squatch",
+      "record": {
+        "wins": 4,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 3,
-            "losses": 3
-          },
-          "score": 2309.1
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "N8th Place is 2nd",
-          "record": {
-            "wins": 2,
-            "losses": 4
-          },
-          "score": 2556.6
-        }
+      "score": 2064.7
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "DeMarco... Polo",
+      "record": {
+        "wins": 3,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "DeMarco... Polo",
-          "record": {
-            "wins": 3,
-            "losses": 3
-          },
-          "score": 3097.1
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Team Shambles",
-          "record": {
-            "wins": 6,
-            "losses": 0
-          },
-          "score": 2499.9
-        }
+      "score": 2669.2
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 2,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Consent Optional",
-          "record": {
-            "wins": 0,
-            "losses": 6
-          },
-          "score": 2312.2
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Sack Squatch",
-          "record": {
-            "wins": 5,
-            "losses": 1
-          },
-          "score": 2164.5
-        }
+      "score": 2321.8
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Consent Optional",
+      "record": {
+        "wins": 0,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Phone's Ringing Dude",
-          "record": {
-            "wins": 4,
-            "losses": 2
-          },
-          "score": 1960.1
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 2,
-            "losses": 4
-          },
-          "score": 2315.4
-        }
-      }
-    ],
+      "score": 2252.7
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Phone's Ringing Dude",
+      "record": {
+        "wins": 3,
+        "losses": 2
+      },
+      "score": 1791.8
+    },
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Jovan Belcher",
+      "record": {
+        "wins": 3,
+        "losses": 3
+      },
+      "score": 2727.2
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "MJD Draft",
+      "record": {
+        "wins": 3,
+        "losses": 3
+      },
+      "score": 2222.9
+    },
     "tags": [
       "WEEK_6",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week7": {
-    "id": 7,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "MJD Draft",
-          "record": {
-            "wins": 4,
-            "losses": 3
-          },
-          "score": 2247.3
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "offintheshower again",
-          "record": {
-            "wins": 3,
-            "losses": 4
-          },
-          "score": 2274.2
-        }
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "offintheshower again",
+      "record": {
+        "wins": 3,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 3,
-            "losses": 4
-          },
-          "score": 2407.3
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "Jovan Belcher",
-          "record": {
-            "wins": 4,
-            "losses": 3
-          },
-          "score": 2401.6
-        }
+      "score": 2815.5
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Lucky Number 11th Place",
+      "record": {
+        "wins": 2,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "DeMarco... Polo",
-          "record": {
-            "wins": 3,
-            "losses": 4
-          },
-          "score": 2161.5
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Lucky Number 11th Place",
-          "record": {
-            "wins": 3,
-            "losses": 4
-          },
-          "score": 1971.7
-        }
+      "score": 2184.5
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 3,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Consent Optional",
-          "record": {
-            "wins": 0,
-            "losses": 7
-          },
-          "score": 2427.1
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "N8th Place is 2nd",
-          "record": {
-            "wins": 3,
-            "losses": 4
-          },
-          "score": 2254.1
-        }
+      "score": 2309.1
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "N8th Place is 2nd",
+      "record": {
+        "wins": 2,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Phone's Ringing Dude",
-          "record": {
-            "wins": 5,
-            "losses": 2
-          },
-          "score": 2268.9
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Team Shambles",
-          "record": {
-            "wins": 6,
-            "losses": 1
-          },
-          "score": 2555.9
-        }
+      "score": 2556.6
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "DeMarco... Polo",
+      "record": {
+        "wins": 3,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 3,
-            "losses": 4
-          },
-          "score": 2151
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Sack Squatch",
-          "record": {
-            "wins": 5,
-            "losses": 2
-          },
-          "score": 2353.4
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
-      }
-    ],
+      "score": 3097.1
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Team Shambles",
+      "record": {
+        "wins": 6,
+        "losses": 0
+      },
+      "score": 2499.9
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Consent Optional",
+      "record": {
+        "wins": 0,
+        "losses": 6
+      },
+      "score": 2312.2
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Sack Squatch",
+      "record": {
+        "wins": 5,
+        "losses": 1
+      },
+      "score": 2164.5
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Phone's Ringing Dude",
+      "record": {
+        "wins": 4,
+        "losses": 2
+      },
+      "score": 1960.1
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 2,
+        "losses": 4
+      },
+      "score": 2315.4
+    },
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "MJD Draft",
+      "record": {
+        "wins": 4,
+        "losses": 3
+      },
+      "score": 2247.3
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "offintheshower again",
+      "record": {
+        "wins": 3,
+        "losses": 4
+      },
+      "score": 2274.2
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 3,
+        "losses": 4
+      },
+      "score": 2407.3
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "Jovan Belcher",
+      "record": {
+        "wins": 4,
+        "losses": 3
+      },
+      "score": 2401.6
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "DeMarco... Polo",
+      "record": {
+        "wins": 3,
+        "losses": 4
+      },
+      "score": 2161.5
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Lucky Number 11th Place",
+      "record": {
+        "wins": 3,
+        "losses": 4
+      },
+      "score": 1971.7
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Consent Optional",
+      "record": {
+        "wins": 0,
+        "losses": 7
+      },
+      "score": 2427.1
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "N8th Place is 2nd",
+      "record": {
+        "wins": 3,
+        "losses": 4
+      },
+      "score": 2254.1
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Phone's Ringing Dude",
+      "record": {
+        "wins": 5,
+        "losses": 2
+      },
+      "score": 2268.9
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Team Shambles",
+      "record": {
+        "wins": 6,
+        "losses": 1
+      },
+      "score": 2555.9
+    },
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 3,
+        "losses": 4
+      },
+      "score": 2151
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Sack Squatch",
+      "record": {
+        "wins": 5,
+        "losses": 2
+      },
+      "score": 2353.4
+    },
     "tags": [
       "WEEK_7",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week8": {
-    "id": 8,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 4,
-            "losses": 4
-          },
-          "score": 2183.6
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "MJD Draft",
-          "record": {
-            "wins": 4,
-            "losses": 4
-          },
-          "score": 2492
-        }
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 4,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "DeMarco... Polo",
-          "record": {
-            "wins": 4,
-            "losses": 4
-          },
-          "score": 1679.1
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "offintheshower again",
-          "record": {
-            "wins": 3,
-            "losses": 5
-          },
-          "score": 2146.2
-        }
+      "score": 2183.6
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "MJD Draft",
+      "record": {
+        "wins": 4,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Consent Optional",
-          "record": {
-            "wins": 1,
-            "losses": 7
-          },
-          "score": 1877.3
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "Jovan Belcher",
-          "record": {
-            "wins": 4,
-            "losses": 4
-          },
-          "score": 2074
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2492
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "DeMarco... Polo",
+      "record": {
+        "wins": 4,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Phone's Ringing Dude",
-          "record": {
-            "wins": 6,
-            "losses": 2
-          },
-          "score": 1983.8
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Lucky Number 11th Place",
-          "record": {
-            "wins": 3,
-            "losses": 5
-          },
-          "score": 2589.5
-        }
+      "score": 1679.1
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "offintheshower again",
+      "record": {
+        "wins": 3,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 4,
-            "losses": 4
-          },
-          "score": 2311.1
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "N8th Place is 2nd",
-          "record": {
-            "wins": 3,
-            "losses": 5
-          },
-          "score": 2522.1
-        }
+      "score": 2146.2
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Consent Optional",
+      "record": {
+        "wins": 1,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Sack Squatch",
-          "record": {
-            "wins": 5,
-            "losses": 3
-          },
-          "score": 2350.7
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Team Shambles",
-          "record": {
-            "wins": 7,
-            "losses": 1
-          },
-          "score": 2178.1
-        }
-      }
-    ],
+      "score": 1877.3
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "Jovan Belcher",
+      "record": {
+        "wins": 4,
+        "losses": 4
+      },
+      "score": 2074
+    },
     "tags": [
       "WEEK_8",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week9": {
-    "id": 9,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "MJD Draft",
-          "record": {
-            "wins": 4,
-            "losses": 5
-          },
-          "score": 2193.6
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "DeMarco... Polo",
-          "record": {
-            "wins": 5,
-            "losses": 4
-          },
-          "score": 1923.8
-        }
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Phone's Ringing Dude",
+      "record": {
+        "wins": 6,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Consent Optional",
-          "record": {
-            "wins": 1,
-            "losses": 8
-          },
-          "score": 2278.8
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 5,
-            "losses": 4
-          },
-          "score": 2163
-        }
+      "score": 1983.8
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Lucky Number 11th Place",
+      "record": {
+        "wins": 3,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Phone's Ringing Dude",
-          "record": {
-            "wins": 7,
-            "losses": 2
-          },
-          "score": 2184.2
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "offintheshower again",
-          "record": {
-            "wins": 3,
-            "losses": 6
-          },
-          "score": 2429.7
-        }
+      "score": 2589.5
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 4,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 5,
-            "losses": 4
-          },
-          "score": 1832.1
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "Jovan Belcher",
-          "record": {
-            "wins": 4,
-            "losses": 5
-          },
-          "score": 2326.5
-        }
+      "score": 2311.1
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "N8th Place is 2nd",
+      "record": {
+        "wins": 3,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Sack Squatch",
-          "record": {
-            "wins": 5,
-            "losses": 4
-          },
-          "score": 2642.5
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Lucky Number 11th Place",
-          "record": {
-            "wins": 4,
-            "losses": 5
-          },
-          "score": 2162.4
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2522.1
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Sack Squatch",
+      "record": {
+        "wins": 5,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Team Shambles",
-          "record": {
-            "wins": 8,
-            "losses": 1
-          },
-          "score": 1842.6
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "N8th Place is 2nd",
-          "record": {
-            "wins": 3,
-            "losses": 6
-          },
-          "score": 2435.4
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
-      }
-    ],
+      "score": 2350.7
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Team Shambles",
+      "record": {
+        "wins": 7,
+        "losses": 1
+      },
+      "score": 2178.1
+    },
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "MJD Draft",
+      "record": {
+        "wins": 4,
+        "losses": 5
+      },
+      "score": 2193.6
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "DeMarco... Polo",
+      "record": {
+        "wins": 5,
+        "losses": 4
+      },
+      "score": 1923.8
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Consent Optional",
+      "record": {
+        "wins": 1,
+        "losses": 8
+      },
+      "score": 2278.8
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 5,
+        "losses": 4
+      },
+      "score": 2163
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Phone's Ringing Dude",
+      "record": {
+        "wins": 7,
+        "losses": 2
+      },
+      "score": 2184.2
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "offintheshower again",
+      "record": {
+        "wins": 3,
+        "losses": 6
+      },
+      "score": 2429.7
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 5,
+        "losses": 4
+      },
+      "score": 1832.1
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "Jovan Belcher",
+      "record": {
+        "wins": 4,
+        "losses": 5
+      },
+      "score": 2326.5
+    },
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Sack Squatch",
+      "record": {
+        "wins": 5,
+        "losses": 4
+      },
+      "score": 2642.5
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Lucky Number 11th Place",
+      "record": {
+        "wins": 4,
+        "losses": 5
+      },
+      "score": 2162.4
+    },
     "tags": [
       "WEEK_9",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week10": {
-    "id": 10,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Consent Optional",
-          "record": {
-            "wins": 1,
-            "losses": 9
-          },
-          "score": 2214.9
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "MJD Draft",
-          "record": {
-            "wins": 5,
-            "losses": 5
-          },
-          "score": 2200.5
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Team Shambles",
+      "record": {
+        "wins": 8,
+        "losses": 1
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Phone's Ringing Dude",
-          "record": {
-            "wins": 8,
-            "losses": 2
-          },
-          "score": 2482.9
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "DeMarco... Polo",
-          "record": {
-            "wins": 5,
-            "losses": 5
-          },
-          "score": 2598.9
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 1842.6
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "N8th Place is 2nd",
+      "record": {
+        "wins": 3,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 6,
-            "losses": 4
-          },
-          "score": 1962.4
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 5,
-            "losses": 5
-          },
-          "score": 2147.8
-        }
+      "score": 2435.4
+    },
+    "tags": [
+      "WEEK_9",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Consent Optional",
+      "record": {
+        "wins": 1,
+        "losses": 9
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Sack Squatch",
-          "record": {
-            "wins": 5,
-            "losses": 5
-          },
-          "score": 1997.5
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "offintheshower again",
-          "record": {
-            "wins": 4,
-            "losses": 6
-          },
-          "score": 1871.9
-        }
+      "score": 2214.9
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "MJD Draft",
+      "record": {
+        "wins": 5,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Team Shambles",
-          "record": {
-            "wins": 9,
-            "losses": 1
-          },
-          "score": 1878.6
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "Jovan Belcher",
-          "record": {
-            "wins": 4,
-            "losses": 6
-          },
-          "score": 2205.7
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "N8th Place is 2nd",
-          "record": {
-            "wins": 4,
-            "losses": 6
-          },
-          "score": 2387.5
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Lucky Number 11th Place",
-          "record": {
-            "wins": 4,
-            "losses": 6
-          },
-          "score": 2772.5
-        }
-      }
-    ],
+      "score": 2200.5
+    },
     "tags": [
       "WEEK_10",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week11": {
-    "id": 11,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Phone's Ringing Dude",
-          "record": {
-            "wins": 8,
-            "losses": 3
-          },
-          "score": 2412.7
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "MJD Draft",
-          "record": {
-            "wins": 6,
-            "losses": 5
-          },
-          "score": 2163
-        }
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Phone's Ringing Dude",
+      "record": {
+        "wins": 8,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 7,
-            "losses": 4
-          },
-          "score": 1825.1
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Consent Optional",
-          "record": {
-            "wins": 1,
-            "losses": 10
-          },
-          "score": 2155.1
-        }
+      "score": 2482.9
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "DeMarco... Polo",
+      "record": {
+        "wins": 5,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Sack Squatch",
-          "record": {
-            "wins": 5,
-            "losses": 6
-          },
-          "score": 2750.4
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "DeMarco... Polo",
-          "record": {
-            "wins": 6,
-            "losses": 5
-          },
-          "score": 2108.9
-        }
+      "score": 2598.9
+    },
+    "tags": [
+      "WEEK_10",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 6,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Team Shambles",
-          "record": {
-            "wins": 10,
-            "losses": 1
-          },
-          "score": 1948
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 5,
-            "losses": 6
-          },
-          "score": 2154.5
-        }
+      "score": 1962.4
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 5,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "N8th Place is 2nd",
-          "record": {
-            "wins": 4,
-            "losses": 7
-          },
-          "score": 2525.7
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "offintheshower again",
-          "record": {
-            "wins": 5,
-            "losses": 6
-          },
-          "score": 2216
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2147.8
+    },
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Sack Squatch",
+      "record": {
+        "wins": 5,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Lucky Number 11th Place",
-          "record": {
-            "wins": 4,
-            "losses": 7
-          },
-          "score": 2865.3
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "Jovan Belcher",
-          "record": {
-            "wins": 5,
-            "losses": 6
-          },
-          "score": 2222.6
-        }
-      }
-    ],
+      "score": 1997.5
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "offintheshower again",
+      "record": {
+        "wins": 4,
+        "losses": 6
+      },
+      "score": 1871.9
+    },
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Team Shambles",
+      "record": {
+        "wins": 9,
+        "losses": 1
+      },
+      "score": 1878.6
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "Jovan Belcher",
+      "record": {
+        "wins": 4,
+        "losses": 6
+      },
+      "score": 2205.7
+    },
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "N8th Place is 2nd",
+      "record": {
+        "wins": 4,
+        "losses": 6
+      },
+      "score": 2387.5
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Lucky Number 11th Place",
+      "record": {
+        "wins": 4,
+        "losses": 6
+      },
+      "score": 2772.5
+    },
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Phone's Ringing Dude",
+      "record": {
+        "wins": 8,
+        "losses": 3
+      },
+      "score": 2412.7
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "MJD Draft",
+      "record": {
+        "wins": 6,
+        "losses": 5
+      },
+      "score": 2163
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 7,
+        "losses": 4
+      },
+      "score": 1825.1
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Consent Optional",
+      "record": {
+        "wins": 1,
+        "losses": 10
+      },
+      "score": 2155.1
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Sack Squatch",
+      "record": {
+        "wins": 5,
+        "losses": 6
+      },
+      "score": 2750.4
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "DeMarco... Polo",
+      "record": {
+        "wins": 6,
+        "losses": 5
+      },
+      "score": 2108.9
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Team Shambles",
+      "record": {
+        "wins": 10,
+        "losses": 1
+      },
+      "score": 1948
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 5,
+        "losses": 6
+      },
+      "score": 2154.5
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "N8th Place is 2nd",
+      "record": {
+        "wins": 4,
+        "losses": 7
+      },
+      "score": 2525.7
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "offintheshower again",
+      "record": {
+        "wins": 5,
+        "losses": 6
+      },
+      "score": 2216
+    },
     "tags": [
       "WEEK_11",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week12": {
-    "id": 12,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Team Shambles",
-          "record": {
-            "wins": 10,
-            "losses": 2
-          },
-          "score": 3139.6
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "N8th Place is 2nd",
-          "record": {
-            "wins": 5,
-            "losses": 7
-          },
-          "score": 2436.8
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Lucky Number 11th Place",
+      "record": {
+        "wins": 4,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Sack Squatch",
-          "record": {
-            "wins": 6,
-            "losses": 6
-          },
-          "score": 1821.9
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 7,
-            "losses": 5
-          },
-          "score": 2007.8
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2865.3
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "Jovan Belcher",
+      "record": {
+        "wins": 5,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Phone's Ringing Dude",
-          "record": {
-            "wins": 9,
-            "losses": 3
-          },
-          "score": 2278.2
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 5,
-            "losses": 7
-          },
-          "score": 2423.9
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2222.6
+    },
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Team Shambles",
+      "record": {
+        "wins": 10,
+        "losses": 2
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Consent Optional",
-          "record": {
-            "wins": 1,
-            "losses": 11
-          },
-          "score": 2163.8
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "Jovan Belcher",
-          "record": {
-            "wins": 6,
-            "losses": 6
-          },
-          "score": 1708.3
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 3139.6
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "N8th Place is 2nd",
+      "record": {
+        "wins": 5,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "DeMarco... Polo",
-          "record": {
-            "wins": 6,
-            "losses": 6
-          },
-          "score": 2652.3
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "offintheshower again",
-          "record": {
-            "wins": 6,
-            "losses": 6
-          },
-          "score": 2468
-        }
-      },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Lucky Number 11th Place",
-          "record": {
-            "wins": 5,
-            "losses": 7
-          },
-          "score": 2222.7
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "MJD Draft",
-          "record": {
-            "wins": 6,
-            "losses": 6
-          },
-          "score": 2570.3
-        }
-      }
-    ],
+      "score": 2436.8
+    },
     "tags": [
       "WEEK_12",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week13": {
-    "id": 13,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "N8th Place is 2nd",
-          "record": {
-            "wins": 6,
-            "losses": 7
-          },
-          "score": 2572.5
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "offintheshower again",
-          "record": {
-            "wins": 6,
-            "losses": 7
-          },
-          "score": 2874.7
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Sack Squatch",
+      "record": {
+        "wins": 6,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "MJD Draft",
-          "record": {
-            "wins": 7,
-            "losses": 6
-          },
-          "score": 2307.9
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Consent Optional",
-          "record": {
-            "wins": 1,
-            "losses": 12
-          },
-          "score": 2446.1
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 1821.9
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 7,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 5,
-            "losses": 8
-          },
-          "score": 2715.1
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "DeMarco... Polo",
-          "record": {
-            "wins": 7,
-            "losses": 6
-          },
-          "score": 1974.4
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2007.8
+    },
+    "tags": [
+      "WEEK_12",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Phone's Ringing Dude",
+      "record": {
+        "wins": 9,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Sack Squatch",
-          "record": {
-            "wins": 7,
-            "losses": 6
-          },
-          "score": 1848.7
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Lucky Number 11th Place",
-          "record": {
-            "wins": 5,
-            "losses": 8
-          },
-          "score": 2689.1
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2278.2
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 5,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Jovan Belcher",
-          "record": {
-            "wins": 6,
-            "losses": 7
-          },
-          "score": 2687.6
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Team Shambles",
-          "record": {
-            "wins": 11,
-            "losses": 2
-          },
-          "score": 2635.2
-        }
+      "score": 2423.9
+    },
+    "tags": [
+      "WEEK_12",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Consent Optional",
+      "record": {
+        "wins": 1,
+        "losses": 11
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "Phone's Ringing Dude",
-          "record": {
-            "wins": 10,
-            "losses": 3
-          },
-          "score": 2326.9
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 7,
-            "losses": 6
-          },
-          "score": 2345.2
-        }
-      }
-    ],
+      "score": 2163.8
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "Jovan Belcher",
+      "record": {
+        "wins": 6,
+        "losses": 6
+      },
+      "score": 1708.3
+    },
+    "tags": [
+      "WEEK_12",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "DeMarco... Polo",
+      "record": {
+        "wins": 6,
+        "losses": 6
+      },
+      "score": 2652.3
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "offintheshower again",
+      "record": {
+        "wins": 6,
+        "losses": 6
+      },
+      "score": 2468
+    },
+    "tags": [
+      "WEEK_12"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Lucky Number 11th Place",
+      "record": {
+        "wins": 5,
+        "losses": 7
+      },
+      "score": 2222.7
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "MJD Draft",
+      "record": {
+        "wins": 6,
+        "losses": 6
+      },
+      "score": 2570.3
+    },
+    "tags": [
+      "WEEK_12"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "N8th Place is 2nd",
+      "record": {
+        "wins": 6,
+        "losses": 7
+      },
+      "score": 2572.5
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "offintheshower again",
+      "record": {
+        "wins": 6,
+        "losses": 7
+      },
+      "score": 2874.7
+    },
     "tags": [
       "WEEK_13",
-      "REGULAR_SEASON"
+      "DIVISIONAL_MATCHUP"
     ]
   },
-  "week14": {
-    "id": 14,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Jovan Belcher",
-          "record": {
-            "wins": 6,
-            "losses": 8
-          },
-          "score": 2143.1,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_8"
-          ]
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Team Shambles",
-          "record": {
-            "wins": 12,
-            "losses": 2
-          },
-          "score": 2628.3,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_1"
-          ]
-        }
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "MJD Draft",
+      "record": {
+        "wins": 7,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 8,
-            "losses": 6
-          },
-          "score": 2425.2,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_5"
-          ]
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "MJD Draft",
-          "record": {
-            "wins": 7,
-            "losses": 7
-          },
-          "score": 2161,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_4"
-          ]
-        }
+      "score": 2307.9
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Consent Optional",
+      "record": {
+        "wins": 1,
+        "losses": 12
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "DeMarco... Polo",
-          "record": {
-            "wins": 8,
-            "losses": 6
-          },
-          "score": 2134.2,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_6"
-          ]
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Sack Squatch",
-          "record": {
-            "wins": 7,
-            "losses": 7
-          },
-          "score": 2075.4,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_3"
-          ]
-        }
+      "score": 2446.1
+    },
+    "tags": [
+      "WEEK_13",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 5,
+        "losses": 8
       },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "N8th Place is 2nd",
-          "record": {
-            "wins": 7,
-            "losses": 7
-          },
-          "score": 2797.3,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_7"
-          ]
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Phone's Ringing Dude",
-          "record": {
-            "wins": 10,
-            "losses": 4
-          },
-          "score": 2265.1,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_2"
-          ]
-        }
+      "score": 2715.1
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "DeMarco... Polo",
+      "record": {
+        "wins": 7,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 5,
-            "losses": 9
-          },
-          "score": 1682.9,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_10"
-          ]
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "offintheshower again",
-          "record": {
-            "wins": 7,
-            "losses": 7
-          },
-          "score": 2328.5,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_9"
-          ]
-        }
+      "score": 1974.4
+    },
+    "tags": [
+      "WEEK_13",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Sack Squatch",
+      "record": {
+        "wins": 7,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Consent Optional",
-          "record": {
-            "wins": 2,
-            "losses": 12
-          },
-          "score": 1961.7,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "WINNER",
-            "SEED_12"
-          ]
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Lucky Number 11th Place",
-          "record": {
-            "wins": 5,
-            "losses": 9
-          },
-          "score": 1875.4,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_FIRST",
-            "PLAYOFF_ROUND_1",
-            "LOSER",
-            "SEED_11"
-          ]
-        }
-      }
-    ],
+      "score": 1848.7
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Lucky Number 11th Place",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2689.1
+    },
+    "tags": [
+      "WEEK_13",
+      "DIVISIONAL_MATCHUP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Jovan Belcher",
+      "record": {
+        "wins": 6,
+        "losses": 7
+      },
+      "score": 2687.6
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Team Shambles",
+      "record": {
+        "wins": 11,
+        "losses": 2
+      },
+      "score": 2635.2
+    },
+    "tags": [
+      "WEEK_13"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Phone's Ringing Dude",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2326.9
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2345.2
+    },
+    "tags": [
+      "WEEK_13"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Jovan Belcher",
+      "record": {
+        "wins": 6,
+        "losses": 8
+      },
+      "score": 2143.1,
+      "tags": [
+        "LOSER",
+        "SEED_8"
+      ]
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Team Shambles",
+      "record": {
+        "wins": 12,
+        "losses": 2
+      },
+      "score": 2628.3,
+      "tags": [
+        "WINNER",
+        "SEED_1"
+      ]
+    },
     "tags": [
       "WEEK_14",
-      "PLAYOFF_ROUND_1"
-    ],
-    "playoffRound": 1
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
   },
-  "week15": {
-    "id": 15,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 9,
-            "losses": 6
-          },
-          "score": 2948.2,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Team Shambles",
-          "record": {
-            "wins": 12,
-            "losses": 3
-          },
-          "score": 1598.7,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        }
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 8,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "N8th Place is 2nd",
-          "record": {
-            "wins": 8,
-            "losses": 7
-          },
-          "score": 2870.6,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "DeMarco... Polo",
-          "record": {
-            "wins": 8,
-            "losses": 7
-          },
-          "score": 2165.1,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        }
+      "score": 2425.2,
+      "tags": [
+        "WINNER",
+        "SEED_5"
+      ]
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "MJD Draft",
+      "record": {
+        "wins": 7,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Sack Squatch",
-          "record": {
-            "wins": 7,
-            "losses": 8
-          },
-          "score": 2144.9,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Phone's Ringing Dude",
-          "record": {
-            "wins": 11,
-            "losses": 4
-          },
-          "score": 2438.9,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        }
+      "score": 2161,
+      "tags": [
+        "LOSER",
+        "SEED_4"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "DeMarco... Polo",
+      "record": {
+        "wins": 8,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Jovan Belcher",
-          "record": {
-            "wins": 7,
-            "losses": 8
-          },
-          "score": 2383.3,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "MJD Draft",
-          "record": {
-            "wins": 7,
-            "losses": 8
-          },
-          "score": 1890.8,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        },
-        "tags": [
-          "DIVISIONAL_MATCHUP"
-        ]
+      "score": 2134.2,
+      "tags": [
+        "WINNER",
+        "SEED_6"
+      ]
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Sack Squatch",
+      "record": {
+        "wins": 7,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Consent Optional",
-          "record": {
-            "wins": 2,
-            "losses": 13
-          },
-          "score": 2476.2,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "offintheshower again",
-          "record": {
-            "wins": 8,
-            "losses": 7
-          },
-          "score": 2954.5,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        }
+      "score": 2075.4,
+      "tags": [
+        "LOSER",
+        "SEED_3"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "N8th Place is 2nd",
+      "record": {
+        "wins": 7,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Lucky Number 11th Place",
-          "record": {
-            "wins": 5,
-            "losses": 10
-          },
-          "score": 2003.3,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "LOSER"
-          ]
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 6,
-            "losses": 9
-          },
-          "score": 2413.1,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
-            "PLAYOFF_ROUND_2",
-            "WINNER"
-          ]
-        }
-      }
-    ],
+      "score": 2797.3,
+      "tags": [
+        "WINNER",
+        "SEED_7"
+      ]
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Phone's Ringing Dude",
+      "record": {
+        "wins": 10,
+        "losses": 4
+      },
+      "score": 2265.1,
+      "tags": [
+        "LOSER",
+        "SEED_2"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 5,
+        "losses": 9
+      },
+      "score": 1682.9,
+      "tags": [
+        "LOSER",
+        "SEED_10"
+      ]
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "offintheshower again",
+      "record": {
+        "wins": 7,
+        "losses": 7
+      },
+      "score": 2328.5,
+      "tags": [
+        "WINNER",
+        "SEED_9"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Consent Optional",
+      "record": {
+        "wins": 2,
+        "losses": 12
+      },
+      "score": 1961.7,
+      "tags": [
+        "WINNER",
+        "SEED_12"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Lucky Number 11th Place",
+      "record": {
+        "wins": 5,
+        "losses": 9
+      },
+      "score": 1875.4,
+      "tags": [
+        "LOSER",
+        "SEED_11"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 9,
+        "losses": 6
+      },
+      "score": 2948.2,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Team Shambles",
+      "record": {
+        "wins": 12,
+        "losses": 3
+      },
+      "score": 1598.7,
+      "tags": [
+        "LOSER"
+      ]
+    },
     "tags": [
       "WEEK_15",
-      "PLAYOFF_ROUND_2"
-    ],
-    "playoffRound": 2
+      "PLAYOFF_ROUND_2",
+      "PLAYOFF",
+      "PLAYOFF_SEMIFINAL"
+    ]
   },
-  "week16": {
-    "id": 16,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "N8th Place is 2nd",
-          "record": {
-            "wins": 9,
-            "losses": 7
-          },
-          "score": 2511.2,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_CHAMPIONSHIP",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "CHAMPION",
-            "PLACE_1"
-          ]
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "The One Eyed Man is King",
-          "record": {
-            "wins": 9,
-            "losses": 7
-          },
-          "score": 2276.4,
-          "tags": [
-            "PLAYOFF",
-            "PLAYOFF_ROUND_CHAMPIONSHIP",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "RUNNER_UP",
-            "PLACE_2"
-          ]
-        }
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "N8th Place is 2nd",
+      "record": {
+        "wins": 8,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "DeMarco... Polo",
-          "record": {
-            "wins": 9,
-            "losses": 7
-          },
-          "score": 2167.4,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "PLACE_3"
-          ]
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Team Shambles",
-          "record": {
-            "wins": 12,
-            "losses": 4
-          },
-          "score": 2098,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "PLACE_4"
-          ]
-        }
+      "score": 2870.6,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "DeMarco... Polo",
+      "record": {
+        "wins": 8,
+        "losses": 7
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Jovan Belcher",
-          "record": {
-            "wins": 7,
-            "losses": 9
-          },
-          "score": 1876,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "PLACE_6"
-          ]
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "Phone's Ringing Dude",
-          "record": {
-            "wins": 12,
-            "losses": 4
-          },
-          "score": 2578.2,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "PLACE_5"
-          ]
-        }
+      "score": 2165.1,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2",
+      "PLAYOFF",
+      "PLAYOFF_SEMIFINAL"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Sack Squatch",
+      "record": {
+        "wins": 7,
+        "losses": 8
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "MJD Draft",
-          "record": {
-            "wins": 8,
-            "losses": 8
-          },
-          "score": 2898.7,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "PLACE_7"
-          ]
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Sack Squatch",
-          "record": {
-            "wins": 7,
-            "losses": 9
-          },
-          "score": 2259.7,
-          "tags": [
-            "CONSOLATION_WINNERS",
-            "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "PLACE_8"
-          ]
-        }
+      "score": 2144.9,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Phone's Ringing Dude",
+      "record": {
+        "wins": 11,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "Jotas Hos",
-          "record": {
-            "wins": 6,
-            "losses": 10
-          },
-          "score": 2453.2,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH",
-            "PLAYOFF_ROUND_3",
-            "LOSER",
-            "PLACE_10"
-          ]
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "offintheshower again",
-          "record": {
-            "wins": 9,
-            "losses": 7
-          },
-          "score": 2513.5,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH",
-            "PLAYOFF_ROUND_3",
-            "WINNER",
-            "PLACE_9"
-          ]
-        }
+      "score": 2438.9,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_SEMIFINAL_THIRD"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Jovan Belcher",
+      "record": {
+        "wins": 7,
+        "losses": 8
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Consent Optional",
-          "record": {
-            "wins": 2,
-            "losses": 14
-          },
-          "score": 2091.9,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
-            "PLAYOFF_ROUND_3",
-            "CONSOLATION_LAST_PLACE",
-            "LOSER",
-            "PLACE_12",
-            "LAST_PLACE"
-          ]
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Lucky Number 11th Place",
-          "record": {
-            "wins": 6,
-            "losses": 10
-          },
-          "score": 2173.2,
-          "tags": [
-            "CONSOLATION_LOSERS",
-            "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
-            "PLAYOFF_ROUND_3",
-            "CONSOLATION_LAST_PLACE",
-            "WINNER",
-            "PLACE_11"
-          ]
-        }
-      }
-    ],
+      "score": 2383.3,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "MJD Draft",
+      "record": {
+        "wins": 7,
+        "losses": 8
+      },
+      "score": 1890.8,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "DIVISIONAL_MATCHUP",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_SEMIFINAL_THIRD"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Consent Optional",
+      "record": {
+        "wins": 2,
+        "losses": 13
+      },
+      "score": 2476.2,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "offintheshower again",
+      "record": {
+        "wins": 8,
+        "losses": 7
+      },
+      "score": 2954.5,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_SEMIFINAL"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Lucky Number 11th Place",
+      "record": {
+        "wins": 5,
+        "losses": 10
+      },
+      "score": 2003.3,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 6,
+        "losses": 9
+      },
+      "score": 2413.1,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_SEMIFINAL"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "N8th Place is 2nd",
+      "record": {
+        "wins": 9,
+        "losses": 7
+      },
+      "score": 2511.2,
+      "tags": [
+        "WINNER",
+        "CHAMPION",
+        "PLACE_1"
+      ]
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "The One Eyed Man is King",
+      "record": {
+        "wins": 9,
+        "losses": 7
+      },
+      "score": 2276.4,
+      "tags": [
+        "LOSER",
+        "RUNNER_UP",
+        "PLACE_2"
+      ]
+    },
     "tags": [
       "WEEK_16",
-      "PLAYOFF_ROUND_3"
-    ],
-    "playoffRound": 3
+      "PLAYOFF_ROUND_3",
+      "PLAYOFF",
+      "PLAYOFF_CHAMPIONSHIP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "DeMarco... Polo",
+      "record": {
+        "wins": 9,
+        "losses": 7
+      },
+      "score": 2167.4,
+      "tags": [
+        "WINNER",
+        "PLACE_3"
+      ]
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Team Shambles",
+      "record": {
+        "wins": 12,
+        "losses": 4
+      },
+      "score": 2098,
+      "tags": [
+        "LOSER",
+        "PLACE_4"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "Jovan Belcher",
+      "record": {
+        "wins": 7,
+        "losses": 9
+      },
+      "score": 1876,
+      "tags": [
+        "LOSER",
+        "PLACE_6"
+      ]
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Phone's Ringing Dude",
+      "record": {
+        "wins": 12,
+        "losses": 4
+      },
+      "score": 2578.2,
+      "tags": [
+        "WINNER",
+        "PLACE_5"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "MJD Draft",
+      "record": {
+        "wins": 8,
+        "losses": 8
+      },
+      "score": 2898.7,
+      "tags": [
+        "WINNER",
+        "PLACE_7"
+      ]
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Sack Squatch",
+      "record": {
+        "wins": 7,
+        "losses": 9
+      },
+      "score": 2259.7,
+      "tags": [
+        "LOSER",
+        "PLACE_8"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 6,
+        "losses": 10
+      },
+      "score": 2453.2,
+      "tags": [
+        "LOSER",
+        "PLACE_10"
+      ]
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "offintheshower again",
+      "record": {
+        "wins": 9,
+        "losses": 7
+      },
+      "score": 2513.5,
+      "tags": [
+        "WINNER",
+        "PLACE_9"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Consent Optional",
+      "record": {
+        "wins": 2,
+        "losses": 14
+      },
+      "score": 2091.9,
+      "tags": [
+        "LOSER",
+        "PLACE_12",
+        "LAST_PLACE"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Lucky Number 11th Place",
+      "record": {
+        "wins": 6,
+        "losses": 10
+      },
+      "score": 2173.2,
+      "tags": [
+        "WINNER",
+        "PLACE_11"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
+      "CONSOLATION_LAST_PLACE"
+    ]
   }
-}
+]
