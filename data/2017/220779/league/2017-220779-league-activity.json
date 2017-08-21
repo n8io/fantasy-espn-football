@@ -1,5 +1,294 @@
 [
   {
+    "date": "0001-08-21T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "BROK dropped Steve Smith Sr., Bal WR to Waivers",
+        "BROK dropped Larry Fitzgerald, Ari WR to Waivers",
+        "BROK dropped Ahtyba Rubin, Sea DT to Waivers",
+        "BROK dropped Robert Ayers, TB DE to Waivers",
+        "BROK dropped Matthew Stafford, Det QB to Waivers",
+        "BROK dropped Patrick Chung, NE S to Waivers",
+        "BROK dropped Ndamukong Suh, Mia DT to Waivers",
+        "BROK dropped Corey Liuget, LAC DT to Waivers",
+        "BROK dropped Lance Kendricks, GB TE to Waivers",
+        "BROK dropped Jacquizz Rodgers, TB RB to Waivers",
+        "BROK dropped Dont'a Hightower*, NE LB to Waivers",
+        "BROK dropped Trumaine Johnson, LAR CB to Waivers",
+        "BROK dropped Keenan Robinson, NYG LB to Waivers",
+        "BROK dropped DeShawn Shead*, Sea CB to Waivers",
+        "BROK dropped Justin Tucker, Bal K to Waivers",
+        "BROK dropped Tavon Austin, LAR WR to Waivers",
+        "BROK dropped T.J. McDonald, Mia S to Waivers",
+        "BROK dropped Mike Gillislee, NE RB to Waivers",
+        "BROK dropped Ryan Allen, NE P to Waivers",
+        "BROK dropped Ryan Shazier, Pit LB to Waivers",
+        "BROK dropped James White, NE RB to Waivers",
+        "BROK dropped Brandon McManus, Den K to Waivers",
+        "BROK dropped Bashaud Breeland, Wsh CB to Waivers",
+        "BROK dropped Caraun Reid, LAC DT to Waivers",
+        "BROK dropped Jordan Berry, Pit P to Waivers",
+        "BROK dropped Benardrick McKinney, Hou LB to Waivers",
+        "BROK dropped Quincy Enunwa*, NYJ WR to Waivers",
+        "BROK dropped Hunter Henry, LAC TE to Waivers",
+        "BROK dropped Tyreek Hill, KC WR to Waivers",
+        "BROK dropped Jalen Mills, Phi CB to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Steve Smith Sr.",
+            "team": "Bal",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Larry Fitzgerald",
+            "team": "Ari",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Ahtyba Rubin",
+            "team": "Sea",
+            "position": "DT"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Robert Ayers",
+            "team": "TB",
+            "position": "DE"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Matthew Stafford",
+            "team": "Det",
+            "position": "QB"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Patrick Chung",
+            "team": "NE",
+            "position": "S"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Ndamukong Suh",
+            "team": "Mia",
+            "position": "DT"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Corey Liuget",
+            "team": "LAC",
+            "position": "DT"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Lance Kendricks",
+            "team": "GB",
+            "position": "TE"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Jacquizz Rodgers",
+            "team": "TB",
+            "position": "RB"
+          }
+        },
+        null,
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Trumaine Johnson",
+            "team": "LAR",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Keenan Robinson",
+            "team": "NYG",
+            "position": "LB"
+          }
+        },
+        null,
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Justin Tucker",
+            "team": "Bal",
+            "position": "K"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Tavon Austin",
+            "team": "LAR",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "T.J. McDonald",
+            "team": "Mia",
+            "position": "S"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Mike Gillislee",
+            "team": "NE",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Ryan Allen",
+            "team": "NE",
+            "position": "P"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Ryan Shazier",
+            "team": "Pit",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "James White",
+            "team": "NE",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Brandon McManus",
+            "team": "Den",
+            "position": "K"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Bashaud Breeland",
+            "team": "Wsh",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Caraun Reid",
+            "team": "LAC",
+            "position": "DT"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Jordan Berry",
+            "team": "Pit",
+            "position": "P"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Benardrick McKinney",
+            "team": "Hou",
+            "position": "LB"
+          }
+        },
+        null,
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Hunter Henry",
+            "team": "LAC",
+            "position": "TE"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Tyreek Hill",
+            "team": "KC",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "BROK",
+          "action": "DROP",
+          "player": {
+            "name": "Jalen Mills",
+            "team": "Phi",
+            "position": "CB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
     "date": "0009-08-21T04:00:00Z",
     "type": "ROSTER_TRANSACTION",
     "subType": "ROSTER_DROP",

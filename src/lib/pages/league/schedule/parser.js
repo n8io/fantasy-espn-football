@@ -55,8 +55,8 @@ const parseResultFromString = str => {
   const regHomeScore = /[-]([1-9]+[0-9]*([.][0-9]+)?)/gi;
 
   return {
-    homeScore: parseValueFromStringByRegex(str, regAwayScore, 0, 'float'),
-    awayScore: parseValueFromStringByRegex(str, regHomeScore, 0, 'float'),
+    homeScore: parseValueFromStringByRegex(str, regHomeScore, 0, 'float'),
+    awayScore: parseValueFromStringByRegex(str, regAwayScore, 0, 'float'),
   };
 };
 
@@ -96,6 +96,17 @@ export const parseRows = (rows, members) => {
       matchup.homeTeam.score = homeScore;
       matchup.awayTeam.score = awayScore;
 
+      if (homeScore > awayScore) {
+        matchup.homeTeam.tags = unique([...(matchup.homeTeam.tags || []), tags.WINNER]);
+        matchup.awayTeam.tags = unique([...(matchup.awayTeam.tags || []), tags.LOSER]);
+      } else if (homeScore < awayScore) {
+        matchup.homeTeam.tags = unique([...(matchup.homeTeam.tags || []), tags.LOSER]);
+        matchup.awayTeam.tags = unique([...(matchup.awayTeam.tags || []), tags.WINNER]);
+      } else {
+        matchup.homeTeam.tags = unique([...(matchup.homeTeam.tags || []), tags.INDETERMINATE]);
+        matchup.awayTeam.tags = unique([...(matchup.awayTeam.tags || []), tags.INDETERMINATE]);
+      }
+
       if (isDivisionalMatchup(matchup.homeTeam.id, matchup.awayTeam.id, members)) {
         matchup.tags = unique([...(matchup.tags || []), tags.DIVISIONAL_MATCHUP]);
       }
@@ -124,6 +135,12 @@ export const parseRows = (rows, members) => {
         schedule[`week${week}`].matchups = schedule[`week${week}`].matchups.map(mu => ({
           ...mu,
           tags: unique([...mu.tags, tags[`PLAYOFF_ROUND_${playoffRound}`]]),
+        }));
+      } else {
+        // eslint-disable-next-line no-loop-func
+        schedule[`week${week}`].matchups = schedule[`week${week}`].matchups.map(mu => ({
+          ...mu,
+          tags: unique([...mu.tags, tags.REGULAR_SEASON]),
         }));
       }
 

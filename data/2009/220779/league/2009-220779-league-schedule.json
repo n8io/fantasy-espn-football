@@ -7,7 +7,10 @@
         "wins": 0,
         "losses": 1
       },
-      "score": 3428.1
+      "score": 2139.1,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 1,
@@ -16,11 +19,15 @@
         "wins": 1,
         "losses": 0
       },
-      "score": 2139.1
+      "score": 3428.1,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
       "WEEK_1",
-      "DIVISIONAL_MATCHUP"
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -31,7 +38,10 @@
         "wins": 0,
         "losses": 1
       },
-      "score": 2934.9
+      "score": 2039.2,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 3,
@@ -40,10 +50,14 @@
         "wins": 1,
         "losses": 0
       },
-      "score": 2039.2
+      "score": 2934.9,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_1"
+      "WEEK_1",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -54,7 +68,10 @@
         "wins": 1,
         "losses": 0
       },
-      "score": 2108.2
+      "score": 2327.6,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 5,
@@ -63,10 +80,14 @@
         "wins": 0,
         "losses": 1
       },
-      "score": 2327.6
+      "score": 2108.2,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_1"
+      "WEEK_1",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -77,7 +98,10 @@
         "wins": 0,
         "losses": 1
       },
-      "score": 2291.4
+      "score": 2080.6,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 7,
@@ -86,10 +110,14 @@
         "wins": 1,
         "losses": 0
       },
-      "score": 2080.6
+      "score": 2291.4,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_1"
+      "WEEK_1",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -100,7 +128,10 @@
         "wins": 1,
         "losses": 0
       },
-      "score": 1556.2
+      "score": 1989,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 9,
@@ -109,10 +140,14 @@
         "wins": 0,
         "losses": 1
       },
-      "score": 1989
+      "score": 1556.2,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_1"
+      "WEEK_1",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -123,7 +158,10 @@
         "wins": 0,
         "losses": 1
       },
-      "score": 2803.4
+      "score": 2257.2,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 11,
@@ -132,10 +170,14 @@
         "wins": 1,
         "losses": 0
       },
-      "score": 2257.2
+      "score": 2803.4,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_1"
+      "WEEK_1",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -146,7 +188,10 @@
         "wins": 1,
         "losses": 1
       },
-      "score": 3084.6
+      "score": 2487.8,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 3,
@@ -155,103 +200,135 @@
         "wins": 2,
         "losses": 0
       },
-      "score": 2487.8
-    },
-    "tags": [
-      "WEEK_2"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 5,
-      "name": "TDs N Beer",
-      "record": {
-        "wins": 0,
-        "losses": 2
-      },
-      "score": 2439.2
-    },
-    "homeTeam": {
-      "id": 7,
-      "name": "off in the shower",
-      "record": {
-        "wins": 2,
-        "losses": 0
-      },
-      "score": 2199
-    },
-    "tags": [
-      "WEEK_2"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 9,
-      "name": "Tripple Threat",
-      "record": {
-        "wins": 1,
-        "losses": 1
-      },
-      "score": 2366.6
-    },
-    "homeTeam": {
-      "id": 11,
-      "name": "Whiskey Ditkas",
-      "record": {
-        "wins": 1,
-        "losses": 1
-      },
-      "score": 2596.3
-    },
-    "tags": [
-      "WEEK_2"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 2,
-      "name": "Jotas Hos",
-      "record": {
-        "wins": 0,
-        "losses": 2
-      },
-      "score": 2108.1
-    },
-    "homeTeam": {
-      "id": 4,
-      "name": "League Doormat",
-      "record": {
-        "wins": 1,
-        "losses": 1
-      },
-      "score": 1980.5
-    },
-    "tags": [
-      "WEEK_2"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 6,
-      "name": "Powdered Toast Man",
-      "record": {
-        "wins": 2,
-        "losses": 0
-      },
-      "score": 2309.8
-    },
-    "homeTeam": {
-      "id": 8,
-      "name": "Team Fuck",
-      "record": {
-        "wins": 0,
-        "losses": 2
-      },
-      "score": 2378.2
+      "score": 3084.6,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
       "WEEK_2",
-      "DIVISIONAL_MATCHUP"
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "TDs N Beer",
+      "record": {
+        "wins": 0,
+        "losses": 2
+      },
+      "score": 2199,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "off in the shower",
+      "record": {
+        "wins": 2,
+        "losses": 0
+      },
+      "score": 2439.2,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_2",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Tripple Threat",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 2596.3,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Whiskey Ditkas",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 2366.6,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_2",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "Jotas Hos",
+      "record": {
+        "wins": 0,
+        "losses": 2
+      },
+      "score": 1980.5,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "League Doormat",
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "score": 2108.1,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_2",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Powdered Toast Man",
+      "record": {
+        "wins": 2,
+        "losses": 0
+      },
+      "score": 2378.2,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "Team Fuck",
+      "record": {
+        "wins": 0,
+        "losses": 2
+      },
+      "score": 2309.8,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_2",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -262,7 +339,10 @@
         "wins": 2,
         "losses": 0
       },
-      "score": 2041.3
+      "score": 2679.5,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 12,
@@ -271,10 +351,14 @@
         "wins": 0,
         "losses": 2
       },
-      "score": 2679.5
+      "score": 2041.3,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_2"
+      "WEEK_2",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -285,7 +369,10 @@
         "wins": 1,
         "losses": 2
       },
-      "score": 2370.5
+      "score": 1974.2,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 1,
@@ -294,10 +381,14 @@
         "wins": 2,
         "losses": 1
       },
-      "score": 1974.2
+      "score": 2370.5,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_3"
+      "WEEK_3",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -308,7 +399,10 @@
         "wins": 0,
         "losses": 3
       },
-      "score": 1977.8
+      "score": 1804.1,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 5,
@@ -317,10 +411,14 @@
         "wins": 1,
         "losses": 2
       },
-      "score": 1804.1
+      "score": 1977.8,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_3"
+      "WEEK_3",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -331,7 +429,10 @@
         "wins": 0,
         "losses": 3
       },
-      "score": 2491.1
+      "score": 1789.5,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 9,
@@ -340,11 +441,15 @@
         "wins": 2,
         "losses": 1
       },
-      "score": 1789.5
+      "score": 2491.1,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
       "WEEK_3",
-      "DIVISIONAL_MATCHUP"
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -355,7 +460,10 @@
         "wins": 3,
         "losses": 0
       },
-      "score": 2430.8
+      "score": 3128.7,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 2,
@@ -364,10 +472,14 @@
         "wins": 0,
         "losses": 3
       },
-      "score": 3128.7
+      "score": 2430.8,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_3"
+      "WEEK_3",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -378,7 +490,10 @@
         "wins": 2,
         "losses": 1
       },
-      "score": 2532.2
+      "score": 2021.1,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 6,
@@ -387,10 +502,14 @@
         "wins": 3,
         "losses": 0
       },
-      "score": 2021.1
+      "score": 2532.2,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_3"
+      "WEEK_3",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -401,7 +520,10 @@
         "wins": 2,
         "losses": 1
       },
-      "score": 2022.4
+      "score": 2288.5,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 10,
@@ -410,11 +532,15 @@
         "wins": 2,
         "losses": 1
       },
-      "score": 2288.5
+      "score": 2022.4,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
       "WEEK_3",
-      "DIVISIONAL_MATCHUP"
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -425,7 +551,10 @@
         "wins": 2,
         "losses": 2
       },
-      "score": 2447.9
+      "score": 2308.7,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 5,
@@ -434,11 +563,15 @@
         "wins": 2,
         "losses": 2
       },
-      "score": 2308.7
+      "score": 2447.9,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
       "WEEK_4",
-      "DIVISIONAL_MATCHUP"
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -449,7 +582,10 @@
         "wins": 1,
         "losses": 3
       },
-      "score": 2432.8
+      "score": 2179,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 9,
@@ -458,10 +594,14 @@
         "wins": 3,
         "losses": 1
       },
-      "score": 2179
+      "score": 2432.8,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_4"
+      "WEEK_4",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -472,7 +612,10 @@
         "wins": 0,
         "losses": 4
       },
-      "score": 2516.5
+      "score": 1864.5,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 11,
@@ -481,10 +624,14 @@
         "wins": 3,
         "losses": 1
       },
-      "score": 1864.5
+      "score": 2516.5,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_4"
+      "WEEK_4",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -495,7 +642,10 @@
         "wins": 4,
         "losses": 0
       },
-      "score": 1836.4
+      "score": 2843.4,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 12,
@@ -504,10 +654,14 @@
         "wins": 0,
         "losses": 4
       },
-      "score": 2843.4
+      "score": 1836.4,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_4"
+      "WEEK_4",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -518,7 +672,10 @@
         "wins": 0,
         "losses": 4
       },
-      "score": 2491
+      "score": 2215.9,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 7,
@@ -527,10 +684,14 @@
         "wins": 3,
         "losses": 1
       },
-      "score": 2215.9
+      "score": 2491,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_4"
+      "WEEK_4",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -541,7 +702,10 @@
         "wins": 4,
         "losses": 0
       },
-      "score": 1918.4
+      "score": 2271.8,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 10,
@@ -550,10 +714,14 @@
         "wins": 2,
         "losses": 2
       },
-      "score": 2271.8
+      "score": 1918.4,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_4"
+      "WEEK_4",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -564,7 +732,10 @@
         "wins": 4,
         "losses": 1
       },
-      "score": 2272.4
+      "score": 1808.2,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 1,
@@ -573,10 +744,14 @@
         "wins": 3,
         "losses": 2
       },
-      "score": 1808.2
+      "score": 2272.4,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_5"
+      "WEEK_5",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -587,7 +762,10 @@
         "wins": 4,
         "losses": 1
       },
-      "score": 2474.6
+      "score": 2864.2,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 4,
@@ -596,11 +774,15 @@
         "wins": 1,
         "losses": 4
       },
-      "score": 2864.2
+      "score": 2474.6,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
       "WEEK_5",
-      "DIVISIONAL_MATCHUP"
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -611,7 +793,10 @@
         "wins": 0,
         "losses": 5
       },
-      "score": 2503
+      "score": 2119.8,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 7,
@@ -620,11 +805,15 @@
         "wins": 4,
         "losses": 1
       },
-      "score": 2119.8
+      "score": 2503,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
       "WEEK_5",
-      "DIVISIONAL_MATCHUP"
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -635,7 +824,10 @@
         "wins": 2,
         "losses": 3
       },
-      "score": 2573.5
+      "score": 1393.2,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 3,
@@ -644,10 +836,14 @@
         "wins": 5,
         "losses": 0
       },
-      "score": 1393.2
+      "score": 2573.5,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_5"
+      "WEEK_5",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -658,7 +854,10 @@
         "wins": 3,
         "losses": 2
       },
-      "score": 2636.9
+      "score": 2285,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 8,
@@ -667,10 +866,14 @@
         "wins": 1,
         "losses": 4
       },
-      "score": 2285
+      "score": 2636.9,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_5"
+      "WEEK_5",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -681,7 +884,10 @@
         "wins": 3,
         "losses": 2
       },
-      "score": 1545.1
+      "score": 2064,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 2,
@@ -690,10 +896,14 @@
         "wins": 0,
         "losses": 5
       },
-      "score": 2064
+      "score": 1545.1,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_5"
+      "WEEK_5",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -704,7 +914,10 @@
         "wins": 4,
         "losses": 2
       },
-      "score": 2722
+      "score": 2738.4,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 7,
@@ -713,10 +926,14 @@
         "wins": 4,
         "losses": 2
       },
-      "score": 2738.4
+      "score": 2722,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_6"
+      "WEEK_6",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -727,7 +944,10 @@
         "wins": 1,
         "losses": 5
       },
-      "score": 2868.1
+      "score": 2459.8,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 10,
@@ -736,11 +956,15 @@
         "wins": 4,
         "losses": 2
       },
-      "score": 2459.8
+      "score": 2868.1,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
       "WEEK_6",
-      "DIVISIONAL_MATCHUP"
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -751,7 +975,10 @@
         "wins": 2,
         "losses": 4
       },
-      "score": 2532
+      "score": 2623.5,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 12,
@@ -760,10 +987,14 @@
         "wins": 0,
         "losses": 6
       },
-      "score": 2623.5
+      "score": 2532,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_6"
+      "WEEK_6",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -774,7 +1005,10 @@
         "wins": 6,
         "losses": 0
       },
-      "score": 1996.6
+      "score": 2013.8,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 6,
@@ -783,11 +1017,15 @@
         "wins": 4,
         "losses": 2
       },
-      "score": 2013.8
+      "score": 1996.6,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
       "WEEK_6",
-      "DIVISIONAL_MATCHUP"
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -798,7 +1036,10 @@
         "wins": 2,
         "losses": 4
       },
-      "score": 2811.1
+      "score": 2250.7,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 11,
@@ -807,10 +1048,14 @@
         "wins": 5,
         "losses": 1
       },
-      "score": 2250.7
+      "score": 2811.1,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_6"
+      "WEEK_6",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -821,7 +1066,10 @@
         "wins": 1,
         "losses": 5
       },
-      "score": 2378.6
+      "score": 2515.4,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 9,
@@ -830,10 +1078,14 @@
         "wins": 3,
         "losses": 3
       },
-      "score": 2515.4
+      "score": 2378.6,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_6"
+      "WEEK_6",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -844,7 +1096,10 @@
         "wins": 2,
         "losses": 5
       },
-      "score": 2627.4
+      "score": 2088.5,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 1,
@@ -853,10 +1108,14 @@
         "wins": 5,
         "losses": 2
       },
-      "score": 2088.5
+      "score": 2627.4,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_7"
+      "WEEK_7",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -867,7 +1126,10 @@
         "wins": 4,
         "losses": 3
       },
-      "score": 2405.7
+      "score": 2195.9,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 3,
@@ -876,10 +1138,14 @@
         "wins": 7,
         "losses": 0
       },
-      "score": 2195.9
+      "score": 2405.7,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_7"
+      "WEEK_7",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -890,7 +1156,10 @@
         "wins": 6,
         "losses": 1
       },
-      "score": 2272.4
+      "score": 2505.6,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 7,
@@ -899,10 +1168,14 @@
         "wins": 4,
         "losses": 3
       },
-      "score": 2505.6
+      "score": 2272.4,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_7"
+      "WEEK_7",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -913,7 +1186,10 @@
         "wins": 3,
         "losses": 4
       },
-      "score": 2915.4
+      "score": 2085.6,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 6,
@@ -922,10 +1198,14 @@
         "wins": 5,
         "losses": 2
       },
-      "score": 2085.6
+      "score": 2915.4,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_7"
+      "WEEK_7",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -936,7 +1216,10 @@
         "wins": 3,
         "losses": 4
       },
-      "score": 1962.5
+      "score": 2329.4,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 4,
@@ -945,10 +1228,14 @@
         "wins": 1,
         "losses": 6
       },
-      "score": 2329.4
+      "score": 1962.5,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_7"
+      "WEEK_7",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -959,7 +1246,10 @@
         "wins": 1,
         "losses": 6
       },
-      "score": 1860.8
+      "score": 2517.5,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 2,
@@ -968,10 +1258,14 @@
         "wins": 1,
         "losses": 6
       },
-      "score": 2517.5
+      "score": 1860.8,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_7"
+      "WEEK_7",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -982,7 +1276,10 @@
         "wins": 6,
         "losses": 2
       },
-      "score": 2039.5
+      "score": 2637.2,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 9,
@@ -991,10 +1288,14 @@
         "wins": 3,
         "losses": 5
       },
-      "score": 2637.2
+      "score": 2039.5,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_8"
+      "WEEK_8",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1005,7 +1306,10 @@
         "wins": 8,
         "losses": 0
       },
-      "score": 1631
+      "score": 2772.1,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 7,
@@ -1014,10 +1318,14 @@
         "wins": 4,
         "losses": 4
       },
-      "score": 2772.1
+      "score": 1631,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_8"
+      "WEEK_8",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1028,7 +1336,10 @@
         "wins": 2,
         "losses": 6
       },
-      "score": 1941.8
+      "score": 1886.5,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 10,
@@ -1037,10 +1348,14 @@
         "wins": 5,
         "losses": 3
       },
-      "score": 1886.5
+      "score": 1941.8,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_8"
+      "WEEK_8",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1051,7 +1366,10 @@
         "wins": 2,
         "losses": 6
       },
-      "score": 2229.1
+      "score": 2999.4,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 11,
@@ -1060,10 +1378,14 @@
         "wins": 6,
         "losses": 2
       },
-      "score": 2999.4
+      "score": 2229.1,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_8"
+      "WEEK_8",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1074,7 +1396,10 @@
         "wins": 1,
         "losses": 7
       },
-      "score": 2457.3
+      "score": 1932,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 6,
@@ -1083,10 +1408,14 @@
         "wins": 6,
         "losses": 2
       },
-      "score": 1932
+      "score": 2457.3,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_8"
+      "WEEK_8",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1097,7 +1426,10 @@
         "wins": 3,
         "losses": 5
       },
-      "score": 1921.7
+      "score": 1633.1,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 12,
@@ -1106,10 +1438,14 @@
         "wins": 2,
         "losses": 6
       },
-      "score": 1633.1
+      "score": 1921.7,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_8"
+      "WEEK_8",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1120,7 +1456,10 @@
         "wins": 5,
         "losses": 4
       },
-      "score": 2155
+      "score": 2096,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 1,
@@ -1129,10 +1468,14 @@
         "wins": 7,
         "losses": 2
       },
-      "score": 2096
+      "score": 2155,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_9"
+      "WEEK_9",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1143,7 +1486,10 @@
         "wins": 3,
         "losses": 6
       },
-      "score": 2480.7
+      "score": 2119.3,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 7,
@@ -1152,11 +1498,15 @@
         "wins": 5,
         "losses": 4
       },
-      "score": 2119.3
+      "score": 2480.7,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
       "WEEK_9",
-      "DIVISIONAL_MATCHUP"
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1167,7 +1517,10 @@
         "wins": 6,
         "losses": 3
       },
-      "score": 2640.4
+      "score": 2604.2,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 3,
@@ -1176,10 +1529,14 @@
         "wins": 9,
         "losses": 0
       },
-      "score": 2604.2
+      "score": 2640.4,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_9"
+      "WEEK_9",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1190,7 +1547,10 @@
         "wins": 3,
         "losses": 6
       },
-      "score": 2120
+      "score": 2288.5,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 4,
@@ -1199,10 +1559,14 @@
         "wins": 1,
         "losses": 8
       },
-      "score": 2288.5
+      "score": 2120,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_9"
+      "WEEK_9",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1213,7 +1577,10 @@
         "wins": 4,
         "losses": 5
       },
-      "score": 2614.4
+      "score": 2692.9,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 2,
@@ -1222,11 +1589,15 @@
         "wins": 2,
         "losses": 7
       },
-      "score": 2692.9
+      "score": 2614.4,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
       "WEEK_9",
-      "DIVISIONAL_MATCHUP"
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1237,7 +1608,10 @@
         "wins": 2,
         "losses": 7
       },
-      "score": 2643
+      "score": 1930.2,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 6,
@@ -1246,10 +1620,14 @@
         "wins": 7,
         "losses": 2
       },
-      "score": 1930.2
+      "score": 2643,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_9"
+      "WEEK_9",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1260,7 +1638,10 @@
         "wins": 7,
         "losses": 3
       },
-      "score": 2205.8
+      "score": 2121.8,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 11,
@@ -1269,10 +1650,14 @@
         "wins": 7,
         "losses": 3
       },
-      "score": 2121.8
+      "score": 2205.8,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_10"
+      "WEEK_10",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1283,7 +1668,10 @@
         "wins": 2,
         "losses": 8
       },
-      "score": 2308.9
+      "score": 3205.6,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 12,
@@ -1292,10 +1680,14 @@
         "wins": 2,
         "losses": 8
       },
-      "score": 3205.6
+      "score": 2308.9,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_10"
+      "WEEK_10",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1306,7 +1698,10 @@
         "wins": 6,
         "losses": 4
       },
-      "score": 2144.8
+      "score": 2180,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 10,
@@ -1315,10 +1710,14 @@
         "wins": 5,
         "losses": 5
       },
-      "score": 2180
+      "score": 2144.8,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_10"
+      "WEEK_10",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1329,7 +1728,10 @@
         "wins": 5,
         "losses": 5
       },
-      "score": 2280.4
+      "score": 2327.2,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 9,
@@ -1338,10 +1740,14 @@
         "wins": 3,
         "losses": 7
       },
-      "score": 2327.2
+      "score": 2280.4,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_10"
+      "WEEK_10",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1352,7 +1758,10 @@
         "wins": 10,
         "losses": 0
       },
-      "score": 2027.1
+      "score": 3213.3,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 8,
@@ -1361,11 +1770,15 @@
         "wins": 3,
         "losses": 7
       },
-      "score": 3213.3
+      "score": 2027.1,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
       "WEEK_10",
-      "DIVISIONAL_MATCHUP"
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1376,7 +1789,10 @@
         "wins": 2,
         "losses": 8
       },
-      "score": 2720
+      "score": 2311.4,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 6,
@@ -1385,10 +1801,14 @@
         "wins": 8,
         "losses": 2
       },
-      "score": 2311.4
+      "score": 2720,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_10"
+      "WEEK_10",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1399,7 +1819,10 @@
         "wins": 2,
         "losses": 9
       },
-      "score": 2807.9
+      "score": 2451.6,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 1,
@@ -1408,10 +1831,14 @@
         "wins": 8,
         "losses": 3
       },
-      "score": 2451.6
+      "score": 2807.9,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_11"
+      "WEEK_11",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1422,7 +1849,10 @@
         "wins": 7,
         "losses": 4
       },
-      "score": 2694.3
+      "score": 2454.8,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 6,
@@ -1431,10 +1861,14 @@
         "wins": 9,
         "losses": 2
       },
-      "score": 2454.8
+      "score": 2694.3,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_11"
+      "WEEK_11",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1445,7 +1879,10 @@
         "wins": 7,
         "losses": 4
       },
-      "score": 1599.2
+      "score": 2262.4,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 4,
@@ -1454,10 +1891,14 @@
         "wins": 2,
         "losses": 9
       },
-      "score": 2262.4
+      "score": 1599.2,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_11"
+      "WEEK_11",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1468,7 +1909,10 @@
         "wins": 6,
         "losses": 5
       },
-      "score": 2293.9
+      "score": 2449.3,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 5,
@@ -1477,10 +1921,14 @@
         "wins": 5,
         "losses": 6
       },
-      "score": 2449.3
+      "score": 2293.9,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_11"
+      "WEEK_11",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1491,7 +1939,10 @@
         "wins": 3,
         "losses": 8
       },
-      "score": 3144
+      "score": 2205.2,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 3,
@@ -1500,10 +1951,14 @@
         "wins": 11,
         "losses": 0
       },
-      "score": 2205.2
+      "score": 3144,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_11"
+      "WEEK_11",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1514,7 +1969,10 @@
         "wins": 3,
         "losses": 8
       },
-      "score": 2746.6
+      "score": 1893.3,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 2,
@@ -1523,10 +1981,14 @@
         "wins": 3,
         "losses": 8
       },
-      "score": 1893.3
+      "score": 2746.6,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_11"
+      "WEEK_11",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1537,7 +1999,10 @@
         "wins": 8,
         "losses": 4
       },
-      "score": 2641.3
+      "score": 2554.4,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 2,
@@ -1546,11 +2011,15 @@
         "wins": 4,
         "losses": 8
       },
-      "score": 2554.4
+      "score": 2641.3,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
       "WEEK_12",
-      "DIVISIONAL_MATCHUP"
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1561,7 +2030,10 @@
         "wins": 12,
         "losses": 0
       },
-      "score": 1802.7
+      "score": 2761.9,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 4,
@@ -1570,10 +2042,14 @@
         "wins": 2,
         "losses": 10
       },
-      "score": 2761.9
+      "score": 1802.7,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_12"
+      "WEEK_12",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1584,7 +2060,10 @@
         "wins": 5,
         "losses": 7
       },
-      "score": 3277.2
+      "score": 1743.8,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 6,
@@ -1593,10 +2072,14 @@
         "wins": 10,
         "losses": 2
       },
-      "score": 1743.8
+      "score": 3277.2,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_12"
+      "WEEK_12",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1607,7 +2090,10 @@
         "wins": 8,
         "losses": 4
       },
-      "score": 1823.5
+      "score": 2529.3,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 8,
@@ -1616,10 +2102,14 @@
         "wins": 3,
         "losses": 9
       },
-      "score": 2529.3
+      "score": 1823.5,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_12"
+      "WEEK_12",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1630,7 +2120,10 @@
         "wins": 3,
         "losses": 9
       },
-      "score": 2587.1
+      "score": 2428.5,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 10,
@@ -1639,10 +2132,14 @@
         "wins": 7,
         "losses": 5
       },
-      "score": 2428.5
+      "score": 2587.1,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_12"
+      "WEEK_12",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1653,7 +2150,10 @@
         "wins": 7,
         "losses": 5
       },
-      "score": 2577.5
+      "score": 2234.7,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 12,
@@ -1662,10 +2162,14 @@
         "wins": 3,
         "losses": 9
       },
-      "score": 2234.7
+      "score": 2577.5,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_12"
+      "WEEK_12",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1676,7 +2180,10 @@
         "wins": 13,
         "losses": 0
       },
-      "score": 2296.8
+      "score": 2812.2,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 1,
@@ -1685,10 +2192,14 @@
         "wins": 8,
         "losses": 5
       },
-      "score": 2812.2
+      "score": 2296.8,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_13"
+      "WEEK_13",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1699,7 +2210,10 @@
         "wins": 9,
         "losses": 4
       },
-      "score": 1943.2
+      "score": 2750,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 5,
@@ -1708,10 +2222,14 @@
         "wins": 5,
         "losses": 8
       },
-      "score": 2750
+      "score": 1943.2,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_13"
+      "WEEK_13",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1722,7 +2240,10 @@
         "wins": 7,
         "losses": 6
       },
-      "score": 2821.9
+      "score": 2532.7,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 9,
@@ -1731,10 +2252,14 @@
         "wins": 4,
         "losses": 9
       },
-      "score": 2532.7
+      "score": 2821.9,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_13"
+      "WEEK_13",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1745,7 +2270,10 @@
         "wins": 2,
         "losses": 11
       },
-      "score": 2517.8
+      "score": 1980,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 2,
@@ -1754,10 +2282,14 @@
         "wins": 5,
         "losses": 8
       },
-      "score": 1980
+      "score": 2517.8,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
-      "WEEK_13"
+      "WEEK_13",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1768,7 +2300,10 @@
         "wins": 3,
         "losses": 10
       },
-      "score": 2348.9
+      "score": 2031.7,
+      "tags": [
+        "LOSER"
+      ]
     },
     "homeTeam": {
       "id": 6,
@@ -1777,11 +2312,15 @@
         "wins": 11,
         "losses": 2
       },
-      "score": 2031.7
+      "score": 2348.9,
+      "tags": [
+        "WINNER"
+      ]
     },
     "tags": [
       "WEEK_13",
-      "DIVISIONAL_MATCHUP"
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
   {
@@ -1792,7 +2331,10 @@
         "wins": 4,
         "losses": 9
       },
-      "score": 2201.7
+      "score": 2448.1,
+      "tags": [
+        "WINNER"
+      ]
     },
     "homeTeam": {
       "id": 10,
@@ -1801,10 +2343,14 @@
         "wins": 7,
         "losses": 6
       },
-      "score": 2448.1
+      "score": 2201.7,
+      "tags": [
+        "LOSER"
+      ]
     },
     "tags": [
-      "WEEK_13"
+      "WEEK_13",
+      "REGULAR_SEASON"
     ]
   },
   {

@@ -20,6 +20,7 @@
     "circular-json-es6": "^2.0.1",
     "cwd": "^0.10.0",
     "dotenv-safe": "^4.0.4",
+    "glob-all": "^3.1.0",
     "mirrorkey": "^1.2.0",
     "mkdirp": "^0.5.1",
     "moment": "^2.18.1",
@@ -43,6 +44,7 @@
   },
   "scripts": {
     "start": "node $npm_package_main",
-    "dev": "nodemon $npm_package_main --ignore data/"
+    "dev": "nodemon $npm_package_main --ignore data/",
+    "reporting": "node reporting"
   }
 }

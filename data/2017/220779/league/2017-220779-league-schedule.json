@@ -10,7 +10,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 1,
@@ -19,11 +22,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_1",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -34,7 +41,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 12,
@@ -43,10 +53,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_1"
+          "WEEK_1",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -57,7 +71,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 7,
@@ -66,11 +83,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_1",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -81,7 +102,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 3,
@@ -90,10 +114,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_1"
+          "WEEK_1",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -104,7 +132,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 6,
@@ -113,11 +144,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_1",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -128,7 +163,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 8,
@@ -137,11 +175,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_1",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       }
     ],
@@ -160,7 +202,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 1,
@@ -169,11 +214,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_2",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -184,7 +233,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 11,
@@ -193,10 +245,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_2"
+          "WEEK_2",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -207,7 +263,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 3,
@@ -216,11 +275,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_2",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -231,7 +294,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 4,
@@ -240,11 +306,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_2",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -255,7 +325,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 8,
@@ -264,10 +337,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_2"
+          "WEEK_2",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -278,7 +355,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 9,
@@ -287,11 +367,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_2",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       }
     ],
@@ -310,7 +394,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 12,
@@ -319,11 +406,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_3",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -334,7 +425,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 7,
@@ -343,10 +437,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_3"
+          "WEEK_3",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -357,7 +455,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 2,
@@ -366,11 +467,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_3",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -381,7 +486,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 6,
@@ -390,10 +498,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_3"
+          "WEEK_3",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -404,7 +516,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 5,
@@ -413,10 +528,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_3"
+          "WEEK_3",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -427,7 +546,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 10,
@@ -436,10 +558,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_3"
+          "WEEK_3",
+          "REGULAR_SEASON"
         ]
       }
     ],
@@ -458,7 +584,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 1,
@@ -467,10 +596,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_4"
+          "WEEK_4",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -481,7 +614,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 11,
@@ -490,10 +626,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_4"
+          "WEEK_4",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -504,7 +644,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 3,
@@ -513,10 +656,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_4"
+          "WEEK_4",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -527,7 +674,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 6,
@@ -536,10 +686,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_4"
+          "WEEK_4",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -550,7 +704,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 4,
@@ -559,10 +716,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_4"
+          "WEEK_4",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -573,7 +734,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 9,
@@ -582,10 +746,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_4"
+          "WEEK_4",
+          "REGULAR_SEASON"
         ]
       }
     ],
@@ -604,7 +772,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 11,
@@ -613,11 +784,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_5",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -628,7 +803,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 7,
@@ -637,11 +815,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_5",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -652,7 +834,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 2,
@@ -661,10 +846,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_5"
+          "WEEK_5",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -675,7 +864,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 5,
@@ -684,11 +876,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_5",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -699,7 +895,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 10,
@@ -708,11 +907,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_5",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -723,7 +926,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 9,
@@ -732,10 +938,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_5"
+          "WEEK_5",
+          "REGULAR_SEASON"
         ]
       }
     ],
@@ -754,7 +964,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 1,
@@ -763,10 +976,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_6"
+          "WEEK_6",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -777,7 +994,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 12,
@@ -786,10 +1006,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_6"
+          "WEEK_6",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -800,7 +1024,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 2,
@@ -809,10 +1036,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_6"
+          "WEEK_6",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -823,7 +1054,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 6,
@@ -832,10 +1066,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_6"
+          "WEEK_6",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -846,7 +1084,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 10,
@@ -855,10 +1096,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_6"
+          "WEEK_6",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -869,7 +1114,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 9,
@@ -878,10 +1126,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_6"
+          "WEEK_6",
+          "REGULAR_SEASON"
         ]
       }
     ],
@@ -900,7 +1152,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 12,
@@ -909,10 +1164,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_7"
+          "WEEK_7",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -923,7 +1182,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 7,
@@ -932,10 +1194,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_7"
+          "WEEK_7",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -946,7 +1212,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 6,
@@ -955,10 +1224,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_7"
+          "WEEK_7",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -969,7 +1242,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 5,
@@ -978,10 +1254,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_7"
+          "WEEK_7",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -992,7 +1272,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 8,
@@ -1001,10 +1284,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_7"
+          "WEEK_7",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1015,7 +1302,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 9,
@@ -1024,10 +1314,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_7"
+          "WEEK_7",
+          "REGULAR_SEASON"
         ]
       }
     ],
@@ -1046,7 +1340,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 1,
@@ -1055,10 +1352,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_8"
+          "WEEK_8",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1069,7 +1370,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 11,
@@ -1078,10 +1382,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_8"
+          "WEEK_8",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1092,7 +1400,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 2,
@@ -1101,10 +1412,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_8"
+          "WEEK_8",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1115,7 +1430,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 5,
@@ -1124,11 +1442,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_8",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1139,7 +1461,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 4,
@@ -1148,10 +1473,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_8"
+          "WEEK_8",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1162,7 +1491,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 9,
@@ -1171,11 +1503,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_8",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       }
     ],
@@ -1194,7 +1530,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 7,
@@ -1203,10 +1542,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_9"
+          "WEEK_9",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1217,7 +1560,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 2,
@@ -1226,10 +1572,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_9"
+          "WEEK_9",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1240,7 +1590,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 3,
@@ -1249,10 +1602,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_9"
+          "WEEK_9",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1263,7 +1620,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 5,
@@ -1272,10 +1632,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_9"
+          "WEEK_9",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1286,7 +1650,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 8,
@@ -1295,10 +1662,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_9"
+          "WEEK_9",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1309,7 +1680,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 10,
@@ -1318,10 +1692,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_9"
+          "WEEK_9",
+          "REGULAR_SEASON"
         ]
       }
     ],
@@ -1340,7 +1718,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 1,
@@ -1349,10 +1730,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_10"
+          "WEEK_10",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1363,7 +1748,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 11,
@@ -1372,10 +1760,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_10"
+          "WEEK_10",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1386,7 +1778,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 12,
@@ -1395,10 +1790,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_10"
+          "WEEK_10",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1409,7 +1808,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 7,
@@ -1418,10 +1820,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_10"
+          "WEEK_10",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1432,7 +1838,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 5,
@@ -1441,10 +1850,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_10"
+          "WEEK_10",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1455,7 +1868,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 10,
@@ -1464,10 +1880,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_10"
+          "WEEK_10",
+          "REGULAR_SEASON"
         ]
       }
     ],
@@ -1486,7 +1906,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 2,
@@ -1495,10 +1918,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_11"
+          "WEEK_11",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1509,7 +1936,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 3,
@@ -1518,10 +1948,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_11"
+          "WEEK_11",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1532,7 +1966,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 5,
@@ -1541,10 +1978,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_11"
+          "WEEK_11",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1555,7 +1996,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 4,
@@ -1564,10 +2008,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_11"
+          "WEEK_11",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1578,7 +2026,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 8,
@@ -1587,10 +2038,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_11"
+          "WEEK_11",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1601,7 +2056,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 10,
@@ -1610,10 +2068,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_11"
+          "WEEK_11",
+          "REGULAR_SEASON"
         ]
       }
     ],
@@ -1632,7 +2094,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 11,
@@ -1641,11 +2106,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_12",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1656,7 +2125,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 2,
@@ -1665,11 +2137,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_12",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1680,7 +2156,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 6,
@@ -1689,11 +2168,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_12",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1704,7 +2187,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 4,
@@ -1713,10 +2199,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_12"
+          "WEEK_12",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1727,7 +2217,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 8,
@@ -1736,11 +2229,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_12",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1751,7 +2248,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 9,
@@ -1760,10 +2260,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_12"
+          "WEEK_12",
+          "REGULAR_SEASON"
         ]
       }
     ],
@@ -1782,7 +2286,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 11,
@@ -1791,10 +2298,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_13"
+          "WEEK_13",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1805,7 +2316,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 12,
@@ -1814,11 +2328,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_13",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1829,7 +2347,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 7,
@@ -1838,10 +2359,14 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
-          "WEEK_13"
+          "WEEK_13",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1852,7 +2377,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 3,
@@ -1861,11 +2389,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_13",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1876,7 +2408,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 4,
@@ -1885,11 +2420,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_13",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       },
       {
@@ -1900,7 +2439,10 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "homeTeam": {
           "id": 10,
@@ -1909,11 +2451,15 @@
             "wins": 0,
             "losses": 0
           },
-          "score": 0
+          "score": 0,
+          "tags": [
+            "INDETERMINATE"
+          ]
         },
         "tags": [
           "WEEK_13",
-          "DIVISIONAL_MATCHUP"
+          "DIVISIONAL_MATCHUP",
+          "REGULAR_SEASON"
         ]
       }
     ],

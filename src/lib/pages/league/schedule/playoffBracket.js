@@ -201,11 +201,11 @@ export default async (page, seasonId, schedule) => {
     let awayTags = [];
 
     if (isHomeWinner && !isAwayWinner) {
-      awayTags = unique([tags.LOSER, ...(matchupTagMap[index].loser || [])]);
-      homeTags = unique([tags.WINNER, ...(matchupTagMap[index].winner || [])]);
+      awayTags = unique([...(matchupTagMap[index].loser || [])]);
+      homeTags = unique([...(matchupTagMap[index].winner || [])]);
     } else if (!isHomeWinner && isAwayWinner) {
-      awayTags = unique([tags.WINNER, ...(matchupTagMap[index].winner || [])]);
-      homeTags = unique([tags.LOSER, ...(matchupTagMap[index].loser || [])]);
+      awayTags = unique([...(matchupTagMap[index].winner || [])]);
+      homeTags = unique([...(matchupTagMap[index].loser || [])]);
     } else {
       awayTags.push(tags.INDETERMINATE);
       homeTags.push(tags.INDETERMINATE);
