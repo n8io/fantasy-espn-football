@@ -3,12 +3,15 @@ A page scraping utility for TLEOI
 
 ## What you'll find
 
-### 🗂 `data` directory
+### 🗂 `data`
 Here you will find all the scraped data for the listed season(s) and league id(s). [[view data](./data)]
 
 [![example](./img/example-data.png)](./data)
 
-### 📁 `src` directory
+### 📈 `reports`
+Here you will find a series of accumulated reports based upon the contents of the `data` directory
+
+### 📁 `src`
 This is all the nodejs code that was used to login and pull the data
 
 ## Getting started
@@ -28,6 +31,9 @@ Installs dependencies needed to run
 
 ### 🚛 `yarn start`
 Run the scraper for the configured league and season. Outputs the data into the `./data` accordingly.
+
+### 📊 `yarn reporting`
+Runs some reports on the scraped date. NOTE: You must run the data scraper piece before trying to crunch numbers.
 
 ## Development
 
