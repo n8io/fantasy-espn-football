@@ -1,0 +1,2491 @@
+{
+  "week1": {
+    "id": 1,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Last Again",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 1821.9
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "Team BYE WEEK",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 1844.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2132.1
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 1841
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Repeat  Offenders",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 1482
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Team Awesome",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2010.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Team Pederass",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 2048.1
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "More Gooder than you",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2258.4
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "I will make you win",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 1954.5
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Petting Is A No-No",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2087.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Indy Hurlers",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2728.7
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Team Mediocre",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 2022.8
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_1",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week2": {
+    "id": 2,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "Team BYE WEEK",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 1514.5
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2064.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Team Awesome",
+          "record": {
+            "wins": 0,
+            "losses": 2
+          },
+          "score": 2730.5
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "More Gooder than you",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2466.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Petting Is A No-No",
+          "record": {
+            "wins": 0,
+            "losses": 2
+          },
+          "score": 2918.1
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Team Mediocre",
+          "record": {
+            "wins": 2,
+            "losses": 0
+          },
+          "score": 2383.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Last Again",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2025.2
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 1937.8
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Repeat  Offenders",
+          "record": {
+            "wins": 2,
+            "losses": 0
+          },
+          "score": 2117
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Team Pederass",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2281.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "I will make you win",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2939.8
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Indy Hurlers",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2759.3
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_2",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week3": {
+    "id": 3,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 2,
+            "losses": 1
+          },
+          "score": 1983.1
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "Team BYE WEEK",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2201.8
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Team Pederass",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2494.1
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Team Awesome",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2282.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Indy Hurlers",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2281
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Petting Is A No-No",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 1827.5
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 2,
+            "losses": 1
+          },
+          "score": 1875
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Last Again",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2127.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "More Gooder than you",
+          "record": {
+            "wins": 2,
+            "losses": 1
+          },
+          "score": 2171.1
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Repeat  Offenders",
+          "record": {
+            "wins": 2,
+            "losses": 1
+          },
+          "score": 2569.6
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Team Mediocre",
+          "record": {
+            "wins": 2,
+            "losses": 1
+          },
+          "score": 2434.7
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "I will make you win",
+          "record": {
+            "wins": 2,
+            "losses": 1
+          },
+          "score": 2335.4
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_3",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week4": {
+    "id": 4,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "Team BYE WEEK",
+          "record": {
+            "wins": 2,
+            "losses": 2
+          },
+          "score": 1350.4
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Team Awesome",
+          "record": {
+            "wins": 1,
+            "losses": 3
+          },
+          "score": 1546.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 2,
+            "losses": 2
+          },
+          "score": 2563.7
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Petting Is A No-No",
+          "record": {
+            "wins": 2,
+            "losses": 2
+          },
+          "score": 2046.5
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Team Pederass",
+          "record": {
+            "wins": 2,
+            "losses": 2
+          },
+          "score": 1969.7
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Team Mediocre",
+          "record": {
+            "wins": 2,
+            "losses": 2
+          },
+          "score": 2170.2
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 2,
+            "losses": 2
+          },
+          "score": 2445.6
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Indy Hurlers",
+          "record": {
+            "wins": 2,
+            "losses": 2
+          },
+          "score": 2178.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Last Again",
+          "record": {
+            "wins": 1,
+            "losses": 3
+          },
+          "score": 2287.7
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "More Gooder than you",
+          "record": {
+            "wins": 3,
+            "losses": 1
+          },
+          "score": 1660.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Repeat  Offenders",
+          "record": {
+            "wins": 2,
+            "losses": 2
+          },
+          "score": 2334.2
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "I will make you win",
+          "record": {
+            "wins": 3,
+            "losses": 1
+          },
+          "score": 2132.8
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_4",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week5": {
+    "id": 5,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Repeat  Offenders",
+          "record": {
+            "wins": 3,
+            "losses": 2
+          },
+          "score": 1562.6
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "Team BYE WEEK",
+          "record": {
+            "wins": 2,
+            "losses": 3
+          },
+          "score": 1746.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Team Mediocre",
+          "record": {
+            "wins": 2,
+            "losses": 3
+          },
+          "score": 2244.4
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 3,
+            "losses": 2
+          },
+          "score": 2053.8
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Indy Hurlers",
+          "record": {
+            "wins": 3,
+            "losses": 2
+          },
+          "score": 1438.1
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "More Gooder than you",
+          "record": {
+            "wins": 3,
+            "losses": 2
+          },
+          "score": 2587
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Team Awesome",
+          "record": {
+            "wins": 1,
+            "losses": 4
+          },
+          "score": 2344.3
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 3,
+            "losses": 2
+          },
+          "score": 1823
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Petting Is A No-No",
+          "record": {
+            "wins": 3,
+            "losses": 2
+          },
+          "score": 2325.9
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Team Pederass",
+          "record": {
+            "wins": 2,
+            "losses": 3
+          },
+          "score": 2423.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "I will make you win",
+          "record": {
+            "wins": 4,
+            "losses": 1
+          },
+          "score": 1619.1
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Last Again",
+          "record": {
+            "wins": 1,
+            "losses": 4
+          },
+          "score": 2301.2
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_5",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week6": {
+    "id": 6,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "Team BYE WEEK",
+          "record": {
+            "wins": 2,
+            "losses": 4
+          },
+          "score": 2317.7
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "More Gooder than you",
+          "record": {
+            "wins": 4,
+            "losses": 2
+          },
+          "score": 2231
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 3,
+            "losses": 3
+          },
+          "score": 2840.2
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "I will make you win",
+          "record": {
+            "wins": 5,
+            "losses": 1
+          },
+          "score": 2358.7
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Team Pederass",
+          "record": {
+            "wins": 2,
+            "losses": 4
+          },
+          "score": 2875.9
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Indy Hurlers",
+          "record": {
+            "wins": 4,
+            "losses": 2
+          },
+          "score": 2394.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 3,
+            "losses": 3
+          },
+          "score": 2485.2
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Repeat  Offenders",
+          "record": {
+            "wins": 4,
+            "losses": 2
+          },
+          "score": 2007.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Team Awesome",
+          "record": {
+            "wins": 2,
+            "losses": 4
+          },
+          "score": 2020.6
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Team Mediocre",
+          "record": {
+            "wins": 2,
+            "losses": 4
+          },
+          "score": 2360.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Last Again",
+          "record": {
+            "wins": 2,
+            "losses": 4
+          },
+          "score": 1993.9
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Petting Is A No-No",
+          "record": {
+            "wins": 3,
+            "losses": 3
+          },
+          "score": 1994.2
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      }
+    ],
+    "tags": [
+      "WEEK_6",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week7": {
+    "id": 7,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Team Pederass",
+          "record": {
+            "wins": 3,
+            "losses": 4
+          },
+          "score": 1449.9
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "Team BYE WEEK",
+          "record": {
+            "wins": 2,
+            "losses": 5
+          },
+          "score": 2423.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "I will make you win",
+          "record": {
+            "wins": 6,
+            "losses": 1
+          },
+          "score": 2106.3
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 3,
+            "losses": 4
+          },
+          "score": 3379.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Team Mediocre",
+          "record": {
+            "wins": 3,
+            "losses": 4
+          },
+          "score": 2005.9
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "More Gooder than you",
+          "record": {
+            "wins": 4,
+            "losses": 3
+          },
+          "score": 2321.8
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Petting Is A No-No",
+          "record": {
+            "wins": 3,
+            "losses": 4
+          },
+          "score": 2710.2
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Repeat  Offenders",
+          "record": {
+            "wins": 5,
+            "losses": 2
+          },
+          "score": 1950.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Team Awesome",
+          "record": {
+            "wins": 3,
+            "losses": 4
+          },
+          "score": 1960.7
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 3,
+            "losses": 4
+          },
+          "score": 2192.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Indy Hurlers",
+          "record": {
+            "wins": 5,
+            "losses": 2
+          },
+          "score": 2112.7
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Last Again",
+          "record": {
+            "wins": 2,
+            "losses": 5
+          },
+          "score": 2419.8
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_7",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week8": {
+    "id": 8,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "Team BYE WEEK",
+          "record": {
+            "wins": 2,
+            "losses": 6
+          },
+          "score": 2261.9
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Petting Is A No-No",
+          "record": {
+            "wins": 4,
+            "losses": 4
+          },
+          "score": 2206.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 3,
+            "losses": 5
+          },
+          "score": 1973.4
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "More Gooder than you",
+          "record": {
+            "wins": 5,
+            "losses": 3
+          },
+          "score": 1715.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Team Pederass",
+          "record": {
+            "wins": 3,
+            "losses": 5
+          },
+          "score": 1952.1
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "I will make you win",
+          "record": {
+            "wins": 7,
+            "losses": 1
+          },
+          "score": 1897.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Last Again",
+          "record": {
+            "wins": 3,
+            "losses": 5
+          },
+          "score": 1804.8
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Team Mediocre",
+          "record": {
+            "wins": 3,
+            "losses": 5
+          },
+          "score": 2026.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 4,
+            "losses": 4
+          },
+          "score": 2039.1
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Repeat  Offenders",
+          "record": {
+            "wins": 5,
+            "losses": 3
+          },
+          "score": 2806.4
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Team Awesome",
+          "record": {
+            "wins": 3,
+            "losses": 5
+          },
+          "score": 2221.2
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Indy Hurlers",
+          "record": {
+            "wins": 6,
+            "losses": 2
+          },
+          "score": 2041.7
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_8",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week9": {
+    "id": 9,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "I will make you win",
+          "record": {
+            "wins": 8,
+            "losses": 1
+          },
+          "score": 1
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "Team BYE WEEK",
+          "record": {
+            "wins": 2,
+            "losses": 7
+          },
+          "score": 3025.6
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Petting Is A No-No",
+          "record": {
+            "wins": 4,
+            "losses": 5
+          },
+          "score": 2937.7
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "More Gooder than you",
+          "record": {
+            "wins": 6,
+            "losses": 3
+          },
+          "score": 1904
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Team Mediocre",
+          "record": {
+            "wins": 4,
+            "losses": 5
+          },
+          "score": 2043.9
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 3,
+            "losses": 6
+          },
+          "score": 2776.5
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Team Pederass",
+          "record": {
+            "wins": 4,
+            "losses": 5
+          },
+          "score": 2694.9
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 4,
+            "losses": 5
+          },
+          "score": 3263.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Team Awesome",
+          "record": {
+            "wins": 3,
+            "losses": 6
+          },
+          "score": 2343
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Last Again",
+          "record": {
+            "wins": 4,
+            "losses": 5
+          },
+          "score": 1961.8
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Indy Hurlers",
+          "record": {
+            "wins": 7,
+            "losses": 2
+          },
+          "score": 2016
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Repeat  Offenders",
+          "record": {
+            "wins": 5,
+            "losses": 4
+          },
+          "score": 2189.2
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      }
+    ],
+    "tags": [
+      "WEEK_9",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week10": {
+    "id": 10,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "Team BYE WEEK",
+          "record": {
+            "wins": 2,
+            "losses": 8
+          },
+          "score": 2500.5
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Team Mediocre",
+          "record": {
+            "wins": 5,
+            "losses": 5
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 5,
+            "losses": 5
+          },
+          "score": 2219.1
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Indy Hurlers",
+          "record": {
+            "wins": 7,
+            "losses": 3
+          },
+          "score": 2392.4
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "More Gooder than you",
+          "record": {
+            "wins": 6,
+            "losses": 4
+          },
+          "score": 2530.5
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "I will make you win",
+          "record": {
+            "wins": 9,
+            "losses": 1
+          },
+          "score": 2448.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Team Awesome",
+          "record": {
+            "wins": 4,
+            "losses": 6
+          },
+          "score": 1759
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Petting Is A No-No",
+          "record": {
+            "wins": 4,
+            "losses": 6
+          },
+          "score": 2252.9
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 3,
+            "losses": 7
+          },
+          "score": 2020.5
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Team Pederass",
+          "record": {
+            "wins": 5,
+            "losses": 5
+          },
+          "score": 1883.3
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Last Again",
+          "record": {
+            "wins": 5,
+            "losses": 5
+          },
+          "score": 2297.7
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Repeat  Offenders",
+          "record": {
+            "wins": 5,
+            "losses": 5
+          },
+          "score": 2303.1
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_10",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week11": {
+    "id": 11,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Indy Hurlers",
+          "record": {
+            "wins": 8,
+            "losses": 3
+          },
+          "score": 1
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "Team BYE WEEK",
+          "record": {
+            "wins": 2,
+            "losses": 9
+          },
+          "score": 2519.5
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Team Mediocre",
+          "record": {
+            "wins": 6,
+            "losses": 5
+          },
+          "score": 1890.8
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Repeat  Offenders",
+          "record": {
+            "wins": 5,
+            "losses": 6
+          },
+          "score": 2899.8
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "More Gooder than you",
+          "record": {
+            "wins": 6,
+            "losses": 5
+          },
+          "score": 2376.2
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 6,
+            "losses": 5
+          },
+          "score": 2310.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "I will make you win",
+          "record": {
+            "wins": 10,
+            "losses": 1
+          },
+          "score": 2105.5
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Team Awesome",
+          "record": {
+            "wins": 4,
+            "losses": 7
+          },
+          "score": 2461.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Petting Is A No-No",
+          "record": {
+            "wins": 4,
+            "losses": 7
+          },
+          "score": 2328.5
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 4,
+            "losses": 7
+          },
+          "score": 2191.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Team Pederass",
+          "record": {
+            "wins": 6,
+            "losses": 5
+          },
+          "score": 2316
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Last Again",
+          "record": {
+            "wins": 5,
+            "losses": 6
+          },
+          "score": 2653.9
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_11",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week12": {
+    "id": 12,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "Team BYE WEEK",
+          "record": {
+            "wins": 2,
+            "losses": 10
+          },
+          "score": 1968
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Last Again",
+          "record": {
+            "wins": 6,
+            "losses": 6
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 4,
+            "losses": 8
+          },
+          "score": 2300.4
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 7,
+            "losses": 5
+          },
+          "score": 2246.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Team Awesome",
+          "record": {
+            "wins": 5,
+            "losses": 7
+          },
+          "score": 2075.5
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Repeat  Offenders",
+          "record": {
+            "wins": 5,
+            "losses": 7
+          },
+          "score": 2094
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "More Gooder than you",
+          "record": {
+            "wins": 7,
+            "losses": 5
+          },
+          "score": 2159
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Team Pederass",
+          "record": {
+            "wins": 6,
+            "losses": 6
+          },
+          "score": 2931.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Petting Is A No-No",
+          "record": {
+            "wins": 4,
+            "losses": 8
+          },
+          "score": 2863.7
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "I will make you win",
+          "record": {
+            "wins": 11,
+            "losses": 1
+          },
+          "score": 2806.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Team Mediocre",
+          "record": {
+            "wins": 6,
+            "losses": 6
+          },
+          "score": 2417.1
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Indy Hurlers",
+          "record": {
+            "wins": 9,
+            "losses": 3
+          },
+          "score": 1990.9
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_12",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week13": {
+    "id": 13,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 5,
+            "losses": 8
+          },
+          "score": 1708.9
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "Team BYE WEEK",
+          "record": {
+            "wins": 2,
+            "losses": 11
+          },
+          "score": 2217.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "More Gooder than you",
+          "record": {
+            "wins": 7,
+            "losses": 6
+          },
+          "score": 2278
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Team Awesome",
+          "record": {
+            "wins": 6,
+            "losses": 7
+          },
+          "score": 1911.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Team Mediocre",
+          "record": {
+            "wins": 7,
+            "losses": 6
+          },
+          "score": 2231.7
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Petting Is A No-No",
+          "record": {
+            "wins": 4,
+            "losses": 9
+          },
+          "score": 2534.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 8,
+            "losses": 5
+          },
+          "score": 2231.5
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Last Again",
+          "record": {
+            "wins": 6,
+            "losses": 7
+          },
+          "score": 2483.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Team Pederass",
+          "record": {
+            "wins": 7,
+            "losses": 6
+          },
+          "score": 2393.6
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Repeat  Offenders",
+          "record": {
+            "wins": 5,
+            "losses": 8
+          },
+          "score": 2710.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Indy Hurlers",
+          "record": {
+            "wins": 10,
+            "losses": 3
+          },
+          "score": 2296.7
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "I will make you win",
+          "record": {
+            "wins": 11,
+            "losses": 2
+          },
+          "score": 2612.1
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_13",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week14": {
+    "id": 14,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "Team BYE WEEK",
+          "record": {
+            "wins": 3,
+            "losses": 11
+          },
+          "score": 2142.7
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "I will make you win",
+          "record": {
+            "wins": 11,
+            "losses": 3
+          },
+          "score": 2242.7
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Team Awesome",
+          "record": {
+            "wins": 6,
+            "losses": 8
+          },
+          "score": 2406.2
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 9,
+            "losses": 5
+          },
+          "score": 1998.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Petting Is A No-No",
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "score": 2490.5
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Repeat  Offenders",
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "score": 2505.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "More Gooder than you",
+          "record": {
+            "wins": 8,
+            "losses": 6
+          },
+          "score": 2375.4
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "score": 3205
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Indy Hurlers",
+          "record": {
+            "wins": 11,
+            "losses": 3
+          },
+          "score": 2198.2
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Last Again",
+          "record": {
+            "wins": 6,
+            "losses": 8
+          },
+          "score": 2529
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Team Pederass",
+          "record": {
+            "wins": 8,
+            "losses": 6
+          },
+          "score": 2305.4
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Team Mediocre",
+          "record": {
+            "wins": 7,
+            "losses": 7
+          },
+          "score": 2839.9
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      }
+    ],
+    "tags": [
+      "WEEK_14",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week15": {
+    "id": 15,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "I will make you win",
+          "record": {
+            "wins": 11,
+            "losses": 4
+          },
+          "score": 2048.7,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_8"
+          ]
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Team Mediocre",
+          "record": {
+            "wins": 8,
+            "losses": 7
+          },
+          "score": 2268.6,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_1"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Indy Hurlers",
+          "record": {
+            "wins": 11,
+            "losses": 4
+          },
+          "score": 2268,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_5"
+          ]
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Repeat Offenders",
+          "record": {
+            "wins": 6,
+            "losses": 9
+          },
+          "score": 2432.6,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_4"
+          ]
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Team Pederass",
+          "record": {
+            "wins": 8,
+            "losses": 7
+          },
+          "score": 1987.1,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_6"
+          ]
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 10,
+            "losses": 5
+          },
+          "score": 2486.9,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_3"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "More Gooder than you",
+          "record": {
+            "wins": 9,
+            "losses": 6
+          },
+          "score": 2341.6,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_7"
+          ]
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Petting Is A No-No",
+          "record": {
+            "wins": 5,
+            "losses": 10
+          },
+          "score": 1778.4,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_2"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Team Awesome",
+          "record": {
+            "wins": 7,
+            "losses": 8
+          },
+          "score": 2304.1,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_10"
+          ]
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "Team BYE WEEK",
+          "record": {
+            "wins": 3,
+            "losses": 12
+          },
+          "score": 1345.4,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_9"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 6,
+            "losses": 9
+          },
+          "score": 1843,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_12"
+          ]
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Last Again",
+          "record": {
+            "wins": 6,
+            "losses": 9
+          },
+          "score": 1323.1,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_11"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_1"
+    ],
+    "playoffRound": 1
+  },
+  "week16": {
+    "id": 16,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Repeat Offenders",
+          "record": {
+            "wins": 6,
+            "losses": 10
+          },
+          "score": 1993,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Team Mediocre",
+          "record": {
+            "wins": 9,
+            "losses": 7
+          },
+          "score": 2686,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "More Gooder than you",
+          "record": {
+            "wins": 10,
+            "losses": 6
+          },
+          "score": 2531.9,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 10,
+            "losses": 6
+          },
+          "score": 1754.5,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Indy Hurlers",
+          "record": {
+            "wins": 12,
+            "losses": 4
+          },
+          "score": 2675.1,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "I will make you win",
+          "record": {
+            "wins": 11,
+            "losses": 5
+          },
+          "score": 2008.7,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Petting Is A No-No",
+          "record": {
+            "wins": 6,
+            "losses": 10
+          },
+          "score": 2514.5,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Team Pederass",
+          "record": {
+            "wins": 8,
+            "losses": 8
+          },
+          "score": 1905.5,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 6,
+            "losses": 10
+          },
+          "score": 1884.1,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Team Awesome",
+          "record": {
+            "wins": 8,
+            "losses": 8
+          },
+          "score": 2145.4,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "Team BYE WEEK",
+          "record": {
+            "wins": 3,
+            "losses": 13
+          },
+          "score": 1630.9,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Last Again",
+          "record": {
+            "wins": 7,
+            "losses": 9
+          },
+          "score": 1908.7,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_2"
+    ],
+    "playoffRound": 2
+  },
+  "week17": {
+    "id": 17,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Team Mediocre",
+          "record": {
+            "wins": 10,
+            "losses": 7
+          },
+          "score": 2230.5,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_CHAMPIONSHIP",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "CHAMPION",
+            "PLACE_1"
+          ]
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "More Gooder than you",
+          "record": {
+            "wins": 10,
+            "losses": 7
+          },
+          "score": 1742,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_CHAMPIONSHIP",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "RUNNER_UP",
+            "PLACE_2"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Repeat Offenders",
+          "record": {
+            "wins": 7,
+            "losses": 10
+          },
+          "score": 2290.9,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "PLACE_3"
+          ]
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 10,
+            "losses": 7
+          },
+          "score": 2231.8,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "PLACE_4"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Petting Is A No-No",
+          "record": {
+            "wins": 7,
+            "losses": 10
+          },
+          "score": 2473.1,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "PLACE_5"
+          ]
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Indy Hurlers",
+          "record": {
+            "wins": 12,
+            "losses": 5
+          },
+          "score": 1932.1,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "PLACE_6"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Team Pederass",
+          "record": {
+            "wins": 9,
+            "losses": 8
+          },
+          "score": 1679,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "PLACE_7"
+          ]
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "I will make you win",
+          "record": {
+            "wins": 11,
+            "losses": 6
+          },
+          "score": 1502.7,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "PLACE_8"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Last Again",
+          "record": {
+            "wins": 7,
+            "losses": 10
+          },
+          "score": 1623.3,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "PLACE_10"
+          ]
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Team Awesome",
+          "record": {
+            "wins": 9,
+            "losses": 8
+          },
+          "score": 1678.1,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "PLACE_9"
+          ]
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "Team BYE WEEK",
+          "record": {
+            "wins": 3,
+            "losses": 14
+          },
+          "score": 1472.8,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
+            "PLAYOFF_ROUND_3",
+            "CONSOLATION_LAST_PLACE",
+            "LOSER",
+            "PLACE_12",
+            "LAST_PLACE"
+          ]
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 7,
+            "losses": 10
+          },
+          "score": 2070.8,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
+            "PLAYOFF_ROUND_3",
+            "CONSOLATION_LAST_PLACE",
+            "WINNER",
+            "PLACE_11"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_17",
+      "PLAYOFF_ROUND_3"
+    ],
+    "playoffRound": 3
+  }
+}

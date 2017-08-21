@@ -1,0 +1,2398 @@
+{
+  "week1": {
+    "id": 1,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 2263.3
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2494.8
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2471.6
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Zak Walcher",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 2259.8
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Black Lives Matter",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 1893.7
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "jotas HOs",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 1890.4
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 2020.9
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2036.5
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "FRYE = Failure",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2119.7
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "The Jugger-not",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 1993.7
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "U DaHo",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 3290.5
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Isaac Hayes",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 2285.3
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      }
+    ],
+    "tags": [
+      "WEEK_1",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week2": {
+    "id": 2,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Zak Walcher",
+          "record": {
+            "wins": 2,
+            "losses": 0
+          },
+          "score": 2608.8
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Isaac Hayes",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2698.1
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 2,
+            "losses": 0
+          },
+          "score": 2128.4
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "U DaHo",
+          "record": {
+            "wins": 0,
+            "losses": 2
+          },
+          "score": 2349.4
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2043.4
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 0,
+            "losses": 2
+          },
+          "score": 2322.8
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2125
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Black Lives Matter",
+          "record": {
+            "wins": 0,
+            "losses": 2
+          },
+          "score": 2127.1
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "jotas HOs",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2720.7
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "The Jugger-not",
+          "record": {
+            "wins": 2,
+            "losses": 0
+          },
+          "score": 1869.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2667.2
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "FRYE = Failure",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2146.7
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      }
+    ],
+    "tags": [
+      "WEEK_2",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week3": {
+    "id": 3,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "U DaHo",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2189.6
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Zak Walcher",
+          "record": {
+            "wins": 2,
+            "losses": 1
+          },
+          "score": 2692.5
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Isaac Hayes",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2696.1
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 2,
+            "losses": 1
+          },
+          "score": 2577.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 0,
+            "losses": 3
+          },
+          "score": 2997.7
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 3,
+            "losses": 0
+          },
+          "score": 1833.7
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "FRYE = Failure",
+          "record": {
+            "wins": 2,
+            "losses": 1
+          },
+          "score": 2091.5
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "jotas HOs",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2394.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "The Jugger-not",
+          "record": {
+            "wins": 3,
+            "losses": 0
+          },
+          "score": 2205.5
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2547.5
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Black Lives Matter",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 1511.3
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2438.4
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_3",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week4": {
+    "id": 4,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 3,
+            "losses": 1
+          },
+          "score": 2878.9
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Isaac Hayes",
+          "record": {
+            "wins": 2,
+            "losses": 2
+          },
+          "score": 2164.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 3,
+            "losses": 1
+          },
+          "score": 2012
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "U DaHo",
+          "record": {
+            "wins": 1,
+            "losses": 3
+          },
+          "score": 2446.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Zak Walcher",
+          "record": {
+            "wins": 3,
+            "losses": 1
+          },
+          "score": 2148.8
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 0,
+            "losses": 4
+          },
+          "score": 2216.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 1,
+            "losses": 3
+          },
+          "score": 2506.8
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "jotas HOs",
+          "record": {
+            "wins": 2,
+            "losses": 2
+          },
+          "score": 1810.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "The Jugger-not",
+          "record": {
+            "wins": 4,
+            "losses": 0
+          },
+          "score": 2061.3
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Black Lives Matter",
+          "record": {
+            "wins": 1,
+            "losses": 3
+          },
+          "score": 2510.4
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 1,
+            "losses": 3
+          },
+          "score": 2642.3
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "FRYE = Failure",
+          "record": {
+            "wins": 3,
+            "losses": 1
+          },
+          "score": 2035.8
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_4",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week5": {
+    "id": 5,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Zak Walcher",
+          "record": {
+            "wins": 3,
+            "losses": 2
+          },
+          "score": 2302.2
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "U DaHo",
+          "record": {
+            "wins": 2,
+            "losses": 3
+          },
+          "score": 2121.5
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 1,
+            "losses": 4
+          },
+          "score": 1549.7
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 3,
+            "losses": 2
+          },
+          "score": 2949.5
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "jotas HOs",
+          "record": {
+            "wins": 2,
+            "losses": 3
+          },
+          "score": 2139.9
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 4,
+            "losses": 1
+          },
+          "score": 1963.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Black Lives Matter",
+          "record": {
+            "wins": 1,
+            "losses": 4
+          },
+          "score": 2576.1
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 2,
+            "losses": 3
+          },
+          "score": 2371.2
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "The Jugger-not",
+          "record": {
+            "wins": 5,
+            "losses": 0
+          },
+          "score": 2102.9
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 1,
+            "losses": 4
+          },
+          "score": 2297.5
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Isaac Hayes",
+          "record": {
+            "wins": 2,
+            "losses": 3
+          },
+          "score": 2276
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "FRYE = Failure",
+          "record": {
+            "wins": 4,
+            "losses": 1
+          },
+          "score": 1803.7
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_5",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week6": {
+    "id": 6,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 2,
+            "losses": 4
+          },
+          "score": 2153.5
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Isaac Hayes",
+          "record": {
+            "wins": 2,
+            "losses": 4
+          },
+          "score": 2507.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 3,
+            "losses": 3
+          },
+          "score": 2553
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Zak Walcher",
+          "record": {
+            "wins": 4,
+            "losses": 2
+          },
+          "score": 1502.5
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "The Jugger-not",
+          "record": {
+            "wins": 5,
+            "losses": 1
+          },
+          "score": 2366.5
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 5,
+            "losses": 1
+          },
+          "score": 2297.8
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "U DaHo",
+          "record": {
+            "wins": 3,
+            "losses": 3
+          },
+          "score": 2020.9
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "jotas HOs",
+          "record": {
+            "wins": 2,
+            "losses": 4
+          },
+          "score": 2510.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 2,
+            "losses": 4
+          },
+          "score": 2871
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 2,
+            "losses": 4
+          },
+          "score": 2703
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Black Lives Matter",
+          "record": {
+            "wins": 1,
+            "losses": 5
+          },
+          "score": 3029.3
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "FRYE = Failure",
+          "record": {
+            "wins": 5,
+            "losses": 1
+          },
+          "score": 2853.6
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_6",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week7": {
+    "id": 7,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Black Lives Matter",
+          "record": {
+            "wins": 2,
+            "losses": 5
+          },
+          "score": 1810.9
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Zak Walcher",
+          "record": {
+            "wins": 4,
+            "losses": 3
+          },
+          "score": 2924.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 2,
+            "losses": 5
+          },
+          "score": 2910.4
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 4,
+            "losses": 3
+          },
+          "score": 2457.4
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Isaac Hayes",
+          "record": {
+            "wins": 3,
+            "losses": 4
+          },
+          "score": 1947.5
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "jotas HOs",
+          "record": {
+            "wins": 2,
+            "losses": 5
+          },
+          "score": 2923.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 6,
+            "losses": 1
+          },
+          "score": 2199.8
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 2,
+            "losses": 5
+          },
+          "score": 2352.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 2,
+            "losses": 5
+          },
+          "score": 2532.9
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "The Jugger-not",
+          "record": {
+            "wins": 6,
+            "losses": 1
+          },
+          "score": 2244.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "U DaHo",
+          "record": {
+            "wins": 3,
+            "losses": 4
+          },
+          "score": 2315.3
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "FRYE = Failure",
+          "record": {
+            "wins": 6,
+            "losses": 1
+          },
+          "score": 2151.4
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_7",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week8": {
+    "id": 8,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 2,
+            "losses": 6
+          },
+          "score": 2532.3
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Isaac Hayes",
+          "record": {
+            "wins": 4,
+            "losses": 4
+          },
+          "score": 2108.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 3,
+            "losses": 5
+          },
+          "score": 2593.4
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "U DaHo",
+          "record": {
+            "wins": 3,
+            "losses": 5
+          },
+          "score": 2684.4
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Zak Walcher",
+          "record": {
+            "wins": 4,
+            "losses": 4
+          },
+          "score": 2284.9
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 7,
+            "losses": 1
+          },
+          "score": 1689.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "jotas HOs",
+          "record": {
+            "wins": 2,
+            "losses": 6
+          },
+          "score": 2487
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 3,
+            "losses": 5
+          },
+          "score": 2185.6
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 5,
+            "losses": 3
+          },
+          "score": 2169.3
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Black Lives Matter",
+          "record": {
+            "wins": 2,
+            "losses": 6
+          },
+          "score": 2214.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "The Jugger-not",
+          "record": {
+            "wins": 7,
+            "losses": 1
+          },
+          "score": 2310.8
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "FRYE = Failure",
+          "record": {
+            "wins": 6,
+            "losses": 2
+          },
+          "score": 2715.1
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      }
+    ],
+    "tags": [
+      "WEEK_8",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week9": {
+    "id": 9,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "jotas HOs",
+          "record": {
+            "wins": 3,
+            "losses": 6
+          },
+          "score": 2492.4
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 5,
+            "losses": 4
+          },
+          "score": 2777.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Black Lives Matter",
+          "record": {
+            "wins": 3,
+            "losses": 6
+          },
+          "score": 1950.7
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 7,
+            "losses": 2
+          },
+          "score": 2396.4
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "FRYE = Failure",
+          "record": {
+            "wins": 7,
+            "losses": 2
+          },
+          "score": 2174.6
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 3,
+            "losses": 6
+          },
+          "score": 2222.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Isaac Hayes",
+          "record": {
+            "wins": 4,
+            "losses": 5
+          },
+          "score": 2920.5
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 4,
+            "losses": 5
+          },
+          "score": 2711.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Zak Walcher",
+          "record": {
+            "wins": 4,
+            "losses": 5
+          },
+          "score": 2463
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "The Jugger-not",
+          "record": {
+            "wins": 8,
+            "losses": 1
+          },
+          "score": 2110.5
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "U DaHo",
+          "record": {
+            "wins": 3,
+            "losses": 6
+          },
+          "score": 2198.8
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 3,
+            "losses": 6
+          },
+          "score": 1747.1
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_9",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week10": {
+    "id": 10,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Black Lives Matter",
+          "record": {
+            "wins": 4,
+            "losses": 6
+          },
+          "score": 2416
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Isaac Hayes",
+          "record": {
+            "wins": 4,
+            "losses": 6
+          },
+          "score": 2503.8
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "The Jugger-not",
+          "record": {
+            "wins": 9,
+            "losses": 1
+          },
+          "score": 2217.6
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "U DaHo",
+          "record": {
+            "wins": 3,
+            "losses": 7
+          },
+          "score": 2667.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "jotas HOs",
+          "record": {
+            "wins": 4,
+            "losses": 6
+          },
+          "score": 1819.7
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Zak Walcher",
+          "record": {
+            "wins": 4,
+            "losses": 6
+          },
+          "score": 2056.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "FRYE = Failure",
+          "record": {
+            "wins": 7,
+            "losses": 3
+          },
+          "score": 2545.7
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 6,
+            "losses": 4
+          },
+          "score": 1559.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 4,
+            "losses": 6
+          },
+          "score": 2379.5
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 4,
+            "losses": 6
+          },
+          "score": 2383.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 8,
+            "losses": 2
+          },
+          "score": 2479
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 3,
+            "losses": 7
+          },
+          "score": 2643.8
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_10",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week11": {
+    "id": 11,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "FRYE = Failure",
+          "record": {
+            "wins": 8,
+            "losses": 3
+          },
+          "score": 2163.3
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 8,
+            "losses": 3
+          },
+          "score": 2390.5
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "jotas HOs",
+          "record": {
+            "wins": 5,
+            "losses": 6
+          },
+          "score": 1665.8
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 4,
+            "losses": 7
+          },
+          "score": 1887.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 6,
+            "losses": 5
+          },
+          "score": 2288.5
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 5,
+            "losses": 6
+          },
+          "score": 1879.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "U DaHo",
+          "record": {
+            "wins": 3,
+            "losses": 8
+          },
+          "score": 2078.8
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Black Lives Matter",
+          "record": {
+            "wins": 5,
+            "losses": 6
+          },
+          "score": 1954.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Isaac Hayes",
+          "record": {
+            "wins": 5,
+            "losses": 6
+          },
+          "score": 1951
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "The Jugger-not",
+          "record": {
+            "wins": 9,
+            "losses": 2
+          },
+          "score": 2464.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Zak Walcher",
+          "record": {
+            "wins": 5,
+            "losses": 6
+          },
+          "score": 2021.9
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 3,
+            "losses": 8
+          },
+          "score": 2470.8
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_11",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week12": {
+    "id": 12,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Isaac Hayes",
+          "record": {
+            "wins": 6,
+            "losses": 6
+          },
+          "score": 1895.9
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "U DaHo",
+          "record": {
+            "wins": 3,
+            "losses": 9
+          },
+          "score": 2529.1
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 6,
+            "losses": 6
+          },
+          "score": 2497.4
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 9,
+            "losses": 3
+          },
+          "score": 2447.8
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 6,
+            "losses": 6
+          },
+          "score": 2251.3
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "jotas HOs",
+          "record": {
+            "wins": 5,
+            "losses": 7
+          },
+          "score": 2379.6
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 5,
+            "losses": 7
+          },
+          "score": 2398.8
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Black Lives Matter",
+          "record": {
+            "wins": 5,
+            "losses": 7
+          },
+          "score": 2491.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 3,
+            "losses": 9
+          },
+          "score": 2213.6
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "The Jugger-not",
+          "record": {
+            "wins": 10,
+            "losses": 2
+          },
+          "score": 1883.4
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Zak Walcher",
+          "record": {
+            "wins": 5,
+            "losses": 7
+          },
+          "score": 2270.6
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "FRYE = Failure",
+          "record": {
+            "wins": 9,
+            "losses": 3
+          },
+          "score": 2191.2
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_12",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week13": {
+    "id": 13,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 7,
+            "losses": 6
+          },
+          "score": 1925.7
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "U DaHo",
+          "record": {
+            "wins": 3,
+            "losses": 10
+          },
+          "score": 2881.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Isaac Hayes",
+          "record": {
+            "wins": 7,
+            "losses": 6
+          },
+          "score": 1988.2
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Zak Walcher",
+          "record": {
+            "wins": 5,
+            "losses": 8
+          },
+          "score": 2562.9
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "The Jugger-not",
+          "record": {
+            "wins": 11,
+            "losses": 2
+          },
+          "score": 2582.8
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 6,
+            "losses": 7
+          },
+          "score": 3264.5
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 9,
+            "losses": 4
+          },
+          "score": 2216.4
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 6,
+            "losses": 7
+          },
+          "score": 2160.7
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "jotas HOs",
+          "record": {
+            "wins": 6,
+            "losses": 7
+          },
+          "score": 2504.2
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Black Lives Matter",
+          "record": {
+            "wins": 5,
+            "losses": 8
+          },
+          "score": 2764.4
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "FRYE = Failure",
+          "record": {
+            "wins": 10,
+            "losses": 3
+          },
+          "score": 2353.2
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 3,
+            "losses": 10
+          },
+          "score": 2478.3
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      }
+    ],
+    "tags": [
+      "WEEK_13",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week14": {
+    "id": 14,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 7,
+            "losses": 7
+          },
+          "score": 2946,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_8"
+          ]
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "The Jugger-not",
+          "record": {
+            "wins": 11,
+            "losses": 3
+          },
+          "score": 2633.2,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_1"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "FRYE = Failure",
+          "record": {
+            "wins": 10,
+            "losses": 4
+          },
+          "score": 2436,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_5"
+          ]
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Isaac Hayes",
+          "record": {
+            "wins": 8,
+            "losses": 6
+          },
+          "score": 2474.7,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_4"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 7,
+            "losses": 7
+          },
+          "score": 2304.4,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_6"
+          ]
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 7,
+            "losses": 7
+          },
+          "score": 2233,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_3"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "jotas HOs",
+          "record": {
+            "wins": 6,
+            "losses": 8
+          },
+          "score": 2115.6,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_7"
+          ]
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 10,
+            "losses": 4
+          },
+          "score": 2248.3,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_2"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Zak Walcher",
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "score": 1534.6,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_10"
+          ]
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Black Lives Matter",
+          "record": {
+            "wins": 6,
+            "losses": 8
+          },
+          "score": 1630.7,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_9"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "U DaHo",
+          "record": {
+            "wins": 4,
+            "losses": 10
+          },
+          "score": 2415.2,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_12"
+          ]
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 3,
+            "losses": 11
+          },
+          "score": 1996.2,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_11"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1"
+    ],
+    "playoffRound": 1
+  },
+  "week15": {
+    "id": 15,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 7,
+            "losses": 8
+          },
+          "score": 2927.4,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Isaac Hayes",
+          "record": {
+            "wins": 9,
+            "losses": 6
+          },
+          "score": 3071.7,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 8,
+            "losses": 7
+          },
+          "score": 2106.4,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 10,
+            "losses": 5
+          },
+          "score": 1871.7,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 7,
+            "losses": 8
+          },
+          "score": 2548.9,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "The Jugger-not",
+          "record": {
+            "wins": 12,
+            "losses": 3
+          },
+          "score": 3105,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "jotas HOs",
+          "record": {
+            "wins": 6,
+            "losses": 9
+          },
+          "score": 2580.7,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "FRYE = Failure",
+          "record": {
+            "wins": 11,
+            "losses": 4
+          },
+          "score": 2657.3,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "U DaHo",
+          "record": {
+            "wins": 4,
+            "losses": 11
+          },
+          "score": 1667.4,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Black Lives Matter",
+          "record": {
+            "wins": 7,
+            "losses": 8
+          },
+          "score": 1737.9,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 3,
+            "losses": 12
+          },
+          "score": 2235.9,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Zak Walcher",
+          "record": {
+            "wins": 6,
+            "losses": 9
+          },
+          "score": 2324.9,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2"
+    ],
+    "playoffRound": 2
+  },
+  "week16": {
+    "id": 16,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 8,
+            "losses": 8
+          },
+          "score": 2212,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_CHAMPIONSHIP",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "RUNNER_UP",
+            "PLACE_2"
+          ]
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Isaac Hayes",
+          "record": {
+            "wins": 10,
+            "losses": 6
+          },
+          "score": 2454.6,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_CHAMPIONSHIP",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "CHAMPION",
+            "PLACE_1"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 8,
+            "losses": 8
+          },
+          "score": 3033.3,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "PLACE_3"
+          ]
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 10,
+            "losses": 6
+          },
+          "score": 2149,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "PLACE_4"
+          ]
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "FRYE = Failure",
+          "record": {
+            "wins": 11,
+            "losses": 5
+          },
+          "score": 1770.2,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "PLACE_6"
+          ]
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "The Jugger-not",
+          "record": {
+            "wins": 13,
+            "losses": 3
+          },
+          "score": 2864.6,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "PLACE_5"
+          ]
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "jotas HOs",
+          "record": {
+            "wins": 6,
+            "losses": 10
+          },
+          "score": 1614.4,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "PLACE_8"
+          ]
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 8,
+            "losses": 8
+          },
+          "score": 2330.4,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "PLACE_7"
+          ]
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Zak Walcher",
+          "record": {
+            "wins": 7,
+            "losses": 9
+          },
+          "score": 2232.1,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "PLACE_9"
+          ]
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Black Lives Matter",
+          "record": {
+            "wins": 7,
+            "losses": 9
+          },
+          "score": 1191.2,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "PLACE_10"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "U DaHo",
+          "record": {
+            "wins": 5,
+            "losses": 11
+          },
+          "score": 2021.7,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
+            "PLAYOFF_ROUND_3",
+            "CONSOLATION_LAST_PLACE",
+            "WINNER",
+            "PLACE_11"
+          ]
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 3,
+            "losses": 13
+          },
+          "score": 1984,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
+            "PLAYOFF_ROUND_3",
+            "CONSOLATION_LAST_PLACE",
+            "LOSER",
+            "PLACE_12",
+            "LAST_PLACE"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3"
+    ],
+    "playoffRound": 3
+  }
+}

@@ -1,0 +1,2362 @@
+{
+  "week1": {
+    "id": 1,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 1621.2
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Playoff Runner Up",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2153
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "League Doormat",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2684.1
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Calais Campbell Half Sacks",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 2066.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Powdered Toast Man",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 1970.1
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Are you Kaeding me",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2458.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Going Last to First",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2299.2
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "off in the shower",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 2294.8
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 2197.2
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Team Fuc k This",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2461.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Big Upside",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2742.4
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Whiskey Ditkas",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 2628.2
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      }
+    ],
+    "tags": [
+      "WEEK_1",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week2": {
+    "id": 2,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "Playoff Runner Up",
+          "record": {
+            "wins": 0,
+            "losses": 2
+          },
+          "score": 2473.7
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Calais Campbell Half Sacks",
+          "record": {
+            "wins": 2,
+            "losses": 0
+          },
+          "score": 2436.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Are you Kaeding me",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2352.6
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "off in the shower",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2407.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Team Fuc k This",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2272.3
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Whiskey Ditkas",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2764.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 2,
+            "losses": 0
+          },
+          "score": 1821.3
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "League Doormat",
+          "record": {
+            "wins": 0,
+            "losses": 2
+          },
+          "score": 2324.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Powdered Toast Man",
+          "record": {
+            "wins": 2,
+            "losses": 0
+          },
+          "score": 2306.6
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Going Last to First",
+          "record": {
+            "wins": 0,
+            "losses": 2
+          },
+          "score": 2381.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2746.3
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Big Upside",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2252.1
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_2",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week3": {
+    "id": 3,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "League Doormat",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2498.1
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Playoff Runner Up",
+          "record": {
+            "wins": 0,
+            "losses": 3
+          },
+          "score": 2626.4
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Going Last to First",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2079.9
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Are you Kaeding me",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2503.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Big Upside",
+          "record": {
+            "wins": 2,
+            "losses": 1
+          },
+          "score": 1900.5
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Team Fuc k This",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2276.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Calais Campbell Half Sacks",
+          "record": {
+            "wins": 3,
+            "losses": 0
+          },
+          "score": 2441.8
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 2,
+            "losses": 1
+          },
+          "score": 2513.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "off in the shower",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2262.4
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Powdered Toast Man",
+          "record": {
+            "wins": 3,
+            "losses": 0
+          },
+          "score": 1839.8
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Whiskey Ditkas",
+          "record": {
+            "wins": 2,
+            "losses": 1
+          },
+          "score": 2424.9
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 3073
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_3",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week4": {
+    "id": 4,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "Playoff Runner Up",
+          "record": {
+            "wins": 1,
+            "losses": 3
+          },
+          "score": 2308.8
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Are you Kaeding me",
+          "record": {
+            "wins": 1,
+            "losses": 3
+          },
+          "score": 2755.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "League Doormat",
+          "record": {
+            "wins": 2,
+            "losses": 2
+          },
+          "score": 1898.7
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Team Fuc k This",
+          "record": {
+            "wins": 1,
+            "losses": 3
+          },
+          "score": 2329.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Going Last to First",
+          "record": {
+            "wins": 1,
+            "losses": 3
+          },
+          "score": 2531.1
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Whiskey Ditkas",
+          "record": {
+            "wins": 3,
+            "losses": 1
+          },
+          "score": 2352.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Calais Campbell Half Sacks",
+          "record": {
+            "wins": 3,
+            "losses": 1
+          },
+          "score": 2802.8
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Big Upside",
+          "record": {
+            "wins": 3,
+            "losses": 1
+          },
+          "score": 2000.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 3,
+            "losses": 1
+          },
+          "score": 2023.1
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "off in the shower",
+          "record": {
+            "wins": 1,
+            "losses": 3
+          },
+          "score": 2356.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Powdered Toast Man",
+          "record": {
+            "wins": 4,
+            "losses": 0
+          },
+          "score": 2180.1
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 1,
+            "losses": 3
+          },
+          "score": 2331.6
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_4",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week5": {
+    "id": 5,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Powdered Toast Man",
+          "record": {
+            "wins": 5,
+            "losses": 0
+          },
+          "score": 2582.6
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Playoff Runner Up",
+          "record": {
+            "wins": 1,
+            "losses": 4
+          },
+          "score": 2640.6
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Whiskey Ditkas",
+          "record": {
+            "wins": 3,
+            "losses": 2
+          },
+          "score": 2795.3
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "League Doormat",
+          "record": {
+            "wins": 3,
+            "losses": 2
+          },
+          "score": 2099.5
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Big Upside",
+          "record": {
+            "wins": 4,
+            "losses": 1
+          },
+          "score": 2384.8
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "off in the shower",
+          "record": {
+            "wins": 1,
+            "losses": 4
+          },
+          "score": 3159.7
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Are you Kaeding me",
+          "record": {
+            "wins": 1,
+            "losses": 4
+          },
+          "score": 2794.4
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Calais Campbell Half Sacks",
+          "record": {
+            "wins": 4,
+            "losses": 1
+          },
+          "score": 2371
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Team Fuc k This",
+          "record": {
+            "wins": 1,
+            "losses": 4
+          },
+          "score": 2506.7
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Going Last to First",
+          "record": {
+            "wins": 2,
+            "losses": 3
+          },
+          "score": 2102.9
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 2,
+            "losses": 3
+          },
+          "score": 2262.6
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 3,
+            "losses": 2
+          },
+          "score": 2270.4
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_5",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week6": {
+    "id": 6,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "Playoff Runner Up",
+          "record": {
+            "wins": 1,
+            "losses": 5
+          },
+          "score": 2201.9
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "off in the shower",
+          "record": {
+            "wins": 2,
+            "losses": 4
+          },
+          "score": 1904.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "League Doormat",
+          "record": {
+            "wins": 4,
+            "losses": 2
+          },
+          "score": 2132.1
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 2,
+            "losses": 4
+          },
+          "score": 2428.6
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Going Last to First",
+          "record": {
+            "wins": 2,
+            "losses": 4
+          },
+          "score": 2471.5
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Big Upside",
+          "record": {
+            "wins": 5,
+            "losses": 1
+          },
+          "score": 2408.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Calais Campbell Half Sacks",
+          "record": {
+            "wins": 5,
+            "losses": 1
+          },
+          "score": 1970.1
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Powdered Toast Man",
+          "record": {
+            "wins": 5,
+            "losses": 1
+          },
+          "score": 2751.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Are you Kaeding me",
+          "record": {
+            "wins": 1,
+            "losses": 5
+          },
+          "score": 2275.4
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Whiskey Ditkas",
+          "record": {
+            "wins": 4,
+            "losses": 2
+          },
+          "score": 1734.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 4,
+            "losses": 2
+          },
+          "score": 2366.7
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Team Fuc k This",
+          "record": {
+            "wins": 1,
+            "losses": 5
+          },
+          "score": 2543.5
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_6",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week7": {
+    "id": 7,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Going Last to First",
+          "record": {
+            "wins": 2,
+            "losses": 5
+          },
+          "score": 2977.4
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Playoff Runner Up",
+          "record": {
+            "wins": 2,
+            "losses": 5
+          },
+          "score": 2479.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 2,
+            "losses": 5
+          },
+          "score": 2916
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Calais Campbell Half Sacks",
+          "record": {
+            "wins": 6,
+            "losses": 1
+          },
+          "score": 2275.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Whiskey Ditkas",
+          "record": {
+            "wins": 5,
+            "losses": 2
+          },
+          "score": 1913.3
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "off in the shower",
+          "record": {
+            "wins": 2,
+            "losses": 5
+          },
+          "score": 2140.1
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Team Fuc k This",
+          "record": {
+            "wins": 1,
+            "losses": 6
+          },
+          "score": 2589.4
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Powdered Toast Man",
+          "record": {
+            "wins": 6,
+            "losses": 1
+          },
+          "score": 1681.8
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Are you Kaeding me",
+          "record": {
+            "wins": 1,
+            "losses": 6
+          },
+          "score": 2419.9
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "League Doormat",
+          "record": {
+            "wins": 5,
+            "losses": 2
+          },
+          "score": 2093.3
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Big Upside",
+          "record": {
+            "wins": 6,
+            "losses": 1
+          },
+          "score": 2360
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 4,
+            "losses": 3
+          },
+          "score": 2729.7
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_7",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week8": {
+    "id": 8,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "Playoff Runner Up",
+          "record": {
+            "wins": 3,
+            "losses": 5
+          },
+          "score": 2286.3
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Team Fuc k This",
+          "record": {
+            "wins": 1,
+            "losses": 7
+          },
+          "score": 2480.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Calais Campbell Half Sacks",
+          "record": {
+            "wins": 7,
+            "losses": 1
+          },
+          "score": 2480.2
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "off in the shower",
+          "record": {
+            "wins": 2,
+            "losses": 6
+          },
+          "score": 2609.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Going Last to First",
+          "record": {
+            "wins": 2,
+            "losses": 6
+          },
+          "score": 2906.7
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 3,
+            "losses": 5
+          },
+          "score": 1976.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 4,
+            "losses": 4
+          },
+          "score": 2271
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Whiskey Ditkas",
+          "record": {
+            "wins": 6,
+            "losses": 2
+          },
+          "score": 1877.8
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "League Doormat",
+          "record": {
+            "wins": 6,
+            "losses": 2
+          },
+          "score": 2075.3
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Powdered Toast Man",
+          "record": {
+            "wins": 6,
+            "losses": 2
+          },
+          "score": 2188.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Are you Kaeding me",
+          "record": {
+            "wins": 1,
+            "losses": 7
+          },
+          "score": 2058.2
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Big Upside",
+          "record": {
+            "wins": 7,
+            "losses": 1
+          },
+          "score": 2045.6
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_8",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week9": {
+    "id": 9,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 4,
+            "losses": 5
+          },
+          "score": 2314.1
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Playoff Runner Up",
+          "record": {
+            "wins": 3,
+            "losses": 6
+          },
+          "score": 2411.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Team Fuc k This",
+          "record": {
+            "wins": 1,
+            "losses": 8
+          },
+          "score": 2485.1
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "off in the shower",
+          "record": {
+            "wins": 3,
+            "losses": 6
+          },
+          "score": 1904.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Whiskey Ditkas",
+          "record": {
+            "wins": 7,
+            "losses": 2
+          },
+          "score": 2464
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Calais Campbell Half Sacks",
+          "record": {
+            "wins": 7,
+            "losses": 2
+          },
+          "score": 2840.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Going Last to First",
+          "record": {
+            "wins": 2,
+            "losses": 7
+          },
+          "score": 2317.5
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "League Doormat",
+          "record": {
+            "wins": 7,
+            "losses": 2
+          },
+          "score": 1870
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Are you Kaeding me",
+          "record": {
+            "wins": 2,
+            "losses": 7
+          },
+          "score": 1899.8
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 4,
+            "losses": 5
+          },
+          "score": 2168.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Big Upside",
+          "record": {
+            "wins": 8,
+            "losses": 1
+          },
+          "score": 1810.1
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Powdered Toast Man",
+          "record": {
+            "wins": 6,
+            "losses": 3
+          },
+          "score": 2360.7
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_9",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week10": {
+    "id": 10,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "Playoff Runner Up",
+          "record": {
+            "wins": 3,
+            "losses": 7
+          },
+          "score": 2570.4
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Whiskey Ditkas",
+          "record": {
+            "wins": 8,
+            "losses": 2
+          },
+          "score": 1913
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "League Doormat",
+          "record": {
+            "wins": 8,
+            "losses": 2
+          },
+          "score": 2205.8
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Big Upside",
+          "record": {
+            "wins": 8,
+            "losses": 2
+          },
+          "score": 2636
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "off in the shower",
+          "record": {
+            "wins": 4,
+            "losses": 6
+          },
+          "score": 1981.9
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 4,
+            "losses": 6
+          },
+          "score": 2839.5
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Are you Kaeding me",
+          "record": {
+            "wins": 3,
+            "losses": 7
+          },
+          "score": 2622.9
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Team Fuc k This",
+          "record": {
+            "wins": 1,
+            "losses": 9
+          },
+          "score": 2856.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Calais Campbell Half Sacks",
+          "record": {
+            "wins": 8,
+            "losses": 2
+          },
+          "score": 2121.1
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Going Last to First",
+          "record": {
+            "wins": 2,
+            "losses": 8
+          },
+          "score": 2705.9
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 4,
+            "losses": 6
+          },
+          "score": 2800.9
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Powdered Toast Man",
+          "record": {
+            "wins": 7,
+            "losses": 3
+          },
+          "score": 2215.9
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      }
+    ],
+    "tags": [
+      "WEEK_10",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week11": {
+    "id": 11,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Big Upside",
+          "record": {
+            "wins": 9,
+            "losses": 2
+          },
+          "score": 2258.9
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Playoff Runner Up",
+          "record": {
+            "wins": 3,
+            "losses": 8
+          },
+          "score": 2456.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Whiskey Ditkas",
+          "record": {
+            "wins": 8,
+            "losses": 3
+          },
+          "score": 2245.4
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Powdered Toast Man",
+          "record": {
+            "wins": 8,
+            "losses": 3
+          },
+          "score": 2212.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "off in the shower",
+          "record": {
+            "wins": 5,
+            "losses": 6
+          },
+          "score": 2382.1
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "League Doormat",
+          "record": {
+            "wins": 8,
+            "losses": 3
+          },
+          "score": 2653.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 5,
+            "losses": 6
+          },
+          "score": 2654.1
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Are you Kaeding me",
+          "record": {
+            "wins": 3,
+            "losses": 8
+          },
+          "score": 2776.6
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Team Fuc k This",
+          "record": {
+            "wins": 2,
+            "losses": 9
+          },
+          "score": 2404.4
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Calais Campbell Half Sacks",
+          "record": {
+            "wins": 8,
+            "losses": 3
+          },
+          "score": 2499.1
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Going Last to First",
+          "record": {
+            "wins": 3,
+            "losses": 8
+          },
+          "score": 1989.8
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 4,
+            "losses": 7
+          },
+          "score": 2352.2
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_11",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week12": {
+    "id": 12,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "Playoff Runner Up",
+          "record": {
+            "wins": 4,
+            "losses": 8
+          },
+          "score": 2512.1
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 4,
+            "losses": 8
+          },
+          "score": 2526.3
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Calais Campbell Half Sacks",
+          "record": {
+            "wins": 8,
+            "losses": 4
+          },
+          "score": 2945.3
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "League Doormat",
+          "record": {
+            "wins": 9,
+            "losses": 3
+          },
+          "score": 1520.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Are you Kaeding me",
+          "record": {
+            "wins": 4,
+            "losses": 8
+          },
+          "score": 1745.4
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Powdered Toast Man",
+          "record": {
+            "wins": 8,
+            "losses": 4
+          },
+          "score": 2410.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "off in the shower",
+          "record": {
+            "wins": 5,
+            "losses": 7
+          },
+          "score": 2771.3
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Going Last to First",
+          "record": {
+            "wins": 4,
+            "losses": 8
+          },
+          "score": 2741.5
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Team Fuc k This",
+          "record": {
+            "wins": 2,
+            "losses": 10
+          },
+          "score": 2103.3
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 6,
+            "losses": 6
+          },
+          "score": 1867.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Whiskey Ditkas",
+          "record": {
+            "wins": 8,
+            "losses": 4
+          },
+          "score": 3035
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Big Upside",
+          "record": {
+            "wins": 10,
+            "losses": 2
+          },
+          "score": 2443.9
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      }
+    ],
+    "tags": [
+      "WEEK_12",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week13": {
+    "id": 13,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Calais Campbell Half Sacks",
+          "record": {
+            "wins": 9,
+            "losses": 4
+          },
+          "score": 2172.5
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Playoff Runner Up",
+          "record": {
+            "wins": 4,
+            "losses": 9
+          },
+          "score": 2357.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "off in the shower",
+          "record": {
+            "wins": 6,
+            "losses": 7
+          },
+          "score": 1902.3
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Are you Kaeding me",
+          "record": {
+            "wins": 4,
+            "losses": 9
+          },
+          "score": 2672.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Whiskey Ditkas",
+          "record": {
+            "wins": 9,
+            "losses": 4
+          },
+          "score": 2223.1
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Team Fuc k This",
+          "record": {
+            "wins": 2,
+            "losses": 11
+          },
+          "score": 2653.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "League Doormat",
+          "record": {
+            "wins": 10,
+            "losses": 3
+          },
+          "score": 2052.2
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 4,
+            "losses": 9
+          },
+          "score": 2407.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Going Last to First",
+          "record": {
+            "wins": 5,
+            "losses": 8
+          },
+          "score": 2103.2
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Powdered Toast Man",
+          "record": {
+            "wins": 8,
+            "losses": 5
+          },
+          "score": 2488.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Big Upside",
+          "record": {
+            "wins": 10,
+            "losses": 3
+          },
+          "score": 2396.5
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 7,
+            "losses": 6
+          },
+          "score": 2302.3
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_13",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week14": {
+    "id": 14,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Going Last to First",
+          "record": {
+            "wins": 6,
+            "losses": 8
+          },
+          "score": 2685.8,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_8"
+          ]
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "League Doormat",
+          "record": {
+            "wins": 10,
+            "losses": 4
+          },
+          "score": 1852.1,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_1"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Whiskey Ditkas",
+          "record": {
+            "wins": 10,
+            "losses": 4
+          },
+          "score": 2716.2,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_5"
+          ]
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Powdered Toast Man",
+          "record": {
+            "wins": 8,
+            "losses": 6
+          },
+          "score": 2063.5,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_4"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 8,
+            "losses": 6
+          },
+          "score": 2622.5,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_6"
+          ]
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Half Sacks",
+          "record": {
+            "wins": 9,
+            "losses": 5
+          },
+          "score": 2411.1,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_3"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "off in the shower",
+          "record": {
+            "wins": 7,
+            "losses": 7
+          },
+          "score": 2678.8,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_7"
+          ]
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Big Upside",
+          "record": {
+            "wins": 10,
+            "losses": 4
+          },
+          "score": 2636.2,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_2"
+          ]
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Are you Kaeding me",
+          "record": {
+            "wins": 4,
+            "losses": 10
+          },
+          "score": 1716.6,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_10"
+          ]
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Playoff Runner Up",
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "score": 2260.2,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_9"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Team Fuc k This",
+          "record": {
+            "wins": 2,
+            "losses": 12
+          },
+          "score": 1918.2,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_12"
+          ]
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "score": 2110.2,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_11"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1"
+    ],
+    "playoffRound": 1
+  },
+  "week15": {
+    "id": 15,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Going Last to First",
+          "record": {
+            "wins": 7,
+            "losses": 8
+          },
+          "score": 2280,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Whiskey Ditkas",
+          "record": {
+            "wins": 10,
+            "losses": 5
+          },
+          "score": 2169.2,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "off in the shower",
+          "record": {
+            "wins": 8,
+            "losses": 7
+          },
+          "score": 2735,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 8,
+            "losses": 7
+          },
+          "score": 2420,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Big Upside",
+          "record": {
+            "wins": 10,
+            "losses": 5
+          },
+          "score": 1742.6,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "League Doormat",
+          "record": {
+            "wins": 11,
+            "losses": 4
+          },
+          "score": 2140.3,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Powdered Toast Man",
+          "record": {
+            "wins": 8,
+            "losses": 7
+          },
+          "score": 2128.6,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Half Sacks",
+          "record": {
+            "wins": 10,
+            "losses": 5
+          },
+          "score": 2653.2,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 5,
+            "losses": 10
+          },
+          "score": 2361.7,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Playoff Runner Up",
+          "record": {
+            "wins": 6,
+            "losses": 9
+          },
+          "score": 2500.7,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Team Fuc k This",
+          "record": {
+            "wins": 3,
+            "losses": 12
+          },
+          "score": 2568.7,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Are you Kaeding me",
+          "record": {
+            "wins": 4,
+            "losses": 11
+          },
+          "score": 2420.5,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2"
+    ],
+    "playoffRound": 2
+  },
+  "week16": {
+    "id": 16,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Going Last to First",
+          "record": {
+            "wins": 8,
+            "losses": 8
+          },
+          "score": 2476.5,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_CHAMPIONSHIP",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "CHAMPION",
+            "PLACE_1"
+          ]
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "off in the shower",
+          "record": {
+            "wins": 8,
+            "losses": 8
+          },
+          "score": 2208.4,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_CHAMPIONSHIP",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "RUNNER_UP",
+            "PLACE_2"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "The One Eyed Man is King",
+          "record": {
+            "wins": 8,
+            "losses": 8
+          },
+          "score": 2116.4,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "PLACE_4"
+          ]
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Whiskey Ditkas",
+          "record": {
+            "wins": 11,
+            "losses": 5
+          },
+          "score": 2209.8,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "PLACE_3"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Half Sacks",
+          "record": {
+            "wins": 10,
+            "losses": 6
+          },
+          "score": 2402.7,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "PLACE_6"
+          ]
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "League Doormat",
+          "record": {
+            "wins": 12,
+            "losses": 4
+          },
+          "score": 3158.8,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "PLACE_5"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Powdered Toast Man",
+          "record": {
+            "wins": 9,
+            "losses": 7
+          },
+          "score": 2746,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "PLACE_7"
+          ]
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Big Upside",
+          "record": {
+            "wins": 10,
+            "losses": 6
+          },
+          "score": 2546.9,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "PLACE_8"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Team Fuc k This",
+          "record": {
+            "wins": 3,
+            "losses": 13
+          },
+          "score": 1757.1,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "PLACE_10"
+          ]
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Playoff Runner Up",
+          "record": {
+            "wins": 7,
+            "losses": 9
+          },
+          "score": 2662.7,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "PLACE_9"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "Jotas Hos",
+          "record": {
+            "wins": 5,
+            "losses": 11
+          },
+          "score": 1944,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
+            "PLAYOFF_ROUND_3",
+            "CONSOLATION_LAST_PLACE",
+            "LOSER",
+            "PLACE_12",
+            "LAST_PLACE"
+          ]
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Are you Kaeding me",
+          "record": {
+            "wins": 5,
+            "losses": 11
+          },
+          "score": 2461.5,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
+            "PLAYOFF_ROUND_3",
+            "CONSOLATION_LAST_PLACE",
+            "WINNER",
+            "PLACE_11"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3"
+    ],
+    "playoffRound": 3
+  }
+}

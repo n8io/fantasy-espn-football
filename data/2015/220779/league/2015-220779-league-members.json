@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "abbrev": "NATE",
+    "name": "League Man Nate'd",
+    "firstName": "Nate",
+    "lastName": "Clark",
+    "tags": [
+      {
+        "division": "Duuuude"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "abbrev": "JJHO",
+    "name": "jotas HOs",
+    "firstName": "Jeremiah",
+    "lastName": "Howe",
+    "tags": [
+      {
+        "division": "Shoeless and Clueless"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "abbrev": "HURL",
+    "name": "Isaac Hayes",
+    "firstName": "Zak",
+    "lastName": "Hurley",
+    "tags": [
+      {
+        "division": "Chicken and Malt Liquor"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "abbrev": "DANK",
+    "name": "U DaHo",
+    "firstName": "Daniel",
+    "lastName": "Kelly",
+    "tags": [
+      {
+        "division": "Chicken and Malt Liquor"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "abbrev": "EBBY",
+    "name": "Two Mannings One Cup",
+    "firstName": "Matthew",
+    "lastName": "Eberhardt",
+    "tags": [
+      {
+        "division": "Duuuude"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "abbrev": "DUBS",
+    "name": "Ball Sagna",
+    "firstName": "Brian",
+    "lastName": "Williams",
+    "tags": [
+      {
+        "division": "Shoeless and Clueless"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "abbrev": "PERO",
+    "name": "The Jugger-not",
+    "firstName": "Jason",
+    "lastName": "Pero",
+    "tags": [
+      {
+        "division": "Stacked"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "abbrev": "FRYE",
+    "name": "Black Lives Matter",
+    "firstName": "Brian",
+    "lastName": "Frye",
+    "tags": [
+      {
+        "division": "Shoeless and Clueless"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "abbrev": "FUCK",
+    "name": "Zak Walcher",
+    "tags": [
+      {
+        "division": "Chicken and Malt Liquor"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "abbrev": "BROK",
+    "name": "Madden Curse",
+    "firstName": "Brock",
+    "lastName": "Holtzapple",
+    "tags": [
+      {
+        "division": "Stacked"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "abbrev": "JROD",
+    "name": "FRYE = Failure",
+    "firstName": "Jerrod",
+    "lastName": "Vastag",
+    "tags": [
+      {
+        "division": "Stacked"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "abbrev": "WEAV",
+    "name": "Down With OBJr.",
+    "firstName": "Matt",
+    "lastName": "Weaver",
+    "tags": [
+      {
+        "division": "Duuuude"
+      }
+    ]
+  }
+]

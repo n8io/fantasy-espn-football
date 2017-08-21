@@ -1,0 +1,146 @@
+[
+  {
+    "id": 4,
+    "abbrev": "Pad",
+    "name": "League Doormat",
+    "firstName": "Matthew",
+    "lastName": "Dziedzicki",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "abbrev": "Frye",
+    "name": "Team Fuck",
+    "firstName": "Brian",
+    "lastName": "Frye",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "abbrev": "Weav",
+    "name": "Loves Being Raped",
+    "firstName": "Matt",
+    "lastName": "Weaver",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "abbrev": "Jim",
+    "name": "Tripple Threat",
+    "firstName": "Jim",
+    "lastName": "Harries",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "abbrev": "JJ",
+    "name": "Jotas Hos",
+    "firstName": "Jeremiah",
+    "lastName": "Howe",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "abbrev": "Mike",
+    "name": "TDs N Beer",
+    "firstName": "Mike",
+    "lastName": "Saunders",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "abbrev": "Brok",
+    "name": "The One Eyed Man is King",
+    "firstName": "Brock",
+    "lastName": "Holtzapple",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "abbrev": "Dubs",
+    "name": "Powdered Toast Man",
+    "firstName": "Brian",
+    "lastName": "Williams",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "abbrev": "Jrod",
+    "name": "Whiskey Ditkas",
+    "firstName": "Jerrod",
+    "lastName": "Vastag",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "abbrev": "Nate",
+    "name": "Team Whistle Tips",
+    "firstName": "Nate",
+    "lastName": "Clark",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "abbrev": "cdz",
+    "name": "off in the shower",
+    "firstName": "Chris",
+    "lastName": "Dziedzicki",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "abbrev": "HURL",
+    "name": "Peyton Is Makin It Wayne",
+    "firstName": "Zak",
+    "lastName": "Hurley",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  }
+]

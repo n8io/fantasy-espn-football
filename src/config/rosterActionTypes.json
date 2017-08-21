@@ -1,0 +1,13 @@
+{
+  "UKNOWN": "UNKNOWN",
+
+  "ADDED": "ADD",
+  "DROPPED": "DROP",
+  "TRADED": "TRADE",
+
+  "ADD": "ADD",
+  "DROP": "DROP",
+  "TRADE": "TRADE",
+
+  "NONE": "NONE"
+}

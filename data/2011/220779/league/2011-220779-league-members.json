@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "abbrev": "NATE",
+    "name": "Velocicraptor FUCKINGRAWR",
+    "firstName": "Nate",
+    "lastName": "Clark",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "abbrev": "JJ",
+    "name": "Jotas Hos",
+    "firstName": "Jeremiah",
+    "lastName": "Howe",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "abbrev": "HURL",
+    "name": "Little Lebowski Urban Achievers",
+    "firstName": "Zak",
+    "lastName": "Hurley",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "abbrev": "PAD",
+    "name": "The Next Golf Cart Bandit",
+    "firstName": "Matthew",
+    "lastName": "Dziedzicki",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "abbrev": "MIKE",
+    "name": "Whatchu Talkin'  'Bout Hillis",
+    "firstName": "Mike",
+    "lastName": "Saunders",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "abbrev": "FAT",
+    "name": "Incredible Bulk",
+    "firstName": "Brian",
+    "lastName": "Williams",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "abbrev": "CDZ",
+    "name": "off in the shower",
+    "firstName": "Chris",
+    "lastName": "Dziedzicki",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "abbrev": "FRYE",
+    "name": "TLOEI Champion",
+    "firstName": "Brian",
+    "lastName": "Frye",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "abbrev": "JIM",
+    "name": "On Side Boob Kicks",
+    "firstName": "Jim",
+    "lastName": "Harries",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "abbrev": "BROK",
+    "name": "The One Eyed Man is King",
+    "firstName": "Brock",
+    "lastName": "Holtzapple",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "abbrev": "JROD",
+    "name": "Your screwed, I'm Angerer",
+    "firstName": "Jerrod",
+    "lastName": "Vastag",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "abbrev": "WEAV",
+    "name": "Big Upside",
+    "firstName": "Matt",
+    "lastName": "Weaver",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  }
+]

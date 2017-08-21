@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "abbrev": "NATE",
+    "name": "League Man Nate'd",
+    "firstName": "Nate",
+    "lastName": "Clark",
+    "tags": [
+      {
+        "division": "DAMOCLES"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "abbrev": "JOTA",
+    "name": "jotas HOS",
+    "firstName": "Jeremiah",
+    "lastName": "Howe",
+    "tags": [
+      {
+        "division": "NOBODY IMPORTANT"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "abbrev": "HURL",
+    "name": "Chicken  Dinner",
+    "firstName": "Zak",
+    "lastName": "Hurley",
+    "tags": [
+      {
+        "division": "NOBODY IMPORTANT"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "abbrev": "DANK",
+    "name": "Mongolian Giants",
+    "firstName": "Daniel",
+    "lastName": "Kelly",
+    "tags": [
+      {
+        "division": "LEMON PARTY"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "abbrev": "EBBY",
+    "name": "Two Mannings One Cup",
+    "firstName": "Matthew",
+    "lastName": "Eberhardt",
+    "tags": [
+      {
+        "division": "LEMON PARTY"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "abbrev": "DUBS",
+    "name": "Ball Sagna",
+    "firstName": "Brian",
+    "lastName": "Williams",
+    "tags": [
+      {
+        "division": "LEMON PARTY"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "abbrev": "KURT",
+    "name": "Jobu's Rum",
+    "firstName": "Kurtis",
+    "lastName": "Dilyard",
+    "tags": [
+      {
+        "division": "NOBODY IMPORTANT"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "abbrev": "FRYE",
+    "name": "Don't Know",
+    "firstName": "Brian",
+    "lastName": "Frye",
+    "tags": [
+      {
+        "division": "WHY TRY"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "abbrev": "MBIX",
+    "name": "Mike Bixler",
+    "firstName": "Gary",
+    "lastName": "Bixler",
+    "tags": [
+      {
+        "division": "WHY TRY"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "abbrev": "BROK",
+    "name": "Cleveland Browns",
+    "firstName": "Brock",
+    "lastName": "Holtzapple",
+    "tags": [
+      {
+        "division": "WHY TRY"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "abbrev": "JROD",
+    "name": "Frisky  Dingo",
+    "firstName": "Jerrod",
+    "lastName": "Vastag",
+    "tags": [
+      {
+        "division": "DAMOCLES"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "abbrev": "WEAV",
+    "name": "Down With OBJr.",
+    "firstName": "Matt",
+    "lastName": "Weaver",
+    "tags": [
+      {
+        "division": "DAMOCLES"
+      }
+    ]
+  }
+]

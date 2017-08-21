@@ -1,0 +1,2817 @@
+[
+  {
+    "date": "0009-08-21T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "KURT dropped Adam Vinatieri, Ind K to Waivers",
+        "KURT dropped Donnie Jones, Phi P to Waivers",
+        "KURT dropped Paul Posluszny, Jax LB to Waivers",
+        "KURT dropped David Harris, NE LB to Waivers",
+        "KURT dropped Jonathan Stewart, Car RB to Waivers",
+        "KURT dropped Michael Johnson, Cin DE to Waivers",
+        "KURT dropped Clay Matthews, GB LB to Waivers",
+        "KURT dropped Jeremy Maclin, Bal WR to Waivers",
+        "KURT dropped Ryan Mathews, Phi RB to Waivers",
+        "KURT dropped Demaryius Thomas, Den WR to Waivers",
+        "KURT dropped Everson Griffen, Min DE to Waivers",
+        "KURT dropped Davon House, GB CB to Waivers",
+        "KURT dropped Julius Thomas, Mia TE to Waivers",
+        "KURT dropped Lavonte David, TB LB to Waivers",
+        "KURT dropped Blair Walsh, Sea K to Waivers",
+        "KURT dropped Robert Alford, Atl CB to Waivers",
+        "KURT dropped Giovani Bernard, Cin RB to Waivers",
+        "KURT dropped Jordan Reed, Wsh TE to Waivers",
+        "KURT dropped Tony Jefferson, Bal S to Waivers",
+        "KURT dropped Calvin Pryor, Cle S to Waivers",
+        "KURT dropped Kony Ealy, NE DE to Waivers",
+        "KURT dropped Allen Robinson, Jax WR to Waivers",
+        "KURT dropped Jeremy Hill, Cin RB to Waivers",
+        "KURT dropped Allen Hurns, Jax WR to Waivers",
+        "KURT dropped E.J. Gaines, Buf CB to Waivers",
+        "KURT dropped Sterling Shepard, NYG WR to Waivers",
+        "KURT dropped Adolphus Washington, Buf DT to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Adam Vinatieri",
+            "team": "Ind",
+            "position": "K"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Donnie Jones",
+            "team": "Phi",
+            "position": "P"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Paul Posluszny",
+            "team": "Jax",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "David Harris",
+            "team": "NE",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Jonathan Stewart",
+            "team": "Car",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Michael Johnson",
+            "team": "Cin",
+            "position": "DE"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Clay Matthews",
+            "team": "GB",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Jeremy Maclin",
+            "team": "Bal",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Ryan Mathews",
+            "team": "Phi",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Demaryius Thomas",
+            "team": "Den",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Everson Griffen",
+            "team": "Min",
+            "position": "DE"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Davon House",
+            "team": "GB",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Julius Thomas",
+            "team": "Mia",
+            "position": "TE"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Lavonte David",
+            "team": "TB",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Blair Walsh",
+            "team": "Sea",
+            "position": "K"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Robert Alford",
+            "team": "Atl",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Giovani Bernard",
+            "team": "Cin",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Jordan Reed",
+            "team": "Wsh",
+            "position": "TE"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Tony Jefferson",
+            "team": "Bal",
+            "position": "S"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Calvin Pryor",
+            "team": "Cle",
+            "position": "S"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Kony Ealy",
+            "team": "NE",
+            "position": "DE"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Allen Robinson",
+            "team": "Jax",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Jeremy Hill",
+            "team": "Cin",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Allen Hurns",
+            "team": "Jax",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "E.J. Gaines",
+            "team": "Buf",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Sterling Shepard",
+            "team": "NYG",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Adolphus Washington",
+            "team": "Buf",
+            "position": "DT"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0008-08-21T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "JROD dropped Eric Berry, KC S to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Eric Berry",
+            "team": "KC",
+            "position": "S"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-20T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DUBS dropped Phil Dawson, Ari K to Waivers",
+        "DUBS dropped Ben Roethlisberger, Pit QB to Waivers",
+        "DUBS dropped Mike Adams, Car S to Waivers",
+        "DUBS dropped Kevin Huber, Cin P to Waivers",
+        "DUBS dropped Clinton McDonald, TB DT to Waivers",
+        "DUBS dropped Joe Haden, Cle CB to Waivers",
+        "DUBS dropped Barry Church, Jax S to Waivers",
+        "DUBS dropped Alshon Jeffery, Phi WR to Waivers",
+        "DUBS dropped Olivier Vernon, NYG DE to Waivers",
+        "DUBS dropped Nathan Stupar, NO LB to Waivers",
+        "DUBS dropped Danny Trevathan, Chi LB to Waivers",
+        "DUBS dropped Ezekiel Ansah*, Det DE to Waivers",
+        "DUBS dropped DeAndre Hopkins, Hou WR to Waivers",
+        "DUBS dropped David Amerson, Oak CB to Waivers",
+        "DUBS dropped Johnathan Hankins, Ind DT to Waivers",
+        "DUBS dropped Christine Michael*, Ind RB to Waivers",
+        "DUBS dropped Bradley McDougald, Sea S to Waivers",
+        "DUBS dropped Terrance West, Bal RB to Waivers",
+        "DUBS dropped Dontrelle Inman, LAC WR to Waivers",
+        "DUBS dropped Zachary Orr*, Bal LB to Waivers",
+        "DUBS dropped Will Compton, Wsh LB to Waivers",
+        "DUBS dropped Jameis Winston, TB QB to Waivers",
+        "DUBS dropped Jeremy Langford, Chi RB to Waivers",
+        "DUBS dropped Sammie Coates, Pit WR to Waivers",
+        "DUBS dropped Ronald Darby, Phi CB to Waivers",
+        "DUBS dropped Dorial Green-Beckham, Phi WR to Waivers",
+        "DUBS dropped Leonard Williams, NYJ DT to Waivers",
+        "DUBS dropped Jesse James, Pit TE to Waivers",
+        "DUBS dropped Roberto Aguayo, Chi K to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Phil Dawson",
+            "team": "Ari",
+            "position": "K"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Ben Roethlisberger",
+            "team": "Pit",
+            "position": "QB"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Mike Adams",
+            "team": "Car",
+            "position": "S"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Kevin Huber",
+            "team": "Cin",
+            "position": "P"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Clinton McDonald",
+            "team": "TB",
+            "position": "DT"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Joe Haden",
+            "team": "Cle",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Barry Church",
+            "team": "Jax",
+            "position": "S"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Alshon Jeffery",
+            "team": "Phi",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Olivier Vernon",
+            "team": "NYG",
+            "position": "DE"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Nathan Stupar",
+            "team": "NO",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Danny Trevathan",
+            "team": "Chi",
+            "position": "LB"
+          }
+        },
+        null,
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "DeAndre Hopkins",
+            "team": "Hou",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "David Amerson",
+            "team": "Oak",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Johnathan Hankins",
+            "team": "Ind",
+            "position": "DT"
+          }
+        },
+        null,
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Bradley McDougald",
+            "team": "Sea",
+            "position": "S"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Terrance West",
+            "team": "Bal",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Dontrelle Inman",
+            "team": "LAC",
+            "position": "WR"
+          }
+        },
+        null,
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Will Compton",
+            "team": "Wsh",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Jameis Winston",
+            "team": "TB",
+            "position": "QB"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Jeremy Langford",
+            "team": "Chi",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Sammie Coates",
+            "team": "Pit",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Ronald Darby",
+            "team": "Phi",
+            "position": "CB"
+          }
+        },
+        null,
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Leonard Williams",
+            "team": "NYJ",
+            "position": "DT"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Jesse James",
+            "team": "Pit",
+            "position": "TE"
+          }
+        },
+        {
+          "team": "DUBS",
+          "action": "DROP",
+          "player": {
+            "name": "Roberto Aguayo",
+            "team": "Chi",
+            "position": "K"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2011-08-20T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Todd Gurley, LAR RB to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Todd Gurley",
+            "team": "LAR",
+            "position": "RB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2011-08-20T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Malcolm Jenkins, Phi S to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Malcolm Jenkins",
+            "team": "Phi",
+            "position": "S"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0007-08-20T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "HURL dropped Mike Nugent, NYG K to Waivers",
+        "HURL dropped Darren Sproles, Phi RB to Waivers",
+        "HURL dropped Delanie Walker, Ten TE to Waivers",
+        "HURL dropped Glenn Dorsey, SF DE to Waivers",
+        "HURL dropped Jason McCourty, Cle CB to Waivers",
+        "HURL dropped Ryan Succop, Ten K to Waivers",
+        "HURL dropped Jermaine Gresham, Ari TE to Waivers",
+        "HURL dropped Kareem Jackson, Hou CB to Waivers",
+        "HURL dropped Marcell Dareus, Buf DT to Waivers",
+        "HURL dropped Andy Dalton, Cin QB to Waivers",
+        "HURL dropped Isa Abdul-Quddus, Mia S to Waivers",
+        "HURL dropped Tahir Whitehead, Det LB to Waivers",
+        "HURL dropped Rishard Matthews, Ten WR to Waivers",
+        "HURL dropped Deonte Thompson, Chi WR to Waivers",
+        "HURL dropped Marcus Cooper, Chi CB to Waivers",
+        "HURL dropped Jeff Locke, Ind P to Waivers",
+        "HURL dropped Aaron Donald*, LAR DT to Waivers",
+        "HURL dropped C.J. Mosley, Bal LB to Waivers",
+        "HURL dropped Trent Murphy*, Wsh DE to Waivers",
+        "HURL dropped Christian Kirksey, Cle LB to Waivers",
+        "HURL dropped Byron Jones, Dal S to Waivers",
+        "HURL dropped Clayton Geathers*, Ind S to Waivers",
+        "HURL dropped Marcus Mariota, Ten QB to Waivers",
+        "HURL dropped Tyler Lockett, Sea WR to Waivers",
+        "HURL dropped Danielle Hunter, Min DE to Waivers",
+        "HURL dropped Tevin Coleman, Atl RB to Waivers",
+        "HURL dropped DeForest Buckner, SF DT to Waivers",
+        "HURL dropped Will Fuller V*, Hou WR to Waivers",
+        "HURL dropped Tyler Boyd, Cin WR to Waivers",
+        "HURL dropped Nick Kwiatkoski, Chi LB to Waivers",
+        "HURL dropped Robert Kelley, Wsh RB to Waivers",
+        "HURL dropped Edwin Jackson, Ind LB to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Mike Nugent",
+            "team": "NYG",
+            "position": "K"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Darren Sproles",
+            "team": "Phi",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Delanie Walker",
+            "team": "Ten",
+            "position": "TE"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Glenn Dorsey",
+            "team": "SF",
+            "position": "DE"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Jason McCourty",
+            "team": "Cle",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Ryan Succop",
+            "team": "Ten",
+            "position": "K"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Jermaine Gresham",
+            "team": "Ari",
+            "position": "TE"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Kareem Jackson",
+            "team": "Hou",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Marcell Dareus",
+            "team": "Buf",
+            "position": "DT"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Andy Dalton",
+            "team": "Cin",
+            "position": "QB"
+          }
+        },
+        null,
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Tahir Whitehead",
+            "team": "Det",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Rishard Matthews",
+            "team": "Ten",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Deonte Thompson",
+            "team": "Chi",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Marcus Cooper",
+            "team": "Chi",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Jeff Locke",
+            "team": "Ind",
+            "position": "P"
+          }
+        },
+        null,
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "C.J. Mosley",
+            "team": "Bal",
+            "position": "LB"
+          }
+        },
+        null,
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Christian Kirksey",
+            "team": "Cle",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Byron Jones",
+            "team": "Dal",
+            "position": "S"
+          }
+        },
+        null,
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Marcus Mariota",
+            "team": "Ten",
+            "position": "QB"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Tyler Lockett",
+            "team": "Sea",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Danielle Hunter",
+            "team": "Min",
+            "position": "DE"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Tevin Coleman",
+            "team": "Atl",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "DeForest Buckner",
+            "team": "SF",
+            "position": "DT"
+          }
+        },
+        null,
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Tyler Boyd",
+            "team": "Cin",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Nick Kwiatkoski",
+            "team": "Chi",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Robert Kelley",
+            "team": "Wsh",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "HURL",
+          "action": "DROP",
+          "player": {
+            "name": "Edwin Jackson",
+            "team": "Ind",
+            "position": "LB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0004-08-19T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "FRYE dropped Carson Palmer, Ari QB to Waivers",
+        "FRYE dropped Dustin Colquitt, KC P to Waivers",
+        "FRYE dropped Matt Prater, Det K to Waivers",
+        "FRYE dropped Jonathan Casillas, NYG LB to Waivers",
+        "FRYE dropped Jason Pierre-Paul, NYG DE to Waivers",
+        "FRYE dropped Carlos Dunlap, Cin DE to Waivers",
+        "FRYE dropped Adrian Clayborn, Atl DE to Waivers",
+        "FRYE dropped Patrick Peterson, Ari CB to Waivers",
+        "FRYE dropped Nick Fairley*, NO DT to Waivers",
+        "FRYE dropped Justin Houston, KC LB to Waivers",
+        "FRYE dropped Tyrod Taylor, Buf QB to Waivers",
+        "FRYE dropped Ron Parker, KC S to Waivers",
+        "FRYE dropped Craig Robertson, NO LB to Waivers",
+        "FRYE dropped Coby Fleener, NO TE to Waivers",
+        "FRYE dropped Michael Floyd, Min WR to Waivers",
+        "FRYE dropped Nick Perry, GB LB to Waivers",
+        "FRYE dropped Janoris Jenkins, NYG CB to Waivers",
+        "FRYE dropped Josh Norman, Wsh CB to Waivers",
+        "FRYE dropped Rodney McLeod, Phi S to Waivers",
+        "FRYE dropped Latavius Murray, Min RB to Waivers",
+        "FRYE dropped Jack Doyle, Ind TE to Waivers",
+        "FRYE dropped Jordan Matthews, Buf WR to Waivers",
+        "FRYE dropped Stephon Tuitt, Pit DE to Waivers",
+        "FRYE dropped Telvin Smith, Jax LB to Waivers",
+        "FRYE dropped Willie Snead, NO WR to Waivers",
+        "FRYE dropped T.J. Yeldon, Jax RB to Waivers",
+        "FRYE dropped Bradley Pinion, SF P to Waivers",
+        "FRYE dropped Jalen Richard, Oak RB to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Carson Palmer",
+            "team": "Ari",
+            "position": "QB"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Dustin Colquitt",
+            "team": "KC",
+            "position": "P"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Matt Prater",
+            "team": "Det",
+            "position": "K"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Jonathan Casillas",
+            "team": "NYG",
+            "position": "LB"
+          }
+        },
+        null,
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Carlos Dunlap",
+            "team": "Cin",
+            "position": "DE"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Adrian Clayborn",
+            "team": "Atl",
+            "position": "DE"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Patrick Peterson",
+            "team": "Ari",
+            "position": "CB"
+          }
+        },
+        null,
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Justin Houston",
+            "team": "KC",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Tyrod Taylor",
+            "team": "Buf",
+            "position": "QB"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Ron Parker",
+            "team": "KC",
+            "position": "S"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Craig Robertson",
+            "team": "NO",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Coby Fleener",
+            "team": "NO",
+            "position": "TE"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Michael Floyd",
+            "team": "Min",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Nick Perry",
+            "team": "GB",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Janoris Jenkins",
+            "team": "NYG",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Josh Norman",
+            "team": "Wsh",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Rodney McLeod",
+            "team": "Phi",
+            "position": "S"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Latavius Murray",
+            "team": "Min",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Jack Doyle",
+            "team": "Ind",
+            "position": "TE"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Jordan Matthews",
+            "team": "Buf",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Stephon Tuitt",
+            "team": "Pit",
+            "position": "DE"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Telvin Smith",
+            "team": "Jax",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Willie Snead",
+            "team": "NO",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "T.J. Yeldon",
+            "team": "Jax",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Bradley Pinion",
+            "team": "SF",
+            "position": "P"
+          }
+        },
+        {
+          "team": "FRYE",
+          "action": "DROP",
+          "player": {
+            "name": "Jalen Richard",
+            "team": "Oak",
+            "position": "RB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0004-08-19T04:00:00Z",
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        ""
+      ]
+    }
+  },
+  {
+    "date": "0002-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Dwayne Allen, NE TE to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Dwayne Allen",
+            "team": "NE",
+            "position": "TE"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0002-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Joe Flacco, Bal QB to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Joe Flacco",
+            "team": "Bal",
+            "position": "QB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0002-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Matt Jones, Wsh RB to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Matt Jones",
+            "team": "Wsh",
+            "position": "RB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0002-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Donte Moncrief, Ind WR to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Donte Moncrief",
+            "team": "Ind",
+            "position": "WR"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0002-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Alan Branch, NE DT to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Alan Branch",
+            "team": "NE",
+            "position": "DT"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0002-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Karlos Dansby, Ari LB to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Karlos Dansby",
+            "team": "Ari",
+            "position": "LB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2010-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "JOTA dropped Philip Rivers, LAC QB to Waivers",
+        "JOTA dropped Kyle Williams, Buf DT to Waivers",
+        "JOTA dropped Reggie Nelson, Oak S to Waivers",
+        "JOTA dropped Martellus Bennett, GB TE to Waivers",
+        "JOTA dropped Stephen Hauschka, Buf K to Waivers",
+        "JOTA dropped Graham Gano, Car K to Waivers",
+        "JOTA dropped Michael Crabtree, Oak WR to Waivers",
+        "JOTA dropped Britton Colquitt, Cle P to Waivers",
+        "JOTA dropped T.J. Ward, Den S to Waivers",
+        "JOTA dropped Doug Baldwin, Sea WR to Waivers",
+        "JOTA dropped DuJuan Harris, Jax RB to Waivers",
+        "JOTA dropped T.Y. Hilton, Ind WR to Waivers",
+        "JOTA dropped Chandler Jones, Ari LB to Waivers",
+        "JOTA dropped Casey Hayward, LAC CB to Waivers",
+        "JOTA dropped Tyrone Crawford, Dal DT to Waivers",
+        "JOTA dropped Jaye Howard, Chi DT to Waivers",
+        "JOTA dropped Jared Crick, Den DT to Waivers",
+        "JOTA dropped Brad Nortman, Jax P to Waivers",
+        "JOTA dropped Nigel Bradham, Phi LB to Waivers",
+        "JOTA dropped Xavier Rhodes, Min CB to Waivers",
+        "JOTA dropped Sheldon Richardson, NYJ DE to Waivers",
+        "JOTA dropped Travis Kelce, KC TE to Waivers",
+        "JOTA dropped Marquess Wilson, NYJ WR to Waivers",
+        "JOTA dropped Preston Brown, Buf LB to Waivers",
+        "JOTA dropped Malcolm Butler, NE CB to Waivers",
+        "JOTA dropped Jake Ryan, GB LB to Waivers",
+        "JOTA dropped Sheldon Rankins, NO DT to Waivers",
+        "JOTA dropped DaVonte Lambert, TB DE to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Philip Rivers",
+            "team": "LAC",
+            "position": "QB"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Kyle Williams",
+            "team": "Buf",
+            "position": "DT"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Reggie Nelson",
+            "team": "Oak",
+            "position": "S"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Martellus Bennett",
+            "team": "GB",
+            "position": "TE"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Stephen Hauschka",
+            "team": "Buf",
+            "position": "K"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Graham Gano",
+            "team": "Car",
+            "position": "K"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Michael Crabtree",
+            "team": "Oak",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Britton Colquitt",
+            "team": "Cle",
+            "position": "P"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "T.J. Ward",
+            "team": "Den",
+            "position": "S"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Doug Baldwin",
+            "team": "Sea",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "DuJuan Harris",
+            "team": "Jax",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "T.Y. Hilton",
+            "team": "Ind",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Chandler Jones",
+            "team": "Ari",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Casey Hayward",
+            "team": "LAC",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Tyrone Crawford",
+            "team": "Dal",
+            "position": "DT"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Jaye Howard",
+            "team": "Chi",
+            "position": "DT"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Jared Crick",
+            "team": "Den",
+            "position": "DT"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Brad Nortman",
+            "team": "Jax",
+            "position": "P"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Nigel Bradham",
+            "team": "Phi",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Xavier Rhodes",
+            "team": "Min",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Sheldon Richardson",
+            "team": "NYJ",
+            "position": "DE"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Travis Kelce",
+            "team": "KC",
+            "position": "TE"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Marquess Wilson",
+            "team": "NYJ",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Preston Brown",
+            "team": "Buf",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Malcolm Butler",
+            "team": "NE",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Jake Ryan",
+            "team": "GB",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "Sheldon Rankins",
+            "team": "NO",
+            "position": "DT"
+          }
+        },
+        {
+          "team": "JOTA",
+          "action": "DROP",
+          "player": {
+            "name": "DaVonte Lambert",
+            "team": "TB",
+            "position": "DE"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Mike Daniels, GB DT to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Mike Daniels",
+            "team": "GB",
+            "position": "DT"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Micah Hyde, Buf S to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Micah Hyde",
+            "team": "Buf",
+            "position": "S"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Richard Sherman, Sea CB to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Richard Sherman",
+            "team": "Sea",
+            "position": "CB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Lachlan Edwards, NYJ P to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Lachlan Edwards",
+            "team": "NYJ",
+            "position": "P"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Mason Crosby, GB K to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Mason Crosby",
+            "team": "GB",
+            "position": "K"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped William Gholston, TB DE to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "William Gholston",
+            "team": "TB",
+            "position": "DE"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Kelvin Benjamin, Car WR to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Kelvin Benjamin",
+            "team": "Car",
+            "position": "WR"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Malcolm Smith*, SF LB to Waivers"
+      ],
+      "moves": [
+        null
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Pat McAfee, Ind P to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Pat McAfee",
+            "team": "Ind",
+            "position": "P"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Nick Novak, Hou K to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Nick Novak",
+            "team": "Hou",
+            "position": "K"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Marcus Peters, KC CB to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Marcus Peters",
+            "team": "KC",
+            "position": "CB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped David Parry, Ind DT to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "David Parry",
+            "team": "Ind",
+            "position": "DT"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Chris Long, Phi DE to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Chris Long",
+            "team": "Phi",
+            "position": "DE"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Kawann Short, Car DT to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Kawann Short",
+            "team": "Car",
+            "position": "DT"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Lawrence Timmons, Mia LB to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Lawrence Timmons",
+            "team": "Mia",
+            "position": "LB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Antonio Gates, LAC TE to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Antonio Gates",
+            "team": "LAC",
+            "position": "TE"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped DeSean Jackson, TB WR to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "DeSean Jackson",
+            "team": "TB",
+            "position": "WR"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Julian Edelman, NE WR to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Julian Edelman",
+            "team": "NE",
+            "position": "WR"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Ted Ginn Jr., NO WR to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Ted Ginn Jr.",
+            "team": "NO",
+            "position": "WR"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Frank Gore, Ind RB to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Frank Gore",
+            "team": "Ind",
+            "position": "RB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0009-08-18T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Spencer Ware, KC RB to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Spencer Ware",
+            "team": "KC",
+            "position": "RB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0003-08-16T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "NATE dropped Sam Koch, Bal P to Waivers",
+        "NATE dropped Cameron Wake, Mia DE to Waivers",
+        "NATE dropped Lardarius Webb, Bal S to Waivers",
+        "NATE dropped Brandon Graham, Phi DE to Waivers",
+        "NATE dropped Linval Joseph, Min DT to Waivers",
+        "NATE dropped Nick Bellore, Det LB to Waivers",
+        "NATE dropped Doug Martin, TB RB to Waivers",
+        "NATE dropped Tavon Wilson, Det S to Waivers",
+        "NATE dropped Cordarrelle Patterson, Oak WR to Waivers",
+        "NATE dropped Zach Ertz, Phi TE to Waivers",
+        "NATE dropped Phillip Gaines, KC CB to Waivers",
+        "NATE dropped Marqise Lee, Jax WR to Waivers",
+        "NATE dropped Davante Adams, GB WR to Waivers",
+        "NATE dropped Taylor Gabriel, Atl WR to Waivers",
+        "NATE dropped Brad Wing, NYG P to Waivers",
+        "NATE dropped Avery Williamson, Ten LB to Waivers",
+        "NATE dropped Denzel Perryman*, LAC LB to Waivers",
+        "NATE dropped Cameron Brate, TB TE to Waivers",
+        "NATE dropped Noah Spence, TB DE to Waivers",
+        "NATE dropped Daryl Worley, Car CB to Waivers",
+        "NATE dropped Kenneth Farrow, LAC RB to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Sam Koch",
+            "team": "Bal",
+            "position": "P"
+          }
+        },
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Cameron Wake",
+            "team": "Mia",
+            "position": "DE"
+          }
+        },
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Lardarius Webb",
+            "team": "Bal",
+            "position": "S"
+          }
+        },
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Brandon Graham",
+            "team": "Phi",
+            "position": "DE"
+          }
+        },
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Linval Joseph",
+            "team": "Min",
+            "position": "DT"
+          }
+        },
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Nick Bellore",
+            "team": "Det",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Doug Martin",
+            "team": "TB",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Tavon Wilson",
+            "team": "Det",
+            "position": "S"
+          }
+        },
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Cordarrelle Patterson",
+            "team": "Oak",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Zach Ertz",
+            "team": "Phi",
+            "position": "TE"
+          }
+        },
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Phillip Gaines",
+            "team": "KC",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Marqise Lee",
+            "team": "Jax",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Davante Adams",
+            "team": "GB",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Taylor Gabriel",
+            "team": "Atl",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Brad Wing",
+            "team": "NYG",
+            "position": "P"
+          }
+        },
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Avery Williamson",
+            "team": "Ten",
+            "position": "LB"
+          }
+        },
+        null,
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Cameron Brate",
+            "team": "TB",
+            "position": "TE"
+          }
+        },
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Noah Spence",
+            "team": "TB",
+            "position": "DE"
+          }
+        },
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Daryl Worley",
+            "team": "Car",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "NATE",
+          "action": "DROP",
+          "player": {
+            "name": "Kenneth Farrow",
+            "team": "LAC",
+            "position": "RB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "0008-08-08T04:00:00Z",
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "JROD dropped Greg Olsen, Car TE to Waivers",
+        "JROD dropped Matt Forte, NYJ RB to Waivers",
+        "JROD dropped William Hayes, Mia DE to Waivers",
+        "JROD dropped Tim Hightower, SF RB to Waivers",
+        "JROD dropped DeAndre Levy, Det LB to Waivers",
+        "JROD dropped LeGarrette Blount, Phi RB to Waivers",
+        "JROD dropped Dez Bryant, Dal WR to Waivers",
+        "JROD dropped Golden Tate, Det WR to Waivers",
+        "JROD dropped Gerald McCoy, TB DT to Waivers",
+        "JROD dropped Kam Chancellor, Sea S to Waivers",
+        "JROD dropped Cameron Jordan, NO DE to Waivers",
+        "JROD dropped Bilal Powell, NYJ RB to Waivers",
+        "JROD dropped Byron Maxwell, Mia CB to Waivers",
+        "JROD dropped Chris Harris Jr., Den CB to Waivers",
+        "JROD dropped Brock Osweiler, Cle QB to Waivers",
+        "JROD dropped Ladarius Green, Pit TE to Waivers",
+        "JROD dropped Derek Wolfe, Den DE to Waivers",
+        "JROD dropped Kevin Minter, Cin LB to Waivers",
+        "JROD dropped Chris Boswell, Pit K to Waivers",
+        "JROD dropped Colton Schmidt, Buf P to Waivers",
+        "JROD dropped Jaquiski Tartt, SF S to Waivers",
+        "JROD dropped Vic Beasley Jr., Atl DE to Waivers",
+        "JROD dropped Ameer Abdullah, Det RB to Waivers",
+        "JROD dropped Tyrell Williams, LAC WR to Waivers",
+        "JROD dropped Darron Lee, NYJ LB to Waivers",
+        "JROD dropped James Bradberry, Car CB to Waivers",
+        "JROD dropped Jatavis Brown, LAC LB to Waivers",
+        "JROD dropped Riley Dixon, Den P to Waivers",
+        "JROD dropped Wil Lutz, NO K to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Greg Olsen",
+            "team": "Car",
+            "position": "TE"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Matt Forte",
+            "team": "NYJ",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "William Hayes",
+            "team": "Mia",
+            "position": "DE"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Tim Hightower",
+            "team": "SF",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "DeAndre Levy",
+            "team": "Det",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "LeGarrette Blount",
+            "team": "Phi",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Dez Bryant",
+            "team": "Dal",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Golden Tate",
+            "team": "Det",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Gerald McCoy",
+            "team": "TB",
+            "position": "DT"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Kam Chancellor",
+            "team": "Sea",
+            "position": "S"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Cameron Jordan",
+            "team": "NO",
+            "position": "DE"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Bilal Powell",
+            "team": "NYJ",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Byron Maxwell",
+            "team": "Mia",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Chris Harris Jr.",
+            "team": "Den",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Brock Osweiler",
+            "team": "Cle",
+            "position": "QB"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Ladarius Green",
+            "team": "Pit",
+            "position": "TE"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Derek Wolfe",
+            "team": "Den",
+            "position": "DE"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Kevin Minter",
+            "team": "Cin",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Chris Boswell",
+            "team": "Pit",
+            "position": "K"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Colton Schmidt",
+            "team": "Buf",
+            "position": "P"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Jaquiski Tartt",
+            "team": "SF",
+            "position": "S"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Vic Beasley Jr.",
+            "team": "Atl",
+            "position": "DE"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Ameer Abdullah",
+            "team": "Det",
+            "position": "RB"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Tyrell Williams",
+            "team": "LAC",
+            "position": "WR"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Darron Lee",
+            "team": "NYJ",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "James Bradberry",
+            "team": "Car",
+            "position": "CB"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Jatavis Brown",
+            "team": "LAC",
+            "position": "LB"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Riley Dixon",
+            "team": "Den",
+            "position": "P"
+          }
+        },
+        {
+          "team": "JROD",
+          "action": "DROP",
+          "player": {
+            "name": "Wil Lutz",
+            "team": "NO",
+            "position": "K"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2011-08-04T04:00:00Z",
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_SCHEDULE_UPDATE",
+    "subTypeText": "League schedule updated",
+    "details": {
+      "notes": [
+        ""
+      ]
+    }
+  },
+  {
+    "date": "2011-08-04T04:00:00Z",
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_SCHEDULE_UPDATE",
+    "subTypeText": "League schedule updated",
+    "details": {
+      "notes": [
+        ""
+      ]
+    }
+  },
+  {
+    "date": "2011-08-04T04:00:00Z",
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_SCHEDULE_UPDATE",
+    "subTypeText": "League schedule updated",
+    "details": {
+      "notes": [
+        ""
+      ]
+    }
+  },
+  {
+    "date": "2011-08-04T04:00:00Z",
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_SCHEDULE_UPDATE",
+    "subTypeText": "League schedule updated",
+    "details": {
+      "notes": [
+        ""
+      ]
+    }
+  },
+  {
+    "date": "2011-08-04T04:00:00Z",
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_SCHEDULE_UPDATE",
+    "subTypeText": "League schedule updated",
+    "details": {
+      "notes": [
+        ""
+      ]
+    }
+  },
+  {
+    "date": "2011-08-04T04:00:00Z",
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_SCHEDULE_UPDATE",
+    "subTypeText": "League schedule updated",
+    "details": {
+      "notes": [
+        ""
+      ]
+    }
+  },
+  {
+    "date": "2011-08-04T04:00:00Z",
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_SCHEDULE_UPDATE",
+    "subTypeText": "League schedule updated",
+    "details": {
+      "notes": [
+        ""
+      ]
+    }
+  },
+  {
+    "date": "2011-08-04T04:00:00Z",
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_SCHEDULE_UPDATE",
+    "subTypeText": "League schedule updated",
+    "details": {
+      "notes": [
+        ""
+      ]
+    }
+  },
+  {
+    "date": "2011-08-04T04:00:00Z",
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_SCHEDULE_UPDATE",
+    "subTypeText": "League schedule updated",
+    "details": {
+      "notes": [
+        ""
+      ]
+    }
+  },
+  {
+    "date": "2011-08-04T04:00:00Z",
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_SCHEDULE_UPDATE",
+    "subTypeText": "League schedule updated",
+    "details": {
+      "notes": [
+        ""
+      ]
+    }
+  },
+  {
+    "date": "2011-08-04T04:00:00Z",
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_SCHEDULE_UPDATE",
+    "subTypeText": "League schedule updated",
+    "details": {
+      "notes": [
+        ""
+      ]
+    }
+  },
+  {
+    "date": "2011-08-04T04:00:00Z",
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_SCHEDULE_UPDATE",
+    "subTypeText": "League schedule updated",
+    "details": {
+      "notes": [
+        ""
+      ]
+    }
+  },
+  {
+    "date": "2011-08-04T04:00:00Z",
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_SCHEDULE_UPDATE",
+    "subTypeText": "League schedule updated",
+    "details": {
+      "notes": [
+        ""
+      ]
+    }
+  },
+  {
+    "date": "2011-08-04T04:00:00Z",
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_TEAM_OR_DIVISION_UPDATE",
+    "subTypeText": "Teams and divisions updated",
+    "details": {
+      "notes": [
+        ""
+      ]
+    }
+  },
+  {
+    "date": "0005-08-01T04:00:00Z",
+    "type": "LEAGUE_NOTE_UPDATE",
+    "subType": "NONE",
+    "subTypeText": "*************READY OR NOT*************",
+    "details": {
+      "notes": [
+        ""
+      ]
+    }
+  },
+  {
+    "date": "0004-08-01T04:00:00Z",
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        ""
+      ]
+    }
+  },
+  {
+    "date": "0005-05-16T04:00:00Z",
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        ""
+      ]
+    }
+  }
+]

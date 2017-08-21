@@ -1,0 +1,9 @@
+{
+  "LEAGUE_HOME": "leagueoffice",
+  "LEAGUE_MEMBERS": "leaguesetup/ownerinfo",
+  "LEAGUE_RECENT_ACTIVITY": "recentactivity",
+  "LEAGUE_SCHEDULE": "schedule",
+  "LEAGUE_SCOREBOARD": "scoreboard",
+  "LEAGUE_PLAYOFF_BRACKET": "h2hplayoffs",
+  "LEAGUE_TRANSACTIONS": "tools/transactioncounter"
+}

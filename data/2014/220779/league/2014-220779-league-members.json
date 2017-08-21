@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "abbrev": "NATE",
+    "name": "Beastiality Mode",
+    "firstName": "Nate",
+    "lastName": "Clark",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "abbrev": "J.SA",
+    "name": "CALL ME JIM SAUNDERS",
+    "firstName": "Jeremiah",
+    "lastName": "Howe",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "abbrev": "HURL",
+    "name": "Cordarrelle  Worrilow",
+    "firstName": "Zak",
+    "lastName": "Hurley",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "abbrev": "JFF",
+    "name": "Walking Wounded",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "abbrev": "VAG",
+    "name": "4 Times Better Than Toby",
+    "firstName": "Matthew",
+    "lastName": "Eberhardt",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "abbrev": "WILL",
+    "name": "Not the good Koch",
+    "firstName": "Brian",
+    "lastName": "Williams",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "abbrev": "CDZ",
+    "name": "ELFO's 18",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "abbrev": "FRYE",
+    "name": "Flesh Puss  Spoon",
+    "firstName": "Brian",
+    "lastName": "Frye",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "abbrev": "TOBY",
+    "name": "Black Magic",
+    "firstName": "Zak",
+    "lastName": "Walcher",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "abbrev": "BROK",
+    "name": "Madden Curse",
+    "firstName": "Brock",
+    "lastName": "Holtzapple",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "abbrev": "JROD",
+    "name": "Manning Of Steel",
+    "firstName": "Jerrod",
+    "lastName": "Vastag",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "abbrev": "WEAV",
+    "name": "Riding Bush",
+    "firstName": "Matt",
+    "lastName": "Weaver",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  }
+]

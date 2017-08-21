@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "abbrev": "NATE",
+    "name": "Playoff Runner Up",
+    "firstName": "Nate",
+    "lastName": "Clark",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "abbrev": "JJ",
+    "name": "Jotas Hos",
+    "firstName": "Jeremiah",
+    "lastName": "Howe",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "abbrev": "HURL",
+    "name": "Calais Campbell Half Sacks",
+    "firstName": "Zak",
+    "lastName": "Hurley",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "abbrev": "PAD",
+    "name": "League Doormat",
+    "firstName": "Matthew",
+    "lastName": "Dziedzicki",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "abbrev": "MIKE",
+    "name": "Are you Kaeding me",
+    "firstName": "Mike",
+    "lastName": "Saunders",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "abbrev": "DUBS",
+    "name": "Powdered Toast Man",
+    "firstName": "Brian",
+    "lastName": "Williams",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "abbrev": "CDZ",
+    "name": "off in the shower",
+    "firstName": "Chris",
+    "lastName": "Dziedzicki",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "abbrev": "FRYE",
+    "name": "Going Last to First",
+    "firstName": "Brian",
+    "lastName": "Frye",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "abbrev": "JIM",
+    "name": "Team Fuc k This",
+    "firstName": "Jim",
+    "lastName": "Harries",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "abbrev": "BROK",
+    "name": "The One Eyed Man is King",
+    "firstName": "Brock",
+    "lastName": "Holtzapple",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "abbrev": "JROD",
+    "name": "Whiskey Ditkas",
+    "firstName": "Jerrod",
+    "lastName": "Vastag",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "abbrev": "WEAV",
+    "name": "Big Upside",
+    "firstName": "Matt",
+    "lastName": "Weaver",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  }
+]

@@ -1,0 +1,470 @@
+[
+  {
+    "teamId": 7,
+    "entries": {
+      "count": 1,
+      "fee": 25
+    },
+    "losses": {
+      "count": 11,
+      "fee": 0
+    },
+    "trades": {
+      "count": 0,
+      "fee": 0
+    },
+    "adds": {
+      "count": 10,
+      "fee": 2.5
+    },
+    "drops": {
+      "count": 11,
+      "fee": 2.75
+    },
+    "irPlacements": {
+      "count": 38,
+      "fee": 0
+    },
+    "misc": {
+      "count": 1,
+      "fee": 1
+    },
+    "total": {
+      "count": 0,
+      "fee": 0
+    },
+    "paid": {
+      "count": 0,
+      "fee": 31.25
+    }
+  },
+  {
+    "teamId": 2,
+    "entries": {
+      "count": 1,
+      "fee": 25
+    },
+    "losses": {
+      "count": 9,
+      "fee": 0
+    },
+    "trades": {
+      "count": 0,
+      "fee": 0
+    },
+    "adds": {
+      "count": 29,
+      "fee": 7.25
+    },
+    "drops": {
+      "count": 28,
+      "fee": 7
+    },
+    "irPlacements": {
+      "count": 92,
+      "fee": 0
+    },
+    "misc": {
+      "count": 2,
+      "fee": 2
+    },
+    "total": {
+      "count": 0,
+      "fee": 0
+    },
+    "paid": {
+      "count": 0,
+      "fee": 41.25
+    }
+  },
+  {
+    "teamId": 9,
+    "entries": {
+      "count": 1,
+      "fee": 25
+    },
+    "losses": {
+      "count": 9,
+      "fee": 0
+    },
+    "trades": {
+      "count": 0,
+      "fee": 0
+    },
+    "adds": {
+      "count": 37,
+      "fee": 9.25
+    },
+    "drops": {
+      "count": 37,
+      "fee": 9.25
+    },
+    "irPlacements": {
+      "count": 101,
+      "fee": 0
+    },
+    "misc": {
+      "count": 1,
+      "fee": 1
+    },
+    "total": {
+      "count": 0,
+      "fee": 0
+    },
+    "paid": {
+      "count": 0,
+      "fee": 44.5
+    }
+  },
+  {
+    "teamId": 6,
+    "entries": {
+      "count": 1,
+      "fee": 25
+    },
+    "losses": {
+      "count": 9,
+      "fee": 0
+    },
+    "trades": {
+      "count": 1,
+      "fee": 0.5
+    },
+    "adds": {
+      "count": 22,
+      "fee": 5.5
+    },
+    "drops": {
+      "count": 21,
+      "fee": 5.25
+    },
+    "irPlacements": {
+      "count": 100,
+      "fee": 0
+    },
+    "misc": {
+      "count": 1,
+      "fee": 1
+    },
+    "total": {
+      "count": 0,
+      "fee": 0
+    },
+    "paid": {
+      "count": 0,
+      "fee": 37.25
+    }
+  },
+  {
+    "teamId": 12,
+    "entries": {
+      "count": 1,
+      "fee": 25
+    },
+    "losses": {
+      "count": 8,
+      "fee": 0
+    },
+    "trades": {
+      "count": 0,
+      "fee": 0
+    },
+    "adds": {
+      "count": 7,
+      "fee": 1.75
+    },
+    "drops": {
+      "count": 10,
+      "fee": 2.5
+    },
+    "irPlacements": {
+      "count": 71,
+      "fee": 0
+    },
+    "misc": {
+      "count": 1,
+      "fee": 1
+    },
+    "total": {
+      "count": 0,
+      "fee": 0
+    },
+    "paid": {
+      "count": 0,
+      "fee": 30.25
+    }
+  },
+  {
+    "teamId": 5,
+    "entries": {
+      "count": 1,
+      "fee": 25
+    },
+    "losses": {
+      "count": 7,
+      "fee": 0
+    },
+    "trades": {
+      "count": 0,
+      "fee": 0
+    },
+    "adds": {
+      "count": 30,
+      "fee": 7.5
+    },
+    "drops": {
+      "count": 30,
+      "fee": 7.5
+    },
+    "irPlacements": {
+      "count": 78,
+      "fee": 0
+    },
+    "misc": {
+      "count": 2,
+      "fee": 2
+    },
+    "total": {
+      "count": 0,
+      "fee": 0
+    },
+    "paid": {
+      "count": 0,
+      "fee": 42
+    }
+  },
+  {
+    "teamId": 4,
+    "entries": {
+      "count": 1,
+      "fee": 25
+    },
+    "losses": {
+      "count": 6,
+      "fee": 0
+    },
+    "trades": {
+      "count": 0,
+      "fee": 0
+    },
+    "adds": {
+      "count": 24,
+      "fee": 6
+    },
+    "drops": {
+      "count": 24,
+      "fee": 6
+    },
+    "irPlacements": {
+      "count": 107,
+      "fee": 0
+    },
+    "misc": {
+      "count": 0,
+      "fee": 0
+    },
+    "total": {
+      "count": 0,
+      "fee": 0
+    },
+    "paid": {
+      "count": 0,
+      "fee": 37
+    }
+  },
+  {
+    "teamId": 10,
+    "entries": {
+      "count": 1,
+      "fee": 25
+    },
+    "losses": {
+      "count": 5,
+      "fee": 0
+    },
+    "trades": {
+      "count": 1,
+      "fee": 0.5
+    },
+    "adds": {
+      "count": 11,
+      "fee": 2.75
+    },
+    "drops": {
+      "count": 14,
+      "fee": 3.5
+    },
+    "irPlacements": {
+      "count": 81,
+      "fee": 0
+    },
+    "misc": {
+      "count": 0,
+      "fee": 0
+    },
+    "total": {
+      "count": 0,
+      "fee": 0
+    },
+    "paid": {
+      "count": 0,
+      "fee": 31.75
+    }
+  },
+  {
+    "teamId": 11,
+    "entries": {
+      "count": 1,
+      "fee": 25
+    },
+    "losses": {
+      "count": 8,
+      "fee": 0
+    },
+    "trades": {
+      "count": 0,
+      "fee": 0
+    },
+    "adds": {
+      "count": 16,
+      "fee": 4
+    },
+    "drops": {
+      "count": 15,
+      "fee": 3.75
+    },
+    "irPlacements": {
+      "count": 77,
+      "fee": 0
+    },
+    "misc": {
+      "count": 2,
+      "fee": 2
+    },
+    "total": {
+      "count": 0,
+      "fee": 0
+    },
+    "paid": {
+      "count": 0,
+      "fee": 34.75
+    }
+  },
+  {
+    "teamId": 8,
+    "entries": {
+      "count": 1,
+      "fee": 25
+    },
+    "losses": {
+      "count": 6,
+      "fee": 0
+    },
+    "trades": {
+      "count": 0,
+      "fee": 0
+    },
+    "adds": {
+      "count": 20,
+      "fee": 5
+    },
+    "drops": {
+      "count": 22,
+      "fee": 5.5
+    },
+    "irPlacements": {
+      "count": 62,
+      "fee": 0
+    },
+    "misc": {
+      "count": 3,
+      "fee": 3
+    },
+    "total": {
+      "count": 0,
+      "fee": 0
+    },
+    "paid": {
+      "count": 0,
+      "fee": 38.5
+    }
+  },
+  {
+    "teamId": 3,
+    "entries": {
+      "count": 1,
+      "fee": 25
+    },
+    "losses": {
+      "count": 3,
+      "fee": 0
+    },
+    "trades": {
+      "count": 1,
+      "fee": 0.5
+    },
+    "adds": {
+      "count": 28,
+      "fee": 7
+    },
+    "drops": {
+      "count": 29,
+      "fee": 7.25
+    },
+    "irPlacements": {
+      "count": 128,
+      "fee": 0
+    },
+    "misc": {
+      "count": 1,
+      "fee": 1
+    },
+    "total": {
+      "count": 0,
+      "fee": 0
+    },
+    "paid": {
+      "count": 0,
+      "fee": 40.75
+    }
+  },
+  {
+    "teamId": 1,
+    "entries": {
+      "count": 1,
+      "fee": 25
+    },
+    "losses": {
+      "count": 3,
+      "fee": 0
+    },
+    "trades": {
+      "count": 1,
+      "fee": 0.5
+    },
+    "adds": {
+      "count": 28,
+      "fee": 7
+    },
+    "drops": {
+      "count": 32,
+      "fee": 8
+    },
+    "irPlacements": {
+      "count": 95,
+      "fee": 0
+    },
+    "misc": {
+      "count": 0,
+      "fee": 0
+    },
+    "total": {
+      "count": 0,
+      "fee": 0
+    },
+    "paid": {
+      "count": 0,
+      "fee": 40.5
+    }
+  }
+]

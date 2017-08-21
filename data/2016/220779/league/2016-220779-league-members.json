@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "abbrev": "NATE",
+    "name": "League Man Nate'd",
+    "firstName": "Nate",
+    "lastName": "Clark",
+    "tags": [
+      {
+        "division": "MADDEN LEGENDS"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "abbrev": "JOTA",
+    "name": "LOSER McNOBODY",
+    "firstName": "Jeremiah",
+    "lastName": "Howe",
+    "tags": [
+      {
+        "division": "SLIDING FAT SCALE"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "abbrev": "HURL",
+    "name": "Chicken  Dinner",
+    "firstName": "Zak",
+    "lastName": "Hurley",
+    "tags": [
+      {
+        "division": "SLIDING FAT SCALE"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "abbrev": "DANK",
+    "name": "Mongolian Giants",
+    "firstName": "Daniel",
+    "lastName": "Kelly",
+    "tags": [
+      {
+        "division": "OLD MAN BLUES"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "abbrev": "EBBY",
+    "name": "Two Mannings One Cup",
+    "firstName": "Matthew",
+    "lastName": "Eberhardt",
+    "tags": [
+      {
+        "division": "GRELTON"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "abbrev": "DUBS",
+    "name": "Ball Sagna",
+    "firstName": "Brian",
+    "lastName": "Williams",
+    "tags": [
+      {
+        "division": "OLD MAN BLUES"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "abbrev": "KURT",
+    "name": "Susan Bixler",
+    "firstName": "Kurtis",
+    "lastName": "Dilyard",
+    "tags": [
+      {
+        "division": "MADDEN LEGENDS"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "abbrev": "FRYE",
+    "name": "Grabbin  Pussie",
+    "firstName": "Brian",
+    "lastName": "Frye",
+    "tags": [
+      {
+        "division": "GRELTON"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "abbrev": "MBIX",
+    "name": "Mike Bixler",
+    "firstName": "Gary",
+    "lastName": "Bixler",
+    "tags": [
+      {
+        "division": "MADDEN LEGENDS"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "abbrev": "BROK",
+    "name": "Cleveland Browns",
+    "firstName": "Brock",
+    "lastName": "Holtzapple",
+    "tags": [
+      {
+        "division": "SLIDING FAT SCALE"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "abbrev": "JROD",
+    "name": "Frisky  Dingo",
+    "firstName": "Jerrod",
+    "lastName": "Vastag",
+    "tags": [
+      {
+        "division": "OLD MAN BLUES"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "abbrev": "WEAV",
+    "name": "Down With OBJr.",
+    "firstName": "Matt",
+    "lastName": "Weaver",
+    "tags": [
+      {
+        "division": "GRELTON"
+      }
+    ]
+  }
+]

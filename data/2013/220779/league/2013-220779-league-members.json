@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "abbrev": "NATE",
+    "name": "You gonna spit on me?",
+    "firstName": "Nate",
+    "lastName": "Clark",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "abbrev": "JJ",
+    "name": "Jotas Hos",
+    "firstName": "Jeremiah",
+    "lastName": "Howe",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "abbrev": "HURL",
+    "name": "Cobb's Forced Fumble",
+    "firstName": "Zak",
+    "lastName": "Hurley",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "abbrev": "PAD",
+    "name": "Team  Trick Shot",
+    "firstName": "Matthew",
+    "lastName": "Dziedzicki",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "abbrev": "MIKE",
+    "name": "Chalupa Batman",
+    "firstName": "Mike",
+    "lastName": "Saunders",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "abbrev": "WILL",
+    "name": "Alonso's  Bunch",
+    "firstName": "Brian",
+    "lastName": "Williams",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "abbrev": "CDZ",
+    "name": "GoldenToe's Ghost",
+    "firstName": "Chris",
+    "lastName": "Dziedzicki",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "abbrev": "FRYE",
+    "name": ".......... ........",
+    "firstName": "Brian",
+    "lastName": "Frye",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "abbrev": "JIM",
+    "name": "Lucky Fuckers",
+    "firstName": "Jim",
+    "lastName": "Harries",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "abbrev": "BROK",
+    "name": "Madden Curse",
+    "firstName": "Brock",
+    "lastName": "Holtzapple",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "abbrev": "JROD",
+    "name": "Mingo Unchained",
+    "firstName": "Jerrod",
+    "lastName": "Vastag",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "abbrev": "WEAV",
+    "name": "Riding Bush",
+    "firstName": "Matt",
+    "lastName": "Weaver",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  }
+]

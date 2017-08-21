@@ -1,0 +1,146 @@
+[
+  {
+    "id": 7,
+    "abbrev": "BYE",
+    "name": "Team BYE WEEK",
+    "firstName": "Gary",
+    "lastName": "Bixler",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "abbrev": "ROMO",
+    "name": "Jotas Hos",
+    "firstName": "Jeremiah",
+    "lastName": "Howe",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "abbrev": "HARR",
+    "name": "Repeat  Offenders",
+    "firstName": "Jim",
+    "lastName": "Harries",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "abbrev": "CRY",
+    "name": "Petting Is A No-No",
+    "firstName": "Brian",
+    "lastName": "Williams",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "abbrev": "WVR",
+    "name": "Last Again",
+    "firstName": "Matt",
+    "lastName": "Weaver",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "abbrev": "SAU",
+    "name": "Team Mediocre",
+    "firstName": "Mike",
+    "lastName": "Saunders",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "abbrev": "PAD",
+    "name": "More Gooder than you",
+    "firstName": "Matthew",
+    "lastName": "Dziedzicki",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "abbrev": "HOLT",
+    "name": "The One Eyed Man is King",
+    "firstName": "Brock",
+    "lastName": "Holtzapple",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "abbrev": "JV",
+    "name": "Team Awesome",
+    "firstName": "Jerrod",
+    "lastName": "Vastag",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "abbrev": "Frye",
+    "name": "Team Pederass",
+    "firstName": "Brian",
+    "lastName": "Frye",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "abbrev": "HURL",
+    "name": "Indy Hurlers",
+    "firstName": "Zak",
+    "lastName": "Hurley",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "abbrev": "POO",
+    "name": "I will make you win",
+    "firstName": "Nate",
+    "lastName": "Clark",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  }
+]

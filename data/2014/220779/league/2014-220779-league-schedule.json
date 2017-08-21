@@ -1,0 +1,2398 @@
+{
+  "week1": {
+    "id": 1,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Riding Bush",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 2271.4
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Not the good Koch",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2342.4
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "Beastiality Mode",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 1935.7
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Black Magic",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2074.4
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "Walking Wounded",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 1847.9
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2692.4
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Manning Of Steel",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2746.6
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "4 Times Better Than Toby",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 2186.5
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "ELFO's 18",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 2452.9
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Flesh Puss  Spoon",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2683.3
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "CALL ME JIM SAUNDERS",
+          "record": {
+            "wins": 0,
+            "losses": 1
+          },
+          "score": 2607
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Cordarrelle  Worrilow",
+          "record": {
+            "wins": 1,
+            "losses": 0
+          },
+          "score": 1886.8
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      }
+    ],
+    "tags": [
+      "WEEK_1",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week2": {
+    "id": 2,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "4 Times Better Than Toby",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2696.2
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Beastiality Mode",
+          "record": {
+            "wins": 2,
+            "losses": 0
+          },
+          "score": 1843.1
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2046.5
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Black Magic",
+          "record": {
+            "wins": 0,
+            "losses": 2
+          },
+          "score": 2304.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Manning Of Steel",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 1794.3
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "Walking Wounded",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2601.2
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Riding Bush",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2263.6
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "ELFO's 18",
+          "record": {
+            "wins": 2,
+            "losses": 0
+          },
+          "score": 2251.2
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Not the good Koch",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 1759.6
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "CALL ME JIM SAUNDERS",
+          "record": {
+            "wins": 0,
+            "losses": 2
+          },
+          "score": 2166.3
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Flesh Puss  Spoon",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2158.6
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Cordarrelle  Worrilow",
+          "record": {
+            "wins": 1,
+            "losses": 1
+          },
+          "score": 2529.4
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_2",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week3": {
+    "id": 3,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Black Magic",
+          "record": {
+            "wins": 0,
+            "losses": 3
+          },
+          "score": 2465.4
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "4 Times Better Than Toby",
+          "record": {
+            "wins": 2,
+            "losses": 1
+          },
+          "score": 2002.1
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "Walking Wounded",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2129.2
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Beastiality Mode",
+          "record": {
+            "wins": 3,
+            "losses": 0
+          },
+          "score": 1966.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2570.7
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Manning Of Steel",
+          "record": {
+            "wins": 2,
+            "losses": 1
+          },
+          "score": 1812.5
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "ELFO's 18",
+          "record": {
+            "wins": 3,
+            "losses": 0
+          },
+          "score": 2132.7
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "CALL ME JIM SAUNDERS",
+          "record": {
+            "wins": 0,
+            "losses": 3
+          },
+          "score": 2392.4
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Flesh Puss  Spoon",
+          "record": {
+            "wins": 2,
+            "losses": 1
+          },
+          "score": 2298.4
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Riding Bush",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2517
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Cordarrelle  Worrilow",
+          "record": {
+            "wins": 2,
+            "losses": 1
+          },
+          "score": 1972.3
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Not the good Koch",
+          "record": {
+            "wins": 1,
+            "losses": 2
+          },
+          "score": 2253
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      }
+    ],
+    "tags": [
+      "WEEK_3",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week4": {
+    "id": 4,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Black Magic",
+          "record": {
+            "wins": 0,
+            "losses": 4
+          },
+          "score": 2427.5
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Cordarrelle  Worrilow",
+          "record": {
+            "wins": 3,
+            "losses": 1
+          },
+          "score": 1515.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Riding Bush",
+          "record": {
+            "wins": 1,
+            "losses": 3
+          },
+          "score": 2062.5
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "Walking Wounded",
+          "record": {
+            "wins": 2,
+            "losses": 2
+          },
+          "score": 1956.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "ELFO's 18",
+          "record": {
+            "wins": 4,
+            "losses": 0
+          },
+          "score": 2200.6
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Manning Of Steel",
+          "record": {
+            "wins": 2,
+            "losses": 2
+          },
+          "score": 2567.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Flesh Puss  Spoon",
+          "record": {
+            "wins": 2,
+            "losses": 2
+          },
+          "score": 2538.6
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 2,
+            "losses": 2
+          },
+          "score": 1971.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "Beastiality Mode",
+          "record": {
+            "wins": 4,
+            "losses": 0
+          },
+          "score": 1849.3
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Not the good Koch",
+          "record": {
+            "wins": 1,
+            "losses": 3
+          },
+          "score": 2083.5
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "4 Times Better Than Toby",
+          "record": {
+            "wins": 3,
+            "losses": 1
+          },
+          "score": 2052.2
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "CALL ME JIM SAUNDERS",
+          "record": {
+            "wins": 0,
+            "losses": 4
+          },
+          "score": 2807.1
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_4",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week5": {
+    "id": 5,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "CALL ME JIM SAUNDERS",
+          "record": {
+            "wins": 0,
+            "losses": 5
+          },
+          "score": 2177.5
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Flesh Puss  Spoon",
+          "record": {
+            "wins": 3,
+            "losses": 2
+          },
+          "score": 2060.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Cordarrelle  Worrilow",
+          "record": {
+            "wins": 4,
+            "losses": 1
+          },
+          "score": 2028.2
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Riding Bush",
+          "record": {
+            "wins": 1,
+            "losses": 4
+          },
+          "score": 2607.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "4 Times Better Than Toby",
+          "record": {
+            "wins": 3,
+            "losses": 2
+          },
+          "score": 2350.7
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 3,
+            "losses": 2
+          },
+          "score": 2092.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "Walking Wounded",
+          "record": {
+            "wins": 3,
+            "losses": 2
+          },
+          "score": 1946
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Black Magic",
+          "record": {
+            "wins": 0,
+            "losses": 5
+          },
+          "score": 1998.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Not the good Koch",
+          "record": {
+            "wins": 1,
+            "losses": 4
+          },
+          "score": 2238.7
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "ELFO's 18",
+          "record": {
+            "wins": 5,
+            "losses": 0
+          },
+          "score": 1998.5
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Manning Of Steel",
+          "record": {
+            "wins": 3,
+            "losses": 2
+          },
+          "score": 2418.5
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Beastiality Mode",
+          "record": {
+            "wins": 4,
+            "losses": 1
+          },
+          "score": 2792.9
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_5",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week6": {
+    "id": 6,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "CALL ME JIM SAUNDERS",
+          "record": {
+            "wins": 0,
+            "losses": 6
+          },
+          "score": 2749.7
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Manning Of Steel",
+          "record": {
+            "wins": 4,
+            "losses": 2
+          },
+          "score": 2320.4
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 3,
+            "losses": 3
+          },
+          "score": 2155.2
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Beastiality Mode",
+          "record": {
+            "wins": 5,
+            "losses": 1
+          },
+          "score": 1930.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Not the good Koch",
+          "record": {
+            "wins": 1,
+            "losses": 5
+          },
+          "score": 2658.8
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Flesh Puss  Spoon",
+          "record": {
+            "wins": 4,
+            "losses": 2
+          },
+          "score": 2246
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "ELFO's 18",
+          "record": {
+            "wins": 6,
+            "losses": 0
+          },
+          "score": 1927.8
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Cordarrelle  Worrilow",
+          "record": {
+            "wins": 4,
+            "losses": 2
+          },
+          "score": 2892.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Black Magic",
+          "record": {
+            "wins": 0,
+            "losses": 6
+          },
+          "score": 2427.2
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Riding Bush",
+          "record": {
+            "wins": 2,
+            "losses": 4
+          },
+          "score": 2327.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "Walking Wounded",
+          "record": {
+            "wins": 4,
+            "losses": 2
+          },
+          "score": 2019.9
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "4 Times Better Than Toby",
+          "record": {
+            "wins": 3,
+            "losses": 3
+          },
+          "score": 2050.3
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_6",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week7": {
+    "id": 7,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "4 Times Better Than Toby",
+          "record": {
+            "wins": 4,
+            "losses": 3
+          },
+          "score": 2095.1
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Not the good Koch",
+          "record": {
+            "wins": 1,
+            "losses": 6
+          },
+          "score": 2394.4
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Flesh Puss  Spoon",
+          "record": {
+            "wins": 4,
+            "losses": 3
+          },
+          "score": 2613.2
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "Walking Wounded",
+          "record": {
+            "wins": 5,
+            "losses": 2
+          },
+          "score": 1950.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 4,
+            "losses": 3
+          },
+          "score": 2110.4
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "ELFO's 18",
+          "record": {
+            "wins": 6,
+            "losses": 1
+          },
+          "score": 2110.8
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Manning Of Steel",
+          "record": {
+            "wins": 5,
+            "losses": 2
+          },
+          "score": 2109.6
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Black Magic",
+          "record": {
+            "wins": 0,
+            "losses": 7
+          },
+          "score": 2495.4
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Riding Bush",
+          "record": {
+            "wins": 2,
+            "losses": 5
+          },
+          "score": 2006.8
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "CALL ME JIM SAUNDERS",
+          "record": {
+            "wins": 1,
+            "losses": 6
+          },
+          "score": 1682.5
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "Beastiality Mode",
+          "record": {
+            "wins": 5,
+            "losses": 2
+          },
+          "score": 3040.3
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Cordarrelle  Worrilow",
+          "record": {
+            "wins": 5,
+            "losses": 2
+          },
+          "score": 2212.3
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_7",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week8": {
+    "id": 8,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Cordarrelle  Worrilow",
+          "record": {
+            "wins": 6,
+            "losses": 2
+          },
+          "score": 2081.6
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "4 Times Better Than Toby",
+          "record": {
+            "wins": 4,
+            "losses": 4
+          },
+          "score": 2460.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "CALL ME JIM SAUNDERS",
+          "record": {
+            "wins": 2,
+            "losses": 6
+          },
+          "score": 1838.6
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 4,
+            "losses": 4
+          },
+          "score": 2356.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "ELFO's 18",
+          "record": {
+            "wins": 6,
+            "losses": 2
+          },
+          "score": 2164.2
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Black Magic",
+          "record": {
+            "wins": 1,
+            "losses": 7
+          },
+          "score": 1927.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Riding Bush",
+          "record": {
+            "wins": 3,
+            "losses": 5
+          },
+          "score": 2371
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Beastiality Mode",
+          "record": {
+            "wins": 5,
+            "losses": 3
+          },
+          "score": 2423.4
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "Walking Wounded",
+          "record": {
+            "wins": 5,
+            "losses": 3
+          },
+          "score": 3509.9
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Not the good Koch",
+          "record": {
+            "wins": 2,
+            "losses": 6
+          },
+          "score": 2699.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Flesh Puss  Spoon",
+          "record": {
+            "wins": 4,
+            "losses": 4
+          },
+          "score": 2781.4
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Manning Of Steel",
+          "record": {
+            "wins": 6,
+            "losses": 2
+          },
+          "score": 2024.5
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_8",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week9": {
+    "id": 9,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "Beastiality Mode",
+          "record": {
+            "wins": 6,
+            "losses": 3
+          },
+          "score": 2018.1
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "CALL ME JIM SAUNDERS",
+          "record": {
+            "wins": 2,
+            "losses": 7
+          },
+          "score": 2445.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 4,
+            "losses": 5
+          },
+          "score": 2214.2
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Riding Bush",
+          "record": {
+            "wins": 4,
+            "losses": 5
+          },
+          "score": 1786.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "ELFO's 18",
+          "record": {
+            "wins": 6,
+            "losses": 3
+          },
+          "score": 2429.1
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "Walking Wounded",
+          "record": {
+            "wins": 6,
+            "losses": 3
+          },
+          "score": 2146.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Black Magic",
+          "record": {
+            "wins": 1,
+            "losses": 8
+          },
+          "score": 2387.2
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Not the good Koch",
+          "record": {
+            "wins": 3,
+            "losses": 6
+          },
+          "score": 2166.6
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "4 Times Better Than Toby",
+          "record": {
+            "wins": 4,
+            "losses": 5
+          },
+          "score": 2128.1
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Flesh Puss  Spoon",
+          "record": {
+            "wins": 5,
+            "losses": 4
+          },
+          "score": 2033.9
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Manning Of Steel",
+          "record": {
+            "wins": 6,
+            "losses": 3
+          },
+          "score": 2668.1
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Cordarrelle  Worrilow",
+          "record": {
+            "wins": 7,
+            "losses": 2
+          },
+          "score": 2430.6
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_9",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week10": {
+    "id": 10,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Flesh Puss  Spoon",
+          "record": {
+            "wins": 6,
+            "losses": 4
+          },
+          "score": 2771.4
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Beastiality Mode",
+          "record": {
+            "wins": 6,
+            "losses": 4
+          },
+          "score": 3050.1
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "Walking Wounded",
+          "record": {
+            "wins": 6,
+            "losses": 4
+          },
+          "score": 2771.4
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Cordarrelle  Worrilow",
+          "record": {
+            "wins": 8,
+            "losses": 2
+          },
+          "score": 2079.4
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Not the good Koch",
+          "record": {
+            "wins": 4,
+            "losses": 6
+          },
+          "score": 1326
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 4,
+            "losses": 6
+          },
+          "score": 2197.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "4 Times Better Than Toby",
+          "record": {
+            "wins": 4,
+            "losses": 6
+          },
+          "score": 2284.3
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "ELFO's 18",
+          "record": {
+            "wins": 7,
+            "losses": 3
+          },
+          "score": 2010.7
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Riding Bush",
+          "record": {
+            "wins": 4,
+            "losses": 6
+          },
+          "score": 3097.6
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Manning Of Steel",
+          "record": {
+            "wins": 7,
+            "losses": 3
+          },
+          "score": 1804.3
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "CALL ME JIM SAUNDERS",
+          "record": {
+            "wins": 2,
+            "losses": 8
+          },
+          "score": 1946.9
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Black Magic",
+          "record": {
+            "wins": 2,
+            "losses": 8
+          },
+          "score": 1864.2
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_10",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week11": {
+    "id": 11,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Black Magic",
+          "record": {
+            "wins": 2,
+            "losses": 9
+          },
+          "score": 2662.4
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Beastiality Mode",
+          "record": {
+            "wins": 7,
+            "losses": 4
+          },
+          "score": 2159.9
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Not the good Koch",
+          "record": {
+            "wins": 4,
+            "losses": 7
+          },
+          "score": 2179.5
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Manning Of Steel",
+          "record": {
+            "wins": 8,
+            "losses": 3
+          },
+          "score": 1894.4
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 4,
+            "losses": 7
+          },
+          "score": 2728.3
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "Walking Wounded",
+          "record": {
+            "wins": 7,
+            "losses": 4
+          },
+          "score": 2077.5
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Cordarrelle  Worrilow",
+          "record": {
+            "wins": 8,
+            "losses": 3
+          },
+          "score": 2564.2
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "CALL ME JIM SAUNDERS",
+          "record": {
+            "wins": 3,
+            "losses": 8
+          },
+          "score": 2153.2
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "4 Times Better Than Toby",
+          "record": {
+            "wins": 5,
+            "losses": 6
+          },
+          "score": 2258.7
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Riding Bush",
+          "record": {
+            "wins": 4,
+            "losses": 7
+          },
+          "score": 2265.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Flesh Puss  Spoon",
+          "record": {
+            "wins": 6,
+            "losses": 5
+          },
+          "score": 2226.7
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "ELFO's 18",
+          "record": {
+            "wins": 8,
+            "losses": 3
+          },
+          "score": 1375.7
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      }
+    ],
+    "tags": [
+      "WEEK_11",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week12": {
+    "id": 12,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "Beastiality Mode",
+          "record": {
+            "wins": 7,
+            "losses": 5
+          },
+          "score": 2194.3
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "4 Times Better Than Toby",
+          "record": {
+            "wins": 6,
+            "losses": 6
+          },
+          "score": 1938.2
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "Walking Wounded",
+          "record": {
+            "wins": 8,
+            "losses": 4
+          },
+          "score": 2198.4
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Manning Of Steel",
+          "record": {
+            "wins": 8,
+            "losses": 4
+          },
+          "score": 2562.2
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Black Magic",
+          "record": {
+            "wins": 3,
+            "losses": 9
+          },
+          "score": 2104.8
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Flesh Puss  Spoon",
+          "record": {
+            "wins": 6,
+            "losses": 6
+          },
+          "score": 2396.5
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "ELFO's 18",
+          "record": {
+            "wins": 9,
+            "losses": 3
+          },
+          "score": 2155.9
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Riding Bush",
+          "record": {
+            "wins": 4,
+            "losses": 8
+          },
+          "score": 2356.1
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "CALL ME JIM SAUNDERS",
+          "record": {
+            "wins": 4,
+            "losses": 8
+          },
+          "score": 1895.3
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Not the good Koch",
+          "record": {
+            "wins": 4,
+            "losses": 8
+          },
+          "score": 2040.3
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Cordarrelle  Worrilow",
+          "record": {
+            "wins": 9,
+            "losses": 3
+          },
+          "score": 2595.8
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 4,
+            "losses": 8
+          },
+          "score": 2827.5
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_12",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week13": {
+    "id": 13,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "4 Times Better Than Toby",
+          "record": {
+            "wins": 7,
+            "losses": 6
+          },
+          "score": 2351
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Black Magic",
+          "record": {
+            "wins": 3,
+            "losses": 10
+          },
+          "score": 3166.9
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Riding Bush",
+          "record": {
+            "wins": 5,
+            "losses": 8
+          },
+          "score": 2645.9
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Flesh Puss  Spoon",
+          "record": {
+            "wins": 6,
+            "losses": 7
+          },
+          "score": 2885.4
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "CALL ME JIM SAUNDERS",
+          "record": {
+            "wins": 4,
+            "losses": 9
+          },
+          "score": 2834.3
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "Walking Wounded",
+          "record": {
+            "wins": 9,
+            "losses": 4
+          },
+          "score": 2159.2
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Not the good Koch",
+          "record": {
+            "wins": 4,
+            "losses": 9
+          },
+          "score": 2545.3
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Cordarrelle  Worrilow",
+          "record": {
+            "wins": 10,
+            "losses": 3
+          },
+          "score": 2034
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Manning Of Steel",
+          "record": {
+            "wins": 9,
+            "losses": 4
+          },
+          "score": 1898.3
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 4,
+            "losses": 9
+          },
+          "score": 3171.7
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "Beastiality Mode",
+          "record": {
+            "wins": 8,
+            "losses": 5
+          },
+          "score": 2213
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "ELFO's 18",
+          "record": {
+            "wins": 9,
+            "losses": 4
+          },
+          "score": 2317.3
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_13",
+      "REGULAR_SEASON"
+    ]
+  },
+  "week14": {
+    "id": 14,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Riding Bush",
+          "record": {
+            "wins": 6,
+            "losses": 8
+          },
+          "score": 2915.8,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_8"
+          ]
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Cordarrelle Worrilow",
+          "record": {
+            "wins": 10,
+            "losses": 4
+          },
+          "score": 2375.7,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_1"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "Walking Wounded",
+          "record": {
+            "wins": 10,
+            "losses": 4
+          },
+          "score": 2485.1,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_5"
+          ]
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Beastiality Mode",
+          "record": {
+            "wins": 8,
+            "losses": 6
+          },
+          "score": 2473,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_4"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "4 Times Better Than Toby",
+          "record": {
+            "wins": 7,
+            "losses": 7
+          },
+          "score": 2767.5,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_6"
+          ]
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Manning Of Steel",
+          "record": {
+            "wins": 10,
+            "losses": 4
+          },
+          "score": 3168.7,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_3"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Flesh Puss Spoon",
+          "record": {
+            "wins": 6,
+            "losses": 8
+          },
+          "score": 2099.4,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_7"
+          ]
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "ELFO's 18",
+          "record": {
+            "wins": 10,
+            "losses": 4
+          },
+          "score": 2297.1,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_2"
+          ]
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "CALL ME JIM SAUNDERS",
+          "record": {
+            "wins": 4,
+            "losses": 10
+          },
+          "score": 1772.6,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_10"
+          ]
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Not the good Koch",
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "score": 2171.6,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_9"
+          ]
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Black Magic",
+          "record": {
+            "wins": 4,
+            "losses": 10
+          },
+          "score": 2277.2,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "WINNER",
+            "SEED_12"
+          ]
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 4,
+            "losses": 10
+          },
+          "score": 1789.1,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_FIRST",
+            "PLAYOFF_ROUND_1",
+            "LOSER",
+            "SEED_11"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1"
+    ],
+    "playoffRound": 1
+  },
+  "week15": {
+    "id": 15,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Riding Bush",
+          "record": {
+            "wins": 7,
+            "losses": 8
+          },
+          "score": 2509.2,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "Walking Wounded",
+          "record": {
+            "wins": 10,
+            "losses": 5
+          },
+          "score": 1929.6,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Manning Of Steel",
+          "record": {
+            "wins": 11,
+            "losses": 4
+          },
+          "score": 2147.7,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "ELFO's 18",
+          "record": {
+            "wins": 10,
+            "losses": 5
+          },
+          "score": 2128.4,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "Beastiality Mode",
+          "record": {
+            "wins": 8,
+            "losses": 7
+          },
+          "score": 2106.7,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Cordarrelle Worrilow",
+          "record": {
+            "wins": 11,
+            "losses": 4
+          },
+          "score": 2235.8,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Flesh Puss Spoon",
+          "record": {
+            "wins": 7,
+            "losses": 8
+          },
+          "score": 2921.3,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "4 Times Better Than Toby",
+          "record": {
+            "wins": 7,
+            "losses": 8
+          },
+          "score": 2232.2,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_SEMIFINAL_THIRD",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Black Magic",
+          "record": {
+            "wins": 5,
+            "losses": 10
+          },
+          "score": 2320.6,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Not the good Koch",
+          "record": {
+            "wins": 5,
+            "losses": 10
+          },
+          "score": 1603.5,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 5,
+            "losses": 10
+          },
+          "score": 2340.7,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "WINNER"
+          ]
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "CALL ME JIM SAUNDERS",
+          "record": {
+            "wins": 4,
+            "losses": 11
+          },
+          "score": 1974.6,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_ROUND_SEMIFINAL",
+            "PLAYOFF_ROUND_2",
+            "LOSER"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_15",
+      "PLAYOFF_ROUND_2"
+    ],
+    "playoffRound": 2
+  },
+  "week16": {
+    "id": 16,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Riding Bush",
+          "record": {
+            "wins": 7,
+            "losses": 9
+          },
+          "score": 2189.6,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_CHAMPIONSHIP",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "RUNNER_UP",
+            "PLACE_2"
+          ]
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Manning Of Steel",
+          "record": {
+            "wins": 12,
+            "losses": 4
+          },
+          "score": 2238.4,
+          "tags": [
+            "PLAYOFF",
+            "PLAYOFF_ROUND_CHAMPIONSHIP",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "CHAMPION",
+            "PLACE_1"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "Walking Wounded",
+          "record": {
+            "wins": 11,
+            "losses": 5
+          },
+          "score": 2301.5,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "PLACE_3"
+          ]
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "ELFO's 18",
+          "record": {
+            "wins": 10,
+            "losses": 6
+          },
+          "score": 2146.8,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "PLACE_4"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Flesh Puss Spoon",
+          "record": {
+            "wins": 7,
+            "losses": 9
+          },
+          "score": 2282.4,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "PLACE_6"
+          ]
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Cordarrelle Worrilow",
+          "record": {
+            "wins": 12,
+            "losses": 4
+          },
+          "score": 2287.9,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "PLACE_5"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "4 Times Better Than Toby",
+          "record": {
+            "wins": 7,
+            "losses": 9
+          },
+          "score": 2422.2,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "PLACE_8"
+          ]
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "Beastiality Mode",
+          "record": {
+            "wins": 9,
+            "losses": 7
+          },
+          "score": 2895.6,
+          "tags": [
+            "CONSOLATION_WINNERS",
+            "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "PLACE_7"
+          ]
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Black Magic",
+          "record": {
+            "wins": 6,
+            "losses": 10
+          },
+          "score": 2198.6,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH",
+            "PLAYOFF_ROUND_3",
+            "WINNER",
+            "PLACE_9"
+          ]
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Madden Curse",
+          "record": {
+            "wins": 5,
+            "losses": 11
+          },
+          "score": 1986.6,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH",
+            "PLAYOFF_ROUND_3",
+            "LOSER",
+            "PLACE_10"
+          ]
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "CALL ME JIM SAUNDERS",
+          "record": {
+            "wins": 5,
+            "losses": 11
+          },
+          "score": 2290.1,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
+            "PLAYOFF_ROUND_3",
+            "CONSOLATION_LAST_PLACE",
+            "WINNER",
+            "PLACE_11"
+          ]
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Not the good Koch",
+          "record": {
+            "wins": 5,
+            "losses": 11
+          },
+          "score": 1735.5,
+          "tags": [
+            "CONSOLATION_LOSERS",
+            "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
+            "PLAYOFF_ROUND_3",
+            "CONSOLATION_LAST_PLACE",
+            "LOSER",
+            "PLACE_12",
+            "LAST_PLACE"
+          ]
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      }
+    ],
+    "tags": [
+      "WEEK_16",
+      "PLAYOFF_ROUND_3"
+    ],
+    "playoffRound": 3
+  }
+}

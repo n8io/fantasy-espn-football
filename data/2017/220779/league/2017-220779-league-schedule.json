@@ -1,0 +1,1747 @@
+{
+  "week1": {
+    "id": 1,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Frisky  Dingo",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "jotas HOS",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "Jobu's Rum",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Cleveland Browns",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Chicken  Dinner",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "Mongolian Giants",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Mike Bixler",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Don't Know",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      }
+    ],
+    "tags": [
+      "WEEK_1"
+    ]
+  },
+  "week2": {
+    "id": 2,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "jotas HOS",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Frisky  Dingo",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "Jobu's Rum",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Chicken  Dinner",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "Mongolian Giants",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Don't Know",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Cleveland Browns",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Mike Bixler",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      }
+    ],
+    "tags": [
+      "WEEK_2"
+    ]
+  },
+  "week3": {
+    "id": 3,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Frisky  Dingo",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "Jobu's Rum",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Chicken  Dinner",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "jotas HOS",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Mike Bixler",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Don't Know",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "Mongolian Giants",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Cleveland Browns",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_3"
+    ]
+  },
+  "week4": {
+    "id": 4,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "jotas HOS",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "Jobu's Rum",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Frisky  Dingo",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Chicken  Dinner",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Cleveland Browns",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Don't Know",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "Mongolian Giants",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Mike Bixler",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_4"
+    ]
+  },
+  "week5": {
+    "id": 5,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Frisky  Dingo",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Chicken  Dinner",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "Jobu's Rum",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "jotas HOS",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "Mongolian Giants",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Don't Know",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Cleveland Browns",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Mike Bixler",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_5"
+    ]
+  },
+  "week6": {
+    "id": 6,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Chicken  Dinner",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "Jobu's Rum",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Don't Know",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "jotas HOS",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Frisky  Dingo",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Cleveland Browns",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "Mongolian Giants",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Mike Bixler",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_6"
+    ]
+  },
+  "week7": {
+    "id": 7,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "Mongolian Giants",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Cleveland Browns",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "Jobu's Rum",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "jotas HOS",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Chicken  Dinner",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Don't Know",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Frisky  Dingo",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Mike Bixler",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_7"
+    ]
+  },
+  "week8": {
+    "id": 8,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Cleveland Browns",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Chicken  Dinner",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Frisky  Dingo",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "jotas HOS",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "Jobu's Rum",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "Mongolian Giants",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Don't Know",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Mike Bixler",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      }
+    ],
+    "tags": [
+      "WEEK_8"
+    ]
+  },
+  "week9": {
+    "id": 9,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "Jobu's Rum",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "Mongolian Giants",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "jotas HOS",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Mike Bixler",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Chicken  Dinner",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Don't Know",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Frisky  Dingo",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Cleveland Browns",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_9"
+    ]
+  },
+  "week10": {
+    "id": 10,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 4,
+          "name": "Mongolian Giants",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Don't Know",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Frisky  Dingo",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Mike Bixler",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "Jobu's Rum",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Chicken  Dinner",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "jotas HOS",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Cleveland Browns",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_10"
+    ]
+  },
+  "week11": {
+    "id": 11,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Mike Bixler",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "jotas HOS",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Chicken  Dinner",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "Jobu's Rum",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 11,
+          "name": "Frisky  Dingo",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "Mongolian Giants",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Don't Know",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Cleveland Browns",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_11"
+    ]
+  },
+  "week12": {
+    "id": 12,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Frisky  Dingo",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 7,
+          "name": "Jobu's Rum",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 2,
+          "name": "jotas HOS",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 3,
+          "name": "Chicken  Dinner",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "Mongolian Giants",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 10,
+          "name": "Cleveland Browns",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 8,
+          "name": "Don't Know",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 9,
+          "name": "Mike Bixler",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      }
+    ],
+    "tags": [
+      "WEEK_12"
+    ]
+  },
+  "week13": {
+    "id": 13,
+    "matchups": [
+      {
+        "awayTeam": {
+          "id": 5,
+          "name": "Two Mannings One Cup",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 11,
+          "name": "Frisky  Dingo",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 1,
+          "name": "League Man Nate'd",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 12,
+          "name": "Down With OBJr.",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 8,
+          "name": "Don't Know",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 7,
+          "name": "Jobu's Rum",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        }
+      },
+      {
+        "awayTeam": {
+          "id": 2,
+          "name": "jotas HOS",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 3,
+          "name": "Chicken  Dinner",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 6,
+          "name": "Ball Sagna",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 4,
+          "name": "Mongolian Giants",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      },
+      {
+        "awayTeam": {
+          "id": 9,
+          "name": "Mike Bixler",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "homeTeam": {
+          "id": 10,
+          "name": "Cleveland Browns",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "score": 0
+        },
+        "tags": [
+          "DIVISIONAL_MATCHUP"
+        ]
+      }
+    ],
+    "tags": [
+      "WEEK_13"
+    ]
+  },
+  "week14": {
+    "id": 14,
+    "matchups": [],
+    "tags": [
+      "WEEK_14",
+      "PLAYOFF_ROUND_1"
+    ],
+    "playoffRound": 1
+  }
+}
