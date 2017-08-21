@@ -19,6 +19,8 @@ const isTeamMatchup = ({ homeTeam: { id: hid }, awayTeam: { id: aid } }, teamId)
 const isRegularSeasonMatchup = ({ tags = [] }) => tags.some(t => t === TAGS.REGULAR_SEASON);
 const isPlayoffMatchup = ({ tags = [] }) => tags.some(t => t === TAGS.PLAYOFF);
 
+const getMemberById = id => MEMBERS.find(m => m.id === id);
+
 const getWinningTeam = ({ homeTeam, awayTeam }) => {
   if (isWinningTeam(homeTeam)) {
     return homeTeam;
@@ -27,6 +29,26 @@ const getWinningTeam = ({ homeTeam, awayTeam }) => {
   }
 
   return undefined;
+};
+
+const getOtherTeam = ({ homeTeam, awayTeam }, teamId) => {
+  if (isSameTeam(homeTeam, teamId)) {
+    return awayTeam;
+  } else if (isSameTeam(awayTeam, teamId)) {
+    return homeTeam;
+  }
+
+  return undefined;
+};
+
+const getTeamTagsById = ({ homeTeam, awayTeam }, teamId) => {
+  if (isSameTeam(homeTeam, teamId)) {
+    return homeTeam.tags;
+  } else if (isSameTeam(awayTeam, teamId)) {
+    return awayTeam.tags;
+  }
+
+  return [];
 };
 
 const isWinner = ({ homeTeam, awayTeam }, teamId) =>
@@ -63,6 +85,10 @@ const isChampionshipMatchup = ({ tags }) => (tags || []).some(t => t === TAGS.PL
 const isLastPlaceMatchup = ({ tags }) => (tags || []).some(t => t === TAGS.CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH);
 const isCrownMatchup = matchup => isChampionshipMatchup(matchup) || isLastPlaceMatchup(matchup);
 
+const isPlayoffMiss = (matchup, teamId) =>
+  isTeamMatchup(matchup, teamId) &&
+  getTeamTagsById(matchup, teamId).some(t => [TAGS.SEED_9, TAGS.SEED_10, TAGS.SEED_11, TAGS.SEED_12].indexOf(t) > -1);
+
 const isRegularSeasonChamp = (matchup, teamId) =>
   isWinner(matchup, teamId) && getWinningTeam(matchup).tags.some(t => t === TAGS.SEED_1);
 const isRegularSeasonRunnerUp = (matchup, teamId) =>
@@ -82,7 +108,6 @@ const historyWinLossRegularSeason = (matchups, teamId) => {
     { wins: 0, losses: 0, points: { for: 0, against: 0 } }
   );
 
-  summary.games = summary.wins + summary.losses;
   summary.points.for = round(summary.points.for, 2);
   summary.points.against = round(summary.points.against, 2);
 
@@ -100,10 +125,9 @@ const historyWinLossPlayoff = (matchups, teamId) => {
         against: acc.points.against + pointsAgainst(mu, teamId),
       },
     }),
-    { wins: 0, losses: 0, points: { for: 0, against: 0 } }
+    { wins: 0, losses: 0, points: { for: 0, against: 0, misses: 0 } }
   );
 
-  summary.games = summary.wins + summary.losses;
   summary.points.for = round(summary.points.for, 2);
   summary.points.against = round(summary.points.against, 2);
 
@@ -120,8 +144,9 @@ const historyWinLossOverall = (matchups, teamId) => {
         for: acc.points.for + pointsFor(mu, teamId),
         against: acc.points.against + pointsAgainst(mu, teamId),
       },
+      didNotMakePlayoffs: acc.didNotMakePlayoffs + (isPlayoffMiss(mu, teamId) ? 1 : 0),
     }),
-    { wins: 0, losses: 0, points: { for: 0, against: 0 } }
+    { wins: 0, losses: 0, didNotMakePlayoffs: 0, points: { for: 0, against: 0 } }
   );
 
   summary.games = summary.wins + summary.losses;
@@ -169,6 +194,39 @@ const historyCrowns = (matchups, teamId) => {
   return crowns;
 };
 
+const historyHeadToHead = (matchups, teamId) => {
+  const myMatchups = matchups.filter(mu => isTeamMatchup(mu, teamId));
+
+  return myMatchups
+    .reduce((acc, mu) => {
+      const wonMatchup = isWinner(mu, teamId);
+      const otherTeam = getOtherTeam(mu, teamId);
+      const member = getMemberById(otherTeam.id);
+      const matchupBefore = acc.find(m => m.id === otherTeam.id);
+      const winsPrior = matchupBefore ? matchupBefore.wins : 0;
+      const lossesPrior = matchupBefore ? matchupBefore.losses : 0;
+
+      return [
+        ...(acc.filter(m => m.id !== otherTeam.id) || []),
+        {
+          id: otherTeam.id,
+          vs: member.abbrev,
+          wins: winsPrior + (wonMatchup ? 1 : 0),
+          losses: lossesPrior + (wonMatchup === false ? 1 : 0),
+        },
+      ];
+    }, [])
+    .sort((a, b) => {
+      if (a.id < b.id) {
+        return -1;
+      } else if (a.id > b.id) {
+        return 1;
+      }
+
+      return 0;
+    });
+};
+
 const leagueSummary = () =>
   MEMBERS.reduce(
     (acc = [], { id: teamId, name, firstName, lastName }) => [
@@ -176,12 +234,13 @@ const leagueSummary = () =>
       {
         teamId,
         owner: `${firstName} ${lastName}`,
-        name,
+        currentName: name,
         names: historyTeamName(MATCHUPS, teamId),
         crowns: { ...historyCrowns(MATCHUPS, teamId) },
         regularSeason: { ...historyWinLossRegularSeason(MATCHUPS, teamId) },
         playoffs: { ...historyWinLossPlayoff(MATCHUPS, teamId) },
         overall: { ...historyWinLossOverall(MATCHUPS, teamId) },
+        h2h: [...historyHeadToHead(MATCHUPS, teamId)],
       },
     ],
     []
@@ -190,6 +249,3 @@ const leagueSummary = () =>
 const summarization = leagueSummary();
 
 save('league', 'member-summary', summarization);
-
-// const myMatchups = matchups.filter(m => isTeamMatchup(m, TEAM_ID) && isPlayoffMatchup(m));
-// console.log(JSON.stringify({ myMatchups, teamId: TEAM_ID, length: myMatchups.length }, null, 2));
