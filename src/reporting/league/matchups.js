@@ -3,6 +3,12 @@ import cwd from 'cwd';
 
 import { readJson } from '../../lib/utils/dataReader';
 
-const scheduleFilePaths = glob.sync([cwd('data/**/*-league-schedule.json')]);
+export default (yearsBack = 100) => {
+  const scheduleFilePaths = glob
+    .sync([cwd('data/**/*-league-schedule.json')])
+    .reverse()
+    .slice(0, ~~yearsBack + 1) // eslint-disable-line no-bitwise
+    .reverse();
 
-export default scheduleFilePaths.reduce((acc, file) => [...acc, ...readJson(file)], []);
+  return scheduleFilePaths.reduce((acc, file) => [...acc, ...readJson(file)], []);
+};

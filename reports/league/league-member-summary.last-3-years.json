@@ -1,0 +1,1343 @@
+[
+  {
+    "teamId": 1,
+    "owner": "Nate Clark",
+    "currentName": "League Man Nate'd",
+    "names": [
+      "Beastiality Mode",
+      "League Man Nate'd"
+    ],
+    "crowns": {
+      "regSeasonChamps": 0,
+      "regSeasonRunnerUp": 0,
+      "championships": 1,
+      "runnerUps": 1,
+      "lastPlaces": 0,
+      "closeCalls": 0
+    },
+    "regularSeason": {
+      "wins": 21,
+      "losses": 18,
+      "points": {
+        "for": 89702,
+        "against": 90710.9
+      }
+    },
+    "playoffs": {
+      "wins": 5,
+      "losses": 2,
+      "points": {
+        "for": 17204.2,
+        "against": 15734.1
+      }
+    },
+    "overall": {
+      "wins": 27,
+      "losses": 21,
+      "points": {
+        "for": 111908.5,
+        "against": 111103
+      },
+      "didNotMakePlayoffs": 0,
+      "games": 48
+    },
+    "h2h": [
+      {
+        "id": 2,
+        "vs": "JOTA",
+        "wins": 1,
+        "losses": 2
+      },
+      {
+        "id": 3,
+        "vs": "HURL",
+        "wins": 1,
+        "losses": 4
+      },
+      {
+        "id": 4,
+        "vs": "DANK",
+        "wins": 3,
+        "losses": 1
+      },
+      {
+        "id": 5,
+        "vs": "EBBY",
+        "wins": 5,
+        "losses": 3
+      },
+      {
+        "id": 6,
+        "vs": "DUBS",
+        "wins": 2,
+        "losses": 2
+      },
+      {
+        "id": 7,
+        "vs": "KURT",
+        "wins": 1,
+        "losses": 3
+      },
+      {
+        "id": 8,
+        "vs": "FRYE",
+        "wins": 1,
+        "losses": 2
+      },
+      {
+        "id": 9,
+        "vs": "MBIX",
+        "wins": 4,
+        "losses": 1
+      },
+      {
+        "id": 10,
+        "vs": "BROK",
+        "wins": 3,
+        "losses": 0
+      },
+      {
+        "id": 11,
+        "vs": "JROD",
+        "wins": 3,
+        "losses": 1
+      },
+      {
+        "id": 12,
+        "vs": "WEAV",
+        "wins": 3,
+        "losses": 2
+      }
+    ]
+  },
+  {
+    "teamId": 2,
+    "owner": "Jeremiah Howe",
+    "currentName": "jotas HOS",
+    "names": [
+      "CALL ME JIM SAUNDERS",
+      "LOSER McNOBODY",
+      "jotas HOs"
+    ],
+    "crowns": {
+      "regSeasonChamps": 0,
+      "regSeasonRunnerUp": 0,
+      "championships": 0,
+      "runnerUps": 0,
+      "lastPlaces": 0,
+      "closeCalls": 1
+    },
+    "regularSeason": {
+      "wins": 18,
+      "losses": 21,
+      "points": {
+        "for": 87480.7,
+        "against": 89396.9
+      }
+    },
+    "playoffs": {
+      "wins": 0,
+      "losses": 2,
+      "points": {
+        "for": 4182.2,
+        "against": 4736.1
+      }
+    },
+    "overall": {
+      "wins": 21,
+      "losses": 27,
+      "points": {
+        "for": 107207.2,
+        "against": 109126.4
+      },
+      "didNotMakePlayoffs": 1,
+      "games": 48
+    },
+    "h2h": [
+      {
+        "id": 1,
+        "vs": "NATE",
+        "wins": 2,
+        "losses": 1
+      },
+      {
+        "id": 3,
+        "vs": "HURL",
+        "wins": 2,
+        "losses": 4
+      },
+      {
+        "id": 4,
+        "vs": "DANK",
+        "wins": 1,
+        "losses": 2
+      },
+      {
+        "id": 5,
+        "vs": "EBBY",
+        "wins": 1,
+        "losses": 3
+      },
+      {
+        "id": 6,
+        "vs": "DUBS",
+        "wins": 4,
+        "losses": 5
+      },
+      {
+        "id": 7,
+        "vs": "KURT",
+        "wins": 1,
+        "losses": 3
+      },
+      {
+        "id": 8,
+        "vs": "FRYE",
+        "wins": 2,
+        "losses": 2
+      },
+      {
+        "id": 9,
+        "vs": "MBIX",
+        "wins": 1,
+        "losses": 2
+      },
+      {
+        "id": 10,
+        "vs": "BROK",
+        "wins": 3,
+        "losses": 2
+      },
+      {
+        "id": 11,
+        "vs": "JROD",
+        "wins": 1,
+        "losses": 3
+      },
+      {
+        "id": 12,
+        "vs": "WEAV",
+        "wins": 3,
+        "losses": 0
+      }
+    ]
+  },
+  {
+    "teamId": 3,
+    "owner": "Zak Hurley",
+    "currentName": "Chicken Dinner",
+    "names": [
+      "Chicken Dinner",
+      "Cordarrelle Worrilow",
+      "Isaac Hayes"
+    ],
+    "crowns": {
+      "regSeasonChamps": 0,
+      "regSeasonRunnerUp": 0,
+      "championships": 1,
+      "runnerUps": 0,
+      "lastPlaces": 0,
+      "closeCalls": 0
+    },
+    "regularSeason": {
+      "wins": 25,
+      "losses": 14,
+      "points": {
+        "for": 97088.9,
+        "against": 89874.3
+      }
+    },
+    "playoffs": {
+      "wins": 3,
+      "losses": 2,
+      "points": {
+        "for": 12495.5,
+        "against": 13350.3
+      }
+    },
+    "overall": {
+      "wins": 31,
+      "losses": 17,
+      "points": {
+        "for": 118377.5,
+        "against": 112048.4
+      },
+      "didNotMakePlayoffs": 0,
+      "games": 48
+    },
+    "h2h": [
+      {
+        "id": 1,
+        "vs": "NATE",
+        "wins": 4,
+        "losses": 1
+      },
+      {
+        "id": 2,
+        "vs": "JOTA",
+        "wins": 4,
+        "losses": 2
+      },
+      {
+        "id": 4,
+        "vs": "DANK",
+        "wins": 3,
+        "losses": 1
+      },
+      {
+        "id": 5,
+        "vs": "EBBY",
+        "wins": 4,
+        "losses": 0
+      },
+      {
+        "id": 6,
+        "vs": "DUBS",
+        "wins": 2,
+        "losses": 2
+      },
+      {
+        "id": 7,
+        "vs": "KURT",
+        "wins": 1,
+        "losses": 2
+      },
+      {
+        "id": 8,
+        "vs": "FRYE",
+        "wins": 2,
+        "losses": 2
+      },
+      {
+        "id": 9,
+        "vs": "MBIX",
+        "wins": 3,
+        "losses": 1
+      },
+      {
+        "id": 10,
+        "vs": "BROK",
+        "wins": 3,
+        "losses": 1
+      },
+      {
+        "id": 11,
+        "vs": "JROD",
+        "wins": 3,
+        "losses": 1
+      },
+      {
+        "id": 12,
+        "vs": "WEAV",
+        "wins": 2,
+        "losses": 4
+      }
+    ]
+  },
+  {
+    "teamId": 4,
+    "owner": "Daniel Kelly",
+    "currentName": "Mongolian Giants",
+    "names": [
+      "Mongolian Giants",
+      "U DaHo",
+      "Walking Wounded"
+    ],
+    "crowns": {
+      "regSeasonChamps": 0,
+      "regSeasonRunnerUp": 0,
+      "championships": 0,
+      "runnerUps": 0,
+      "lastPlaces": 0,
+      "closeCalls": 1
+    },
+    "regularSeason": {
+      "wins": 18,
+      "losses": 21,
+      "points": {
+        "for": 88603.6,
+        "against": 92603.4
+      }
+    },
+    "playoffs": {
+      "wins": 1,
+      "losses": 1,
+      "points": {
+        "for": 4414.7,
+        "against": 4982.2
+      }
+    },
+    "overall": {
+      "wins": 25,
+      "losses": 23,
+      "points": {
+        "for": 108312.2,
+        "against": 111484.5
+      },
+      "didNotMakePlayoffs": 2,
+      "games": 48
+    },
+    "h2h": [
+      {
+        "id": 1,
+        "vs": "NATE",
+        "wins": 1,
+        "losses": 3
+      },
+      {
+        "id": 2,
+        "vs": "JOTA",
+        "wins": 2,
+        "losses": 1
+      },
+      {
+        "id": 3,
+        "vs": "HURL",
+        "wins": 1,
+        "losses": 3
+      },
+      {
+        "id": 5,
+        "vs": "EBBY",
+        "wins": 1,
+        "losses": 2
+      },
+      {
+        "id": 6,
+        "vs": "DUBS",
+        "wins": 1,
+        "losses": 3
+      },
+      {
+        "id": 7,
+        "vs": "KURT",
+        "wins": 3,
+        "losses": 1
+      },
+      {
+        "id": 8,
+        "vs": "FRYE",
+        "wins": 4,
+        "losses": 2
+      },
+      {
+        "id": 9,
+        "vs": "MBIX",
+        "wins": 5,
+        "losses": 0
+      },
+      {
+        "id": 10,
+        "vs": "BROK",
+        "wins": 5,
+        "losses": 1
+      },
+      {
+        "id": 11,
+        "vs": "JROD",
+        "wins": 1,
+        "losses": 4
+      },
+      {
+        "id": 12,
+        "vs": "WEAV",
+        "wins": 1,
+        "losses": 3
+      }
+    ]
+  },
+  {
+    "teamId": 5,
+    "owner": "Matthew Eberhardt",
+    "currentName": "Two Mannings One Cup",
+    "names": [
+      "4 Times Better Than Toby",
+      "Two Mannings One Cup"
+    ],
+    "crowns": {
+      "regSeasonChamps": 0,
+      "regSeasonRunnerUp": 1,
+      "championships": 0,
+      "runnerUps": 0,
+      "lastPlaces": 0,
+      "closeCalls": 0
+    },
+    "regularSeason": {
+      "wins": 24,
+      "losses": 15,
+      "points": {
+        "for": 91522,
+        "against": 88406.2
+      }
+    },
+    "playoffs": {
+      "wins": 1,
+      "losses": 3,
+      "points": {
+        "for": 8640.7,
+        "against": 10084.6
+      }
+    },
+    "overall": {
+      "wins": 25,
+      "losses": 23,
+      "points": {
+        "for": 110283.7,
+        "against": 111607.4
+      },
+      "didNotMakePlayoffs": 0,
+      "games": 48
+    },
+    "h2h": [
+      {
+        "id": 1,
+        "vs": "NATE",
+        "wins": 3,
+        "losses": 5
+      },
+      {
+        "id": 2,
+        "vs": "JOTA",
+        "wins": 3,
+        "losses": 1
+      },
+      {
+        "id": 3,
+        "vs": "HURL",
+        "wins": 0,
+        "losses": 4
+      },
+      {
+        "id": 4,
+        "vs": "DANK",
+        "wins": 2,
+        "losses": 1
+      },
+      {
+        "id": 6,
+        "vs": "DUBS",
+        "wins": 3,
+        "losses": 1
+      },
+      {
+        "id": 7,
+        "vs": "KURT",
+        "wins": 2,
+        "losses": 1
+      },
+      {
+        "id": 8,
+        "vs": "FRYE",
+        "wins": 2,
+        "losses": 3
+      },
+      {
+        "id": 9,
+        "vs": "MBIX",
+        "wins": 4,
+        "losses": 0
+      },
+      {
+        "id": 10,
+        "vs": "BROK",
+        "wins": 2,
+        "losses": 1
+      },
+      {
+        "id": 11,
+        "vs": "JROD",
+        "wins": 1,
+        "losses": 3
+      },
+      {
+        "id": 12,
+        "vs": "WEAV",
+        "wins": 3,
+        "losses": 3
+      }
+    ]
+  },
+  {
+    "teamId": 6,
+    "owner": "Brian Williams",
+    "currentName": "Ball Sagna",
+    "names": [
+      "Ball Sagna",
+      "Not the good Koch"
+    ],
+    "crowns": {
+      "regSeasonChamps": 0,
+      "regSeasonRunnerUp": 0,
+      "championships": 0,
+      "runnerUps": 0,
+      "lastPlaces": 1,
+      "closeCalls": 0
+    },
+    "regularSeason": {
+      "wins": 17,
+      "losses": 22,
+      "points": {
+        "for": 89977.1,
+        "against": 88872.1
+      }
+    },
+    "playoffs": {
+      "wins": 0,
+      "losses": 2,
+      "points": {
+        "for": 3902.1,
+        "against": 4269.2
+      }
+    },
+    "overall": {
+      "wins": 20,
+      "losses": 28,
+      "points": {
+        "for": 108024,
+        "against": 108438.8
+      },
+      "didNotMakePlayoffs": 1,
+      "games": 48
+    },
+    "h2h": [
+      {
+        "id": 1,
+        "vs": "NATE",
+        "wins": 2,
+        "losses": 2
+      },
+      {
+        "id": 2,
+        "vs": "JOTA",
+        "wins": 5,
+        "losses": 4
+      },
+      {
+        "id": 3,
+        "vs": "HURL",
+        "wins": 2,
+        "losses": 2
+      },
+      {
+        "id": 4,
+        "vs": "DANK",
+        "wins": 3,
+        "losses": 1
+      },
+      {
+        "id": 5,
+        "vs": "EBBY",
+        "wins": 1,
+        "losses": 3
+      },
+      {
+        "id": 7,
+        "vs": "KURT",
+        "wins": 0,
+        "losses": 4
+      },
+      {
+        "id": 8,
+        "vs": "FRYE",
+        "wins": 3,
+        "losses": 1
+      },
+      {
+        "id": 9,
+        "vs": "MBIX",
+        "wins": 1,
+        "losses": 3
+      },
+      {
+        "id": 10,
+        "vs": "BROK",
+        "wins": 2,
+        "losses": 1
+      },
+      {
+        "id": 11,
+        "vs": "JROD",
+        "wins": 0,
+        "losses": 5
+      },
+      {
+        "id": 12,
+        "vs": "WEAV",
+        "wins": 1,
+        "losses": 2
+      }
+    ]
+  },
+  {
+    "teamId": 7,
+    "owner": "Kurtis Dilyard",
+    "currentName": "Jobu's Rum",
+    "names": [
+      "ELFO's 18",
+      "Susan Bixler",
+      "The Jugger-not"
+    ],
+    "crowns": {
+      "regSeasonChamps": 0,
+      "regSeasonRunnerUp": 1,
+      "championships": 0,
+      "runnerUps": 0,
+      "lastPlaces": 0,
+      "closeCalls": 0
+    },
+    "regularSeason": {
+      "wins": 27,
+      "losses": 12,
+      "points": {
+        "for": 92307.4,
+        "against": 86633.8
+      }
+    },
+    "playoffs": {
+      "wins": 2,
+      "losses": 3,
+      "points": {
+        "for": 11788.8,
+        "against": 11842.2
+      }
+    },
+    "overall": {
+      "wins": 31,
+      "losses": 17,
+      "points": {
+        "for": 114037.6,
+        "against": 108015.1
+      },
+      "didNotMakePlayoffs": 0,
+      "games": 48
+    },
+    "h2h": [
+      {
+        "id": 1,
+        "vs": "NATE",
+        "wins": 3,
+        "losses": 1
+      },
+      {
+        "id": 2,
+        "vs": "JOTA",
+        "wins": 3,
+        "losses": 1
+      },
+      {
+        "id": 3,
+        "vs": "HURL",
+        "wins": 2,
+        "losses": 1
+      },
+      {
+        "id": 4,
+        "vs": "DANK",
+        "wins": 1,
+        "losses": 3
+      },
+      {
+        "id": 5,
+        "vs": "EBBY",
+        "wins": 1,
+        "losses": 2
+      },
+      {
+        "id": 6,
+        "vs": "DUBS",
+        "wins": 4,
+        "losses": 0
+      },
+      {
+        "id": 8,
+        "vs": "FRYE",
+        "wins": 5,
+        "losses": 0
+      },
+      {
+        "id": 9,
+        "vs": "MBIX",
+        "wins": 3,
+        "losses": 1
+      },
+      {
+        "id": 10,
+        "vs": "BROK",
+        "wins": 2,
+        "losses": 2
+      },
+      {
+        "id": 11,
+        "vs": "JROD",
+        "wins": 4,
+        "losses": 3
+      },
+      {
+        "id": 12,
+        "vs": "WEAV",
+        "wins": 3,
+        "losses": 3
+      }
+    ]
+  },
+  {
+    "teamId": 8,
+    "owner": "Brian Frye",
+    "currentName": "Don't Know",
+    "names": [
+      "Black Lives Matter",
+      "Flesh Puss Spoon",
+      "Grabbin Pussie"
+    ],
+    "crowns": {
+      "regSeasonChamps": 0,
+      "regSeasonRunnerUp": 0,
+      "championships": 0,
+      "runnerUps": 0,
+      "lastPlaces": 0,
+      "closeCalls": 0
+    },
+    "regularSeason": {
+      "wins": 16,
+      "losses": 23,
+      "points": {
+        "for": 90725.5,
+        "against": 91748.4
+      }
+    },
+    "playoffs": {
+      "wins": 0,
+      "losses": 1,
+      "points": {
+        "for": 2099.4,
+        "against": 2297.1
+      }
+    },
+    "overall": {
+      "wins": 20,
+      "losses": 28,
+      "points": {
+        "for": 108837.4,
+        "against": 110638.1
+      },
+      "didNotMakePlayoffs": 2,
+      "games": 48
+    },
+    "h2h": [
+      {
+        "id": 1,
+        "vs": "NATE",
+        "wins": 2,
+        "losses": 1
+      },
+      {
+        "id": 2,
+        "vs": "JOTA",
+        "wins": 2,
+        "losses": 2
+      },
+      {
+        "id": 3,
+        "vs": "HURL",
+        "wins": 2,
+        "losses": 2
+      },
+      {
+        "id": 4,
+        "vs": "DANK",
+        "wins": 2,
+        "losses": 4
+      },
+      {
+        "id": 5,
+        "vs": "EBBY",
+        "wins": 3,
+        "losses": 2
+      },
+      {
+        "id": 6,
+        "vs": "DUBS",
+        "wins": 1,
+        "losses": 3
+      },
+      {
+        "id": 7,
+        "vs": "KURT",
+        "wins": 0,
+        "losses": 5
+      },
+      {
+        "id": 9,
+        "vs": "MBIX",
+        "wins": 3,
+        "losses": 2
+      },
+      {
+        "id": 10,
+        "vs": "BROK",
+        "wins": 2,
+        "losses": 2
+      },
+      {
+        "id": 11,
+        "vs": "JROD",
+        "wins": 0,
+        "losses": 3
+      },
+      {
+        "id": 12,
+        "vs": "WEAV",
+        "wins": 3,
+        "losses": 2
+      }
+    ]
+  },
+  {
+    "teamId": 9,
+    "owner": "Gary Bixler",
+    "currentName": "Mike Bixler",
+    "names": [
+      "Black Magic",
+      "Mike Bixler",
+      "Zak Walcher"
+    ],
+    "crowns": {
+      "regSeasonChamps": 0,
+      "regSeasonRunnerUp": 0,
+      "championships": 0,
+      "runnerUps": 0,
+      "lastPlaces": 1,
+      "closeCalls": 0
+    },
+    "regularSeason": {
+      "wins": 11,
+      "losses": 28,
+      "points": {
+        "for": 84455,
+        "against": 91866.7
+      }
+    },
+    "playoffs": {
+      "wins": 0,
+      "losses": 0,
+      "points": {
+        "for": 0,
+        "against": 0,
+        "misses": 0
+      }
+    },
+    "overall": {
+      "wins": 17,
+      "losses": 31,
+      "points": {
+        "for": 104084.4,
+        "against": 109449.7
+      },
+      "didNotMakePlayoffs": 3,
+      "games": 48
+    },
+    "h2h": [
+      {
+        "id": 1,
+        "vs": "NATE",
+        "wins": 1,
+        "losses": 4
+      },
+      {
+        "id": 2,
+        "vs": "JOTA",
+        "wins": 2,
+        "losses": 1
+      },
+      {
+        "id": 3,
+        "vs": "HURL",
+        "wins": 1,
+        "losses": 3
+      },
+      {
+        "id": 4,
+        "vs": "DANK",
+        "wins": 0,
+        "losses": 5
+      },
+      {
+        "id": 5,
+        "vs": "EBBY",
+        "wins": 0,
+        "losses": 4
+      },
+      {
+        "id": 6,
+        "vs": "DUBS",
+        "wins": 3,
+        "losses": 1
+      },
+      {
+        "id": 7,
+        "vs": "KURT",
+        "wins": 1,
+        "losses": 3
+      },
+      {
+        "id": 8,
+        "vs": "FRYE",
+        "wins": 2,
+        "losses": 3
+      },
+      {
+        "id": 10,
+        "vs": "BROK",
+        "wins": 6,
+        "losses": 2
+      },
+      {
+        "id": 11,
+        "vs": "JROD",
+        "wins": 0,
+        "losses": 3
+      },
+      {
+        "id": 12,
+        "vs": "WEAV",
+        "wins": 1,
+        "losses": 2
+      }
+    ]
+  },
+  {
+    "teamId": 10,
+    "owner": "Brock Holtzapple",
+    "currentName": "Cleveland Browns",
+    "names": [
+      "Cleveland Browns",
+      "Madden Curse"
+    ],
+    "crowns": {
+      "regSeasonChamps": 0,
+      "regSeasonRunnerUp": 0,
+      "championships": 0,
+      "runnerUps": 0,
+      "lastPlaces": 1,
+      "closeCalls": 1
+    },
+    "regularSeason": {
+      "wins": 11,
+      "losses": 28,
+      "points": {
+        "for": 82522.3,
+        "against": 93136.7
+      }
+    },
+    "playoffs": {
+      "wins": 0,
+      "losses": 0,
+      "points": {
+        "for": 0,
+        "against": 0,
+        "misses": 0
+      }
+    },
+    "overall": {
+      "wins": 13,
+      "losses": 35,
+      "points": {
+        "for": 101751.1,
+        "against": 113305.3
+      },
+      "didNotMakePlayoffs": 3,
+      "games": 48
+    },
+    "h2h": [
+      {
+        "id": 1,
+        "vs": "NATE",
+        "wins": 0,
+        "losses": 3
+      },
+      {
+        "id": 2,
+        "vs": "JOTA",
+        "wins": 2,
+        "losses": 3
+      },
+      {
+        "id": 3,
+        "vs": "HURL",
+        "wins": 1,
+        "losses": 3
+      },
+      {
+        "id": 4,
+        "vs": "DANK",
+        "wins": 1,
+        "losses": 5
+      },
+      {
+        "id": 5,
+        "vs": "EBBY",
+        "wins": 1,
+        "losses": 2
+      },
+      {
+        "id": 6,
+        "vs": "DUBS",
+        "wins": 1,
+        "losses": 2
+      },
+      {
+        "id": 7,
+        "vs": "KURT",
+        "wins": 2,
+        "losses": 2
+      },
+      {
+        "id": 8,
+        "vs": "FRYE",
+        "wins": 2,
+        "losses": 2
+      },
+      {
+        "id": 9,
+        "vs": "MBIX",
+        "wins": 2,
+        "losses": 6
+      },
+      {
+        "id": 11,
+        "vs": "JROD",
+        "wins": 0,
+        "losses": 5
+      },
+      {
+        "id": 12,
+        "vs": "WEAV",
+        "wins": 1,
+        "losses": 2
+      }
+    ]
+  },
+  {
+    "teamId": 11,
+    "owner": "Jerrod Vastag",
+    "currentName": "Frisky Dingo",
+    "names": [
+      "FRYE = Failure",
+      "Frisky Dingo",
+      "Manning Of Steel"
+    ],
+    "crowns": {
+      "regSeasonChamps": 1,
+      "regSeasonRunnerUp": 0,
+      "championships": 1,
+      "runnerUps": 1,
+      "lastPlaces": 0,
+      "closeCalls": 0
+    },
+    "regularSeason": {
+      "wins": 29,
+      "losses": 10,
+      "points": {
+        "for": 97410.2,
+        "against": 87894
+      }
+    },
+    "playoffs": {
+      "wins": 5,
+      "losses": 2,
+      "points": {
+        "for": 16678.7,
+        "against": 15678.8
+      }
+    },
+    "overall": {
+      "wins": 35,
+      "losses": 13,
+      "points": {
+        "for": 118516.4,
+        "against": 109018.1
+      },
+      "didNotMakePlayoffs": 0,
+      "games": 48
+    },
+    "h2h": [
+      {
+        "id": 1,
+        "vs": "NATE",
+        "wins": 1,
+        "losses": 3
+      },
+      {
+        "id": 2,
+        "vs": "JOTA",
+        "wins": 3,
+        "losses": 1
+      },
+      {
+        "id": 3,
+        "vs": "HURL",
+        "wins": 1,
+        "losses": 3
+      },
+      {
+        "id": 4,
+        "vs": "DANK",
+        "wins": 4,
+        "losses": 1
+      },
+      {
+        "id": 5,
+        "vs": "EBBY",
+        "wins": 3,
+        "losses": 1
+      },
+      {
+        "id": 6,
+        "vs": "DUBS",
+        "wins": 5,
+        "losses": 0
+      },
+      {
+        "id": 7,
+        "vs": "KURT",
+        "wins": 3,
+        "losses": 4
+      },
+      {
+        "id": 8,
+        "vs": "FRYE",
+        "wins": 3,
+        "losses": 0
+      },
+      {
+        "id": 9,
+        "vs": "MBIX",
+        "wins": 3,
+        "losses": 0
+      },
+      {
+        "id": 10,
+        "vs": "BROK",
+        "wins": 5,
+        "losses": 0
+      },
+      {
+        "id": 12,
+        "vs": "WEAV",
+        "wins": 4,
+        "losses": 0
+      }
+    ]
+  },
+  {
+    "teamId": 12,
+    "owner": "Matt Weaver",
+    "currentName": "Down With OBJr.",
+    "names": [
+      "Down With OBJr.",
+      "Riding Bush"
+    ],
+    "crowns": {
+      "regSeasonChamps": 0,
+      "regSeasonRunnerUp": 0,
+      "championships": 0,
+      "runnerUps": 1,
+      "lastPlaces": 0,
+      "closeCalls": 0
+    },
+    "regularSeason": {
+      "wins": 17,
+      "losses": 22,
+      "points": {
+        "for": 89489.2,
+        "against": 90140.5
+      }
+    },
+    "playoffs": {
+      "wins": 4,
+      "losses": 3,
+      "points": {
+        "for": 19143,
+        "against": 17574.7
+      }
+    },
+    "overall": {
+      "wins": 23,
+      "losses": 25,
+      "points": {
+        "for": 114584,
+        "against": 111689.2
+      },
+      "didNotMakePlayoffs": 0,
+      "games": 48
+    },
+    "h2h": [
+      {
+        "id": 1,
+        "vs": "NATE",
+        "wins": 2,
+        "losses": 3
+      },
+      {
+        "id": 2,
+        "vs": "JOTA",
+        "wins": 0,
+        "losses": 3
+      },
+      {
+        "id": 3,
+        "vs": "HURL",
+        "wins": 4,
+        "losses": 2
+      },
+      {
+        "id": 4,
+        "vs": "DANK",
+        "wins": 3,
+        "losses": 1
+      },
+      {
+        "id": 5,
+        "vs": "EBBY",
+        "wins": 3,
+        "losses": 3
+      },
+      {
+        "id": 6,
+        "vs": "DUBS",
+        "wins": 2,
+        "losses": 1
+      },
+      {
+        "id": 7,
+        "vs": "KURT",
+        "wins": 3,
+        "losses": 3
+      },
+      {
+        "id": 8,
+        "vs": "FRYE",
+        "wins": 2,
+        "losses": 3
+      },
+      {
+        "id": 9,
+        "vs": "MBIX",
+        "wins": 2,
+        "losses": 1
+      },
+      {
+        "id": 10,
+        "vs": "BROK",
+        "wins": 2,
+        "losses": 1
+      },
+      {
+        "id": 11,
+        "vs": "JROD",
+        "wins": 0,
+        "losses": 4
+      }
+    ]
+  }
+]

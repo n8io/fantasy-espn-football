@@ -1,11 +1,13 @@
 /* eslint-disable no-console,no-bitwise */
 import mirrorkey from 'mirrorkey';
-import MATCHUPS from './league/matchups';
+import getMatchups from './league/matchups';
 import MEMBERS from './league/members';
 import tagsArray from '../config/tags.json';
 import unique from '../lib/utils/unique';
 import { save } from '../lib/utils/reportWriter';
 
+const { YEARS_BACK } = process.env;
+const MATCHUPS = getMatchups(YEARS_BACK);
 const TAGS = mirrorkey(tagsArray);
 
 const round = (value, decimals) => Number(`${Math.round(`${value}e${decimals}`)}e-${decimals}`);
@@ -247,5 +249,5 @@ const leagueSummary = () =>
   );
 
 const summarization = leagueSummary();
-
-save('league', 'member-summary', summarization);
+const fileName = `member-summary${YEARS_BACK ? `.last-${YEARS_BACK}-years` : ''}`;
+save('league', fileName, summarization);

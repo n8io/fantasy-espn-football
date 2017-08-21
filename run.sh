@@ -19,6 +19,12 @@ mkdir -p "$LOG_DIR"
 echo "Scraping league info for the following years: ${SEASONS}"
 echo -n "" > "$LOG_FILE" && \
   SEASONS="$SEASONS" yarn run start -s | tee -a "$LOG_FILE" && \
-  yarn reporting -s | tee -a "$LOG_FILE"
+  yarn reporting -s | tee -a "$LOG_FILE" && \
+  echo "Running summary reports..." && \
+  YEARS_BACK=10 yarn reporting -s | tee -a "$LOG_FILE" && \
+  YEARS_BACK=5 yarn reporting -s | tee -a "$LOG_FILE" && \
+  YEARS_BACK=3 yarn reporting -s | tee -a "$LOG_FILE" && \
+  YEARS_BACK=1 yarn reporting -s | tee -a "$LOG_FILE" && \
+  echo "done";
 
 set +e
