@@ -3,7 +3,7 @@ import $ from 'cheerio';
 import { parseKeyFromUrl } from '../../../utils/urls';
 import { properCase } from '../../../utils/string';
 
-const parseStringPassthrough = (str, key) => ({ [key]: (str || '').trim() });
+const parseStringPassthrough = (str, key) => ({ [key]: (str || '').trim().replace(/[ ]+/g, ' ') });
 const parseTeamAbbrevFromString = str => parseStringPassthrough(str, 'abbrev');
 const parseTeamNameFromString = str => parseStringPassthrough(str, 'name');
 const parseDivisionFromString = str => parseStringPassthrough(str, 'division');

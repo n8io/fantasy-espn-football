@@ -17,6 +17,8 @@ SEASONS=$(seq -s, "$YEAR_START" "$YEAR_END"| sed 's/,$//')
 mkdir -p "$LOG_DIR"
 
 echo "Scraping league info for the following years: ${SEASONS}"
-echo -n "" > "$LOG_FILE" && SEASONS="$SEASONS" yarn run start -s | tee -a "$LOG_FILE"
+echo -n "" > "$LOG_FILE" && \
+  SEASONS="$SEASONS" yarn run start -s | tee -a "$LOG_FILE" && \
+  yarn reporting -s | tee -a "$LOG_FILE"
 
 set +e
