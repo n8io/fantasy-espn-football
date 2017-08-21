@@ -4,6 +4,7 @@ import MATCHUPS from './league/matchups';
 import MEMBERS from './league/members';
 import tagsArray from '../config/tags.json';
 import unique from '../lib/utils/unique';
+import { save } from '../lib/utils/reportWriter';
 
 const TAGS = mirrorkey(tagsArray);
 
@@ -188,7 +189,7 @@ const leagueSummary = () =>
 
 const summarization = leagueSummary();
 
-console.log(JSON.stringify(summarization, null, 2));
+save('league', 'member-summary', summarization);
 
 // const myMatchups = matchups.filter(m => isTeamMatchup(m, TEAM_ID) && isPlayoffMatchup(m));
 // console.log(JSON.stringify({ myMatchups, teamId: TEAM_ID, length: myMatchups.length }, null, 2));
