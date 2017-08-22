@@ -17,8 +17,8 @@ const parseOwnerNameFromString = str => {
   const [firstName, ...lastNames] = tStr.split(' ');
 
   return {
-    firstName: properCase(firstName),
-    lastName: properCase(lastNames.join(' ')),
+    firstName: properCase(firstName).replace(/[ ]+/g, ' '),
+    lastName: properCase(lastNames.join(' ')).replace(/[ ]+/g, ' '),
   };
 };
 

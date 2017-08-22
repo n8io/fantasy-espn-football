@@ -249,5 +249,5 @@ const leagueSummary = () =>
   );
 
 const summarization = leagueSummary();
-const fileName = `member-summary${YEARS_BACK ? `.last-${YEARS_BACK}-years` : ''}`;
+const fileName = `member-summary${YEARS_BACK ? `.last-${`00${YEARS_BACK}`.slice(-2)}-years` : '.alltime'}`;
 save('league', fileName, summarization);
