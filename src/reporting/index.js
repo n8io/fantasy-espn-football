@@ -80,16 +80,69 @@ const pointsAgainst = ({ homeTeam, awayTeam }, teamId) => {
   return 0.0;
 };
 
+const pointsForHome = ({ homeTeam }, teamId) => {
+  if (homeTeam.id === teamId) {
+    return homeTeam.score;
+  }
+
+  return 0.0;
+};
+
+const pointsAgainstHome = ({ homeTeam, awayTeam }, teamId) => {
+  if (homeTeam.id === teamId) {
+    return awayTeam.score;
+  }
+
+  return 0.0;
+};
+
+const pointsForAway = ({ awayTeam }, teamId) => {
+  if (awayTeam.id === teamId) {
+    return awayTeam.score;
+  }
+
+  return 0.0;
+};
+
+const pointsAgainstAway = ({ homeTeam, awayTeam }, teamId) => {
+  if (awayTeam.id === teamId) {
+    return homeTeam.score;
+  }
+
+  return 0.0;
+};
+
 const getTeamNameFromMatchup = ({ homeTeam: { name: hName, id: hid }, awayTeam: { name: aName, id: aid } }, teamId) =>
   (teamId === hid ? hName : aName).replace(/[ ]+/g, ' ');
+
+const isHomeGame = ({ homeTeam }, teamId) => isSameTeam(homeTeam, teamId);
+const isAwayGame = ({ awayTeam }, teamId) => isSameTeam(awayTeam, teamId);
+const isHomeLoss = ({ homeTeam }, teamId) => isHomeGame({ homeTeam }, teamId) && isLosingTeam(homeTeam);
+const isHomeWin = ({ homeTeam }, teamId) => isHomeGame({ homeTeam }, teamId) && isWinningTeam(homeTeam);
+const isAwayLoss = ({ awayTeam }, teamId) => isAwayGame({ awayTeam }, teamId) && isLosingTeam(awayTeam);
+const isAwayWin = ({ awayTeam }, teamId) => isAwayGame({ awayTeam }, teamId) && isWinningTeam(awayTeam);
 
 const isChampionshipMatchup = ({ tags }) => (tags || []).some(t => t === TAGS.PLAYOFF_CHAMPIONSHIP);
 const isLastPlaceMatchup = ({ tags }) => (tags || []).some(t => t === TAGS.CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH);
 const isCrownMatchup = matchup => isChampionshipMatchup(matchup) || isLastPlaceMatchup(matchup);
 
+const isDivisionalMatchup = ({ tags }) => (tags || []).some(t => t === TAGS.DIVISIONAL_MATCHUP);
+const isDivisionalMatchupWin = (matchup, teamId) => isDivisionalMatchup(matchup) && isWinner(matchup, teamId);
+const isDivisionalMatchupLoss = (matchup, teamId) => isDivisionalMatchup(matchup) && isLoser(matchup, teamId);
+
 const isPlayoffMiss = (matchup, teamId) =>
   isTeamMatchup(matchup, teamId) &&
   getTeamTagsById(matchup, teamId).some(t => [TAGS.SEED_9, TAGS.SEED_10, TAGS.SEED_11, TAGS.SEED_12].indexOf(t) > -1);
+
+const isPlayoffMake = (matchup, teamId) =>
+  isTeamMatchup(matchup, teamId) &&
+  isPlayoffMatchup(matchup, teamId) &&
+  getTeamTagsById(matchup, teamId).some(
+    t =>
+      [TAGS.SEED_1, TAGS.SEED_2, TAGS.SEED_3, TAGS.SEED_4, TAGS.SEED_5, TAGS.SEED_6, TAGS.SEED_7, TAGS.SEED_8].indexOf(
+        t
+      ) > -1
+  );
 
 const isRegularSeasonChamp = (matchup, teamId) =>
   isWinner(matchup, teamId) && getWinningTeam(matchup).tags.some(t => t === TAGS.SEED_1);
@@ -100,18 +153,60 @@ const historyWinLossRegularSeason = (matchups, teamId) => {
   const myMatchups = matchups.filter(mu => isTeamMatchup(mu, teamId) && isRegularSeasonMatchup(mu, teamId));
   const summary = myMatchups.reduce(
     (acc, mu) => ({
-      wins: acc.wins + isWinner(mu, teamId),
-      losses: acc.losses + isLoser(mu, teamId),
+      wins: {
+        total: acc.wins.total + (isWinner(mu, teamId) ? 1 : 0),
+        home: acc.wins.home + (isHomeWin(mu, teamId) ? 1 : 0),
+        away: acc.wins.away + (isAwayWin(mu, teamId) ? 1 : 0),
+        divisional: acc.wins.divisional + (isDivisionalMatchupWin(mu, teamId) ? 1 : 0),
+      },
+      losses: {
+        total: acc.losses.total + (isLoser(mu, teamId) ? 1 : 0),
+        home: acc.losses.home + (isHomeLoss(mu, teamId) ? 1 : 0),
+        away: acc.losses.away + (isAwayLoss(mu, teamId) ? 1 : 0),
+        divisional: acc.losses.divisional + (isDivisionalMatchupLoss(mu, teamId) ? 1 : 0),
+      },
       points: {
-        for: acc.points.for + pointsFor(mu, teamId),
-        against: acc.points.against + pointsAgainst(mu, teamId),
+        total: {
+          for: acc.points.total.for + pointsFor(mu, teamId),
+          against: acc.points.total.against + pointsAgainst(mu, teamId),
+        },
+        home: {
+          for: acc.points.home.for + pointsForHome(mu, teamId),
+          against: acc.points.home.against + pointsAgainstHome(mu, teamId),
+        },
+        away: {
+          for: acc.points.away.for + pointsForAway(mu, teamId),
+          against: acc.points.away.against + pointsAgainstAway(mu, teamId),
+        },
       },
     }),
-    { wins: 0, losses: 0, points: { for: 0, against: 0 } }
+    {
+      wins: {
+        total: 0,
+        away: 0,
+        home: 0,
+        divisional: 0,
+      },
+      losses: {
+        total: 0,
+        away: 0,
+        home: 0,
+        divisional: 0,
+      },
+      points: {
+        total: { for: 0, against: 0 },
+        away: { for: 0, against: 0 },
+        home: { for: 0, against: 0 },
+      },
+    }
   );
 
-  summary.points.for = round(summary.points.for, 2);
-  summary.points.against = round(summary.points.against, 2);
+  summary.points.total.for = round(summary.points.total.for, 2);
+  summary.points.total.against = round(summary.points.total.against, 2);
+  summary.points.home.for = round(summary.points.home.for, 2);
+  summary.points.home.against = round(summary.points.home.against, 2);
+  summary.points.away.for = round(summary.points.away.for, 2);
+  summary.points.away.against = round(summary.points.away.against, 2);
 
   return summary;
 };
@@ -120,18 +215,61 @@ const historyWinLossPlayoff = (matchups, teamId) => {
   const myMatchups = matchups.filter(mu => isTeamMatchup(mu, teamId) && isPlayoffMatchup(mu));
   const summary = myMatchups.reduce(
     (acc, mu) => ({
-      wins: acc.wins + isWinner(mu, teamId),
-      losses: acc.losses + isLoser(mu, teamId),
+      wins: {
+        total: acc.wins.total + (isWinner(mu, teamId) ? 1 : 0),
+        home: acc.wins.home + (isHomeWin(mu, teamId) ? 1 : 0),
+        away: acc.wins.away + (isAwayWin(mu, teamId) ? 1 : 0),
+        divisional: acc.wins.divisional + (isDivisionalMatchupWin(mu, teamId) ? 1 : 0),
+      },
+      losses: {
+        total: acc.losses.total + (isLoser(mu, teamId) ? 1 : 0),
+        home: acc.losses.home + (isHomeLoss(mu, teamId) ? 1 : 0),
+        away: acc.losses.away + (isAwayLoss(mu, teamId) ? 1 : 0),
+        divisional: acc.losses.divisional + (isDivisionalMatchupLoss(mu, teamId) ? 1 : 0),
+      },
       points: {
-        for: acc.points.for + pointsFor(mu, teamId),
-        against: acc.points.against + pointsAgainst(mu, teamId),
+        total: {
+          for: acc.points.total.for + pointsFor(mu, teamId),
+          against: acc.points.total.against + pointsAgainst(mu, teamId),
+        },
+        home: {
+          for: acc.points.home.for + pointsForHome(mu, teamId),
+          against: acc.points.home.against + pointsAgainstHome(mu, teamId),
+        },
+        away: {
+          for: acc.points.away.for + pointsForAway(mu, teamId),
+          against: acc.points.away.against + pointsAgainstAway(mu, teamId),
+        },
       },
     }),
-    { wins: 0, losses: 0, points: { for: 0, against: 0, misses: 0 } }
+    {
+      wins: {
+        total: 0,
+        away: 0,
+        home: 0,
+        divisional: 0,
+      },
+      losses: {
+        total: 0,
+        away: 0,
+        home: 0,
+        divisional: 0,
+      },
+      points: {
+        total: { for: 0, against: 0 },
+        away: { for: 0, against: 0 },
+        home: { for: 0, against: 0 },
+        divisional: { for: 0, against: 0 },
+      },
+    }
   );
 
-  summary.points.for = round(summary.points.for, 2);
-  summary.points.against = round(summary.points.against, 2);
+  summary.points.total.for = round(summary.points.total.for, 2);
+  summary.points.total.against = round(summary.points.total.against, 2);
+  summary.points.home.for = round(summary.points.home.for, 2);
+  summary.points.home.against = round(summary.points.home.against, 2);
+  summary.points.away.for = round(summary.points.away.for, 2);
+  summary.points.away.against = round(summary.points.away.against, 2);
 
   return summary;
 };
@@ -140,20 +278,59 @@ const historyWinLossOverall = (matchups, teamId) => {
   const myMatchups = matchups.filter(mu => isTeamMatchup(mu, teamId));
   const summary = myMatchups.reduce(
     (acc, mu) => ({
-      wins: acc.wins + isWinner(mu, teamId),
-      losses: acc.losses + isLoser(mu, teamId),
-      points: {
-        for: acc.points.for + pointsFor(mu, teamId),
-        against: acc.points.against + pointsAgainst(mu, teamId),
+      wins: {
+        total: acc.wins.total + (isWinner(mu, teamId) ? 1 : 0),
+        home: acc.wins.home + (isHomeWin(mu, teamId) ? 1 : 0),
+        away: acc.wins.away + (isAwayWin(mu, teamId) ? 1 : 0),
+        divisional: acc.wins.divisional + (isDivisionalMatchupWin(mu, teamId) ? 1 : 0),
       },
-      didNotMakePlayoffs: acc.didNotMakePlayoffs + (isPlayoffMiss(mu, teamId) ? 1 : 0),
+      losses: {
+        total: acc.losses.total + (isLoser(mu, teamId) ? 1 : 0),
+        home: acc.losses.home + (isHomeLoss(mu, teamId) ? 1 : 0),
+        away: acc.losses.away + (isAwayLoss(mu, teamId) ? 1 : 0),
+        divisional: acc.losses.divisional + (isDivisionalMatchupLoss(mu, teamId) ? 1 : 0),
+      },
+      playoffs: {
+        made: acc.playoffs.made + (isPlayoffMake(mu, teamId) ? 1 : 0),
+        missed: acc.playoffs.missed + (isPlayoffMiss(mu, teamId) ? 1 : 0),
+      },
+      points: {
+        total: {
+          for: acc.points.total.for + pointsFor(mu, teamId),
+          against: acc.points.total.against + pointsAgainst(mu, teamId),
+        },
+        home: {
+          for: acc.points.home.for + pointsForHome(mu, teamId),
+          against: acc.points.home.against + pointsAgainstHome(mu, teamId),
+        },
+        away: {
+          for: acc.points.away.for + pointsForAway(mu, teamId),
+          against: acc.points.away.against + pointsAgainstAway(mu, teamId),
+        },
+      },
     }),
-    { wins: 0, losses: 0, didNotMakePlayoffs: 0, points: { for: 0, against: 0 } }
+    {
+      wins: { total: 0, away: 0, home: 0, divisional: 0 },
+      losses: { total: 0, away: 0, home: 0, divisional: 0 },
+      playoffs: {
+        missed: 0,
+        made: 0,
+      },
+      points: { total: { for: 0, against: 0 }, away: { for: 0, against: 0 }, home: { for: 0, against: 0 } },
+    }
   );
 
-  summary.games = summary.wins + summary.losses;
-  summary.points.for = round(summary.points.for, 2);
-  summary.points.against = round(summary.points.against, 2);
+  summary.games = {
+    total: summary.wins.total + summary.losses.total,
+    divisional: summary.wins.divisional + summary.losses.divisional,
+  };
+
+  summary.points.total.for = round(summary.points.total.for, 2);
+  summary.points.total.against = round(summary.points.total.against, 2);
+  summary.points.home.for = round(summary.points.home.for, 2);
+  summary.points.home.against = round(summary.points.home.against, 2);
+  summary.points.away.for = round(summary.points.away.for, 2);
+  summary.points.away.against = round(summary.points.away.against, 2);
 
   return summary;
 };
@@ -201,23 +378,34 @@ const historyHeadToHead = (matchups, teamId) => {
 
   return myMatchups
     .reduce((acc, mu) => {
-      const wonMatchup = isWinner(mu, teamId);
       const otherTeam = getOtherTeam(mu, teamId);
       const member = getMemberById(otherTeam.id);
       const matchupBefore = acc.find(m => m.id === otherTeam.id);
-      const winsPrior = matchupBefore ? matchupBefore.wins : 0;
-      const lossesPrior = matchupBefore ? matchupBefore.losses : 0;
+      const winsPrior = (matchupBefore || {}).wins || { total: 0, home: 0, away: 0 };
+      const lossesPrior = (matchupBefore || {}).losses || { total: 0, home: 0, away: 0 };
 
       return [
         ...(acc.filter(m => m.id !== otherTeam.id) || []),
         {
           id: otherTeam.id,
           vs: member.abbrev,
-          wins: winsPrior + (wonMatchup ? 1 : 0),
-          losses: lossesPrior + (wonMatchup === false ? 1 : 0),
+          wins: {
+            total: winsPrior.total + (isWinner(mu, teamId) ? 1 : 0),
+            home: winsPrior.home + (isHomeWin(mu, teamId) ? 1 : 0),
+            away: winsPrior.away + (isAwayWin(mu, teamId) ? 1 : 0),
+          },
+          losses: {
+            total: lossesPrior.total + (isLoser(mu, teamId) ? 1 : 0),
+            home: lossesPrior.home + (isHomeLoss(mu, teamId) ? 1 : 0),
+            away: lossesPrior.away + (isAwayLoss(mu, teamId) ? 1 : 0),
+          },
         },
       ];
     }, [])
+    .map(h2h => ({
+      ...h2h,
+      meetings: h2h.wins.total + h2h.losses.total,
+    }))
     .sort((a, b) => {
       if (a.id < b.id) {
         return -1;
@@ -251,3 +439,5 @@ const leagueSummary = () =>
 const summarization = leagueSummary();
 const fileName = `member-summary${YEARS_BACK ? `.last-${`00${YEARS_BACK}`.slice(-2)}-years` : '.alltime'}`;
 save('league', fileName, summarization);
+
+// console.log(JSON.stringify(MATCHUPS.filter(mu => isTeamMatchup(mu, 1) && isPlayoffMake(mu, 1)), null, 2));

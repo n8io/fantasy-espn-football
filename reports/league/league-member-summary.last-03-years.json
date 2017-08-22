@@ -16,97 +16,262 @@
       "closeCalls": 0
     },
     "regularSeason": {
-      "wins": 21,
-      "losses": 18,
+      "wins": {
+        "total": 21,
+        "home": 9,
+        "away": 12,
+        "divisional": 6
+      },
+      "losses": {
+        "total": 18,
+        "home": 11,
+        "away": 7,
+        "divisional": 6
+      },
       "points": {
-        "for": 89702,
-        "against": 90710.9
+        "total": {
+          "for": 89702,
+          "against": 90710.9
+        },
+        "home": {
+          "for": 46754.3,
+          "against": 47863.6
+        },
+        "away": {
+          "for": 42947.7,
+          "against": 42847.3
+        }
       }
     },
     "playoffs": {
-      "wins": 5,
-      "losses": 2,
+      "wins": {
+        "total": 5,
+        "home": 1,
+        "away": 4,
+        "divisional": 1
+      },
+      "losses": {
+        "total": 2,
+        "home": 1,
+        "away": 1,
+        "divisional": 0
+      },
       "points": {
-        "for": 17204.2,
-        "against": 15734.1
+        "total": {
+          "for": 17204.2,
+          "against": 15734.1
+        },
+        "home": {
+          "for": 5680.3,
+          "against": 5281
+        },
+        "away": {
+          "for": 11523.9,
+          "against": 10453.1
+        }
       }
     },
     "overall": {
-      "wins": 27,
-      "losses": 21,
-      "points": {
-        "for": 111908.5,
-        "against": 111103
+      "wins": {
+        "total": 27,
+        "home": 11,
+        "away": 16,
+        "divisional": 8
       },
-      "didNotMakePlayoffs": 0,
-      "games": 48
+      "losses": {
+        "total": 21,
+        "home": 12,
+        "away": 9,
+        "divisional": 6
+      },
+      "playoffs": {
+        "made": 3,
+        "missed": 0
+      },
+      "points": {
+        "total": {
+          "for": 111908.5,
+          "against": 111103
+        },
+        "home": {
+          "for": 55330.2,
+          "against": 55566.8
+        },
+        "away": {
+          "for": 56578.3,
+          "against": 55536.2
+        }
+      },
+      "games": {
+        "total": 48,
+        "divisional": 14
+      }
     },
     "h2h": [
       {
         "id": 2,
         "vs": "JOTA",
-        "wins": 1,
-        "losses": 2
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "losses": {
+          "total": 2,
+          "home": 2,
+          "away": 0
+        },
+        "meetings": 3
       },
       {
         "id": 3,
         "vs": "HURL",
-        "wins": 1,
-        "losses": 4
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 4,
+          "home": 0,
+          "away": 4
+        },
+        "meetings": 5
       },
       {
         "id": 4,
         "vs": "DANK",
-        "wins": 3,
-        "losses": 1
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "meetings": 4
       },
       {
         "id": 5,
         "vs": "EBBY",
-        "wins": 5,
-        "losses": 3
+        "wins": {
+          "total": 5,
+          "home": 2,
+          "away": 3
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 8
       },
       {
         "id": 6,
         "vs": "DUBS",
-        "wins": 2,
-        "losses": 2
+        "wins": {
+          "total": 2,
+          "home": 0,
+          "away": 2
+        },
+        "losses": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 7,
         "vs": "KURT",
-        "wins": 1,
-        "losses": 3
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "losses": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 8,
         "vs": "FRYE",
-        "wins": 1,
-        "losses": 2
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "losses": {
+          "total": 2,
+          "home": 2,
+          "away": 0
+        },
+        "meetings": 3
       },
       {
         "id": 9,
         "vs": "MBIX",
-        "wins": 4,
-        "losses": 1
+        "wins": {
+          "total": 4,
+          "home": 2,
+          "away": 2
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 5
       },
       {
         "id": 10,
         "vs": "BROK",
-        "wins": 3,
-        "losses": 0
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "meetings": 3
       },
       {
         "id": 11,
         "vs": "JROD",
-        "wins": 3,
-        "losses": 1
+        "wins": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "losses": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "meetings": 4
       },
       {
         "id": 12,
         "vs": "WEAV",
-        "wins": 3,
-        "losses": 2
+        "wins": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "losses": {
+          "total": 2,
+          "home": 2,
+          "away": 0
+        },
+        "meetings": 5
       }
     ]
   },
@@ -128,97 +293,262 @@
       "closeCalls": 1
     },
     "regularSeason": {
-      "wins": 18,
-      "losses": 21,
+      "wins": {
+        "total": 18,
+        "home": 8,
+        "away": 10,
+        "divisional": 5
+      },
+      "losses": {
+        "total": 21,
+        "home": 11,
+        "away": 10,
+        "divisional": 7
+      },
       "points": {
-        "for": 87480.7,
-        "against": 89396.9
+        "total": {
+          "for": 87480.7,
+          "against": 89396.9
+        },
+        "home": {
+          "for": 42898,
+          "against": 44646.5
+        },
+        "away": {
+          "for": 44582.7,
+          "against": 44750.4
+        }
       }
     },
     "playoffs": {
-      "wins": 0,
-      "losses": 2,
+      "wins": {
+        "total": 0,
+        "home": 0,
+        "away": 0,
+        "divisional": 0
+      },
+      "losses": {
+        "total": 2,
+        "home": 0,
+        "away": 2,
+        "divisional": 0
+      },
       "points": {
-        "for": 4182.2,
-        "against": 4736.1
+        "total": {
+          "for": 4182.2,
+          "against": 4736.1
+        },
+        "home": {
+          "for": 0,
+          "against": 0
+        },
+        "away": {
+          "for": 4182.2,
+          "against": 4736.1
+        }
       }
     },
     "overall": {
-      "wins": 21,
-      "losses": 27,
-      "points": {
-        "for": 107207.2,
-        "against": 109126.4
+      "wins": {
+        "total": 21,
+        "home": 9,
+        "away": 12,
+        "divisional": 7
       },
-      "didNotMakePlayoffs": 1,
-      "games": 48
+      "losses": {
+        "total": 27,
+        "home": 12,
+        "away": 15,
+        "divisional": 9
+      },
+      "playoffs": {
+        "made": 2,
+        "missed": 1
+      },
+      "points": {
+        "total": {
+          "for": 107207.2,
+          "against": 109126.4
+        },
+        "home": {
+          "for": 47326.8,
+          "against": 48799.7
+        },
+        "away": {
+          "for": 59880.4,
+          "against": 60326.7
+        }
+      },
+      "games": {
+        "total": 48,
+        "divisional": 16
+      }
     },
     "h2h": [
       {
         "id": 1,
         "vs": "NATE",
-        "wins": 2,
-        "losses": 1
+        "wins": {
+          "total": 2,
+          "home": 0,
+          "away": 2
+        },
+        "losses": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "meetings": 3
       },
       {
         "id": 3,
         "vs": "HURL",
-        "wins": 2,
-        "losses": 4
+        "wins": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "losses": {
+          "total": 4,
+          "home": 2,
+          "away": 2
+        },
+        "meetings": 6
       },
       {
         "id": 4,
         "vs": "DANK",
-        "wins": 1,
-        "losses": 2
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "meetings": 3
       },
       {
         "id": 5,
         "vs": "EBBY",
-        "wins": 1,
-        "losses": 3
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 4
       },
       {
         "id": 6,
         "vs": "DUBS",
-        "wins": 4,
-        "losses": 5
+        "wins": {
+          "total": 4,
+          "home": 2,
+          "away": 2
+        },
+        "losses": {
+          "total": 5,
+          "home": 2,
+          "away": 3
+        },
+        "meetings": 9
       },
       {
         "id": 7,
         "vs": "KURT",
-        "wins": 1,
-        "losses": 3
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 4
       },
       {
         "id": 8,
         "vs": "FRYE",
-        "wins": 2,
-        "losses": 2
+        "wins": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "losses": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 9,
         "vs": "MBIX",
-        "wins": 1,
-        "losses": 2
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "losses": {
+          "total": 2,
+          "home": 0,
+          "away": 2
+        },
+        "meetings": 3
       },
       {
         "id": 10,
         "vs": "BROK",
-        "wins": 3,
-        "losses": 2
+        "wins": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "losses": {
+          "total": 2,
+          "home": 2,
+          "away": 0
+        },
+        "meetings": 5
       },
       {
         "id": 11,
         "vs": "JROD",
-        "wins": 1,
-        "losses": 3
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 4
       },
       {
         "id": 12,
         "vs": "WEAV",
-        "wins": 3,
-        "losses": 0
+        "wins": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "meetings": 3
       }
     ]
   },
@@ -240,97 +570,262 @@
       "closeCalls": 0
     },
     "regularSeason": {
-      "wins": 25,
-      "losses": 14,
+      "wins": {
+        "total": 25,
+        "home": 13,
+        "away": 12,
+        "divisional": 9
+      },
+      "losses": {
+        "total": 14,
+        "home": 7,
+        "away": 7,
+        "divisional": 3
+      },
       "points": {
-        "for": 97088.9,
-        "against": 89874.3
+        "total": {
+          "for": 97088.9,
+          "against": 89874.3
+        },
+        "home": {
+          "for": 49419.3,
+          "against": 45231
+        },
+        "away": {
+          "for": 47669.6,
+          "against": 44643.3
+        }
       }
     },
     "playoffs": {
-      "wins": 3,
-      "losses": 2,
+      "wins": {
+        "total": 3,
+        "home": 3,
+        "away": 0,
+        "divisional": 0
+      },
+      "losses": {
+        "total": 2,
+        "home": 2,
+        "away": 0,
+        "divisional": 0
+      },
       "points": {
-        "for": 12495.5,
-        "against": 13350.3
+        "total": {
+          "for": 12495.5,
+          "against": 13350.3
+        },
+        "home": {
+          "for": 12495.5,
+          "against": 13350.3
+        },
+        "away": {
+          "for": 0,
+          "against": 0
+        }
       }
     },
     "overall": {
-      "wins": 31,
-      "losses": 17,
-      "points": {
-        "for": 118377.5,
-        "against": 112048.4
+      "wins": {
+        "total": 31,
+        "home": 19,
+        "away": 12,
+        "divisional": 9
       },
-      "didNotMakePlayoffs": 0,
-      "games": 48
+      "losses": {
+        "total": 17,
+        "home": 10,
+        "away": 7,
+        "divisional": 4
+      },
+      "playoffs": {
+        "made": 3,
+        "missed": 0
+      },
+      "points": {
+        "total": {
+          "for": 118377.5,
+          "against": 112048.4
+        },
+        "home": {
+          "for": 70707.9,
+          "against": 67405.1
+        },
+        "away": {
+          "for": 47669.6,
+          "against": 44643.3
+        }
+      },
+      "games": {
+        "total": 48,
+        "divisional": 13
+      }
     },
     "h2h": [
       {
         "id": 1,
         "vs": "NATE",
-        "wins": 4,
-        "losses": 1
+        "wins": {
+          "total": 4,
+          "home": 4,
+          "away": 0
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 5
       },
       {
         "id": 2,
         "vs": "JOTA",
-        "wins": 4,
-        "losses": 2
+        "wins": {
+          "total": 4,
+          "home": 2,
+          "away": 2
+        },
+        "losses": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "meetings": 6
       },
       {
         "id": 4,
         "vs": "DANK",
-        "wins": 3,
-        "losses": 1
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 5,
         "vs": "EBBY",
-        "wins": 4,
-        "losses": 0
+        "wins": {
+          "total": 4,
+          "home": 2,
+          "away": 2
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "meetings": 4
       },
       {
         "id": 6,
         "vs": "DUBS",
-        "wins": 2,
-        "losses": 2
+        "wins": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "losses": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 7,
         "vs": "KURT",
-        "wins": 1,
-        "losses": 2
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "losses": {
+          "total": 2,
+          "home": 2,
+          "away": 0
+        },
+        "meetings": 3
       },
       {
         "id": 8,
         "vs": "FRYE",
-        "wins": 2,
-        "losses": 2
+        "wins": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "losses": {
+          "total": 2,
+          "home": 2,
+          "away": 0
+        },
+        "meetings": 4
       },
       {
         "id": 9,
         "vs": "MBIX",
-        "wins": 3,
-        "losses": 1
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "meetings": 4
       },
       {
         "id": 10,
         "vs": "BROK",
-        "wins": 3,
-        "losses": 1
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 11,
         "vs": "JROD",
-        "wins": 3,
-        "losses": 1
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 12,
         "vs": "WEAV",
-        "wins": 2,
-        "losses": 4
+        "wins": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "losses": {
+          "total": 4,
+          "home": 3,
+          "away": 1
+        },
+        "meetings": 6
       }
     ]
   },
@@ -352,97 +847,262 @@
       "closeCalls": 1
     },
     "regularSeason": {
-      "wins": 18,
-      "losses": 21,
+      "wins": {
+        "total": 18,
+        "home": 9,
+        "away": 9,
+        "divisional": 6
+      },
+      "losses": {
+        "total": 21,
+        "home": 10,
+        "away": 11,
+        "divisional": 6
+      },
       "points": {
-        "for": 88603.6,
-        "against": 92603.4
+        "total": {
+          "for": 88603.6,
+          "against": 92603.4
+        },
+        "home": {
+          "for": 43627.6,
+          "against": 45220.3
+        },
+        "away": {
+          "for": 44976,
+          "against": 47383.1
+        }
       }
     },
     "playoffs": {
-      "wins": 1,
-      "losses": 1,
+      "wins": {
+        "total": 1,
+        "home": 0,
+        "away": 1,
+        "divisional": 0
+      },
+      "losses": {
+        "total": 1,
+        "home": 1,
+        "away": 0,
+        "divisional": 0
+      },
       "points": {
-        "for": 4414.7,
-        "against": 4982.2
+        "total": {
+          "for": 4414.7,
+          "against": 4982.2
+        },
+        "home": {
+          "for": 1929.6,
+          "against": 2509.2
+        },
+        "away": {
+          "for": 2485.1,
+          "against": 2473
+        }
       }
     },
     "overall": {
-      "wins": 25,
-      "losses": 23,
-      "points": {
-        "for": 108312.2,
-        "against": 111484.5
+      "wins": {
+        "total": 25,
+        "home": 12,
+        "away": 13,
+        "divisional": 6
       },
-      "didNotMakePlayoffs": 2,
-      "games": 48
+      "losses": {
+        "total": 23,
+        "home": 11,
+        "away": 12,
+        "divisional": 6
+      },
+      "playoffs": {
+        "made": 1,
+        "missed": 2
+      },
+      "points": {
+        "total": {
+          "for": 108312.2,
+          "against": 111484.5
+        },
+        "home": {
+          "for": 52445.3,
+          "against": 53763.5
+        },
+        "away": {
+          "for": 55866.9,
+          "against": 57721
+        }
+      },
+      "games": {
+        "total": 48,
+        "divisional": 12
+      }
     },
     "h2h": [
       {
         "id": 1,
         "vs": "NATE",
-        "wins": 1,
-        "losses": 3
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 4
       },
       {
         "id": 2,
         "vs": "JOTA",
-        "wins": 2,
-        "losses": 1
+        "wins": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 3
       },
       {
         "id": 3,
         "vs": "HURL",
-        "wins": 1,
-        "losses": 3
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 4
       },
       {
         "id": 5,
         "vs": "EBBY",
-        "wins": 1,
-        "losses": 2
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "losses": {
+          "total": 2,
+          "home": 2,
+          "away": 0
+        },
+        "meetings": 3
       },
       {
         "id": 6,
         "vs": "DUBS",
-        "wins": 1,
-        "losses": 3
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 4
       },
       {
         "id": 7,
         "vs": "KURT",
-        "wins": 3,
-        "losses": 1
+        "wins": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "losses": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "meetings": 4
       },
       {
         "id": 8,
         "vs": "FRYE",
-        "wins": 4,
-        "losses": 2
+        "wins": {
+          "total": 4,
+          "home": 3,
+          "away": 1
+        },
+        "losses": {
+          "total": 2,
+          "home": 0,
+          "away": 2
+        },
+        "meetings": 6
       },
       {
         "id": 9,
         "vs": "MBIX",
-        "wins": 5,
-        "losses": 0
+        "wins": {
+          "total": 5,
+          "home": 3,
+          "away": 2
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "meetings": 5
       },
       {
         "id": 10,
         "vs": "BROK",
-        "wins": 5,
-        "losses": 1
+        "wins": {
+          "total": 5,
+          "home": 1,
+          "away": 4
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 6
       },
       {
         "id": 11,
         "vs": "JROD",
-        "wins": 1,
-        "losses": 4
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "losses": {
+          "total": 4,
+          "home": 2,
+          "away": 2
+        },
+        "meetings": 5
       },
       {
         "id": 12,
         "vs": "WEAV",
-        "wins": 1,
-        "losses": 3
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 3,
+          "home": 3,
+          "away": 0
+        },
+        "meetings": 4
       }
     ]
   },
@@ -463,97 +1123,262 @@
       "closeCalls": 0
     },
     "regularSeason": {
-      "wins": 24,
-      "losses": 15,
+      "wins": {
+        "total": 24,
+        "home": 12,
+        "away": 12,
+        "divisional": 9
+      },
+      "losses": {
+        "total": 15,
+        "home": 7,
+        "away": 8,
+        "divisional": 3
+      },
       "points": {
-        "for": 91522,
-        "against": 88406.2
+        "total": {
+          "for": 91522,
+          "against": 88406.2
+        },
+        "home": {
+          "for": 44089.9,
+          "against": 42239.6
+        },
+        "away": {
+          "for": 47432.1,
+          "against": 46166.6
+        }
       }
     },
     "playoffs": {
-      "wins": 1,
-      "losses": 3,
+      "wins": {
+        "total": 1,
+        "home": 1,
+        "away": 0,
+        "divisional": 0
+      },
+      "losses": {
+        "total": 3,
+        "home": 2,
+        "away": 1,
+        "divisional": 1
+      },
       "points": {
-        "for": 8640.7,
-        "against": 10084.6
+        "total": {
+          "for": 8640.7,
+          "against": 10084.6
+        },
+        "home": {
+          "for": 5873.2,
+          "against": 6915.9
+        },
+        "away": {
+          "for": 2767.5,
+          "against": 3168.7
+        }
       }
     },
     "overall": {
-      "wins": 25,
-      "losses": 23,
-      "points": {
-        "for": 110283.7,
-        "against": 111607.4
+      "wins": {
+        "total": 25,
+        "home": 13,
+        "away": 12,
+        "divisional": 9
       },
-      "didNotMakePlayoffs": 0,
-      "games": 48
+      "losses": {
+        "total": 23,
+        "home": 12,
+        "away": 11,
+        "divisional": 6
+      },
+      "playoffs": {
+        "made": 3,
+        "missed": 0
+      },
+      "points": {
+        "total": {
+          "for": 110283.7,
+          "against": 111607.4
+        },
+        "home": {
+          "for": 56084.9,
+          "against": 57052.5
+        },
+        "away": {
+          "for": 54198.8,
+          "against": 54554.9
+        }
+      },
+      "games": {
+        "total": 48,
+        "divisional": 15
+      }
     },
     "h2h": [
       {
         "id": 1,
         "vs": "NATE",
-        "wins": 3,
-        "losses": 5
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 5,
+          "home": 3,
+          "away": 2
+        },
+        "meetings": 8
       },
       {
         "id": 2,
         "vs": "JOTA",
-        "wins": 3,
-        "losses": 1
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "meetings": 4
       },
       {
         "id": 3,
         "vs": "HURL",
-        "wins": 0,
-        "losses": 4
+        "wins": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 4,
+          "home": 2,
+          "away": 2
+        },
+        "meetings": 4
       },
       {
         "id": 4,
         "vs": "DANK",
-        "wins": 2,
-        "losses": 1
+        "wins": {
+          "total": 2,
+          "home": 0,
+          "away": 2
+        },
+        "losses": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "meetings": 3
       },
       {
         "id": 6,
         "vs": "DUBS",
-        "wins": 3,
-        "losses": 1
+        "wins": {
+          "total": 3,
+          "home": 0,
+          "away": 3
+        },
+        "losses": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "meetings": 4
       },
       {
         "id": 7,
         "vs": "KURT",
-        "wins": 2,
-        "losses": 1
+        "wins": {
+          "total": 2,
+          "home": 2,
+          "away": 0
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 3
       },
       {
         "id": 8,
         "vs": "FRYE",
-        "wins": 2,
-        "losses": 3
+        "wins": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "losses": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "meetings": 5
       },
       {
         "id": 9,
         "vs": "MBIX",
-        "wins": 4,
-        "losses": 0
+        "wins": {
+          "total": 4,
+          "home": 2,
+          "away": 2
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "meetings": 4
       },
       {
         "id": 10,
         "vs": "BROK",
-        "wins": 2,
-        "losses": 1
+        "wins": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 3
       },
       {
         "id": 11,
         "vs": "JROD",
-        "wins": 1,
-        "losses": 3
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 4
       },
       {
         "id": 12,
         "vs": "WEAV",
-        "wins": 3,
-        "losses": 3
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 6
       }
     ]
   },
@@ -574,97 +1399,262 @@
       "closeCalls": 0
     },
     "regularSeason": {
-      "wins": 17,
-      "losses": 22,
+      "wins": {
+        "total": 17,
+        "home": 10,
+        "away": 7,
+        "divisional": 6
+      },
+      "losses": {
+        "total": 22,
+        "home": 11,
+        "away": 11,
+        "divisional": 6
+      },
       "points": {
-        "for": 89977.1,
-        "against": 88872.1
+        "total": {
+          "for": 89977.1,
+          "against": 88872.1
+        },
+        "home": {
+          "for": 49352,
+          "against": 48733.9
+        },
+        "away": {
+          "for": 40625.1,
+          "against": 40138.2
+        }
       }
     },
     "playoffs": {
-      "wins": 0,
-      "losses": 2,
+      "wins": {
+        "total": 0,
+        "home": 0,
+        "away": 0,
+        "divisional": 0
+      },
+      "losses": {
+        "total": 2,
+        "home": 1,
+        "away": 1,
+        "divisional": 1
+      },
       "points": {
-        "for": 3902.1,
-        "against": 4269.2
+        "total": {
+          "for": 3902.1,
+          "against": 4269.2
+        },
+        "home": {
+          "for": 2233,
+          "against": 2304.4
+        },
+        "away": {
+          "for": 1669.1,
+          "against": 1964.8
+        }
       }
     },
     "overall": {
-      "wins": 20,
-      "losses": 28,
-      "points": {
-        "for": 108024,
-        "against": 108438.8
+      "wins": {
+        "total": 20,
+        "home": 12,
+        "away": 8,
+        "divisional": 8
       },
-      "didNotMakePlayoffs": 1,
-      "games": 48
+      "losses": {
+        "total": 28,
+        "home": 14,
+        "away": 14,
+        "divisional": 8
+      },
+      "playoffs": {
+        "made": 2,
+        "missed": 1
+      },
+      "points": {
+        "total": {
+          "for": 108024,
+          "against": 108438.8
+        },
+        "home": {
+          "for": 59426,
+          "against": 59036
+        },
+        "away": {
+          "for": 48598,
+          "against": 49402.8
+        }
+      },
+      "games": {
+        "total": 48,
+        "divisional": 16
+      }
     },
     "h2h": [
       {
         "id": 1,
         "vs": "NATE",
-        "wins": 2,
-        "losses": 2
+        "wins": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "losses": {
+          "total": 2,
+          "home": 2,
+          "away": 0
+        },
+        "meetings": 4
       },
       {
         "id": 2,
         "vs": "JOTA",
-        "wins": 5,
-        "losses": 4
+        "wins": {
+          "total": 5,
+          "home": 3,
+          "away": 2
+        },
+        "losses": {
+          "total": 4,
+          "home": 2,
+          "away": 2
+        },
+        "meetings": 9
       },
       {
         "id": 3,
         "vs": "HURL",
-        "wins": 2,
-        "losses": 2
+        "wins": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "losses": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 4,
         "vs": "DANK",
-        "wins": 3,
-        "losses": 1
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 5,
         "vs": "EBBY",
-        "wins": 1,
-        "losses": 3
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "losses": {
+          "total": 3,
+          "home": 3,
+          "away": 0
+        },
+        "meetings": 4
       },
       {
         "id": 7,
         "vs": "KURT",
-        "wins": 0,
-        "losses": 4
+        "wins": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 4,
+          "home": 1,
+          "away": 3
+        },
+        "meetings": 4
       },
       {
         "id": 8,
         "vs": "FRYE",
-        "wins": 3,
-        "losses": 1
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 9,
         "vs": "MBIX",
-        "wins": 1,
-        "losses": 3
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 10,
         "vs": "BROK",
-        "wins": 2,
-        "losses": 1
+        "wins": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 3
       },
       {
         "id": 11,
         "vs": "JROD",
-        "wins": 0,
-        "losses": 5
+        "wins": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 5,
+          "home": 1,
+          "away": 4
+        },
+        "meetings": 5
       },
       {
         "id": 12,
         "vs": "WEAV",
-        "wins": 1,
-        "losses": 2
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 2,
+          "home": 2,
+          "away": 0
+        },
+        "meetings": 3
       }
     ]
   },
@@ -686,97 +1676,262 @@
       "closeCalls": 0
     },
     "regularSeason": {
-      "wins": 27,
-      "losses": 12,
+      "wins": {
+        "total": 27,
+        "home": 13,
+        "away": 14,
+        "divisional": 12
+      },
+      "losses": {
+        "total": 12,
+        "home": 6,
+        "away": 6,
+        "divisional": 0
+      },
       "points": {
-        "for": 92307.4,
-        "against": 86633.8
+        "total": {
+          "for": 92307.4,
+          "against": 86633.8
+        },
+        "home": {
+          "for": 42829.3,
+          "against": 40684.8
+        },
+        "away": {
+          "for": 49478.1,
+          "against": 45949
+        }
       }
     },
     "playoffs": {
-      "wins": 2,
-      "losses": 3,
+      "wins": {
+        "total": 2,
+        "home": 2,
+        "away": 0,
+        "divisional": 1
+      },
+      "losses": {
+        "total": 3,
+        "home": 2,
+        "away": 1,
+        "divisional": 0
+      },
       "points": {
-        "for": 11788.8,
-        "against": 11842.2
+        "total": {
+          "for": 11788.8,
+          "against": 11842.2
+        },
+        "home": {
+          "for": 9546.5,
+          "against": 9259.7
+        },
+        "away": {
+          "for": 2242.3,
+          "against": 2582.5
+        }
       }
     },
     "overall": {
-      "wins": 31,
-      "losses": 17,
-      "points": {
-        "for": 114037.6,
-        "against": 108015.1
+      "wins": {
+        "total": 31,
+        "home": 17,
+        "away": 14,
+        "divisional": 14
       },
-      "didNotMakePlayoffs": 0,
-      "games": 48
+      "losses": {
+        "total": 17,
+        "home": 10,
+        "away": 7,
+        "divisional": 0
+      },
+      "playoffs": {
+        "made": 3,
+        "missed": 0
+      },
+      "points": {
+        "total": {
+          "for": 114037.6,
+          "against": 108015.1
+        },
+        "home": {
+          "for": 62317.2,
+          "against": 59483.6
+        },
+        "away": {
+          "for": 51720.4,
+          "against": 48531.5
+        }
+      },
+      "games": {
+        "total": 48,
+        "divisional": 14
+      }
     },
     "h2h": [
       {
         "id": 1,
         "vs": "NATE",
-        "wins": 3,
-        "losses": 1
+        "wins": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "losses": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "meetings": 4
       },
       {
         "id": 2,
         "vs": "JOTA",
-        "wins": 3,
-        "losses": 1
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 3,
         "vs": "HURL",
-        "wins": 2,
-        "losses": 1
+        "wins": {
+          "total": 2,
+          "home": 0,
+          "away": 2
+        },
+        "losses": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "meetings": 3
       },
       {
         "id": 4,
         "vs": "DANK",
-        "wins": 1,
-        "losses": 3
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "losses": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 5,
         "vs": "EBBY",
-        "wins": 1,
-        "losses": 2
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 2,
+          "home": 0,
+          "away": 2
+        },
+        "meetings": 3
       },
       {
         "id": 6,
         "vs": "DUBS",
-        "wins": 4,
-        "losses": 0
+        "wins": {
+          "total": 4,
+          "home": 3,
+          "away": 1
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "meetings": 4
       },
       {
         "id": 8,
         "vs": "FRYE",
-        "wins": 5,
-        "losses": 0
+        "wins": {
+          "total": 5,
+          "home": 3,
+          "away": 2
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "meetings": 5
       },
       {
         "id": 9,
         "vs": "MBIX",
-        "wins": 3,
-        "losses": 1
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 10,
         "vs": "BROK",
-        "wins": 2,
-        "losses": 2
+        "wins": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "losses": {
+          "total": 2,
+          "home": 2,
+          "away": 0
+        },
+        "meetings": 4
       },
       {
         "id": 11,
         "vs": "JROD",
-        "wins": 4,
-        "losses": 3
+        "wins": {
+          "total": 4,
+          "home": 2,
+          "away": 2
+        },
+        "losses": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "meetings": 7
       },
       {
         "id": 12,
         "vs": "WEAV",
-        "wins": 3,
-        "losses": 3
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "meetings": 6
       }
     ]
   },
@@ -798,97 +1953,262 @@
       "closeCalls": 0
     },
     "regularSeason": {
-      "wins": 16,
-      "losses": 23,
+      "wins": {
+        "total": 16,
+        "home": 6,
+        "away": 10,
+        "divisional": 3
+      },
+      "losses": {
+        "total": 23,
+        "home": 12,
+        "away": 11,
+        "divisional": 9
+      },
       "points": {
-        "for": 90725.5,
-        "against": 91748.4
+        "total": {
+          "for": 90725.5,
+          "against": 91748.4
+        },
+        "home": {
+          "for": 41392.1,
+          "against": 43082.6
+        },
+        "away": {
+          "for": 49333.4,
+          "against": 48665.8
+        }
       }
     },
     "playoffs": {
-      "wins": 0,
-      "losses": 1,
+      "wins": {
+        "total": 0,
+        "home": 0,
+        "away": 0,
+        "divisional": 0
+      },
+      "losses": {
+        "total": 1,
+        "home": 0,
+        "away": 1,
+        "divisional": 1
+      },
       "points": {
-        "for": 2099.4,
-        "against": 2297.1
+        "total": {
+          "for": 2099.4,
+          "against": 2297.1
+        },
+        "home": {
+          "for": 0,
+          "against": 0
+        },
+        "away": {
+          "for": 2099.4,
+          "against": 2297.1
+        }
       }
     },
     "overall": {
-      "wins": 20,
-      "losses": 28,
-      "points": {
-        "for": 108837.4,
-        "against": 110638.1
+      "wins": {
+        "total": 20,
+        "home": 9,
+        "away": 11,
+        "divisional": 3
       },
-      "didNotMakePlayoffs": 2,
-      "games": 48
+      "losses": {
+        "total": 28,
+        "home": 13,
+        "away": 15,
+        "divisional": 10
+      },
+      "playoffs": {
+        "made": 1,
+        "missed": 2
+      },
+      "points": {
+        "total": {
+          "for": 108837.4,
+          "against": 110638.1
+        },
+        "home": {
+          "for": 48234.2,
+          "against": 50735.7
+        },
+        "away": {
+          "for": 60603.2,
+          "against": 59902.4
+        }
+      },
+      "games": {
+        "total": 48,
+        "divisional": 13
+      }
     },
     "h2h": [
       {
         "id": 1,
         "vs": "NATE",
-        "wins": 2,
-        "losses": 1
+        "wins": {
+          "total": 2,
+          "home": 0,
+          "away": 2
+        },
+        "losses": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "meetings": 3
       },
       {
         "id": 2,
         "vs": "JOTA",
-        "wins": 2,
-        "losses": 2
+        "wins": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "losses": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 3,
         "vs": "HURL",
-        "wins": 2,
-        "losses": 2
+        "wins": {
+          "total": 2,
+          "home": 0,
+          "away": 2
+        },
+        "losses": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 4,
         "vs": "DANK",
-        "wins": 2,
-        "losses": 4
+        "wins": {
+          "total": 2,
+          "home": 2,
+          "away": 0
+        },
+        "losses": {
+          "total": 4,
+          "home": 1,
+          "away": 3
+        },
+        "meetings": 6
       },
       {
         "id": 5,
         "vs": "EBBY",
-        "wins": 3,
-        "losses": 2
+        "wins": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "losses": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "meetings": 5
       },
       {
         "id": 6,
         "vs": "DUBS",
-        "wins": 1,
-        "losses": 3
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 4
       },
       {
         "id": 7,
         "vs": "KURT",
-        "wins": 0,
-        "losses": 5
+        "wins": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 5,
+          "home": 2,
+          "away": 3
+        },
+        "meetings": 5
       },
       {
         "id": 9,
         "vs": "MBIX",
-        "wins": 3,
-        "losses": 2
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 2,
+          "home": 2,
+          "away": 0
+        },
+        "meetings": 5
       },
       {
         "id": 10,
         "vs": "BROK",
-        "wins": 2,
-        "losses": 2
+        "wins": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "losses": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 11,
         "vs": "JROD",
-        "wins": 0,
-        "losses": 3
+        "wins": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 3,
+          "home": 0,
+          "away": 3
+        },
+        "meetings": 3
       },
       {
         "id": 12,
         "vs": "WEAV",
-        "wins": 3,
-        "losses": 2
+        "wins": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "losses": {
+          "total": 2,
+          "home": 2,
+          "away": 0
+        },
+        "meetings": 5
       }
     ]
   },
@@ -910,98 +2230,266 @@
       "closeCalls": 0
     },
     "regularSeason": {
-      "wins": 11,
-      "losses": 28,
+      "wins": {
+        "total": 11,
+        "home": 6,
+        "away": 5,
+        "divisional": 1
+      },
+      "losses": {
+        "total": 28,
+        "home": 13,
+        "away": 15,
+        "divisional": 11
+      },
       "points": {
-        "for": 84455,
-        "against": 91866.7
+        "total": {
+          "for": 84455,
+          "against": 91866.7
+        },
+        "home": {
+          "for": 41354.6,
+          "against": 44373.5
+        },
+        "away": {
+          "for": 43100.4,
+          "against": 47493.2
+        }
       }
     },
     "playoffs": {
-      "wins": 0,
-      "losses": 0,
+      "wins": {
+        "total": 0,
+        "away": 0,
+        "home": 0,
+        "divisional": 0
+      },
+      "losses": {
+        "total": 0,
+        "away": 0,
+        "home": 0,
+        "divisional": 0
+      },
       "points": {
-        "for": 0,
-        "against": 0,
-        "misses": 0
+        "total": {
+          "for": 0,
+          "against": 0
+        },
+        "away": {
+          "for": 0,
+          "against": 0
+        },
+        "home": {
+          "for": 0,
+          "against": 0
+        },
+        "divisional": {
+          "for": 0,
+          "against": 0
+        }
       }
     },
     "overall": {
-      "wins": 17,
-      "losses": 31,
-      "points": {
-        "for": 104084.4,
-        "against": 109449.7
+      "wins": {
+        "total": 17,
+        "home": 7,
+        "away": 10,
+        "divisional": 1
       },
-      "didNotMakePlayoffs": 3,
-      "games": 48
+      "losses": {
+        "total": 31,
+        "home": 13,
+        "away": 18,
+        "divisional": 11
+      },
+      "playoffs": {
+        "made": 0,
+        "missed": 3
+      },
+      "points": {
+        "total": {
+          "for": 104084.4,
+          "against": 109449.7
+        },
+        "home": {
+          "for": 43679.5,
+          "against": 46609.4
+        },
+        "away": {
+          "for": 60404.9,
+          "against": 62840.3
+        }
+      },
+      "games": {
+        "total": 48,
+        "divisional": 12
+      }
     },
     "h2h": [
       {
         "id": 1,
         "vs": "NATE",
-        "wins": 1,
-        "losses": 4
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 4,
+          "home": 2,
+          "away": 2
+        },
+        "meetings": 5
       },
       {
         "id": 2,
         "vs": "JOTA",
-        "wins": 2,
-        "losses": 1
+        "wins": {
+          "total": 2,
+          "home": 2,
+          "away": 0
+        },
+        "losses": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "meetings": 3
       },
       {
         "id": 3,
         "vs": "HURL",
-        "wins": 1,
-        "losses": 3
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 4
       },
       {
         "id": 4,
         "vs": "DANK",
-        "wins": 0,
-        "losses": 5
+        "wins": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 5,
+          "home": 2,
+          "away": 3
+        },
+        "meetings": 5
       },
       {
         "id": 5,
         "vs": "EBBY",
-        "wins": 0,
-        "losses": 4
+        "wins": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 4,
+          "home": 2,
+          "away": 2
+        },
+        "meetings": 4
       },
       {
         "id": 6,
         "vs": "DUBS",
-        "wins": 3,
-        "losses": 1
+        "wins": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 7,
         "vs": "KURT",
-        "wins": 1,
-        "losses": 3
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 4
       },
       {
         "id": 8,
         "vs": "FRYE",
-        "wins": 2,
-        "losses": 3
+        "wins": {
+          "total": 2,
+          "home": 0,
+          "away": 2
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 5
       },
       {
         "id": 10,
         "vs": "BROK",
-        "wins": 6,
-        "losses": 2
+        "wins": {
+          "total": 6,
+          "home": 2,
+          "away": 4
+        },
+        "losses": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "meetings": 8
       },
       {
         "id": 11,
         "vs": "JROD",
-        "wins": 0,
-        "losses": 3
+        "wins": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 3
       },
       {
         "id": 12,
         "vs": "WEAV",
-        "wins": 1,
-        "losses": 2
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "losses": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "meetings": 3
       }
     ]
   },
@@ -1022,98 +2510,266 @@
       "closeCalls": 1
     },
     "regularSeason": {
-      "wins": 11,
-      "losses": 28,
+      "wins": {
+        "total": 11,
+        "home": 5,
+        "away": 6,
+        "divisional": 2
+      },
+      "losses": {
+        "total": 28,
+        "home": 15,
+        "away": 13,
+        "divisional": 10
+      },
       "points": {
-        "for": 82522.3,
-        "against": 93136.7
+        "total": {
+          "for": 82522.3,
+          "against": 93136.7
+        },
+        "home": {
+          "for": 43629.9,
+          "against": 49045.6
+        },
+        "away": {
+          "for": 38892.4,
+          "against": 44091.1
+        }
       }
     },
     "playoffs": {
-      "wins": 0,
-      "losses": 0,
+      "wins": {
+        "total": 0,
+        "away": 0,
+        "home": 0,
+        "divisional": 0
+      },
+      "losses": {
+        "total": 0,
+        "away": 0,
+        "home": 0,
+        "divisional": 0
+      },
       "points": {
-        "for": 0,
-        "against": 0,
-        "misses": 0
+        "total": {
+          "for": 0,
+          "against": 0
+        },
+        "away": {
+          "for": 0,
+          "against": 0
+        },
+        "home": {
+          "for": 0,
+          "against": 0
+        },
+        "divisional": {
+          "for": 0,
+          "against": 0
+        }
       }
     },
     "overall": {
-      "wins": 13,
-      "losses": 35,
-      "points": {
-        "for": 101751.1,
-        "against": 113305.3
+      "wins": {
+        "total": 13,
+        "home": 6,
+        "away": 7,
+        "divisional": 2
       },
-      "didNotMakePlayoffs": 3,
-      "games": 48
+      "losses": {
+        "total": 35,
+        "home": 20,
+        "away": 15,
+        "divisional": 10
+      },
+      "playoffs": {
+        "made": 0,
+        "missed": 3
+      },
+      "points": {
+        "total": {
+          "for": 101751.1,
+          "against": 113305.3
+        },
+        "home": {
+          "for": 56063.1,
+          "against": 62632.4
+        },
+        "away": {
+          "for": 45688,
+          "against": 50672.9
+        }
+      },
+      "games": {
+        "total": 48,
+        "divisional": 12
+      }
     },
     "h2h": [
       {
         "id": 1,
         "vs": "NATE",
-        "wins": 0,
-        "losses": 3
+        "wins": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 3
       },
       {
         "id": 2,
         "vs": "JOTA",
-        "wins": 2,
-        "losses": 3
+        "wins": {
+          "total": 2,
+          "home": 0,
+          "away": 2
+        },
+        "losses": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "meetings": 5
       },
       {
         "id": 3,
         "vs": "HURL",
-        "wins": 1,
-        "losses": 3
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 4
       },
       {
         "id": 4,
         "vs": "DANK",
-        "wins": 1,
-        "losses": 5
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 5,
+          "home": 4,
+          "away": 1
+        },
+        "meetings": 6
       },
       {
         "id": 5,
         "vs": "EBBY",
-        "wins": 1,
-        "losses": 2
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "meetings": 3
       },
       {
         "id": 6,
         "vs": "DUBS",
-        "wins": 1,
-        "losses": 2
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "meetings": 3
       },
       {
         "id": 7,
         "vs": "KURT",
-        "wins": 2,
-        "losses": 2
+        "wins": {
+          "total": 2,
+          "home": 0,
+          "away": 2
+        },
+        "losses": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 8,
         "vs": "FRYE",
-        "wins": 2,
-        "losses": 2
+        "wins": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "losses": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 9,
         "vs": "MBIX",
-        "wins": 2,
-        "losses": 6
+        "wins": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "losses": {
+          "total": 6,
+          "home": 4,
+          "away": 2
+        },
+        "meetings": 8
       },
       {
         "id": 11,
         "vs": "JROD",
-        "wins": 0,
-        "losses": 5
+        "wins": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 5,
+          "home": 3,
+          "away": 2
+        },
+        "meetings": 5
       },
       {
         "id": 12,
         "vs": "WEAV",
-        "wins": 1,
-        "losses": 2
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "losses": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "meetings": 3
       }
     ]
   },
@@ -1135,97 +2791,262 @@
       "closeCalls": 0
     },
     "regularSeason": {
-      "wins": 29,
-      "losses": 10,
+      "wins": {
+        "total": 29,
+        "home": 16,
+        "away": 13,
+        "divisional": 9
+      },
+      "losses": {
+        "total": 10,
+        "home": 5,
+        "away": 5,
+        "divisional": 3
+      },
       "points": {
-        "for": 97410.2,
-        "against": 87894
+        "total": {
+          "for": 97410.2,
+          "against": 87894
+        },
+        "home": {
+          "for": 52114.6,
+          "against": 46790.9
+        },
+        "away": {
+          "for": 45295.6,
+          "against": 41103.1
+        }
       }
     },
     "playoffs": {
-      "wins": 5,
-      "losses": 2,
+      "wins": {
+        "total": 5,
+        "home": 4,
+        "away": 1,
+        "divisional": 1
+      },
+      "losses": {
+        "total": 2,
+        "home": 1,
+        "away": 1,
+        "divisional": 0
+      },
       "points": {
-        "for": 16678.7,
-        "against": 15678.8
+        "total": {
+          "for": 16678.7,
+          "against": 15678.8
+        },
+        "home": {
+          "for": 12095,
+          "against": 11075.7
+        },
+        "away": {
+          "for": 4583.7,
+          "against": 4603.1
+        }
       }
     },
     "overall": {
-      "wins": 35,
-      "losses": 13,
-      "points": {
-        "for": 118516.4,
-        "against": 109018.1
+      "wins": {
+        "total": 35,
+        "home": 21,
+        "away": 14,
+        "divisional": 10
       },
-      "didNotMakePlayoffs": 0,
-      "games": 48
+      "losses": {
+        "total": 13,
+        "home": 6,
+        "away": 7,
+        "divisional": 4
+      },
+      "playoffs": {
+        "made": 3,
+        "missed": 0
+      },
+      "points": {
+        "total": {
+          "for": 118516.4,
+          "against": 109018.1
+        },
+        "home": {
+          "for": 66866.9,
+          "against": 60447.3
+        },
+        "away": {
+          "for": 51649.5,
+          "against": 48570.8
+        }
+      },
+      "games": {
+        "total": 48,
+        "divisional": 14
+      }
     },
     "h2h": [
       {
         "id": 1,
         "vs": "NATE",
-        "wins": 1,
-        "losses": 3
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "losses": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 2,
         "vs": "JOTA",
-        "wins": 3,
-        "losses": 1
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 3,
         "vs": "HURL",
-        "wins": 1,
-        "losses": 3
+        "wins": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 4
       },
       {
         "id": 4,
         "vs": "DANK",
-        "wins": 4,
-        "losses": 1
+        "wins": {
+          "total": 4,
+          "home": 2,
+          "away": 2
+        },
+        "losses": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "meetings": 5
       },
       {
         "id": 5,
         "vs": "EBBY",
-        "wins": 3,
-        "losses": 1
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 6,
         "vs": "DUBS",
-        "wins": 5,
-        "losses": 0
+        "wins": {
+          "total": 5,
+          "home": 4,
+          "away": 1
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "meetings": 5
       },
       {
         "id": 7,
         "vs": "KURT",
-        "wins": 3,
-        "losses": 4
+        "wins": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "losses": {
+          "total": 4,
+          "home": 2,
+          "away": 2
+        },
+        "meetings": 7
       },
       {
         "id": 8,
         "vs": "FRYE",
-        "wins": 3,
-        "losses": 0
+        "wins": {
+          "total": 3,
+          "home": 3,
+          "away": 0
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "meetings": 3
       },
       {
         "id": 9,
         "vs": "MBIX",
-        "wins": 3,
-        "losses": 0
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "meetings": 3
       },
       {
         "id": 10,
         "vs": "BROK",
-        "wins": 5,
-        "losses": 0
+        "wins": {
+          "total": 5,
+          "home": 2,
+          "away": 3
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "meetings": 5
       },
       {
         "id": 12,
         "vs": "WEAV",
-        "wins": 4,
-        "losses": 0
+        "wins": {
+          "total": 4,
+          "home": 2,
+          "away": 2
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "meetings": 4
       }
     ]
   },
@@ -1246,97 +3067,262 @@
       "closeCalls": 0
     },
     "regularSeason": {
-      "wins": 17,
-      "losses": 22,
+      "wins": {
+        "total": 17,
+        "home": 6,
+        "away": 11,
+        "divisional": 4
+      },
+      "losses": {
+        "total": 22,
+        "home": 13,
+        "away": 9,
+        "divisional": 8
+      },
       "points": {
-        "for": 89489.2,
-        "against": 90140.5
+        "total": {
+          "for": 89489.2,
+          "against": 90140.5
+        },
+        "home": {
+          "for": 42678.8,
+          "against": 43231.2
+        },
+        "away": {
+          "for": 46810.4,
+          "against": 46909.3
+        }
       }
     },
     "playoffs": {
-      "wins": 4,
-      "losses": 3,
+      "wins": {
+        "total": 4,
+        "home": 0,
+        "away": 4,
+        "divisional": 0
+      },
+      "losses": {
+        "total": 3,
+        "home": 0,
+        "away": 3,
+        "divisional": 0
+      },
       "points": {
-        "for": 19143,
-        "against": 17574.7
+        "total": {
+          "for": 19143,
+          "against": 17574.7
+        },
+        "home": {
+          "for": 0,
+          "against": 0
+        },
+        "away": {
+          "for": 19143,
+          "against": 17574.7
+        }
       }
     },
     "overall": {
-      "wins": 23,
-      "losses": 25,
-      "points": {
-        "for": 114584,
-        "against": 111689.2
+      "wins": {
+        "total": 23,
+        "home": 6,
+        "away": 17,
+        "divisional": 5
       },
-      "didNotMakePlayoffs": 0,
-      "games": 48
+      "losses": {
+        "total": 25,
+        "home": 13,
+        "away": 12,
+        "divisional": 8
+      },
+      "playoffs": {
+        "made": 3,
+        "missed": 0
+      },
+      "points": {
+        "total": {
+          "for": 114584,
+          "against": 111689.2
+        },
+        "home": {
+          "for": 42678.8,
+          "against": 43231.2
+        },
+        "away": {
+          "for": 71905.2,
+          "against": 68458
+        }
+      },
+      "games": {
+        "total": 48,
+        "divisional": 13
+      }
     },
     "h2h": [
       {
         "id": 1,
         "vs": "NATE",
-        "wins": 2,
-        "losses": 3
+        "wins": {
+          "total": 2,
+          "home": 0,
+          "away": 2
+        },
+        "losses": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "meetings": 5
       },
       {
         "id": 2,
         "vs": "JOTA",
-        "wins": 0,
-        "losses": 3
+        "wins": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "meetings": 3
       },
       {
         "id": 3,
         "vs": "HURL",
-        "wins": 4,
-        "losses": 2
+        "wins": {
+          "total": 4,
+          "home": 1,
+          "away": 3
+        },
+        "losses": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "meetings": 6
       },
       {
         "id": 4,
         "vs": "DANK",
-        "wins": 3,
-        "losses": 1
+        "wins": {
+          "total": 3,
+          "home": 0,
+          "away": 3
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 4
       },
       {
         "id": 5,
         "vs": "EBBY",
-        "wins": 3,
-        "losses": 3
+        "wins": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 6
       },
       {
         "id": 6,
         "vs": "DUBS",
-        "wins": 2,
-        "losses": 1
+        "wins": {
+          "total": 2,
+          "home": 0,
+          "away": 2
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 1
+        },
+        "meetings": 3
       },
       {
         "id": 7,
         "vs": "KURT",
-        "wins": 3,
-        "losses": 3
+        "wins": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "losses": {
+          "total": 3,
+          "home": 1,
+          "away": 2
+        },
+        "meetings": 6
       },
       {
         "id": 8,
         "vs": "FRYE",
-        "wins": 2,
-        "losses": 3
+        "wins": {
+          "total": 2,
+          "home": 0,
+          "away": 2
+        },
+        "losses": {
+          "total": 3,
+          "home": 2,
+          "away": 1
+        },
+        "meetings": 5
       },
       {
         "id": 9,
         "vs": "MBIX",
-        "wins": 2,
-        "losses": 1
+        "wins": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "losses": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "meetings": 3
       },
       {
         "id": 10,
         "vs": "BROK",
-        "wins": 2,
-        "losses": 1
+        "wins": {
+          "total": 2,
+          "home": 1,
+          "away": 1
+        },
+        "losses": {
+          "total": 1,
+          "home": 1,
+          "away": 0
+        },
+        "meetings": 3
       },
       {
         "id": 11,
         "vs": "JROD",
-        "wins": 0,
-        "losses": 4
+        "wins": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 4,
+          "home": 2,
+          "away": 2
+        },
+        "meetings": 4
       }
     ]
   }
