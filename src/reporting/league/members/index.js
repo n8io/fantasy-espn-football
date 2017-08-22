@@ -1,5 +1,7 @@
 /* eslint-disable no-console,no-bitwise */
 import mirrorkey from 'mirrorkey';
+import math from 'mathjs';
+
 import getMatchups from '../../data/league/matchups';
 import MEMBERS from '../../data/league/members';
 import tagsArray from '../../../config/tags.json';
@@ -9,8 +11,6 @@ import { save } from '../../../lib/utils/reportWriter';
 const { YEARS_BACK } = process.env;
 const MATCHUPS = getMatchups(YEARS_BACK);
 const TAGS = mirrorkey(tagsArray);
-
-const round = (value, decimals) => Number(`${Math.round(`${value}e${decimals}`)}e-${decimals}`);
 
 const isWinningTeam = ({ tags = [] }) => tags.some(t => t === TAGS.WINNER);
 const isLosingTeam = ({ tags = [] }) => tags.some(t => t === TAGS.LOSER);
@@ -201,12 +201,12 @@ const historyWinLossRegularSeason = (matchups, teamId) => {
     }
   );
 
-  summary.points.total.for = round(summary.points.total.for, 2);
-  summary.points.total.against = round(summary.points.total.against, 2);
-  summary.points.home.for = round(summary.points.home.for, 2);
-  summary.points.home.against = round(summary.points.home.against, 2);
-  summary.points.away.for = round(summary.points.away.for, 2);
-  summary.points.away.against = round(summary.points.away.against, 2);
+  summary.points.total.for = math.round(summary.points.total.for, 3);
+  summary.points.total.against = math.round(summary.points.total.against, 3);
+  summary.points.home.for = math.round(summary.points.home.for, 3);
+  summary.points.home.against = math.round(summary.points.home.against, 3);
+  summary.points.away.for = math.round(summary.points.away.for, 3);
+  summary.points.away.against = math.round(summary.points.away.against, 3);
 
   return summary;
 };
@@ -264,12 +264,12 @@ const historyWinLossPlayoff = (matchups, teamId) => {
     }
   );
 
-  summary.points.total.for = round(summary.points.total.for, 2);
-  summary.points.total.against = round(summary.points.total.against, 2);
-  summary.points.home.for = round(summary.points.home.for, 2);
-  summary.points.home.against = round(summary.points.home.against, 2);
-  summary.points.away.for = round(summary.points.away.for, 2);
-  summary.points.away.against = round(summary.points.away.against, 2);
+  summary.points.total.for = math.round(summary.points.total.for, 3);
+  summary.points.total.against = math.round(summary.points.total.against, 3);
+  summary.points.home.for = math.round(summary.points.home.for, 3);
+  summary.points.home.against = math.round(summary.points.home.against, 3);
+  summary.points.away.for = math.round(summary.points.away.for, 3);
+  summary.points.away.against = math.round(summary.points.away.against, 3);
 
   return summary;
 };
@@ -325,12 +325,12 @@ const historyWinLossOverall = (matchups, teamId) => {
     divisional: summary.wins.divisional + summary.losses.divisional,
   };
 
-  summary.points.total.for = round(summary.points.total.for, 2);
-  summary.points.total.against = round(summary.points.total.against, 2);
-  summary.points.home.for = round(summary.points.home.for, 2);
-  summary.points.home.against = round(summary.points.home.against, 2);
-  summary.points.away.for = round(summary.points.away.for, 2);
-  summary.points.away.against = round(summary.points.away.against, 2);
+  summary.points.total.for = math.round(summary.points.total.for, 3);
+  summary.points.total.against = math.round(summary.points.total.against, 3);
+  summary.points.home.for = math.round(summary.points.home.for, 3);
+  summary.points.home.against = math.round(summary.points.home.against, 3);
+  summary.points.away.for = math.round(summary.points.away.for, 3);
+  summary.points.away.against = math.round(summary.points.away.against, 3);
 
   return summary;
 };
@@ -495,7 +495,7 @@ const leagueSummary = () =>
   );
 
 const summarization = leagueSummary();
-const fileName = `member-summary${YEARS_BACK ? `.last-${`00${YEARS_BACK}`.slice(-2)}-years` : '.alltime'}`;
-save('league', fileName, summarization);
+const fileName = `summary${YEARS_BACK ? `.last-${`00${YEARS_BACK}`.slice(-2)}-years` : '.alltime'}`;
+save('league', 'member', fileName, summarization);
 
 // console.log(JSON.stringify(MATCHUPS.filter(mu => isTeamMatchup(mu, 1) && isPlayoffMake(mu, 1)), null, 2));

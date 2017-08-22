@@ -1,5 +1,6 @@
 /* eslint-disable no-console */
 import cheerio from 'cheerio';
+import moment from 'moment';
 
 import config from '../../../../config';
 import { getStartDate, getEndDate } from '../../../utils/season';
@@ -45,12 +46,23 @@ const recentActivity = async (page, seasonId) => {
   msg = `🛠 203 Parsing league activity feed...`;
   await log(msg, page);
 
-  const activities = rows.map(parseRow);
+  const activities = rows.map(row => parseRow(row, seasonId));
 
   msg = `👍 200 League activity feed parsed successfully. ${activities.length} activities found.`;
   await log(msg, page);
 
-  return activities.filter(a => !!a);
+  return activities.filter(a => !!a).sort((a, b) => {
+    const aDate = moment(a.date);
+    const bDate = moment(b.date);
+
+    if (aDate.isBefore(bDate)) {
+      return -1;
+    } else if (aDate.isAfter(bDate)) {
+      return 1;
+    }
+
+    return 0;
+  });
 
   // const uniqueReducer = (acc = [], s) => {
   //   if (acc.indexOf(s) === -1) {

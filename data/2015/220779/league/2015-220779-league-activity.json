@@ -1,1765 +1,61 @@
 [
   {
-    "date": "0009-12-27T05:00:00Z",
+    "date": "2015-09-20T23:13:00Z",
+    "season": 2015,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to WEAV",
+    "subTypeText": "Special Team High Score awarded to JJHO",
     "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "WEAV",
-        "id": 12
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "W15 - Deone Bucannon - 375 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Deone",
-        "lastName": "Bucannon"
-      }
-    }
-  },
-  {
-    "date": "0009-12-27T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to PERO",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "PERO",
-        "id": 7
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "W14 - Lavonte David - 330 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Lavonte",
-        "lastName": "David"
-      }
-    }
-  },
-  {
-    "date": "0009-12-27T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to DUBS",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "DUBS",
-        "id": 6
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "W13 - Derrick Johnson - 415 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Derrick",
-        "lastName": "Johnson"
-      }
-    }
-  },
-  {
-    "date": "0009-12-27T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to EBBY",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "EBBY",
-        "id": 5
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "W12 - Tyrann Mathieu - 390 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Tyrann",
-        "lastName": "Mathieu"
-      }
-    }
-  },
-  {
-    "date": "0009-12-27T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to PERO",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "PERO",
-        "id": 7
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "W11 - Lavonte David - 355 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Lavonte",
-        "lastName": "David"
-      }
-    }
-  },
-  {
-    "date": "0009-12-27T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to HURL",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "W15 - David Johnson - 426 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "David",
-        "lastName": "Johnson"
-      }
-    }
-  },
-  {
-    "date": "0009-12-27T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to WEAV",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "WEAV",
-        "id": 12
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "W14 - Odell Beckham Jr. - 352 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Odell",
-        "lastName": "Beckham Jr"
-      }
-    }
-  },
-  {
-    "date": "0009-12-27T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to JJHO",
-    "trophy": {
-      "name": "Offensive Player High Score",
+      "name": "Special Team High Score",
       "team": {
         "abbrev": "JJHO",
         "id": 2
       },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "W13 - Antonio Brown - 431 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Antonio",
-        "lastName": "Brown"
-      }
-    }
-  },
-  {
-    "date": "0009-12-27T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to PERO",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "PERO",
-        "id": 7
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "W12 - Doug Baldwin - 378 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Doug",
-        "lastName": "Baldwin"
-      }
-    }
-  },
-  {
-    "date": "0009-12-27T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to DUBS",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "DUBS",
-        "id": 6
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "W11 - DeAndre Hopkins - 298 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "DeAndre",
-        "lastName": "Hopkins"
-      }
-    }
-  },
-  {
-    "date": "0009-12-27T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to NATE",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
       "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
       "id": 10
     },
     "details": {
       "notes": [
-        "W15 - Stephen Gostkowski - 315 —"
+        "W1 - Matt Bryant - 325 —"
       ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Stephen",
-        "lastName": "Gostkowski"
-      }
-    }
-  },
-  {
-    "date": "0009-12-27T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to DUBS",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "DUBS",
-        "id": 6
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "W14 - Chris Boswell - 340 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Chris",
-        "lastName": "Boswell"
-      }
-    }
-  },
-  {
-    "date": "0009-12-27T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to BROK",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "BROK",
-        "id": 10
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "W15 - Kirk Cousins - 360.7 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Kirk",
-        "lastName": "Cousins"
-      }
-    }
-  },
-  {
-    "date": "0009-12-27T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to FRYE",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "FRYE",
-        "id": 8
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "W14 - Marquette King - 402 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Marquette",
-        "lastName": "King"
-      }
-    }
-  },
-  {
-    "date": "0009-12-27T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to PERO",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "PERO",
-        "id": 7
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "W15 - 3105 - PERO —"
-      ],
-      "week": -1,
-      "points": 0
-    }
-  },
-  {
-    "date": "0009-12-27T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to WEAV",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "WEAV",
-        "id": 12
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "W14 - 2946 - WEAV —"
-      ],
-      "week": -1,
-      "points": 0
-    }
-  },
-  {
-    "date": "0008-12-22T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to DUBS",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "DUBS",
-        "id": 6
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "W13 - Chris Boswell - 325 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Chris",
-        "lastName": "Boswell"
-      }
-    }
-  },
-  {
-    "date": "0008-12-22T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to NATE",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "W12 - Ryan Allen - 305  —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Ryan",
-        "lastName": "Allen"
-      }
-    }
-  },
-  {
-    "date": "0008-12-22T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to EBBY",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "EBBY",
-        "id": 5
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "W11 - Dustin Colquitt - 290.6 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Dustin",
-        "lastName": "Colquitt"
-      }
-    }
-  },
-  {
-    "date": "0008-12-22T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_YEARLY",
-    "subTypeText": "TLOEI Regular Season Runner Up awarded to EBBY",
-    "trophy": {
-      "name": "TLOEI Regular Season Runner Up",
-      "team": {
-        "abbrev": "EBBY",
-        "id": 5
-      },
-      "type": "YEARLY_REGULAR_SEASON_RUNNER_UP",
-      "id": 3
-    },
-    "details": {
-      "notes": [
-        "Regular Season R/U - EBBY — by a nose."
-      ],
-      "year": -1
-    }
-  },
-  {
-    "date": "0007-12-22T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_YEARLY",
-    "subTypeText": "TLOEI Regular Season Champion awarded to PERO",
-    "trophy": {
-      "name": "TLOEI Regular Season Champion",
-      "team": {
-        "abbrev": "PERO",
-        "id": 7
-      },
-      "type": "YEARLY_REGULAR_SEASON_CHAMPION",
-      "id": 2
-    },
-    "details": {
-      "notes": [
-        "Regular Season Champ - PERO — two losses, it's like you didn't even win."
-      ],
-      "year": -1
-    }
-  },
-  {
-    "date": "0007-12-22T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to PERO",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "PERO",
-        "id": 7
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "W13 - 3264.5 - PERO —"
-      ],
-      "week": -1,
-      "points": 0
-    }
-  },
-  {
-    "date": "0007-12-22T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to HURL",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "W12 - 2529.1 - HURL —"
-      ],
-      "week": -1,
-      "points": 0
-    }
-  },
-  {
-    "date": "0007-12-22T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to FUCK",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "FUCK",
-        "id": 9
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "W11 - 2470.8 - TOBY —"
-      ],
-      "week": -1,
-      "points": 0
-    }
-  },
-  {
-    "date": "0007-12-22T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to JJHO",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "JJHO",
-        "id": 2
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "W13 - Marcus Mariota - 362.4  —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Marcus",
-        "lastName": "Mariota"
-      }
-    }
-  },
-  {
-    "date": "0007-12-22T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to FRYE",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "FRYE",
-        "id": 8
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "W12 - Graham Gano - 365 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Graham",
-        "lastName": "Gano"
-      }
-    }
-  },
-  {
-    "date": "0007-12-22T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to JROD",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "JROD",
-        "id": 11
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "W11 - Mason Crosby - 440 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Mason",
-        "lastName": "Crosby"
-      }
-    }
-  },
-  {
-    "date": "0001-11-24T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to FRYE",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "FRYE",
-        "id": 8
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "W10 - Cairo Santos - 405 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Cairo",
-        "lastName": "Santos"
-      }
-    }
-  },
-  {
-    "date": "0001-11-24T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to DUBS",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "DUBS",
-        "id": 6
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "W10 - Sam Martin - 284.4 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Sam",
-        "lastName": "Martin"
-      }
-    }
-  },
-  {
-    "date": "0001-11-24T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to FUCK",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "FUCK",
-        "id": 9
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "W10 - Ha Ha Clinton-Dix - 315 — 315"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Ha",
-        "lastName": "Ha Clinton"
-      }
-    }
-  },
-  {
-    "date": "0001-11-24T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to DUBS",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "DUBS",
-        "id": 6
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "W10 - Jeremy Langford - 368 — 368"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Jeremy",
-        "lastName": "Langford"
-      }
-    }
-  },
-  {
-    "date": "0001-11-24T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to PERO",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "PERO",
-        "id": 7
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "W10 - 2667.6 - PERO — Balls"
-      ],
-      "week": -1,
-      "points": 0
-    }
-  },
-  {
-    "date": "0009-11-11T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to DUBS",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "DUBS",
-        "id": 6
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "W9 - 2920.5 - DUBS —"
-      ],
-      "week": -1,
-      "points": 0
-    }
-  },
-  {
-    "date": "0009-11-11T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to JJHO",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "JJHO",
-        "id": 2
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "W9 - Antonio Brown- 442 — Antonio Brown- 442 - JJ"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Antonio",
-        "lastName": "Brown"
-      }
-    }
-  },
-  {
-    "date": "0009-11-11T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to EBBY",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "EBBY",
-        "id": 5
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "W9 - TJ Ward - 325 — TJ Ward - 325 - Eberhardt"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "TJ",
-        "lastName": "Ward"
-      }
-    }
-  },
-  {
-    "date": "0009-11-11T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to DUBS",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "DUBS",
-        "id": 6
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "W9 - Greg Zuerlein - 345 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Greg",
-        "lastName": "Zuerlein"
-      }
-    }
-  },
-  {
-    "date": "0009-11-11T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to JJHO",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "JJHO",
-        "id": 2
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "W9 - Matt Bosher - 370.8 —"
-      ],
-      "week": -1,
-      "points": 0,
+      "week": 1,
+      "points": 325,
       "player": {
         "firstName": "Matt",
-        "lastName": "Bosher"
-      }
-    }
-  },
-  {
-    "date": "0008-11-04T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to PERO",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "PERO",
-        "id": 7
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "W8 - 2715.1 - PERO — Great- now go blow each other.",
-        "2715.1 - it's not 3k. LOSER."
-      ],
-      "week": -1,
-      "points": 0
-    }
-  },
-  {
-    "date": "0008-11-04T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to BROK",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "BROK",
-        "id": 10
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "W8 - Drew Brees - 485.5 — I mean, you couldn't even muster a win with a nearly 500 point QB? kill yo-self."
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Drew",
-        "lastName": "Brees"
-      }
-    }
-  },
-  {
-    "date": "0008-11-04T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to EBBY",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "EBBY",
-        "id": 5
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "W8 - Luke Kuechly - 380 — Tha Faq?",
-        "",
-        "380"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Luke",
-        "lastName": "Kuechly"
-      }
-    }
-  },
-  {
-    "date": "0008-11-04T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to HURL",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "W8 - Justin Tucker - 380  — Jason Tucker, Child Fucker"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Justin",
-        "lastName": "Tucker"
-      }
-    }
-  },
-  {
-    "date": "0008-11-04T05:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to HURL",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "W8 - Carson Palmer - 334.2 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Carson",
-        "lastName": "Palmer"
-      }
-    }
-  },
-  {
-    "date": "0007-10-28T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to FRYE",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "FRYE",
-        "id": 8
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "W7 - 2924.2 - FRYE —"
-      ],
-      "week": -1,
-      "points": 0
-    }
-  },
-  {
-    "date": "0007-10-28T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to BROK",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "BROK",
-        "id": 10
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "W7 - Lamar Miller - 420 — Lamar Miller 420"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Lamar",
-        "lastName": "Miller"
-      }
-    }
-  },
-  {
-    "date": "0007-10-28T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to FRYE",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "FRYE",
-        "id": 8
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "W7 - Telvin Smith - 425 — Telvin? - 425"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Telvin",
-        "lastName": "Smith"
-      }
-    }
-  },
-  {
-    "date": "0007-10-28T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to PERO",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "PERO",
-        "id": 7
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "W7 - Blair Walsh - 340 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Blair",
-        "lastName": "Walsh"
-      }
-    }
-  },
-  {
-    "date": "0007-10-28T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to HURL",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "W7 - TY Hilton - 337 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "TY",
-        "lastName": "Hilton"
-      }
-    }
-  },
-  {
-    "date": "2010-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to JROD",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "JROD",
-        "id": 11
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "W6 - 3029.3 - JROD — 3029.3, one of 2 3k winners."
-      ],
-      "week": -1,
-      "points": 0
-    }
-  },
-  {
-    "date": "2010-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to WEAV",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "WEAV",
-        "id": 12
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "W5 - 2949.5 - WEAV — Weaver-what? Weaver-who?",
-        "Weaver-high? 2949.5 - still not 3k"
-      ],
-      "week": -1,
-      "points": 0
-    }
-  },
-  {
-    "date": "2010-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to HURL",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "W4 - 2878.9 - HURL — Welcome back from the dead"
-      ],
-      "week": -1,
-      "points": 0
-    }
-  },
-  {
-    "date": "2010-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to EBBY",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "EBBY",
-        "id": 5
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "W3 - 2997.7 - EBBY — Ebber-what? Ebber-who?",
-        "2997.7 - Still no 3k"
-      ],
-      "week": -1,
-      "points": 0
-    }
-  },
-  {
-    "date": "2010-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to DUBS",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "DUBS",
-        "id": 6
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "W6 - DeAndre Hopkins - 318 — DeAndre Whatever"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "DeAndre",
-        "lastName": "Hopkins"
-      }
-    }
-  },
-  {
-    "date": "2010-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to DANK",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "DANK",
-        "id": 4
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "W5 - Eli Manning - 350.3 — tard."
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Eli",
-        "lastName": "Manning"
-      }
-    }
-  },
-  {
-    "date": "2010-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to JJHO",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "JJHO",
-        "id": 2
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "W4 - Devonte Freeman - 314 — I own you"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Devonte",
-        "lastName": "Freeman"
-      }
-    }
-  },
-  {
-    "date": "2010-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to EBBY",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "EBBY",
-        "id": 5
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "W3 - A.J. Green - 432 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "A",
-        "lastName": ""
-      }
-    }
-  },
-  {
-    "date": "2010-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to WEAV",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "WEAV",
-        "id": 12
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "W6 - Michael Wilhoite - 365 — Stupid"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Michael",
-        "lastName": "Wilhoite"
-      }
-    }
-  },
-  {
-    "date": "2010-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to JROD",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "JROD",
-        "id": 11
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "W5 - NaVorro Bowman - 355 — Whatever"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "NaVorro",
-        "lastName": "Bowman"
-      }
-    }
-  },
-  {
-    "date": "2010-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to JJHO",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "JJHO",
-        "id": 2
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "W4 - Josh Norman - 330 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Josh",
-        "lastName": "Norman"
-      }
-    }
-  },
-  {
-    "date": "2010-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to PERO",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "PERO",
-        "id": 7
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "W3 - Paul Posluszny - 370 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Paul",
-        "lastName": "Posluszny"
-      }
-    }
-  },
-  {
-    "date": "0009-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to DUBS",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "DUBS",
-        "id": 6
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "W6 - Phil Dawson - 310 — Sounds like a douchey announcer - 310"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Phil",
-        "lastName": "Dawson"
-      }
-    }
-  },
-  {
-    "date": "0009-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to NATE",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "W5 - Steven Ghostowski - 285 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Steven",
-        "lastName": "Ghostowski"
-      }
-    }
-  },
-  {
-    "date": "0009-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to JROD",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "JROD",
-        "id": 11
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "W4 - Bryan Anger - 331.4 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Bryan",
-        "lastName": "Anger"
-      }
-    }
-  },
-  {
-    "date": "0009-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to NATE",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "W3 - Stephen Gostkowski - 305 — Fucking GZ* dziedzicki motherfucker - 305"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Stephen",
-        "lastName": "Gostkowski"
-      }
-    }
-  },
-  {
-    "date": "0009-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to PERO",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "PERO",
-        "id": 7
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "W6 - Matavis Bryant - 328 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Matavis",
         "lastName": "Bryant"
       }
     }
   },
   {
-    "date": "0009-10-23T04:00:00Z",
+    "date": "2015-09-20T23:14:00Z",
+    "season": 2015,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to NATE",
+    "subTypeText": "Defensive Player High Score awarded to NATE",
     "trophy": {
-      "name": "Hindsight is 20/20",
+      "name": "Defensive Player High Score",
       "team": {
         "abbrev": "NATE",
         "id": 1
       },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
     },
     "details": {
       "notes": [
-        "W5 - Tony Jefferson - 275 —"
+        "W1 - JJ WATT - 335 — 335 painful points for putting the hurt on."
       ],
-      "week": -1,
-      "points": 0,
+      "week": 1,
+      "points": 335,
       "player": {
-        "firstName": "Tony",
-        "lastName": "Jefferson"
+        "firstName": "JJ",
+        "lastName": "WATT"
       }
     }
   },
   {
-    "date": "0009-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to JROD",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "JROD",
-        "id": 11
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "W4 - Chandler Catanzaro - 365  —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Chandler",
-        "lastName": "Catanzaro"
-      }
-    }
-  },
-  {
-    "date": "0009-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to WEAV",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "WEAV",
-        "id": 12
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "W3 -  Brandon Marshall - 310 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Brandon",
-        "lastName": "Marshall"
-      }
-    }
-  },
-  {
-    "date": "0009-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to NATE",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "W2 - Stephen Gostkowski - 355 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Stephen",
-        "lastName": "Gostkowski"
-      }
-    }
-  },
-  {
-    "date": "0009-10-23T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to NATE",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "W1 - John Brown - 325 —"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "John",
-        "lastName": "Brown"
-      }
-    }
-  },
-  {
-    "date": "0001-09-29T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to PERO",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "PERO",
-        "id": 7
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "W2 - 2720.70 - PERO — 2720.70 points. like a jag"
-      ],
-      "week": -1,
-      "points": 0
-    }
-  },
-  {
-    "date": "0001-09-29T04:00:00Z",
+    "date": "2015-09-20T23:15:00Z",
+    "season": 2015,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
     "subTypeText": "Offensive Player High Score awarded to FUCK",
@@ -1774,71 +70,19 @@
     },
     "details": {
       "notes": [
-        "W2 - Tom Brady - 341.8 — Fuck Tom Brady"
+        "W1 - Carlos Hyde - 313 — Carlos Hyde - 313 points. LA has changed you."
       ],
-      "week": -1,
-      "points": 0,
+      "week": 1,
+      "points": 313,
       "player": {
-        "firstName": "Tom",
-        "lastName": "Brady"
+        "firstName": "Carlos",
+        "lastName": "Hyde"
       }
     }
   },
   {
-    "date": "0001-09-29T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to PERO",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "PERO",
-        "id": 7
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "W2 - Ryan Shazier - 390 — And so does the league.",
-        "Shazier for 390 points? dafaq?"
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Ryan",
-        "lastName": "Shazier"
-      }
-    }
-  },
-  {
-    "date": "0001-09-29T04:00:00Z",
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to JROD",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "JROD",
-        "id": 11
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "W2 - Mason Crosby - 310 — Mason Crosby was the difference between winning and pummeling. be proud of yourself."
-      ],
-      "week": -1,
-      "points": 0,
-      "player": {
-        "firstName": "Mason",
-        "lastName": "Crosby"
-      }
-    }
-  },
-  {
-    "date": "0007-09-20T04:00:00Z",
+    "date": "2015-09-20T23:18:00Z",
+    "season": 2015,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
     "subTypeText": "Weekly Team Highest Points awarded to HURL",
@@ -1859,12 +103,68 @@
         "",
         "If Frye and I combined our points, we would've beaten you by 493.6 points."
       ],
-      "week": -1,
-      "points": 0
+      "week": 1,
+      "points": 3290.5
     }
   },
   {
-    "date": "0007-09-20T04:00:00Z",
+    "date": "2015-09-29T17:12:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to JROD",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "JROD",
+        "id": 11
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "W2 - Mason Crosby - 310 — Mason Crosby was the difference between winning and pummeling. be proud of yourself."
+      ],
+      "week": 2,
+      "points": 310,
+      "player": {
+        "firstName": "Mason",
+        "lastName": "Crosby"
+      }
+    }
+  },
+  {
+    "date": "2015-09-29T17:13:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to PERO",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "PERO",
+        "id": 7
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "W2 - Ryan Shazier - 390 — And so does the league.",
+        "Shazier for 390 points? dafaq?"
+      ],
+      "week": 2,
+      "points": 390,
+      "player": {
+        "firstName": "Ryan",
+        "lastName": "Shazier"
+      }
+    }
+  },
+  {
+    "date": "2015-09-29T17:13:00Z",
+    "season": 2015,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
     "subTypeText": "Offensive Player High Score awarded to FUCK",
@@ -1879,65 +179,1840 @@
     },
     "details": {
       "notes": [
-        "W1 - Carlos Hyde - 313 — Carlos Hyde - 313 points. LA has changed you."
+        "W2 - Tom Brady - 341.8 — Fuck Tom Brady"
       ],
-      "week": -1,
-      "points": 0,
+      "week": 2,
+      "points": 341.8,
       "player": {
-        "firstName": "Carlos",
-        "lastName": "Hyde"
+        "firstName": "Tom",
+        "lastName": "Brady"
       }
     }
   },
   {
-    "date": "0007-09-20T04:00:00Z",
+    "date": "2015-09-29T17:14:00Z",
+    "season": 2015,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to NATE",
+    "subTypeText": "Weekly Team Highest Points awarded to PERO",
     "trophy": {
-      "name": "Defensive Player High Score",
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "PERO",
+        "id": 7
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "W2 - 2720.70 - PERO — 2720.70 points. like a jag"
+      ],
+      "week": 2,
+      "points": 2720.7
+    }
+  },
+  {
+    "date": "2015-10-23T13:54:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to NATE",
+    "trophy": {
+      "name": "Hindsight is 20/20",
       "team": {
         "abbrev": "NATE",
         "id": 1
       },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
     },
     "details": {
       "notes": [
-        "W1 - JJ WATT - 335 — 335 painful points for putting the hurt on."
+        "W1 - John Brown - 325 —"
       ],
-      "week": -1,
-      "points": 0,
+      "week": 1,
+      "points": 325,
       "player": {
-        "firstName": "JJ",
-        "lastName": "WATT"
+        "firstName": "John",
+        "lastName": "Brown"
       }
     }
   },
   {
-    "date": "0007-09-20T04:00:00Z",
+    "date": "2015-10-23T13:54:00Z",
+    "season": 2015,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to JJHO",
+    "subTypeText": "Hindsight is 20/20 awarded to NATE",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "W2 - Stephen Gostkowski - 355 —"
+      ],
+      "week": 2,
+      "points": 355,
+      "player": {
+        "firstName": "Stephen",
+        "lastName": "Gostkowski"
+      }
+    }
+  },
+  {
+    "date": "2015-10-23T13:55:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to WEAV",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "WEAV",
+        "id": 12
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "W3 -  Brandon Marshall - 310 —"
+      ],
+      "week": 3,
+      "points": 310,
+      "player": {
+        "firstName": "Brandon",
+        "lastName": "Marshall"
+      }
+    }
+  },
+  {
+    "date": "2015-10-23T13:55:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to JROD",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "JROD",
+        "id": 11
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "W4 - Chandler Catanzaro - 365  —"
+      ],
+      "week": 4,
+      "points": 365,
+      "player": {
+        "firstName": "Chandler",
+        "lastName": "Catanzaro"
+      }
+    }
+  },
+  {
+    "date": "2015-10-23T13:56:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to NATE",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "W5 - Tony Jefferson - 275 —"
+      ],
+      "week": 5,
+      "points": 275,
+      "player": {
+        "firstName": "Tony",
+        "lastName": "Jefferson"
+      }
+    }
+  },
+  {
+    "date": "2015-10-23T13:57:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to PERO",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "PERO",
+        "id": 7
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "W6 - Matavis Bryant - 328 —"
+      ],
+      "week": 6,
+      "points": 328,
+      "player": {
+        "firstName": "Matavis",
+        "lastName": "Bryant"
+      }
+    }
+  },
+  {
+    "date": "2015-10-23T13:58:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to NATE",
     "trophy": {
       "name": "Special Team High Score",
       "team": {
-        "abbrev": "JJHO",
-        "id": 2
+        "abbrev": "NATE",
+        "id": 1
       },
       "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
       "id": 10
     },
     "details": {
       "notes": [
-        "W1 - Matt Bryant - 325 —"
+        "W3 - Stephen Gostkowski - 305 — Fucking GZ* dziedzicki motherfucker - 305"
       ],
-      "week": -1,
-      "points": 0,
+      "week": 3,
+      "points": 305,
+      "player": {
+        "firstName": "Stephen",
+        "lastName": "Gostkowski"
+      }
+    }
+  },
+  {
+    "date": "2015-10-23T13:58:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to JROD",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "JROD",
+        "id": 11
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "W4 - Bryan Anger - 331.4 —"
+      ],
+      "week": 4,
+      "points": 331.4,
+      "player": {
+        "firstName": "Bryan",
+        "lastName": "Anger"
+      }
+    }
+  },
+  {
+    "date": "2015-10-23T13:59:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to NATE",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "W5 - Steven Ghostowski - 285 —"
+      ],
+      "week": 5,
+      "points": 285,
+      "player": {
+        "firstName": "Steven",
+        "lastName": "Ghostowski"
+      }
+    }
+  },
+  {
+    "date": "2015-10-23T13:59:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to DUBS",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "DUBS",
+        "id": 6
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "W6 - Phil Dawson - 310 — Sounds like a douchey announcer - 310"
+      ],
+      "week": 6,
+      "points": 310,
+      "player": {
+        "firstName": "Phil",
+        "lastName": "Dawson"
+      }
+    }
+  },
+  {
+    "date": "2015-10-23T14:00:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to PERO",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "PERO",
+        "id": 7
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "W3 - Paul Posluszny - 370 —"
+      ],
+      "week": 3,
+      "points": 370,
+      "player": {
+        "firstName": "Paul",
+        "lastName": "Posluszny"
+      }
+    }
+  },
+  {
+    "date": "2015-10-23T14:00:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to JJHO",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "JJHO",
+        "id": 2
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "W4 - Josh Norman - 330 —"
+      ],
+      "week": 4,
+      "points": 330,
+      "player": {
+        "firstName": "Josh",
+        "lastName": "Norman"
+      }
+    }
+  },
+  {
+    "date": "2015-10-23T14:01:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to JROD",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "JROD",
+        "id": 11
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "W5 - NaVorro Bowman - 355 — Whatever"
+      ],
+      "week": 5,
+      "points": 355,
+      "player": {
+        "firstName": "NaVorro",
+        "lastName": "Bowman"
+      }
+    }
+  },
+  {
+    "date": "2015-10-23T14:01:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to WEAV",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "WEAV",
+        "id": 12
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "W6 - Michael Wilhoite - 365 — Stupid"
+      ],
+      "week": 6,
+      "points": 365,
+      "player": {
+        "firstName": "Michael",
+        "lastName": "Wilhoite"
+      }
+    }
+  },
+  {
+    "date": "2015-10-23T14:02:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to EBBY",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "EBBY",
+        "id": 5
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "W3 - A.J. Green - 432 —"
+      ],
+      "week": 3,
+      "points": 432,
+      "player": {
+        "firstName": "A.J.",
+        "lastName": "Green"
+      }
+    }
+  },
+  {
+    "date": "2015-10-23T14:02:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to JJHO",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "JJHO",
+        "id": 2
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "W4 - Devonte Freeman - 314 — I own you"
+      ],
+      "week": 4,
+      "points": 314,
+      "player": {
+        "firstName": "Devonte",
+        "lastName": "Freeman"
+      }
+    }
+  },
+  {
+    "date": "2015-10-23T14:04:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to DANK",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "DANK",
+        "id": 4
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "W5 - Eli Manning - 350.3 — tard."
+      ],
+      "week": 5,
+      "points": 350.3,
+      "player": {
+        "firstName": "Eli",
+        "lastName": "Manning"
+      }
+    }
+  },
+  {
+    "date": "2015-10-23T14:06:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to DUBS",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "DUBS",
+        "id": 6
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "W6 - DeAndre Hopkins - 318 — DeAndre Whatever"
+      ],
+      "week": 6,
+      "points": 318,
+      "player": {
+        "firstName": "DeAndre",
+        "lastName": "Hopkins"
+      }
+    }
+  },
+  {
+    "date": "2015-10-23T14:06:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to EBBY",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "EBBY",
+        "id": 5
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "W3 - 2997.7 - EBBY — Ebber-what? Ebber-who?",
+        "2997.7 - Still no 3k"
+      ],
+      "week": 3,
+      "points": 2997.7
+    }
+  },
+  {
+    "date": "2015-10-23T14:08:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to HURL",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "W4 - 2878.9 - HURL — Welcome back from the dead"
+      ],
+      "week": 4,
+      "points": 2878.9
+    }
+  },
+  {
+    "date": "2015-10-23T14:09:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to WEAV",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "WEAV",
+        "id": 12
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "W5 - 2949.5 - WEAV — Weaver-what? Weaver-who?",
+        "Weaver-high? 2949.5 - still not 3k"
+      ],
+      "week": 5,
+      "points": 2949.5
+    }
+  },
+  {
+    "date": "2015-10-23T14:09:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to JROD",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "JROD",
+        "id": 11
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "W6 - 3029.3 - JROD — 3029.3, one of 2 3k winners."
+      ],
+      "week": 6,
+      "points": 3029.3
+    }
+  },
+  {
+    "date": "2015-10-28T11:23:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to HURL",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "W7 - TY Hilton - 337 —"
+      ],
+      "week": 7,
+      "points": 337,
+      "player": {
+        "firstName": "TY",
+        "lastName": "Hilton"
+      }
+    }
+  },
+  {
+    "date": "2015-10-28T11:23:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to PERO",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "PERO",
+        "id": 7
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "W7 - Blair Walsh - 340 —"
+      ],
+      "week": 7,
+      "points": 340,
+      "player": {
+        "firstName": "Blair",
+        "lastName": "Walsh"
+      }
+    }
+  },
+  {
+    "date": "2015-10-28T11:25:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to FRYE",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "FRYE",
+        "id": 8
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "W7 - Telvin Smith - 425 — Telvin? - 425"
+      ],
+      "week": 7,
+      "points": 425,
+      "player": {
+        "firstName": "Telvin",
+        "lastName": "Smith"
+      }
+    }
+  },
+  {
+    "date": "2015-10-28T11:25:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to BROK",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "BROK",
+        "id": 10
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "W7 - Lamar Miller - 420 — Lamar Miller 420"
+      ],
+      "week": 7,
+      "points": 420,
+      "player": {
+        "firstName": "Lamar",
+        "lastName": "Miller"
+      }
+    }
+  },
+  {
+    "date": "2015-10-28T11:26:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to FRYE",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "FRYE",
+        "id": 8
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "W7 - 2924.2 - FRYE —"
+      ],
+      "week": 7,
+      "points": 2924.2
+    }
+  },
+  {
+    "date": "2015-11-04T13:52:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to HURL",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "W8 - Carson Palmer - 334.2 —"
+      ],
+      "week": 8,
+      "points": 334.2,
+      "player": {
+        "firstName": "Carson",
+        "lastName": "Palmer"
+      }
+    }
+  },
+  {
+    "date": "2015-11-04T13:53:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to HURL",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "W8 - Justin Tucker - 380  — Jason Tucker, Child Fucker"
+      ],
+      "week": 8,
+      "points": 380,
+      "player": {
+        "firstName": "Justin",
+        "lastName": "Tucker"
+      }
+    }
+  },
+  {
+    "date": "2015-11-04T13:53:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to EBBY",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "EBBY",
+        "id": 5
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "W8 - Luke Kuechly - 380 — Tha Faq?",
+        "",
+        "380"
+      ],
+      "week": 8,
+      "points": 380,
+      "player": {
+        "firstName": "Luke",
+        "lastName": "Kuechly"
+      }
+    }
+  },
+  {
+    "date": "2015-11-04T13:54:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to BROK",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "BROK",
+        "id": 10
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "W8 - Drew Brees - 485.5 — I mean, you couldn't even muster a win with a nearly 500 point QB? kill yo-self."
+      ],
+      "week": 8,
+      "points": 485.5,
+      "player": {
+        "firstName": "Drew",
+        "lastName": "Brees"
+      }
+    }
+  },
+  {
+    "date": "2015-11-04T13:55:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to PERO",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "PERO",
+        "id": 7
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "W8 - 2715.1 - PERO — Great- now go blow each other.",
+        "2715.1 - it's not 3k. LOSER."
+      ],
+      "week": 8,
+      "points": 2715.1
+    }
+  },
+  {
+    "date": "2015-11-11T14:48:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to JJHO",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "JJHO",
+        "id": 2
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "W9 - Matt Bosher - 370.8 —"
+      ],
+      "week": 9,
+      "points": 370.8,
       "player": {
         "firstName": "Matt",
-        "lastName": "Bryant"
+        "lastName": "Bosher"
+      }
+    }
+  },
+  {
+    "date": "2015-11-11T14:48:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to DUBS",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "DUBS",
+        "id": 6
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "W9 - Greg Zuerlein - 345 —"
+      ],
+      "week": 9,
+      "points": 345,
+      "player": {
+        "firstName": "Greg",
+        "lastName": "Zuerlein"
+      }
+    }
+  },
+  {
+    "date": "2015-11-11T14:49:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to JJHO",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "JJHO",
+        "id": 2
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "W9 - Antonio Brown- 442 — Antonio Brown- 442 - JJ"
+      ],
+      "week": 9,
+      "points": 442,
+      "player": {
+        "firstName": "Antonio",
+        "lastName": "Brown"
+      }
+    }
+  },
+  {
+    "date": "2015-11-11T14:49:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to EBBY",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "EBBY",
+        "id": 5
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "W9 - TJ Ward - 325 — TJ Ward - 325 - Eberhardt"
+      ],
+      "week": 9,
+      "points": 325,
+      "player": {
+        "firstName": "TJ",
+        "lastName": "Ward"
+      }
+    }
+  },
+  {
+    "date": "2015-11-11T14:49:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to DUBS",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "DUBS",
+        "id": 6
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "W9 - 2920.5 - DUBS —"
+      ],
+      "week": 9,
+      "points": 2920.5
+    }
+  },
+  {
+    "date": "2015-11-24T18:17:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to PERO",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "PERO",
+        "id": 7
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "W10 - 2667.6 - PERO — Balls"
+      ],
+      "week": 10,
+      "points": 2667.6
+    }
+  },
+  {
+    "date": "2015-11-24T18:17:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to DUBS",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "DUBS",
+        "id": 6
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "W10 - Jeremy Langford - 368 — 368"
+      ],
+      "week": 10,
+      "points": 368,
+      "player": {
+        "firstName": "Jeremy",
+        "lastName": "Langford"
+      }
+    }
+  },
+  {
+    "date": "2015-11-24T18:18:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to FUCK",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "FUCK",
+        "id": 9
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "W10 - Ha Ha Clinton-Dix - 315 — 315"
+      ],
+      "week": 10,
+      "points": 315,
+      "player": {
+        "firstName": "Ha",
+        "lastName": "Ha ClintonDix"
+      }
+    }
+  },
+  {
+    "date": "2015-11-24T18:18:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to DUBS",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "DUBS",
+        "id": 6
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "W10 - Sam Martin - 284.4 —"
+      ],
+      "week": 10,
+      "points": 284.4,
+      "player": {
+        "firstName": "Sam",
+        "lastName": "Martin"
+      }
+    }
+  },
+  {
+    "date": "2015-11-24T18:19:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to FRYE",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "FRYE",
+        "id": 8
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "W10 - Cairo Santos - 405 —"
+      ],
+      "week": 10,
+      "points": 405,
+      "player": {
+        "firstName": "Cairo",
+        "lastName": "Santos"
+      }
+    }
+  },
+  {
+    "date": "2015-12-23T00:45:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to FRYE",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "FRYE",
+        "id": 8
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "W12 - Graham Gano - 365 —"
+      ],
+      "week": 12,
+      "points": 365,
+      "player": {
+        "firstName": "Graham",
+        "lastName": "Gano"
+      }
+    }
+  },
+  {
+    "date": "2015-12-23T00:45:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to JROD",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "JROD",
+        "id": 11
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "W11 - Mason Crosby - 440 —"
+      ],
+      "week": 11,
+      "points": 440,
+      "player": {
+        "firstName": "Mason",
+        "lastName": "Crosby"
+      }
+    }
+  },
+  {
+    "date": "2015-12-23T00:46:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to JJHO",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "JJHO",
+        "id": 2
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "W13 - Marcus Mariota - 362.4  —"
+      ],
+      "week": 13,
+      "points": 362.4,
+      "player": {
+        "firstName": "Marcus",
+        "lastName": "Mariota"
+      }
+    }
+  },
+  {
+    "date": "2015-12-23T00:54:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to FUCK",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "FUCK",
+        "id": 9
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "W11 - 2470.8 - TOBY —"
+      ],
+      "week": 11,
+      "points": 2470.8
+    }
+  },
+  {
+    "date": "2015-12-23T00:54:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to HURL",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "W12 - 2529.1 - HURL —"
+      ],
+      "week": 12,
+      "points": 2529.1
+    }
+  },
+  {
+    "date": "2015-12-23T00:55:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to PERO",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "PERO",
+        "id": 7
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "W13 - 3264.5 - PERO —"
+      ],
+      "week": 13,
+      "points": 3264.5
+    }
+  },
+  {
+    "date": "2015-12-23T00:59:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "TLOEI Regular Season Champion awarded to PERO",
+    "trophy": {
+      "name": "TLOEI Regular Season Champion",
+      "team": {
+        "abbrev": "PERO",
+        "id": 7
+      },
+      "type": "YEARLY_REGULAR_SEASON_CHAMPION",
+      "id": 2
+    },
+    "details": {
+      "notes": [
+        "Regular Season Champ - PERO — two losses, it's like you didn't even win."
+      ]
+    }
+  },
+  {
+    "date": "2015-12-23T01:00:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "TLOEI Regular Season Runner Up awarded to EBBY",
+    "trophy": {
+      "name": "TLOEI Regular Season Runner Up",
+      "team": {
+        "abbrev": "EBBY",
+        "id": 5
+      },
+      "type": "YEARLY_REGULAR_SEASON_RUNNER_UP",
+      "id": 3
+    },
+    "details": {
+      "notes": [
+        "Regular Season R/U - EBBY — by a nose."
+      ]
+    }
+  },
+  {
+    "date": "2015-12-23T01:16:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to EBBY",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "EBBY",
+        "id": 5
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "W11 - Dustin Colquitt - 290.6 —"
+      ],
+      "week": 11,
+      "points": 290.6,
+      "player": {
+        "firstName": "Dustin",
+        "lastName": "Colquitt"
+      }
+    }
+  },
+  {
+    "date": "2015-12-23T01:17:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to NATE",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "W12 - Ryan Allen - 305  —"
+      ],
+      "week": 12,
+      "points": 305,
+      "player": {
+        "firstName": "Ryan",
+        "lastName": "Allen"
+      }
+    }
+  },
+  {
+    "date": "2015-12-23T01:18:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to DUBS",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "DUBS",
+        "id": 6
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "W13 - Chris Boswell - 325 —"
+      ],
+      "week": 13,
+      "points": 325,
+      "player": {
+        "firstName": "Chris",
+        "lastName": "Boswell"
+      }
+    }
+  },
+  {
+    "date": "2015-12-28T02:02:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to WEAV",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "WEAV",
+        "id": 12
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "W14 - 2946 - WEAV —"
+      ],
+      "week": 14,
+      "points": 2946
+    }
+  },
+  {
+    "date": "2015-12-28T02:04:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to PERO",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "PERO",
+        "id": 7
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "W15 - 3105 - PERO —"
+      ],
+      "week": 15,
+      "points": 3105
+    }
+  },
+  {
+    "date": "2015-12-28T02:06:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to FRYE",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "FRYE",
+        "id": 8
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "W14 - Marquette King - 402 —"
+      ],
+      "week": 14,
+      "points": 402,
+      "player": {
+        "firstName": "Marquette",
+        "lastName": "King"
+      }
+    }
+  },
+  {
+    "date": "2015-12-28T02:07:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to BROK",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "BROK",
+        "id": 10
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "W15 - Kirk Cousins - 360.7 —"
+      ],
+      "week": 15,
+      "points": 360.7,
+      "player": {
+        "firstName": "Kirk",
+        "lastName": "Cousins"
+      }
+    }
+  },
+  {
+    "date": "2015-12-28T02:08:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to DUBS",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "DUBS",
+        "id": 6
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "W14 - Chris Boswell - 340 —"
+      ],
+      "week": 14,
+      "points": 340,
+      "player": {
+        "firstName": "Chris",
+        "lastName": "Boswell"
+      }
+    }
+  },
+  {
+    "date": "2015-12-28T02:08:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to NATE",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "W15 - Stephen Gostkowski - 315 —"
+      ],
+      "week": 15,
+      "points": 315,
+      "player": {
+        "firstName": "Stephen",
+        "lastName": "Gostkowski"
+      }
+    }
+  },
+  {
+    "date": "2015-12-28T02:16:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to DUBS",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "DUBS",
+        "id": 6
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "W11 - DeAndre Hopkins - 298 —"
+      ],
+      "week": 11,
+      "points": 298,
+      "player": {
+        "firstName": "DeAndre",
+        "lastName": "Hopkins"
+      }
+    }
+  },
+  {
+    "date": "2015-12-28T02:16:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to PERO",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "PERO",
+        "id": 7
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "W12 - Doug Baldwin - 378 —"
+      ],
+      "week": 12,
+      "points": 378,
+      "player": {
+        "firstName": "Doug",
+        "lastName": "Baldwin"
+      }
+    }
+  },
+  {
+    "date": "2015-12-28T02:16:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to JJHO",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "JJHO",
+        "id": 2
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "W13 - Antonio Brown - 431 —"
+      ],
+      "week": 13,
+      "points": 431,
+      "player": {
+        "firstName": "Antonio",
+        "lastName": "Brown"
+      }
+    }
+  },
+  {
+    "date": "2015-12-28T02:17:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to WEAV",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "WEAV",
+        "id": 12
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "W14 - Odell Beckham Jr. - 352 —"
+      ],
+      "week": 14,
+      "points": 352,
+      "player": {
+        "firstName": "Odell",
+        "lastName": "Beckham Jr."
+      }
+    }
+  },
+  {
+    "date": "2015-12-28T02:17:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to HURL",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "W15 - David Johnson - 426 —"
+      ],
+      "week": 15,
+      "points": 426,
+      "player": {
+        "firstName": "David",
+        "lastName": "Johnson"
+      }
+    }
+  },
+  {
+    "date": "2015-12-28T02:34:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to PERO",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "PERO",
+        "id": 7
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "W11 - Lavonte David - 355 —"
+      ],
+      "week": 11,
+      "points": 355,
+      "player": {
+        "firstName": "Lavonte",
+        "lastName": "David"
+      }
+    }
+  },
+  {
+    "date": "2015-12-28T02:35:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to EBBY",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "EBBY",
+        "id": 5
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "W12 - Tyrann Mathieu - 390 —"
+      ],
+      "week": 12,
+      "points": 390,
+      "player": {
+        "firstName": "Tyrann",
+        "lastName": "Mathieu"
+      }
+    }
+  },
+  {
+    "date": "2015-12-28T02:35:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to DUBS",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "DUBS",
+        "id": 6
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "W13 - Derrick Johnson - 415 —"
+      ],
+      "week": 13,
+      "points": 415,
+      "player": {
+        "firstName": "Derrick",
+        "lastName": "Johnson"
+      }
+    }
+  },
+  {
+    "date": "2015-12-28T02:38:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to PERO",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "PERO",
+        "id": 7
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "W14 - Lavonte David - 330 —"
+      ],
+      "week": 14,
+      "points": 330,
+      "player": {
+        "firstName": "Lavonte",
+        "lastName": "David"
+      }
+    }
+  },
+  {
+    "date": "2015-12-28T02:39:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to WEAV",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "WEAV",
+        "id": 12
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "W15 - Deone Bucannon - 375 —"
+      ],
+      "week": 15,
+      "points": 375,
+      "player": {
+        "firstName": "Deone",
+        "lastName": "Bucannon"
       }
     }
   }

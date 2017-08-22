@@ -1,6 +1,8 @@
 /* eslint-disable no-nested-ternary,no-plusplus */
 import cheerio from 'cheerio';
 import mirrorkey from 'mirrorkey';
+import math from 'mathjs';
+
 import config from '../../../../config';
 import tagsArray from '../../../../config/tags.json';
 import { parseUrl, parseKeyFromUrl } from '../../../utils/urls';
@@ -18,9 +20,9 @@ const parseValueFromStringByRegex = (str, reg, fallback, castType) => {
   if (matches && matches.length && matches.length >= 2) {
     switch (castType) {
       case 'int':
-        return ~~matches[1]; // eslint-disable-line no-bitwise
+        return math.eval(matches[1]);
       case 'float':
-        return parseFloat(matches[1], 10);
+        return parseFloat(math.eval(matches[1]), 10);
       default:
         return matches[1].trim();
     }

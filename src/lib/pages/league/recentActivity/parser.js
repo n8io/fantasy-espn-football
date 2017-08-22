@@ -1,13 +1,12 @@
 import $ from 'cheerio';
 import moment from 'moment-timezone';
+import math from 'mathjs';
 
-import config from '../../../../config';
 import { parseKeyFromUrl } from '../../../utils/urls';
 import activityTypes from '../../../../config/leagueActivityTypes.json';
 import trophyTypes from '../../../../config/trophyTypes.json';
 import rosterActionTypes from '../../../../config/rosterActionTypes.json';
-
-const { espn: { season } } = config;
+import { dumbLogger as log } from '../../../utils/domLogger';
 
 const normalizeType = (typeMap, str, ignoreMismatch, unknownMsgPrefix) => {
   const type = (str || '')
@@ -16,7 +15,7 @@ const normalizeType = (typeMap, str, ignoreMismatch, unknownMsgPrefix) => {
     .replace(/[^A-Z ]/gi, ' ') // Convert non-alphanumerics to spaces
     .replace(/([ ]+)/gi, ' ') // Replace multiple consecutive spaces with singles
     .trim() // Remove wrapping spaces
-    .replace(/[ ]/gi, '_'); // Replace single spaces with underscores
+    .replace(/[ ]+/gi, '_'); // Replace single spaces with underscores
 
   if (typeMap[type]) {
     return typeMap[type];
@@ -36,8 +35,17 @@ const normalizeTrophyType = (typeStr, ignoreMismatch) =>
   normalizeType(trophyTypes, typeStr, ignoreMismatch, 'Could not determine trophy type: ');
 
 const normalizeNotes = cell => {
-  const html = $(cell).html().replace(/<br>/gi, '\n');
-  const notes = $(html).text().split('\n').map(s => s.replace(/congrats?[!]*[ ]*[-—]?[ ]*/gi, '').trim());
+  let html = $(cell).html().replace(/<br>/gi, '\n');
+
+  if (html.indexOf('<') === -1) {
+    html = `<div>${html}</div>`; // Wrap so we can pull the text out
+  }
+
+  const notes = $(html)
+    .text()
+    .split('\n')
+    .map(s => s.replace(/congrats?[!]*[ ]*[-—]?[ ]*/gi, '').trim())
+    .filter(note => !!note);
 
   return notes;
 };
@@ -50,11 +58,11 @@ const parseValueFromStringByRegex = (str, reg, fallback, castType) => {
   if (matches && matches.length && matches.length >= 2) {
     switch (castType) {
       case 'int':
-        return ~~matches[1]; // eslint-disable-line no-bitwise
+        return math.eval(matches[1]);
       case 'float':
-        return parseFloat(matches[1], 10);
+        return parseFloat(math.eval(matches[1]), 10);
       default:
-        return matches[1].trim();
+        return (matches[1] || fallback || '').trim().replace(/[ ]+/g, ' ');
     }
   }
 
@@ -62,31 +70,51 @@ const parseValueFromStringByRegex = (str, reg, fallback, castType) => {
 };
 
 const parseWeekFromString = str => {
-  const reg = /we*k[ ]+([0-9]+)[ ]*/gi;
+  const reg = /W[E]*[K]?[ ]*([0-9]{1,2})/gi;
 
-  return parseValueFromStringByRegex(str, reg, -1, 'int');
+  const week = parseValueFromStringByRegex(str, reg, -1, 'int');
+
+  if (week === -1) {
+    log(`  ⚠️ Week could not be determined from text: ${str}`);
+  }
+
+  return week;
 };
 
 const parsePointsFromString = str => {
-  const reg = /[-—]?([0-9]+([.][0-9]+)?)[ ]*pts?[-—]?/gi;
+  const reg = /([1-9][0-9]{2,4}([.][0-9]+)?)/gi;
 
-  return parseValueFromStringByRegex(str, reg, 0.0, 'float');
-};
+  const pts = parseValueFromStringByRegex(str, reg, 0.0, 'float');
 
-const parseYearFromString = str => {
-  const reg = /(2[0-9]{3})/gi;
+  if (pts === 0) {
+    log(`  ⚠️ Points could not be determined from text: ${str}`);
+  }
 
-  return parseValueFromStringByRegex(str, reg, -1, 'int');
+  return pts;
 };
 
 const parsePlayerNameFromString = str => {
-  const reg = /[-—][ ]*([A-Z'-]+([ ][A-Z']+)*)[ ]*[-—]?/gi;
+  const reg = /^(?!(W[E]*[K]?[ ]*[0-9]+[ ]*[-—]?[ ]*))(([a-z'-.]+)([ ]+[a-z'-.]+))*|[-—][ ]*([a-z'-.]+([ ][a-z'-.]+)*)[ ]*[-—]|[-—][ ]*([a-z'-.]+([ ][a-z'-.]+)*)[ ]*[0-9]|W[E]*[K]?[ ]* [0-9]{1,2} ([A-Z.' ]+)/gim;
 
-  const fullName = parseValueFromStringByRegex(str, reg);
+  const matches = reg.exec(str);
+  const hasMatch = matches && matches.length;
 
-  if (!fullName) {
-    return {};
+  let match = '';
+  if (!hasMatch) {
+    log(`  ⚠️ Could not find player name in the following string: ${str}`);
+    console.log(JSON.stringify(matches, null, 2));
+    throw new Error();
+  } else if (matches[9]) {
+    match = matches[9];
+  } else if (matches[7]) {
+    match = matches[7];
+  } else if (matches[5]) {
+    match = matches[5];
+  } else if (matches[2]) {
+    match = matches[2];
   }
+
+  const fullName = match.replace(/[ ]+/g, ' ').replace(/[-]+/g, '').trim().replace(/(['][s]|[s]['])$/g, '');
 
   const parts = fullName.split(' ');
   const [firstName, ...lastNames] = parts;
@@ -104,7 +132,7 @@ const parseTrophyFromString = str => {
   if (matches && matches.length && matches.length > 2) {
     trophy = {
       ...trophy,
-      name: matches[matches.length - 2],
+      name: matches[matches.length - 2].replace(/[ ]+/g, ' '),
       team: { abbrev: matches[matches.length - 1] },
       type: normalizeTrophyType(matches[matches.length - 2]),
     };
@@ -135,11 +163,11 @@ const parseTradeTypeFromString = str => {
   return tradeType;
 };
 
-const parseDateCell = cell => {
-  const dateStr = ($(cell).html() || '').replace(/<br>/g, ` ${season}, `);
-  const date = moment(dateStr, 'ddd, MMM D YYYY, HH:mm A');
+const parseDateCell = (cell, seasonId) => {
+  const dateStr = ($(cell).html() || '').replace(/<br>/g, ` ${seasonId}, `);
+  const date = moment.tz(dateStr, 'ddd, MMM D YYYY, H:mm A', 'America/New_York');
   const activity = {
-    date: (date.month() <= 1 ? date.add(-1, 'year') : date).utc().format(),
+    date: (date.month() <= 1 ? date.add(1, 'year') : date).utc().format(),
   };
 
   return activity;
@@ -224,27 +252,33 @@ const parseActivityDetails = ({ type, subType, trophy }, cell) => {
     notes,
   };
 
+  let week = -1;
+  let points = 0;
+
   switch (type) {
     case activityTypes.ROSTER_TRANSACTION:
       details = { ...details, moves: parseRosterMove(cell) };
       break;
     case activityTypes.TROPHY_AWARDED:
       if (subType === activityTypes.TROPHY_WEEKLY) {
-        details = {
-          ...details,
-          week: parseWeekFromString(text),
-          points: parsePointsFromString(text),
-        };
+        if (trophy.type !== trophyTypes.WEEKLY_NON_PARTICIPANT) {
+          week = parseWeekFromString(text);
+          points = parsePointsFromString(text);
+
+          details = {
+            ...details,
+            week,
+            points,
+          };
+        }
 
         const isWeeklyPlayerTrophy =
           trophy.type.startsWith('WEEKLY') && ['WEEKLY_TEAM_HIGHEST_POINTS'].indexOf(trophy.type) === -1;
 
-        if (isWeeklyPlayerTrophy) {
+        if (week && points && isWeeklyPlayerTrophy) {
           details.player = parsePlayerNameFromString(text);
         }
       } else if (subType === activityTypes.TROPHY_YEARLY) {
-        details.year = parseYearFromString(text);
-
         const isYearlyPlayerTrophy =
           trophy.type.startsWith('YEARLY') &&
           [
@@ -269,7 +303,7 @@ const parseActivityDetails = ({ type, subType, trophy }, cell) => {
 
 export const selector = 'table.tableBody';
 
-export const parseRow = row => {
+export const parseRow = (row, season) => {
   const cells = $(row).find('td');
 
   const isMessageBoardPost = $(cells[1]).text().toLowerCase().indexOf('posted') > -1;
@@ -279,7 +313,8 @@ export const parseRow = row => {
   }
 
   const activity = {
-    ...parseDateCell(cells[0]),
+    ...parseDateCell(cells[0], season),
+    season,
     ...parseTypeAndTrophyCell(cells[1]),
   };
 

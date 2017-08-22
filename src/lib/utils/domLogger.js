@@ -50,4 +50,10 @@ const domLogger = async (message, page) => {
   }
 };
 
+export const dumbLogger = message => {
+  const now = moment.tz('America/New_York').format('ddd MMM HH:mm:ss z YYYY');
+
+  console.log(`${now}: ${message}`); // eslint-disable-line no-console
+};
+
 export default domLogger;
