@@ -5,7 +5,7 @@
       {
         "awayTeam": {
           "id": 11,
-          "name": "Frisky  Dingo",
+          "name": "Frisky Dingo",
           "record": {
             "wins": 0,
             "losses": 0
@@ -29,6 +29,7 @@
         },
         "tags": [
           "WEEK_1",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -60,6 +61,7 @@
         },
         "tags": [
           "WEEK_1",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -90,6 +92,7 @@
         },
         "tags": [
           "WEEK_1",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -109,7 +112,7 @@
         },
         "homeTeam": {
           "id": 3,
-          "name": "Chicken  Dinner",
+          "name": "Chicken Dinner",
           "record": {
             "wins": 0,
             "losses": 0
@@ -121,6 +124,7 @@
         },
         "tags": [
           "WEEK_1",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -151,6 +155,7 @@
         },
         "tags": [
           "WEEK_1",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -182,6 +187,7 @@
         },
         "tags": [
           "WEEK_1",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -221,6 +227,7 @@
         },
         "tags": [
           "WEEK_2",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -240,7 +247,7 @@
         },
         "homeTeam": {
           "id": 11,
-          "name": "Frisky  Dingo",
+          "name": "Frisky Dingo",
           "record": {
             "wins": 0,
             "losses": 0
@@ -252,6 +259,7 @@
         },
         "tags": [
           "WEEK_2",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -270,7 +278,7 @@
         },
         "homeTeam": {
           "id": 3,
-          "name": "Chicken  Dinner",
+          "name": "Chicken Dinner",
           "record": {
             "wins": 0,
             "losses": 0
@@ -282,6 +290,7 @@
         },
         "tags": [
           "WEEK_2",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -313,6 +322,7 @@
         },
         "tags": [
           "WEEK_2",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -344,6 +354,7 @@
         },
         "tags": [
           "WEEK_2",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -374,6 +385,7 @@
         },
         "tags": [
           "WEEK_2",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -389,7 +401,7 @@
       {
         "awayTeam": {
           "id": 11,
-          "name": "Frisky  Dingo",
+          "name": "Frisky Dingo",
           "record": {
             "wins": 0,
             "losses": 0
@@ -413,6 +425,7 @@
         },
         "tags": [
           "WEEK_3",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -444,13 +457,14 @@
         },
         "tags": [
           "WEEK_3",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
       {
         "awayTeam": {
           "id": 3,
-          "name": "Chicken  Dinner",
+          "name": "Chicken Dinner",
           "record": {
             "wins": 0,
             "losses": 0
@@ -474,6 +488,7 @@
         },
         "tags": [
           "WEEK_3",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -505,6 +520,7 @@
         },
         "tags": [
           "WEEK_3",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -535,6 +551,7 @@
         },
         "tags": [
           "WEEK_3",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -565,6 +582,7 @@
         },
         "tags": [
           "WEEK_3",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       }
@@ -603,6 +621,7 @@
         },
         "tags": [
           "WEEK_4",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -621,7 +640,7 @@
         },
         "homeTeam": {
           "id": 11,
-          "name": "Frisky  Dingo",
+          "name": "Frisky Dingo",
           "record": {
             "wins": 0,
             "losses": 0
@@ -633,6 +652,7 @@
         },
         "tags": [
           "WEEK_4",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -651,7 +671,7 @@
         },
         "homeTeam": {
           "id": 3,
-          "name": "Chicken  Dinner",
+          "name": "Chicken Dinner",
           "record": {
             "wins": 0,
             "losses": 0
@@ -663,6 +683,7 @@
         },
         "tags": [
           "WEEK_4",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -693,6 +714,7 @@
         },
         "tags": [
           "WEEK_4",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -723,6 +745,7 @@
         },
         "tags": [
           "WEEK_4",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -753,6 +776,7 @@
         },
         "tags": [
           "WEEK_4",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       }
@@ -779,7 +803,7 @@
         },
         "homeTeam": {
           "id": 11,
-          "name": "Frisky  Dingo",
+          "name": "Frisky Dingo",
           "record": {
             "wins": 0,
             "losses": 0
@@ -791,6 +815,7 @@
         },
         "tags": [
           "WEEK_5",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -798,7 +823,7 @@
       {
         "awayTeam": {
           "id": 3,
-          "name": "Chicken  Dinner",
+          "name": "Chicken Dinner",
           "record": {
             "wins": 0,
             "losses": 0
@@ -822,6 +847,7 @@
         },
         "tags": [
           "WEEK_5",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -853,6 +879,7 @@
         },
         "tags": [
           "WEEK_5",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -883,6 +910,7 @@
         },
         "tags": [
           "WEEK_5",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -914,6 +942,7 @@
         },
         "tags": [
           "WEEK_5",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -945,6 +974,7 @@
         },
         "tags": [
           "WEEK_5",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       }
@@ -959,7 +989,7 @@
       {
         "awayTeam": {
           "id": 3,
-          "name": "Chicken  Dinner",
+          "name": "Chicken Dinner",
           "record": {
             "wins": 0,
             "losses": 0
@@ -983,6 +1013,7 @@
         },
         "tags": [
           "WEEK_6",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1013,6 +1044,7 @@
         },
         "tags": [
           "WEEK_6",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1043,13 +1075,14 @@
         },
         "tags": [
           "WEEK_6",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
       {
         "awayTeam": {
           "id": 11,
-          "name": "Frisky  Dingo",
+          "name": "Frisky Dingo",
           "record": {
             "wins": 0,
             "losses": 0
@@ -1073,6 +1106,7 @@
         },
         "tags": [
           "WEEK_6",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1103,6 +1137,7 @@
         },
         "tags": [
           "WEEK_6",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1133,6 +1168,7 @@
         },
         "tags": [
           "WEEK_6",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       }
@@ -1171,6 +1207,7 @@
         },
         "tags": [
           "WEEK_7",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1201,6 +1238,7 @@
         },
         "tags": [
           "WEEK_7",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1231,6 +1269,7 @@
         },
         "tags": [
           "WEEK_7",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1261,13 +1300,14 @@
         },
         "tags": [
           "WEEK_7",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
       {
         "awayTeam": {
           "id": 3,
-          "name": "Chicken  Dinner",
+          "name": "Chicken Dinner",
           "record": {
             "wins": 0,
             "losses": 0
@@ -1291,13 +1331,14 @@
         },
         "tags": [
           "WEEK_7",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
       {
         "awayTeam": {
           "id": 11,
-          "name": "Frisky  Dingo",
+          "name": "Frisky Dingo",
           "record": {
             "wins": 0,
             "losses": 0
@@ -1321,6 +1362,7 @@
         },
         "tags": [
           "WEEK_7",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       }
@@ -1359,13 +1401,14 @@
         },
         "tags": [
           "WEEK_8",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
       {
         "awayTeam": {
           "id": 3,
-          "name": "Chicken  Dinner",
+          "name": "Chicken Dinner",
           "record": {
             "wins": 0,
             "losses": 0
@@ -1377,7 +1420,7 @@
         },
         "homeTeam": {
           "id": 11,
-          "name": "Frisky  Dingo",
+          "name": "Frisky Dingo",
           "record": {
             "wins": 0,
             "losses": 0
@@ -1389,6 +1432,7 @@
         },
         "tags": [
           "WEEK_8",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1419,6 +1463,7 @@
         },
         "tags": [
           "WEEK_8",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1449,6 +1494,7 @@
         },
         "tags": [
           "WEEK_8",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -1480,6 +1526,7 @@
         },
         "tags": [
           "WEEK_8",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1510,6 +1557,7 @@
         },
         "tags": [
           "WEEK_8",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -1549,6 +1597,7 @@
         },
         "tags": [
           "WEEK_9",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1579,6 +1628,7 @@
         },
         "tags": [
           "WEEK_9",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1597,7 +1647,7 @@
         },
         "homeTeam": {
           "id": 3,
-          "name": "Chicken  Dinner",
+          "name": "Chicken Dinner",
           "record": {
             "wins": 0,
             "losses": 0
@@ -1609,6 +1659,7 @@
         },
         "tags": [
           "WEEK_9",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1639,6 +1690,7 @@
         },
         "tags": [
           "WEEK_9",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1669,13 +1721,14 @@
         },
         "tags": [
           "WEEK_9",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
       {
         "awayTeam": {
           "id": 11,
-          "name": "Frisky  Dingo",
+          "name": "Frisky Dingo",
           "record": {
             "wins": 0,
             "losses": 0
@@ -1699,6 +1752,7 @@
         },
         "tags": [
           "WEEK_9",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       }
@@ -1737,6 +1791,7 @@
         },
         "tags": [
           "WEEK_10",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1755,7 +1810,7 @@
         },
         "homeTeam": {
           "id": 11,
-          "name": "Frisky  Dingo",
+          "name": "Frisky Dingo",
           "record": {
             "wins": 0,
             "losses": 0
@@ -1767,6 +1822,7 @@
         },
         "tags": [
           "WEEK_10",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1797,6 +1853,7 @@
         },
         "tags": [
           "WEEK_10",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1827,13 +1884,14 @@
         },
         "tags": [
           "WEEK_10",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
       {
         "awayTeam": {
           "id": 3,
-          "name": "Chicken  Dinner",
+          "name": "Chicken Dinner",
           "record": {
             "wins": 0,
             "losses": 0
@@ -1857,6 +1915,7 @@
         },
         "tags": [
           "WEEK_10",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1887,6 +1946,7 @@
         },
         "tags": [
           "WEEK_10",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       }
@@ -1925,6 +1985,7 @@
         },
         "tags": [
           "WEEK_11",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1943,7 +2004,7 @@
         },
         "homeTeam": {
           "id": 3,
-          "name": "Chicken  Dinner",
+          "name": "Chicken Dinner",
           "record": {
             "wins": 0,
             "losses": 0
@@ -1955,6 +2016,7 @@
         },
         "tags": [
           "WEEK_11",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -1985,13 +2047,14 @@
         },
         "tags": [
           "WEEK_11",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
       {
         "awayTeam": {
           "id": 11,
-          "name": "Frisky  Dingo",
+          "name": "Frisky Dingo",
           "record": {
             "wins": 0,
             "losses": 0
@@ -2015,6 +2078,7 @@
         },
         "tags": [
           "WEEK_11",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -2045,6 +2109,7 @@
         },
         "tags": [
           "WEEK_11",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -2075,6 +2140,7 @@
         },
         "tags": [
           "WEEK_11",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       }
@@ -2101,7 +2167,7 @@
         },
         "homeTeam": {
           "id": 11,
-          "name": "Frisky  Dingo",
+          "name": "Frisky Dingo",
           "record": {
             "wins": 0,
             "losses": 0
@@ -2113,6 +2179,7 @@
         },
         "tags": [
           "WEEK_12",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -2144,6 +2211,7 @@
         },
         "tags": [
           "WEEK_12",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -2175,6 +2243,7 @@
         },
         "tags": [
           "WEEK_12",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -2182,7 +2251,7 @@
       {
         "awayTeam": {
           "id": 3,
-          "name": "Chicken  Dinner",
+          "name": "Chicken Dinner",
           "record": {
             "wins": 0,
             "losses": 0
@@ -2206,6 +2275,7 @@
         },
         "tags": [
           "WEEK_12",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -2236,6 +2306,7 @@
         },
         "tags": [
           "WEEK_12",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -2267,6 +2338,7 @@
         },
         "tags": [
           "WEEK_12",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       }
@@ -2293,7 +2365,7 @@
         },
         "homeTeam": {
           "id": 11,
-          "name": "Frisky  Dingo",
+          "name": "Frisky Dingo",
           "record": {
             "wins": 0,
             "losses": 0
@@ -2305,6 +2377,7 @@
         },
         "tags": [
           "WEEK_13",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -2335,6 +2408,7 @@
         },
         "tags": [
           "WEEK_13",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -2366,6 +2440,7 @@
         },
         "tags": [
           "WEEK_13",
+          "SEASON_2017",
           "REGULAR_SEASON"
         ]
       },
@@ -2384,7 +2459,7 @@
         },
         "homeTeam": {
           "id": 3,
-          "name": "Chicken  Dinner",
+          "name": "Chicken Dinner",
           "record": {
             "wins": 0,
             "losses": 0
@@ -2396,6 +2471,7 @@
         },
         "tags": [
           "WEEK_13",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -2427,6 +2503,7 @@
         },
         "tags": [
           "WEEK_13",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]
@@ -2458,6 +2535,7 @@
         },
         "tags": [
           "WEEK_13",
+          "SEASON_2017",
           "DIVISIONAL_MATCHUP",
           "REGULAR_SEASON"
         ]

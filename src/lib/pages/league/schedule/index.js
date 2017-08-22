@@ -33,7 +33,7 @@ const getSchedule = async (page, seasonId, members) => {
   msg = `📅 203 Parsing league schedule...`;
   await log(msg, page);
 
-  const schedule = parseRows(rows, members);
+  const schedule = parseRows(rows, members, seasonId);
 
   msg = `👍 200 League schedule parsed successfully. Schedule accumulated for ${Object.keys(schedule).length} weeks.`;
   await log(msg, page);

@@ -417,33 +417,58 @@ const historyHeadToHead = (matchups, teamId) => {
     });
 };
 
-const historySeedings = (matchups, teamId) => {
+const historyRegularSeasonPlaces = (matchups, teamId) => {
   const myMatchups = matchups.filter(
     mu => isTeamMatchup(mu, teamId) && getTeamTagsById(mu, teamId).some(t => t.startsWith('SEED_'))
   );
 
-  return myMatchups
-    .reduce((acc, mu) => {
-      const tag = getTeamTagsById(mu, teamId).find(t => t.startsWith('SEED_'));
-      const before = acc.find(item => item.tag === tag) || { tag, count: 0 };
+  const regSeasonPlaces = Array.from(Array(12).keys()).map(k => ~~k + 1).reduce(
+    (acc, place) => ({
+      ...acc,
+      [place]: { count: 0, seasons: [] },
+    }),
+    {}
+  );
 
-      return [
-        ...acc.filter(item => item.tag !== tag),
-        {
-          id: ~~tag.replace(/SEED[_]/, ''),
-          count: before.count + 1,
-        },
-      ];
-    }, [])
-    .sort((a, b) => {
-      if (a.id < b.id) {
-        return -1;
-      } else if (a.id > b.id) {
-        return 1;
-      }
+  return myMatchups.reduce(
+    (acc, mu) => {
+      const place = ~~getTeamTagsById(mu, teamId).find(t => t.startsWith('SEED_')).replace(/SEED[_]/, '');
+      const season = ~~mu.tags.find(t => t.startsWith('SEASON_')).replace(/SEASON[_]/, '');
 
-      return 0;
-    });
+      return {
+        ...acc,
+        [place]: { count: acc[place].count + 1, seasons: [...acc[place].seasons, season] },
+      };
+    },
+    { ...regSeasonPlaces }
+  );
+};
+
+const historyFinalPlaces = (matchups, teamId) => {
+  const myMatchups = matchups.filter(
+    mu => isTeamMatchup(mu, teamId) && getTeamTagsById(mu, teamId).some(t => t.startsWith('PLACE_'))
+  );
+
+  const finalPlaces = Array.from(Array(12).keys()).map(k => ~~k + 1).reduce(
+    (acc, place) => ({
+      ...acc,
+      [place]: { count: 0, seasons: [] },
+    }),
+    {}
+  );
+
+  return myMatchups.reduce(
+    (acc, mu) => {
+      const place = ~~getTeamTagsById(mu, teamId).find(t => t.startsWith('PLACE_')).replace(/PLACE[_]/, '');
+      const season = ~~mu.tags.find(t => t.startsWith('SEASON_')).replace(/SEASON[_]/, '');
+
+      return {
+        ...acc,
+        [place]: { count: acc[place].count + 1, seasons: [...acc[place].seasons, season] },
+      };
+    },
+    { ...finalPlaces }
+  );
 };
 
 const leagueSummary = () =>
@@ -459,7 +484,10 @@ const leagueSummary = () =>
         regularSeason: { ...historyWinLossRegularSeason(MATCHUPS, teamId) },
         playoffs: { ...historyWinLossPlayoff(MATCHUPS, teamId) },
         overall: { ...historyWinLossOverall(MATCHUPS, teamId) },
-        seedings: [...historySeedings(MATCHUPS, teamId)],
+        finishes: {
+          regularSeason: { ...historyRegularSeasonPlaces(MATCHUPS, teamId) },
+          final: { ...historyFinalPlaces(MATCHUPS, teamId) },
+        },
         h2h: [...historyHeadToHead(MATCHUPS, teamId)],
       },
     ],

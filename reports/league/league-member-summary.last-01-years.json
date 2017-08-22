@@ -106,12 +106,112 @@
         "divisional": 4
       }
     },
-    "seedings": [
-      {
-        "id": 6,
-        "count": 1
+    "finishes": {
+      "regularSeason": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
+      },
+      "final": {
+        "1": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
       }
-    ],
+    },
     "h2h": [
       {
         "id": 2,
@@ -387,12 +487,112 @@
         "divisional": 5
       }
     },
-    "seedings": [
-      {
-        "id": 5,
-        "count": 1
+    "finishes": {
+      "regularSeason": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
+      },
+      "final": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
       }
-    ],
+    },
     "h2h": [
       {
         "id": 1,
@@ -668,12 +868,112 @@
         "divisional": 5
       }
     },
-    "seedings": [
-      {
-        "id": 2,
-        "count": 1
+    "finishes": {
+      "regularSeason": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
+      },
+      "final": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
       }
-    ],
+    },
     "h2h": [
       {
         "id": 1,
@@ -953,12 +1253,112 @@
         "divisional": 4
       }
     },
-    "seedings": [
-      {
-        "id": 9,
-        "count": 1
+    "finishes": {
+      "regularSeason": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
+      },
+      "final": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
       }
-    ],
+    },
     "h2h": [
       {
         "id": 1,
@@ -1234,12 +1634,112 @@
         "divisional": 4
       }
     },
-    "seedings": [
-      {
-        "id": 3,
-        "count": 1
+    "finishes": {
+      "regularSeason": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
+      },
+      "final": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
       }
-    ],
+    },
     "h2h": [
       {
         "id": 1,
@@ -1515,12 +2015,112 @@
         "divisional": 5
       }
     },
-    "seedings": [
-      {
-        "id": 8,
-        "count": 1
+    "finishes": {
+      "regularSeason": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
+      },
+      "final": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
       }
-    ],
+    },
     "h2h": [
       {
         "id": 1,
@@ -1796,12 +2396,112 @@
         "divisional": 4
       }
     },
-    "seedings": [
-      {
-        "id": 4,
-        "count": 1
+    "finishes": {
+      "regularSeason": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
+      },
+      "final": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
       }
-    ],
+    },
     "h2h": [
       {
         "id": 1,
@@ -2081,12 +2781,112 @@
         "divisional": 4
       }
     },
-    "seedings": [
-      {
-        "id": 10,
-        "count": 1
+    "finishes": {
+      "regularSeason": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
+      },
+      "final": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
       }
-    ],
+    },
     "h2h": [
       {
         "id": 1,
@@ -2366,12 +3166,112 @@
         "divisional": 4
       }
     },
-    "seedings": [
-      {
-        "id": 12,
-        "count": 1
+    "finishes": {
+      "regularSeason": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        }
+      },
+      "final": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        }
       }
-    ],
+    },
     "h2h": [
       {
         "id": 1,
@@ -2651,12 +3551,112 @@
         "divisional": 4
       }
     },
-    "seedings": [
-      {
-        "id": 11,
-        "count": 1
+    "finishes": {
+      "regularSeason": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
+      },
+      "final": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
       }
-    ],
+    },
     "h2h": [
       {
         "id": 1,
@@ -2932,12 +3932,112 @@
         "divisional": 5
       }
     },
-    "seedings": [
-      {
-        "id": 1,
-        "count": 1
+    "finishes": {
+      "regularSeason": {
+        "1": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
+      },
+      "final": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
       }
-    ],
+    },
     "h2h": [
       {
         "id": 1,
@@ -3213,12 +4313,112 @@
         "divisional": 4
       }
     },
-    "seedings": [
-      {
-        "id": 7,
-        "count": 1
+    "finishes": {
+      "regularSeason": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 0,
+          "seasons": []
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
+      },
+      "final": {
+        "1": {
+          "count": 0,
+          "seasons": []
+        },
+        "2": {
+          "count": 0,
+          "seasons": []
+        },
+        "3": {
+          "count": 1,
+          "seasons": [
+            2016
+          ]
+        },
+        "4": {
+          "count": 0,
+          "seasons": []
+        },
+        "5": {
+          "count": 0,
+          "seasons": []
+        },
+        "6": {
+          "count": 0,
+          "seasons": []
+        },
+        "7": {
+          "count": 0,
+          "seasons": []
+        },
+        "8": {
+          "count": 0,
+          "seasons": []
+        },
+        "9": {
+          "count": 0,
+          "seasons": []
+        },
+        "10": {
+          "count": 0,
+          "seasons": []
+        },
+        "11": {
+          "count": 0,
+          "seasons": []
+        },
+        "12": {
+          "count": 0,
+          "seasons": []
+        }
       }
-    ],
+    },
     "h2h": [
       {
         "id": 1,

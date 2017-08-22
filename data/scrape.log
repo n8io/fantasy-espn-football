@@ -1,1017 +1,191 @@
-Mon Aug 21:51:47 EDT 2017: ➡️ 302 Redirecting to login: http://games.espn.com/ffl/leagueoffice?leagueId=220779 ...
-Mon Aug 21:51:49 EDT 2017: 🔐 203 Logging in...
-Mon Aug 21:51:55 EDT 2017: 👍 200 Login successful
-Mon Aug 21:51:55 EDT 2017: 🏈 203 Starting to parse the 2007 season...
-Mon Aug 21:51:55 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2007&startDate=20070501&endDate=20080201&activityType=-1&teamId=-1&tranType=-2 ...
-Mon Aug 21:51:56 EDT 2017: 🛠 203 Parsing league activity feed...
-Mon Aug 21:51:56 EDT 2017: 👍 200 League activity feed parsed successfully. 45 activities found.
-Mon Aug 21:51:56 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2007 ...
-Mon Aug 21:51:58 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
-Mon Aug 21:51:58 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
-Mon Aug 21:51:58 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2007 ...
-Mon Aug 21:51:59 EDT 2017: 💰 203 Parsing league transactions...
-Mon Aug 21:51:59 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
-Mon Aug 21:51:59 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2007 ...
-Mon Aug 21:52:00 EDT 2017: 📅 203 Parsing league schedule...
-Mon Aug 21:52:00 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 17 weeks.
-Mon Aug 21:52:00 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2007 ...
-Mon Aug 21:52:02 EDT 2017: 🏆 203 Parsing playoff brackets...
-Mon Aug 21:52:02 EDT 2017: 👍 200 Playoff brackets parsed successfully.
-Mon Aug 21:52:02 EDT 2017: 🏁 200 Done parsing data for 2007 season.
-Mon Aug 21:52:02 EDT 2017: 🏈 203 Starting to parse the 2008 season...
-Mon Aug 21:52:02 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2008&startDate=20080501&endDate=20090201&activityType=-1&teamId=-1&tranType=-2 ...
-Mon Aug 21:52:03 EDT 2017: 🛠 203 Parsing league activity feed...
-Mon Aug 21:52:03 EDT 2017: 👍 200 League activity feed parsed successfully. 88 activities found.
-Mon Aug 21:52:03 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2008 ...
-Mon Aug 21:52:04 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
-Mon Aug 21:52:04 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
-Mon Aug 21:52:04 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2008 ...
-Mon Aug 21:52:06 EDT 2017: 💰 203 Parsing league transactions...
-Mon Aug 21:52:06 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
-Mon Aug 21:52:06 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2008 ...
-Mon Aug 21:52:07 EDT 2017: 📅 203 Parsing league schedule...
-Mon Aug 21:52:07 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 16 weeks.
-Mon Aug 21:52:07 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2008 ...
-Mon Aug 21:52:08 EDT 2017: 🏆 203 Parsing playoff brackets...
-Mon Aug 21:52:08 EDT 2017: 👍 200 Playoff brackets parsed successfully.
-Mon Aug 21:52:08 EDT 2017: 🏁 200 Done parsing data for 2008 season.
-Mon Aug 21:52:08 EDT 2017: 🏈 203 Starting to parse the 2009 season...
-Mon Aug 21:52:08 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2009&startDate=20090501&endDate=20100201&activityType=-1&teamId=-1&tranType=-2 ...
-Mon Aug 21:52:10 EDT 2017: 🛠 203 Parsing league activity feed...
-Mon Aug 21:52:10 EDT 2017: 👍 200 League activity feed parsed successfully. 104 activities found.
-Mon Aug 21:52:10 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2009 ...
-Mon Aug 21:52:11 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
-Mon Aug 21:52:11 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
-Mon Aug 21:52:11 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2009 ...
-Mon Aug 21:52:12 EDT 2017: 💰 203 Parsing league transactions...
-Mon Aug 21:52:12 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
-Mon Aug 21:52:12 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2009 ...
-Mon Aug 21:52:14 EDT 2017: 📅 203 Parsing league schedule...
-Mon Aug 21:52:14 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 16 weeks.
-Mon Aug 21:52:14 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2009 ...
-Mon Aug 21:52:15 EDT 2017: 🏆 203 Parsing playoff brackets...
-Mon Aug 21:52:15 EDT 2017: 👍 200 Playoff brackets parsed successfully.
-Mon Aug 21:52:15 EDT 2017: 🏁 200 Done parsing data for 2009 season.
-Mon Aug 21:52:15 EDT 2017: 🏈 203 Starting to parse the 2010 season...
-Mon Aug 21:52:15 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2010&startDate=20100501&endDate=20110201&activityType=-1&teamId=-1&tranType=-2 ...
-Mon Aug 21:52:16 EDT 2017: 🛠 203 Parsing league activity feed...
-Mon Aug 21:52:17 EDT 2017: 👍 200 League activity feed parsed successfully. 85 activities found.
-Mon Aug 21:52:17 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2010 ...
-Mon Aug 21:52:18 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
-Mon Aug 21:52:18 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
-Mon Aug 21:52:18 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2010 ...
-Mon Aug 21:52:19 EDT 2017: 💰 203 Parsing league transactions...
-Mon Aug 21:52:19 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
-Mon Aug 21:52:19 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2010 ...
-Mon Aug 21:52:21 EDT 2017: 📅 203 Parsing league schedule...
-Mon Aug 21:52:21 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 16 weeks.
-Mon Aug 21:52:21 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2010 ...
-Mon Aug 21:52:22 EDT 2017: 🏆 203 Parsing playoff brackets...
-Mon Aug 21:52:22 EDT 2017: 👍 200 Playoff brackets parsed successfully.
-Mon Aug 21:52:22 EDT 2017: 🏁 200 Done parsing data for 2010 season.
-Mon Aug 21:52:22 EDT 2017: 🏈 203 Starting to parse the 2011 season...
-Mon Aug 21:52:22 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2011&startDate=20110501&endDate=20120201&activityType=-1&teamId=-1&tranType=-2 ...
-Mon Aug 21:52:24 EDT 2017: 🛠 203 Parsing league activity feed...
-Mon Aug 21:52:24 EDT 2017: 👍 200 League activity feed parsed successfully. 184 activities found.
-Mon Aug 21:52:24 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2011 ...
-Mon Aug 21:52:25 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
-Mon Aug 21:52:25 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
-Mon Aug 21:52:25 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2011 ...
-Mon Aug 21:52:26 EDT 2017: 💰 203 Parsing league transactions...
-Mon Aug 21:52:26 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
-Mon Aug 21:52:26 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2011 ...
-Mon Aug 21:52:28 EDT 2017: 📅 203 Parsing league schedule...
-Mon Aug 21:52:28 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 16 weeks.
-Mon Aug 21:52:28 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2011 ...
-Mon Aug 21:52:29 EDT 2017: 🏆 203 Parsing playoff brackets...
-Mon Aug 21:52:29 EDT 2017: 👍 200 Playoff brackets parsed successfully.
-Mon Aug 21:52:29 EDT 2017: 🏁 200 Done parsing data for 2011 season.
-Mon Aug 21:52:29 EDT 2017: 🏈 203 Starting to parse the 2012 season...
-Mon Aug 21:52:29 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2012&startDate=20120501&endDate=20130201&activityType=-1&teamId=-1&tranType=-2 ...
-Mon Aug 21:52:31 EDT 2017: 🛠 203 Parsing league activity feed...
-Mon Aug 21:52:31 EDT 2017: 👍 200 League activity feed parsed successfully. 81 activities found.
-Mon Aug 21:52:31 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2012 ...
-Mon Aug 21:52:32 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
-Mon Aug 21:52:32 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
-Mon Aug 21:52:32 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2012 ...
-Mon Aug 21:52:33 EDT 2017: 💰 203 Parsing league transactions...
-Mon Aug 21:52:33 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
-Mon Aug 21:52:33 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2012 ...
-Mon Aug 21:52:35 EDT 2017: 📅 203 Parsing league schedule...
-Mon Aug 21:52:35 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 16 weeks.
-Mon Aug 21:52:35 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2012 ...
-Mon Aug 21:52:36 EDT 2017: 🏆 203 Parsing playoff brackets...
-Mon Aug 21:52:36 EDT 2017: 👍 200 Playoff brackets parsed successfully.
-Mon Aug 21:52:36 EDT 2017: 🏁 200 Done parsing data for 2012 season.
-Mon Aug 21:52:36 EDT 2017: 🏈 203 Starting to parse the 2013 season...
-Mon Aug 21:52:36 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2013&startDate=20130501&endDate=20140201&activityType=-1&teamId=-1&tranType=-2 ...
-Mon Aug 21:52:37 EDT 2017: 🛠 203 Parsing league activity feed...
-Mon Aug 21:52:37 EDT 2017: 👍 200 League activity feed parsed successfully. 76 activities found.
-Mon Aug 21:52:37 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2013 ...
-Mon Aug 21:52:39 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
-Mon Aug 21:52:39 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
-Mon Aug 21:52:39 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2013 ...
-Mon Aug 21:52:40 EDT 2017: 💰 203 Parsing league transactions...
-Mon Aug 21:52:40 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
-Mon Aug 21:52:40 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2013 ...
-Mon Aug 21:52:42 EDT 2017: 📅 203 Parsing league schedule...
-Mon Aug 21:52:42 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 16 weeks.
-Mon Aug 21:52:42 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2013 ...
-Mon Aug 21:52:43 EDT 2017: 🏆 203 Parsing playoff brackets...
-Mon Aug 21:52:43 EDT 2017: 👍 200 Playoff brackets parsed successfully.
-Mon Aug 21:52:43 EDT 2017: 🏁 200 Done parsing data for 2013 season.
-Mon Aug 21:52:43 EDT 2017: 🏈 203 Starting to parse the 2014 season...
-Mon Aug 21:52:43 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2014&startDate=20140501&endDate=20150201&activityType=-1&teamId=-1&tranType=-2 ...
-Mon Aug 21:52:44 EDT 2017: 🛠 203 Parsing league activity feed...
-Mon Aug 21:52:45 EDT 2017: 👍 200 League activity feed parsed successfully. 85 activities found.
-Mon Aug 21:52:45 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2014 ...
-Mon Aug 21:52:46 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
-Mon Aug 21:52:46 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
-Mon Aug 21:52:46 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2014 ...
-Mon Aug 21:52:47 EDT 2017: 💰 203 Parsing league transactions...
-Mon Aug 21:52:47 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
-Mon Aug 21:52:47 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2014 ...
-Mon Aug 21:52:49 EDT 2017: 📅 203 Parsing league schedule...
-Mon Aug 21:52:49 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 16 weeks.
-Mon Aug 21:52:49 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2014 ...
-Mon Aug 21:52:50 EDT 2017: 🏆 203 Parsing playoff brackets...
-Mon Aug 21:52:50 EDT 2017: 👍 200 Playoff brackets parsed successfully.
-Mon Aug 21:52:50 EDT 2017: 🏁 200 Done parsing data for 2014 season.
-Mon Aug 21:52:50 EDT 2017: 🏈 203 Starting to parse the 2015 season...
-Mon Aug 21:52:50 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2015&startDate=20150501&endDate=20160201&activityType=-1&teamId=-1&tranType=-2 ...
-Mon Aug 21:52:51 EDT 2017: 🛠 203 Parsing league activity feed...
-Mon Aug 21:52:52 EDT 2017: 👍 200 League activity feed parsed successfully. 77 activities found.
-Mon Aug 21:52:52 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2015 ...
-Mon Aug 21:52:53 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
-Mon Aug 21:52:53 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
-Mon Aug 21:52:53 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2015 ...
-Mon Aug 21:52:54 EDT 2017: 💰 203 Parsing league transactions...
-Mon Aug 21:52:54 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
-Mon Aug 21:52:54 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2015 ...
-Mon Aug 21:52:55 EDT 2017: 📅 203 Parsing league schedule...
-Mon Aug 21:52:55 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 16 weeks.
-Mon Aug 21:52:55 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2015 ...
-Mon Aug 21:52:57 EDT 2017: 🏆 203 Parsing playoff brackets...
-Mon Aug 21:52:57 EDT 2017: 👍 200 Playoff brackets parsed successfully.
-Mon Aug 21:52:57 EDT 2017: 🏁 200 Done parsing data for 2015 season.
-Mon Aug 21:52:57 EDT 2017: 🏈 203 Starting to parse the 2016 season...
-Mon Aug 21:52:57 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2016&startDate=20160501&endDate=20170201&activityType=-1&teamId=-1&tranType=-2 ...
-Mon Aug 21:52:59 EDT 2017: 🛠 203 Parsing league activity feed...
-Mon Aug 21:53:00 EDT 2017: 👍 200 League activity feed parsed successfully. 1000 activities found.
-Mon Aug 21:53:00 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2016 ...
-Mon Aug 21:53:01 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
-Mon Aug 21:53:01 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
-Mon Aug 21:53:01 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2016 ...
-Mon Aug 21:53:02 EDT 2017: 💰 203 Parsing league transactions...
-Mon Aug 21:53:02 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
-Mon Aug 21:53:02 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2016 ...
-Mon Aug 21:53:03 EDT 2017: 📅 203 Parsing league schedule...
-Mon Aug 21:53:03 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 16 weeks.
-Mon Aug 21:53:03 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2016 ...
-Mon Aug 21:53:05 EDT 2017: 🏆 203 Parsing playoff brackets...
-Mon Aug 21:53:05 EDT 2017: 👍 200 Playoff brackets parsed successfully.
-Mon Aug 21:53:05 EDT 2017: 🏁 200 Done parsing data for 2016 season.
-Mon Aug 21:53:05 EDT 2017: 🏈 203 Starting to parse the 2017 season...
-Mon Aug 21:53:05 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2017&startDate=20170501&endDate=20180201&activityType=-1&teamId=-1&tranType=-2 ...
-Mon Aug 21:53:06 EDT 2017: 🛠 203 Parsing league activity feed...
-Mon Aug 21:53:06 EDT 2017: 👍 200 League activity feed parsed successfully. 56 activities found.
-Mon Aug 21:53:06 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2017 ...
-Mon Aug 21:53:08 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
-Mon Aug 21:53:08 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
-Mon Aug 21:53:08 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2017 ...
-Mon Aug 21:53:09 EDT 2017: 💰 203 Parsing league transactions...
-Mon Aug 21:53:09 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
-Mon Aug 21:53:09 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2017 ...
-Mon Aug 21:53:10 EDT 2017: 📅 203 Parsing league schedule...
-Mon Aug 21:53:10 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 14 weeks.
-Mon Aug 21:53:10 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2017 ...
-Mon Aug 21:53:12 EDT 2017: 😕 404 League playoff bracket not available yet for the given season: 2017
-Mon Aug 21:53:12 EDT 2017: 🏁 200 Done parsing data for 2017 season.
-Mon Aug 21:53:12 EDT 2017: 🔌 205 Shutting down
-Mon Aug 21:53:12 EDT 2017: ⏱ 203 Total processing time 1m25s
-[
-  {
-    "awayTeam": {
-      "id": 1,
-      "name": "I will make you win",
-      "record": {
-        "wins": 11,
-        "losses": 4
-      },
-      "score": 2048.7,
-      "tags": [
-        "LOSER",
-        "SEED_8"
-      ]
-    },
-    "homeTeam": {
-      "id": 5,
-      "name": "Team Mediocre",
-      "record": {
-        "wins": 8,
-        "losses": 7
-      },
-      "score": 2268.6,
-      "tags": [
-        "WINNER",
-        "SEED_1"
-      ]
-    },
-    "tags": [
-      "WEEK_15",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 1,
-      "name": "Team Whistle Tips",
-      "record": {
-        "wins": 8,
-        "losses": 6
-      },
-      "score": 2486.3,
-      "tags": [
-        "WINNER",
-        "SEED_6"
-      ]
-    },
-    "homeTeam": {
-      "id": 4,
-      "name": "Sweater Puppies",
-      "record": {
-        "wins": 9,
-        "losses": 5
-      },
-      "score": 2286.7,
-      "tags": [
-        "LOSER",
-        "SEED_3"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 10,
-      "name": "The One Eyed Man is King",
-      "record": {
-        "wins": 7,
-        "losses": 7
-      },
-      "score": 2449.8,
-      "tags": [
-        "LOSER",
-        "SEED_6"
-      ]
-    },
-    "homeTeam": {
-      "id": 1,
-      "name": "Team Whistle Tips",
-      "record": {
-        "wins": 9,
-        "losses": 5
-      },
-      "score": 3223.9,
-      "tags": [
-        "WINNER",
-        "SEED_3"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 7,
-      "name": "off in the shower",
-      "record": {
-        "wins": 8,
-        "losses": 6
-      },
-      "score": 2759.3,
-      "tags": [
-        "LOSER",
-        "SEED_6"
-      ]
-    },
-    "homeTeam": {
-      "id": 1,
-      "name": "Velocicraptor FUCKINGRAWR",
-      "record": {
-        "wins": 9,
-        "losses": 5
-      },
-      "score": 2964.5,
-      "tags": [
-        "WINNER",
-        "SEED_3"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 1,
-      "name": "N8th Place is 2nd",
-      "record": {
-        "wins": 7,
-        "losses": 7
-      },
-      "score": 2797.3,
-      "tags": [
-        "WINNER",
-        "SEED_7"
-      ]
-    },
-    "homeTeam": {
-      "id": 3,
-      "name": "Phone's Ringing Dude",
-      "record": {
-        "wins": 10,
-        "losses": 4
-      },
-      "score": 2265.1,
-      "tags": [
-        "LOSER",
-        "SEED_2"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 4,
-      "name": "Walking Wounded",
-      "record": {
-        "wins": 10,
-        "losses": 4
-      },
-      "score": 2485.1,
-      "tags": [
-        "WINNER",
-        "SEED_5"
-      ]
-    },
-    "homeTeam": {
-      "id": 1,
-      "name": "Beastiality Mode",
-      "record": {
-        "wins": 8,
-        "losses": 6
-      },
-      "score": 2473,
-      "tags": [
-        "LOSER",
-        "SEED_4"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 1,
-      "name": "League Man Nate'd",
-      "record": {
-        "wins": 7,
-        "losses": 7
-      },
-      "score": 2304.4,
-      "tags": [
-        "WINNER",
-        "SEED_6"
-      ]
-    },
-    "homeTeam": {
-      "id": 6,
-      "name": "Ball Sagna",
-      "record": {
-        "wins": 7,
-        "losses": 7
-      },
-      "score": 2233,
-      "tags": [
-        "LOSER",
-        "SEED_3"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 1,
-      "name": "League Man Nate'd",
-      "record": {
-        "wins": 8,
-        "losses": 6
-      },
-      "score": 2693.9,
-      "tags": [
-        "WINNER",
-        "SEED_6"
-      ]
-    },
-    "homeTeam": {
-      "id": 5,
-      "name": "Two Mannings One Cup",
-      "record": {
-        "wins": 8,
-        "losses": 6
-      },
-      "score": 1753.2,
-      "tags": [
-        "LOSER",
-        "SEED_3"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  }
-]
-[
-  {
-    "awayTeam": {
-      "id": 1,
-      "name": "I will make you win",
-      "record": {
-        "wins": 11,
-        "losses": 4
-      },
-      "score": 2048.7,
-      "tags": [
-        "LOSER",
-        "SEED_8"
-      ]
-    },
-    "homeTeam": {
-      "id": 5,
-      "name": "Team Mediocre",
-      "record": {
-        "wins": 8,
-        "losses": 7
-      },
-      "score": 2268.6,
-      "tags": [
-        "WINNER",
-        "SEED_1"
-      ]
-    },
-    "tags": [
-      "WEEK_15",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 1,
-      "name": "Team Whistle Tips",
-      "record": {
-        "wins": 8,
-        "losses": 6
-      },
-      "score": 2486.3,
-      "tags": [
-        "WINNER",
-        "SEED_6"
-      ]
-    },
-    "homeTeam": {
-      "id": 4,
-      "name": "Sweater Puppies",
-      "record": {
-        "wins": 9,
-        "losses": 5
-      },
-      "score": 2286.7,
-      "tags": [
-        "LOSER",
-        "SEED_3"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 10,
-      "name": "The One Eyed Man is King",
-      "record": {
-        "wins": 7,
-        "losses": 7
-      },
-      "score": 2449.8,
-      "tags": [
-        "LOSER",
-        "SEED_6"
-      ]
-    },
-    "homeTeam": {
-      "id": 1,
-      "name": "Team Whistle Tips",
-      "record": {
-        "wins": 9,
-        "losses": 5
-      },
-      "score": 3223.9,
-      "tags": [
-        "WINNER",
-        "SEED_3"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 7,
-      "name": "off in the shower",
-      "record": {
-        "wins": 8,
-        "losses": 6
-      },
-      "score": 2759.3,
-      "tags": [
-        "LOSER",
-        "SEED_6"
-      ]
-    },
-    "homeTeam": {
-      "id": 1,
-      "name": "Velocicraptor FUCKINGRAWR",
-      "record": {
-        "wins": 9,
-        "losses": 5
-      },
-      "score": 2964.5,
-      "tags": [
-        "WINNER",
-        "SEED_3"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 1,
-      "name": "N8th Place is 2nd",
-      "record": {
-        "wins": 7,
-        "losses": 7
-      },
-      "score": 2797.3,
-      "tags": [
-        "WINNER",
-        "SEED_7"
-      ]
-    },
-    "homeTeam": {
-      "id": 3,
-      "name": "Phone's Ringing Dude",
-      "record": {
-        "wins": 10,
-        "losses": 4
-      },
-      "score": 2265.1,
-      "tags": [
-        "LOSER",
-        "SEED_2"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 4,
-      "name": "Walking Wounded",
-      "record": {
-        "wins": 10,
-        "losses": 4
-      },
-      "score": 2485.1,
-      "tags": [
-        "WINNER",
-        "SEED_5"
-      ]
-    },
-    "homeTeam": {
-      "id": 1,
-      "name": "Beastiality Mode",
-      "record": {
-        "wins": 8,
-        "losses": 6
-      },
-      "score": 2473,
-      "tags": [
-        "LOSER",
-        "SEED_4"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 1,
-      "name": "League Man Nate'd",
-      "record": {
-        "wins": 7,
-        "losses": 7
-      },
-      "score": 2304.4,
-      "tags": [
-        "WINNER",
-        "SEED_6"
-      ]
-    },
-    "homeTeam": {
-      "id": 6,
-      "name": "Ball Sagna",
-      "record": {
-        "wins": 7,
-        "losses": 7
-      },
-      "score": 2233,
-      "tags": [
-        "LOSER",
-        "SEED_3"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 1,
-      "name": "League Man Nate'd",
-      "record": {
-        "wins": 8,
-        "losses": 6
-      },
-      "score": 2693.9,
-      "tags": [
-        "WINNER",
-        "SEED_6"
-      ]
-    },
-    "homeTeam": {
-      "id": 5,
-      "name": "Two Mannings One Cup",
-      "record": {
-        "wins": 8,
-        "losses": 6
-      },
-      "score": 1753.2,
-      "tags": [
-        "LOSER",
-        "SEED_3"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  }
-]
-[
-  {
-    "awayTeam": {
-      "id": 1,
-      "name": "N8th Place is 2nd",
-      "record": {
-        "wins": 7,
-        "losses": 7
-      },
-      "score": 2797.3,
-      "tags": [
-        "WINNER",
-        "SEED_7"
-      ]
-    },
-    "homeTeam": {
-      "id": 3,
-      "name": "Phone's Ringing Dude",
-      "record": {
-        "wins": 10,
-        "losses": 4
-      },
-      "score": 2265.1,
-      "tags": [
-        "LOSER",
-        "SEED_2"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 4,
-      "name": "Walking Wounded",
-      "record": {
-        "wins": 10,
-        "losses": 4
-      },
-      "score": 2485.1,
-      "tags": [
-        "WINNER",
-        "SEED_5"
-      ]
-    },
-    "homeTeam": {
-      "id": 1,
-      "name": "Beastiality Mode",
-      "record": {
-        "wins": 8,
-        "losses": 6
-      },
-      "score": 2473,
-      "tags": [
-        "LOSER",
-        "SEED_4"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 1,
-      "name": "League Man Nate'd",
-      "record": {
-        "wins": 7,
-        "losses": 7
-      },
-      "score": 2304.4,
-      "tags": [
-        "WINNER",
-        "SEED_6"
-      ]
-    },
-    "homeTeam": {
-      "id": 6,
-      "name": "Ball Sagna",
-      "record": {
-        "wins": 7,
-        "losses": 7
-      },
-      "score": 2233,
-      "tags": [
-        "LOSER",
-        "SEED_3"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 1,
-      "name": "League Man Nate'd",
-      "record": {
-        "wins": 8,
-        "losses": 6
-      },
-      "score": 2693.9,
-      "tags": [
-        "WINNER",
-        "SEED_6"
-      ]
-    },
-    "homeTeam": {
-      "id": 5,
-      "name": "Two Mannings One Cup",
-      "record": {
-        "wins": 8,
-        "losses": 6
-      },
-      "score": 1753.2,
-      "tags": [
-        "LOSER",
-        "SEED_3"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  }
-]
-[
-  {
-    "awayTeam": {
-      "id": 4,
-      "name": "Walking Wounded",
-      "record": {
-        "wins": 10,
-        "losses": 4
-      },
-      "score": 2485.1,
-      "tags": [
-        "WINNER",
-        "SEED_5"
-      ]
-    },
-    "homeTeam": {
-      "id": 1,
-      "name": "Beastiality Mode",
-      "record": {
-        "wins": 8,
-        "losses": 6
-      },
-      "score": 2473,
-      "tags": [
-        "LOSER",
-        "SEED_4"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 1,
-      "name": "League Man Nate'd",
-      "record": {
-        "wins": 7,
-        "losses": 7
-      },
-      "score": 2304.4,
-      "tags": [
-        "WINNER",
-        "SEED_6"
-      ]
-    },
-    "homeTeam": {
-      "id": 6,
-      "name": "Ball Sagna",
-      "record": {
-        "wins": 7,
-        "losses": 7
-      },
-      "score": 2233,
-      "tags": [
-        "LOSER",
-        "SEED_3"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  },
-  {
-    "awayTeam": {
-      "id": 1,
-      "name": "League Man Nate'd",
-      "record": {
-        "wins": 8,
-        "losses": 6
-      },
-      "score": 2693.9,
-      "tags": [
-        "WINNER",
-        "SEED_6"
-      ]
-    },
-    "homeTeam": {
-      "id": 5,
-      "name": "Two Mannings One Cup",
-      "record": {
-        "wins": 8,
-        "losses": 6
-      },
-      "score": 1753.2,
-      "tags": [
-        "LOSER",
-        "SEED_3"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  }
-]
-[
-  {
-    "awayTeam": {
-      "id": 1,
-      "name": "League Man Nate'd",
-      "record": {
-        "wins": 8,
-        "losses": 6
-      },
-      "score": 2693.9,
-      "tags": [
-        "WINNER",
-        "SEED_6"
-      ]
-    },
-    "homeTeam": {
-      "id": 5,
-      "name": "Two Mannings One Cup",
-      "record": {
-        "wins": 8,
-        "losses": 6
-      },
-      "score": 1753.2,
-      "tags": [
-        "LOSER",
-        "SEED_3"
-      ]
-    },
-    "tags": [
-      "WEEK_14",
-      "PLAYOFF_ROUND_1",
-      "PLAYOFF",
-      "PLAYOFF_FIRST_ROUND"
-    ]
-  }
-]
+Tue Aug 07:49:01 EDT 2017: ➡️ 302 Redirecting to login: http://games.espn.com/ffl/leagueoffice?leagueId=220779 ...
+Tue Aug 07:49:03 EDT 2017: 🔐 203 Logging in...
+Tue Aug 07:49:08 EDT 2017: 👍 200 Login successful
+Tue Aug 07:49:08 EDT 2017: 🏈 203 Starting to parse the 2007 season...
+Tue Aug 07:49:08 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2007&startDate=20070501&endDate=20080201&activityType=-1&teamId=-1&tranType=-2 ...
+Tue Aug 07:49:10 EDT 2017: 🛠 203 Parsing league activity feed...
+Tue Aug 07:49:10 EDT 2017: 👍 200 League activity feed parsed successfully. 45 activities found.
+Tue Aug 07:49:10 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2007 ...
+Tue Aug 07:49:11 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
+Tue Aug 07:49:11 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
+Tue Aug 07:49:11 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2007 ...
+Tue Aug 07:49:12 EDT 2017: 💰 203 Parsing league transactions...
+Tue Aug 07:49:12 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
+Tue Aug 07:49:12 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2007 ...
+Tue Aug 07:49:14 EDT 2017: 📅 203 Parsing league schedule...
+Tue Aug 07:49:14 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 17 weeks.
+Tue Aug 07:49:14 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2007 ...
+Tue Aug 07:49:15 EDT 2017: 🏆 203 Parsing playoff brackets...
+Tue Aug 07:49:15 EDT 2017: 👍 200 Playoff brackets parsed successfully.
+Tue Aug 07:49:15 EDT 2017: 🏁 200 Done parsing data for 2007 season.
+Tue Aug 07:49:15 EDT 2017: 🏈 203 Starting to parse the 2008 season...
+Tue Aug 07:49:15 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2008&startDate=20080501&endDate=20090201&activityType=-1&teamId=-1&tranType=-2 ...
+Tue Aug 07:49:16 EDT 2017: 🛠 203 Parsing league activity feed...
+Tue Aug 07:49:16 EDT 2017: 👍 200 League activity feed parsed successfully. 88 activities found.
+Tue Aug 07:49:16 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2008 ...
+Tue Aug 07:49:19 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
+Tue Aug 07:49:19 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
+Tue Aug 07:49:19 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2008 ...
+Tue Aug 07:49:20 EDT 2017: 💰 203 Parsing league transactions...
+Tue Aug 07:49:20 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
+Tue Aug 07:49:20 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2008 ...
+Tue Aug 07:49:21 EDT 2017: 📅 203 Parsing league schedule...
+Tue Aug 07:49:21 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 16 weeks.
+Tue Aug 07:49:21 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2008 ...
+Tue Aug 07:49:23 EDT 2017: 🏆 203 Parsing playoff brackets...
+Tue Aug 07:49:23 EDT 2017: 👍 200 Playoff brackets parsed successfully.
+Tue Aug 07:49:23 EDT 2017: 🏁 200 Done parsing data for 2008 season.
+Tue Aug 07:49:23 EDT 2017: 🏈 203 Starting to parse the 2009 season...
+Tue Aug 07:49:23 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2009&startDate=20090501&endDate=20100201&activityType=-1&teamId=-1&tranType=-2 ...
+Tue Aug 07:49:24 EDT 2017: 🛠 203 Parsing league activity feed...
+Tue Aug 07:49:24 EDT 2017: 👍 200 League activity feed parsed successfully. 104 activities found.
+Tue Aug 07:49:24 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2009 ...
+Tue Aug 07:49:25 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
+Tue Aug 07:49:25 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
+Tue Aug 07:49:25 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2009 ...
+Tue Aug 07:49:27 EDT 2017: 💰 203 Parsing league transactions...
+Tue Aug 07:49:27 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
+Tue Aug 07:49:27 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2009 ...
+Tue Aug 07:49:28 EDT 2017: 📅 203 Parsing league schedule...
+Tue Aug 07:49:28 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 16 weeks.
+Tue Aug 07:49:28 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2009 ...
+Tue Aug 07:49:29 EDT 2017: 🏆 203 Parsing playoff brackets...
+Tue Aug 07:49:29 EDT 2017: 👍 200 Playoff brackets parsed successfully.
+Tue Aug 07:49:29 EDT 2017: 🏁 200 Done parsing data for 2009 season.
+Tue Aug 07:49:29 EDT 2017: 🏈 203 Starting to parse the 2010 season...
+Tue Aug 07:49:29 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2010&startDate=20100501&endDate=20110201&activityType=-1&teamId=-1&tranType=-2 ...
+Tue Aug 07:49:31 EDT 2017: 🛠 203 Parsing league activity feed...
+Tue Aug 07:49:31 EDT 2017: 👍 200 League activity feed parsed successfully. 85 activities found.
+Tue Aug 07:49:31 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2010 ...
+Tue Aug 07:49:32 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
+Tue Aug 07:49:32 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
+Tue Aug 07:49:32 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2010 ...
+Tue Aug 07:49:34 EDT 2017: 💰 203 Parsing league transactions...
+Tue Aug 07:49:34 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
+Tue Aug 07:49:34 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2010 ...
+Tue Aug 07:49:35 EDT 2017: 📅 203 Parsing league schedule...
+Tue Aug 07:49:35 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 16 weeks.
+Tue Aug 07:49:35 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2010 ...
+Tue Aug 07:49:37 EDT 2017: 🏆 203 Parsing playoff brackets...
+Tue Aug 07:49:37 EDT 2017: 👍 200 Playoff brackets parsed successfully.
+Tue Aug 07:49:37 EDT 2017: 🏁 200 Done parsing data for 2010 season.
+Tue Aug 07:49:37 EDT 2017: 🏈 203 Starting to parse the 2011 season...
+Tue Aug 07:49:37 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2011&startDate=20110501&endDate=20120201&activityType=-1&teamId=-1&tranType=-2 ...
+Tue Aug 07:49:38 EDT 2017: 🛠 203 Parsing league activity feed...
+Tue Aug 07:49:38 EDT 2017: 👍 200 League activity feed parsed successfully. 184 activities found.
+Tue Aug 07:49:38 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2011 ...
+Tue Aug 07:49:40 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
+Tue Aug 07:49:40 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
+Tue Aug 07:49:40 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2011 ...
+Tue Aug 07:49:42 EDT 2017: 💰 203 Parsing league transactions...
+Tue Aug 07:49:42 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
+Tue Aug 07:49:42 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2011 ...
+Tue Aug 07:49:43 EDT 2017: 📅 203 Parsing league schedule...
+Tue Aug 07:49:43 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 16 weeks.
+Tue Aug 07:49:43 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2011 ...
+Tue Aug 07:49:45 EDT 2017: 🏆 203 Parsing playoff brackets...
+Tue Aug 07:49:45 EDT 2017: 👍 200 Playoff brackets parsed successfully.
+Tue Aug 07:49:45 EDT 2017: 🏁 200 Done parsing data for 2011 season.
+Tue Aug 07:49:45 EDT 2017: 🏈 203 Starting to parse the 2012 season...
+Tue Aug 07:49:45 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2012&startDate=20120501&endDate=20130201&activityType=-1&teamId=-1&tranType=-2 ...
+Tue Aug 07:49:46 EDT 2017: 🛠 203 Parsing league activity feed...
+Tue Aug 07:49:46 EDT 2017: 👍 200 League activity feed parsed successfully. 81 activities found.
+Tue Aug 07:49:46 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2012 ...
+Tue Aug 07:49:47 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
+Tue Aug 07:49:47 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
+Tue Aug 07:49:47 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2012 ...
+Tue Aug 07:49:49 EDT 2017: 💰 203 Parsing league transactions...
+Tue Aug 07:49:49 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
+Tue Aug 07:49:49 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2012 ...
+Tue Aug 07:49:50 EDT 2017: 📅 203 Parsing league schedule...
+Tue Aug 07:49:50 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 16 weeks.
+Tue Aug 07:49:50 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2012 ...
+Tue Aug 07:49:51 EDT 2017: 🏆 203 Parsing playoff brackets...
+Tue Aug 07:49:51 EDT 2017: 👍 200 Playoff brackets parsed successfully.
+Tue Aug 07:49:51 EDT 2017: 🏁 200 Done parsing data for 2012 season.
+Tue Aug 07:49:51 EDT 2017: 🏈 203 Starting to parse the 2013 season...
+Tue Aug 07:49:51 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2013&startDate=20130501&endDate=20140201&activityType=-1&teamId=-1&tranType=-2 ...
+Tue Aug 07:49:53 EDT 2017: 🛠 203 Parsing league activity feed...
+Tue Aug 07:49:53 EDT 2017: 👍 200 League activity feed parsed successfully. 76 activities found.
+Tue Aug 07:49:53 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2013 ...
+Tue Aug 07:49:54 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
+Tue Aug 07:49:54 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
+Tue Aug 07:49:54 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2013 ...
+Tue Aug 07:49:55 EDT 2017: 💰 203 Parsing league transactions...
+Tue Aug 07:49:55 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
+Tue Aug 07:49:55 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2013 ...
+Tue Aug 07:49:57 EDT 2017: 📅 203 Parsing league schedule...
+Tue Aug 07:49:57 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 16 weeks.
+Tue Aug 07:49:57 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2013 ...
+Tue Aug 07:49:58 EDT 2017: 🏆 203 Parsing playoff brackets...
+Tue Aug 07:49:58 EDT 2017: 👍 200 Playoff brackets parsed successfully.
+Tue Aug 07:49:58 EDT 2017: 🏁 200 Done parsing data for 2013 season.
+Tue Aug 07:49:58 EDT 2017: 🏈 203 Starting to parse the 2014 season...
+Tue Aug 07:49:58 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2014&startDate=20140501&endDate=20150201&activityType=-1&teamId=-1&tranType=-2 ...
+Tue Aug 07:50:00 EDT 2017: 🛠 203 Parsing league activity feed...
+Tue Aug 07:50:00 EDT 2017: 👍 200 League activity feed parsed successfully. 85 activities found.
+Tue Aug 07:50:00 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2014 ...
+Tue Aug 07:50:01 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
+Tue Aug 07:50:01 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
+Tue Aug 07:50:01 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2014 ...
+Tue Aug 07:50:02 EDT 2017: 💰 203 Parsing league transactions...
+Tue Aug 07:50:02 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
+Tue Aug 07:50:02 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2014 ...
+Tue Aug 07:50:04 EDT 2017: 📅 203 Parsing league schedule...
+Tue Aug 07:50:04 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 16 weeks.
+Tue Aug 07:50:04 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2014 ...
+Tue Aug 07:50:05 EDT 2017: 🏆 203 Parsing playoff brackets...
+Tue Aug 07:50:05 EDT 2017: 👍 200 Playoff brackets parsed successfully.
+Tue Aug 07:50:05 EDT 2017: 🏁 200 Done parsing data for 2014 season.
+Tue Aug 07:50:05 EDT 2017: 🏈 203 Starting to parse the 2015 season...
+Tue Aug 07:50:05 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2015&startDate=20150501&endDate=20160201&activityType=-1&teamId=-1&tranType=-2 ...
+Tue Aug 07:50:06 EDT 2017: 🛠 203 Parsing league activity feed...
+Tue Aug 07:50:07 EDT 2017: 👍 200 League activity feed parsed successfully. 77 activities found.
+Tue Aug 07:50:07 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2015 ...
+Tue Aug 07:50:08 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
+Tue Aug 07:50:08 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
+Tue Aug 07:50:08 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2015 ...
+Tue Aug 07:50:09 EDT 2017: 💰 203 Parsing league transactions...
+Tue Aug 07:50:09 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
+Tue Aug 07:50:09 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2015 ...
+Tue Aug 07:50:11 EDT 2017: 📅 203 Parsing league schedule...
+Tue Aug 07:50:11 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 16 weeks.
+Tue Aug 07:50:11 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2015 ...
+Tue Aug 07:50:12 EDT 2017: 🏆 203 Parsing playoff brackets...
+Tue Aug 07:50:12 EDT 2017: 👍 200 Playoff brackets parsed successfully.
+Tue Aug 07:50:12 EDT 2017: 🏁 200 Done parsing data for 2015 season.
+Tue Aug 07:50:12 EDT 2017: 🏈 203 Starting to parse the 2016 season...
+Tue Aug 07:50:12 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2016&startDate=20160501&endDate=20170201&activityType=-1&teamId=-1&tranType=-2 ...
+Tue Aug 07:50:14 EDT 2017: 🛠 203 Parsing league activity feed...
+Tue Aug 07:50:15 EDT 2017: 👍 200 League activity feed parsed successfully. 1000 activities found.
+Tue Aug 07:50:15 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2016 ...
+Tue Aug 07:50:16 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
+Tue Aug 07:50:16 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
+Tue Aug 07:50:16 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2016 ...
+Tue Aug 07:50:18 EDT 2017: 💰 203 Parsing league transactions...
+Tue Aug 07:50:18 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
+Tue Aug 07:50:18 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2016 ...
+Tue Aug 07:50:19 EDT 2017: 📅 203 Parsing league schedule...
+Tue Aug 07:50:19 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 16 weeks.
+Tue Aug 07:50:19 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2016 ...
+Tue Aug 07:50:20 EDT 2017: 🏆 203 Parsing playoff brackets...
+Tue Aug 07:50:20 EDT 2017: 👍 200 Playoff brackets parsed successfully.
+Tue Aug 07:50:20 EDT 2017: 🏁 200 Done parsing data for 2016 season.
+Tue Aug 07:50:20 EDT 2017: 🏈 203 Starting to parse the 2017 season...
+Tue Aug 07:50:20 EDT 2017: ➡️ 302 Redirecting to league recent activity: http://games.espn.com/ffl/recentactivity?leagueId=220779&seasonId=2017&startDate=20170501&endDate=20180201&activityType=-1&teamId=-1&tranType=-2 ...
+Tue Aug 07:50:22 EDT 2017: 🛠 203 Parsing league activity feed...
+Tue Aug 07:50:22 EDT 2017: 👍 200 League activity feed parsed successfully. 56 activities found.
+Tue Aug 07:50:22 EDT 2017: ➡️ 302 Redirecting to league members: http://games.espn.com/ffl/leaguesetup/ownerinfo?leagueId=220779&seasonId=2017 ...
+Tue Aug 07:50:23 EDT 2017: 👨‍👨‍👦‍ 203 Parsing league members...
+Tue Aug 07:50:23 EDT 2017: 👍 200 League members parsed successfully. 12 members found.
+Tue Aug 07:50:23 EDT 2017: ➡️ 302 Redirecting to league transactions: http://games.espn.com/ffl/tools/transactioncounter?leagueId=220779&seasonId=2017 ...
+Tue Aug 07:50:24 EDT 2017: 💰 203 Parsing league transactions...
+Tue Aug 07:50:24 EDT 2017: 👍 200 League transactions parsed successfully. Transactions accumulated for 12 team owners.
+Tue Aug 07:50:24 EDT 2017: ➡️ 302 Redirecting to league schedule: http://games.espn.com/ffl/schedule?leagueId=220779&seasonId=2017 ...
+Tue Aug 07:50:26 EDT 2017: 📅 203 Parsing league schedule...
+Tue Aug 07:50:26 EDT 2017: 👍 200 League schedule parsed successfully. Schedule accumulated for 14 weeks.
+Tue Aug 07:50:26 EDT 2017: ➡️ 302 Redirecting to league playoff bracket: http://games.espn.com/ffl/h2hplayoffs?leagueId=220779&seasonId=2017 ...
+Tue Aug 07:50:27 EDT 2017: 😕 404 League playoff bracket not available yet for the given season: 2017
+Tue Aug 07:50:27 EDT 2017: 🏁 200 Done parsing data for 2017 season.
+Tue Aug 07:50:27 EDT 2017: 🔌 205 Shutting down
+Tue Aug 07:50:27 EDT 2017: ⏱ 203 Total processing time 1m27s

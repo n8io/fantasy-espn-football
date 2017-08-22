@@ -38,7 +38,7 @@ const parseTeamFromCell = (cell, key) => {
   return {
     [key]: {
       id,
-      name: parseValueFromStringByRegex(text, regTeamName),
+      name: parseValueFromStringByRegex(text, regTeamName).replace(/[ ]+/g, ' '),
       record: {
         wins: parseValueFromStringByRegex(text, regWins, 0, 'int'),
         losses: parseValueFromStringByRegex(text, regLosses, 0, 'int'),
@@ -71,7 +71,7 @@ const isDivisionalMatchup = (homeTeamId, awayTeamId, members) => {
 
 export const selector = 'table.tableBody';
 
-export const parseRows = (rows, members) => {
+export const parseRows = (rows, members, seasonId) => {
   const schedule = {};
 
   let week = 1;
@@ -90,7 +90,7 @@ export const parseRows = (rows, members) => {
       const matchup = {
         ...parseAwayTeamFromCell(cells[0]),
         ...parseHomeTeamFromCell(cells[3]),
-        tags: [tags[`WEEK_${week}`]],
+        tags: [tags[`WEEK_${week}`], tags[`SEASON_${seasonId}`]],
       };
 
       matchup.homeTeam.score = homeScore;
