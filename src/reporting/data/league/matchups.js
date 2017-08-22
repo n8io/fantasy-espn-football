@@ -1,7 +1,7 @@
 import glob from 'glob-all';
 import cwd from 'cwd';
 
-import { readJson } from '../../lib/utils/dataReader';
+import { readJson } from '../../../lib/utils/dataReader';
 
 export default (yearsBack = 100) => {
   const scheduleFilePaths = glob
