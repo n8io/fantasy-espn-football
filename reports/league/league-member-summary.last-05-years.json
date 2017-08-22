@@ -109,6 +109,28 @@
         "divisional": 23
       }
     },
+    "seedings": [
+      {
+        "id": 4,
+        "count": 1
+      },
+      {
+        "id": 6,
+        "count": 1
+      },
+      {
+        "id": 6,
+        "count": 1
+      },
+      {
+        "id": 7,
+        "count": 1
+      },
+      {
+        "id": 11,
+        "count": 1
+      }
+    ],
     "h2h": [
       {
         "id": 2,
@@ -387,6 +409,28 @@
         "divisional": 25
       }
     },
+    "seedings": [
+      {
+        "id": 5,
+        "count": 1
+      },
+      {
+        "id": 7,
+        "count": 1
+      },
+      {
+        "id": 10,
+        "count": 1
+      },
+      {
+        "id": 10,
+        "count": 1
+      },
+      {
+        "id": 10,
+        "count": 1
+      }
+    ],
     "h2h": [
       {
         "id": 1,
@@ -666,6 +710,28 @@
         "divisional": 20
       }
     },
+    "seedings": [
+      {
+        "id": 1,
+        "count": 1
+      },
+      {
+        "id": 2,
+        "count": 1
+      },
+      {
+        "id": 2,
+        "count": 1
+      },
+      {
+        "id": 4,
+        "count": 1
+      },
+      {
+        "id": 6,
+        "count": 1
+      }
+    ],
     "h2h": [
       {
         "id": 1,
@@ -945,6 +1011,28 @@
         "divisional": 21
       }
     },
+    "seedings": [
+      {
+        "id": 1,
+        "count": 1
+      },
+      {
+        "id": 2,
+        "count": 1
+      },
+      {
+        "id": 5,
+        "count": 1
+      },
+      {
+        "id": 9,
+        "count": 1
+      },
+      {
+        "id": 12,
+        "count": 1
+      }
+    ],
     "h2h": [
       {
         "id": 1,
@@ -1223,6 +1311,28 @@
         "divisional": 22
       }
     },
+    "seedings": [
+      {
+        "id": 2,
+        "count": 1
+      },
+      {
+        "id": 3,
+        "count": 1
+      },
+      {
+        "id": 3,
+        "count": 1
+      },
+      {
+        "id": 6,
+        "count": 1
+      },
+      {
+        "id": 6,
+        "count": 1
+      }
+    ],
     "h2h": [
       {
         "id": 1,
@@ -1501,6 +1611,28 @@
         "divisional": 25
       }
     },
+    "seedings": [
+      {
+        "id": 3,
+        "count": 1
+      },
+      {
+        "id": 7,
+        "count": 1
+      },
+      {
+        "id": 8,
+        "count": 1
+      },
+      {
+        "id": 9,
+        "count": 1
+      },
+      {
+        "id": 12,
+        "count": 1
+      }
+    ],
     "h2h": [
       {
         "id": 1,
@@ -1780,6 +1912,28 @@
         "divisional": 21
       }
     },
+    "seedings": [
+      {
+        "id": 1,
+        "count": 1
+      },
+      {
+        "id": 2,
+        "count": 1
+      },
+      {
+        "id": 4,
+        "count": 1
+      },
+      {
+        "id": 8,
+        "count": 1
+      },
+      {
+        "id": 9,
+        "count": 1
+      }
+    ],
     "h2h": [
       {
         "id": 1,
@@ -2059,6 +2213,28 @@
         "divisional": 21
       }
     },
+    "seedings": [
+      {
+        "id": 4,
+        "count": 1
+      },
+      {
+        "id": 7,
+        "count": 1
+      },
+      {
+        "id": 8,
+        "count": 1
+      },
+      {
+        "id": 9,
+        "count": 1
+      },
+      {
+        "id": 10,
+        "count": 1
+      }
+    ],
     "h2h": [
       {
         "id": 1,
@@ -2338,6 +2514,28 @@
         "divisional": 20
       }
     },
+    "seedings": [
+      {
+        "id": 3,
+        "count": 1
+      },
+      {
+        "id": 9,
+        "count": 1
+      },
+      {
+        "id": 10,
+        "count": 1
+      },
+      {
+        "id": 12,
+        "count": 1
+      },
+      {
+        "id": 12,
+        "count": 1
+      }
+    ],
     "h2h": [
       {
         "id": 1,
@@ -2615,6 +2813,28 @@
         "divisional": 19
       }
     },
+    "seedings": [
+      {
+        "id": 5,
+        "count": 1
+      },
+      {
+        "id": 11,
+        "count": 1
+      },
+      {
+        "id": 11,
+        "count": 1
+      },
+      {
+        "id": 11,
+        "count": 1
+      },
+      {
+        "id": 12,
+        "count": 1
+      }
+    ],
     "h2h": [
       {
         "id": 1,
@@ -2894,6 +3114,28 @@
         "divisional": 21
       }
     },
+    "seedings": [
+      {
+        "id": 1,
+        "count": 1
+      },
+      {
+        "id": 1,
+        "count": 1
+      },
+      {
+        "id": 3,
+        "count": 1
+      },
+      {
+        "id": 5,
+        "count": 1
+      },
+      {
+        "id": 11,
+        "count": 1
+      }
+    ],
     "h2h": [
       {
         "id": 1,
@@ -3171,6 +3413,28 @@
         "divisional": 22
       }
     },
+    "seedings": [
+      {
+        "id": 4,
+        "count": 1
+      },
+      {
+        "id": 5,
+        "count": 1
+      },
+      {
+        "id": 7,
+        "count": 1
+      },
+      {
+        "id": 8,
+        "count": 1
+      },
+      {
+        "id": 8,
+        "count": 1
+      }
+    ],
     "h2h": [
       {
         "id": 1,

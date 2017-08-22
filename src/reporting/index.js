@@ -45,9 +45,9 @@ const getOtherTeam = ({ homeTeam, awayTeam }, teamId) => {
 
 const getTeamTagsById = ({ homeTeam, awayTeam }, teamId) => {
   if (isSameTeam(homeTeam, teamId)) {
-    return homeTeam.tags;
+    return [...(homeTeam.tags || [])];
   } else if (isSameTeam(awayTeam, teamId)) {
-    return awayTeam.tags;
+    return [...(awayTeam.tags || [])];
   }
 
   return [];
@@ -417,6 +417,35 @@ const historyHeadToHead = (matchups, teamId) => {
     });
 };
 
+const historySeedings = (matchups, teamId) => {
+  const myMatchups = matchups.filter(
+    mu => isTeamMatchup(mu, teamId) && getTeamTagsById(mu, teamId).some(t => t.startsWith('SEED_'))
+  );
+
+  return myMatchups
+    .reduce((acc, mu) => {
+      const tag = getTeamTagsById(mu, teamId).find(t => t.startsWith('SEED_'));
+      const before = acc.find(item => item.tag === tag) || { tag, count: 0 };
+
+      return [
+        ...acc.filter(item => item.tag !== tag),
+        {
+          id: ~~tag.replace(/SEED[_]/, ''),
+          count: before.count + 1,
+        },
+      ];
+    }, [])
+    .sort((a, b) => {
+      if (a.id < b.id) {
+        return -1;
+      } else if (a.id > b.id) {
+        return 1;
+      }
+
+      return 0;
+    });
+};
+
 const leagueSummary = () =>
   MEMBERS.reduce(
     (acc = [], { id: teamId, name, firstName, lastName }) => [
@@ -430,6 +459,7 @@ const leagueSummary = () =>
         regularSeason: { ...historyWinLossRegularSeason(MATCHUPS, teamId) },
         playoffs: { ...historyWinLossPlayoff(MATCHUPS, teamId) },
         overall: { ...historyWinLossOverall(MATCHUPS, teamId) },
+        seedings: [...historySeedings(MATCHUPS, teamId)],
         h2h: [...historyHeadToHead(MATCHUPS, teamId)],
       },
     ],
