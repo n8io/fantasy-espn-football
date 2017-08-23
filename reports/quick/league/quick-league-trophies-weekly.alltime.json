@@ -1,0 +1,58 @@
+{
+  "biggestLosers": {
+    "1": "During round 3 of the 2008 playoffs Brian Frye (Team AutoDraft) lost to Zak Hurley (Prisoners Of Platex) by 1611 points",
+    "2": "In week 12 of the 2009 season Mike Saunders (TDs N Beer) lost to Brian Williams (Powdered Toast Man) by 1533.4 points",
+    "3": "In week 12 of the 2010 season Zak Hurley (Calais Campbell Half Sacks) lost to Matthew Dziedzicki (League Doormat) by 1424.6 points",
+    "4": "During round 2 of the 2012 playoffs Matthew Dziedzicki (Team Shambles) lost to Brock Holtzapple (The One Eyed Man is King) by 1399.8 points",
+    "5": "In week 5 of the 2015 season Nate Clark (League Man Nate'd) lost to Matt Weaver (Down With OBJr.) by 1349.5 points"
+  },
+  "closestMatchups": {
+    "1": "In week 6 of the 2007 season Brian Williams (Petting Is A No-No) lost to Matt Weaver (Last Again) by 0.3 points",
+    "2": "In week 12 of the 2008 season Zak Hurley (Prisoners Of Platex) lost to Nate Clark (Team Whistle Tips) by 0.4 points",
+    "3": "In week 2 of the 2011 season Matthew Dziedzicki (The Next Golf Cart Bandit) lost to Jeremiah Howe (Jotas Hos) by 0.5 points",
+    "4": "In week 7 of the 2014 season Chris Dziedzicki (ELFO's 18) lost to Brock Holtzapple (Madden Curse) by 2 points",
+    "5": "In week 2 of the 2015 season Brian Frye (Black Lives Matter) lost to Brian Williams (Ball Sagna) by 2.1 points"
+  },
+  "highTeamScores": {
+    "1": "In week 7 of the 2007 season Nate Clark (I will make you win) scored 3509.9 points",
+    "2": "In week 1 of the 2009 season Nate Clark (Team Whistle Tips) scored 3428.1 points",
+    "3": "In week 5 of the 2011 season Zak Hurley (Little Lebowski Urban Achievers) scored 3379.1 points",
+    "4": "During round 1 of the 2013 playoffs Chris Dziedzicki (GoldenToe's Ghost) scored 3369.8 points",
+    "5": "In week 8 of the 2014 season Brian Williams (Not the good Koch) scored 3342.9 points"
+  },
+  "lowTeamScores": {
+    "1": "In week 4 of the 2007 season Jerrod Vastag (Team Awesome) scored 1546.9 points",
+    "2": "During round 3 of the 2007 playoffs Nate Clark (I will make you win) scored 1630.7 points",
+    "3": "During round 3 of the 2007 playoffs Matt Weaver (Last Again) scored 1678.1 points",
+    "4": "During round 1 of the 2015 playoffs Zak Walcher (Zak Walcher) scored 1679 points",
+    "5": "During round 2 of the 2015 playoffs Daniel Kelly (U DaHo) scored 1737.9 points"
+  },
+  "offensivePlayerHighScores": {
+    "1": "In week 2 of the 2007 season Nate Clark (I will make you win) scored 619.5 points with Carson Palmer",
+    "2": "In week 6 of the 2007 season Nate Clark (I will make you win) scored 614.5 points with Adrian Peterson",
+    "3": "In week 14 of the 2007 season Mike Bixler (Team BYE WEEK) scored 614 points with Tom Brady",
+    "4": "In week 9 of the 2012 season Jerrod Vastag (Lucky Number 11th Place) scored 600 points with Doug Martin",
+    "5": "In week 10 of the 2013 season Chris Dziedzicki (GoldenToe's Ghost) scored 594 points with Tavon Austin"
+  },
+  "defensivePlayerHighScores": {
+    "1": "In week 11 of the 2008 season Jerrod Vastag (Team Awesome) scored 510 points with Jared Mayo",
+    "2": "In week 14 of the 2008 season Matthew Dziedzicki (Sweater Puppies) scored 493 points with D'qwell Jackson",
+    "3": "In week 12 of the 2009 season Brian Williams (Powdered Toast Man) scored 485 points with Charles Woodson",
+    "4": "In week 4 of the 2010 season Brian Williams (Powdered Toast Man) scored 475 points with Charles Woodson",
+    "5": "In week 7 of the 2010 season Jeremiah Howe (Jotas Hos) scored 475 points with Deangelo Hall"
+  },
+  "specialTeamsPlayerHighScores": {
+    "1": "In week 5 of the 2009 season Chris Dziedzicki (off in the shower) scored 512.2 points with Dave Zastudil",
+    "2": "In week 14 of the 2010 season Matt Weaver (Big Upside) scored 486.4 points with Steve Weatherford",
+    "3": "In week 12 of the 2011 season Chris Dziedzicki (off in the shower) scored 485 points with Sebastian Janikowski",
+    "4": "In week 15 of the 2013 season Mike Saunders (Chalupa Batman) scored 455 points with Justin Tucker",
+    "5": "In week 5 of the 2016 season Jason Pero (Susan Bixler) scored 445 points with Adam Vinatieri"
+  },
+  "hindsightPlayerHighScores": {
+    "1": "In week 11 of the 2008 season Brian Frye (Team AutoDraft) left Chad Greenway on the bench when he scored 581 points",
+    "2": "In week 5 of the 2009 season Brian Williams (Powdered Toast Man) left Miles Austin on the bench when he scored 545 points",
+    "3": "In week 13 of the 2009 season Brian Williams (Powdered Toast Man) left Donnie Jones on the bench when he scored 504 points",
+    "4": "In week 12 of the 2010 season Zak Hurley (Calais Campbell Half Sacks) left Jacoby Ford on the bench when he scored 488.4 points",
+    "5": "In week 4 of the 2013 season Jeremiah Howe (Jotas Hos) left Sean Lee on the bench when he scored 480 points"
+  }
+}

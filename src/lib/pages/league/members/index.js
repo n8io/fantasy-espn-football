@@ -5,6 +5,7 @@ import config from '../../../../config';
 import { parseUrl } from '../../../utils/urls';
 import { selector, parseRow } from './parser';
 import log from '../../../utils/domLogger';
+import amend from './amendments';
 
 const { urls: { LEAGUE_MEMBERS } } = config;
 
@@ -47,7 +48,7 @@ const getLeagueMembers = async (page, seasonId) => {
   msg = `👍 200 League members parsed successfully. ${members.length} members found.`;
   await log(msg, page);
 
-  return members;
+  return amend(members, seasonId);
 };
 
 export default getLeagueMembers;

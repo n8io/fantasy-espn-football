@@ -27,7 +27,7 @@ run_reports() {
   YEARS_BACK=10 yarn reporting -s | tee -a "$LOG_FILE" && \
   YEARS_BACK=5  yarn reporting -s | tee -a "$LOG_FILE" && \
   YEARS_BACK=3  yarn reporting -s | tee -a "$LOG_FILE" && \
-  YEARS_BACK=1  yarn reporting -s | tee -a "$LOG_FILE" && \
+  YEARS_BACK=1  QUICKHITS=1 MAX_RESULTS=5 yarn reporting -s | tee -a "$LOG_FILE" && \
   echo "done";
 }
 

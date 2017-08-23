@@ -98,7 +98,9 @@
   {
     "id": 9,
     "abbrev": "FUCK",
-    "name": "Zak Walcher",
+    "name": "Black Magic",
+    "firstName": "Zak",
+    "lastName": "Walcher",
     "tags": [
       {
         "division": "Chicken and Malt Liquor"

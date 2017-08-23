@@ -39,6 +39,8 @@
     "id": 4,
     "abbrev": "JFF",
     "name": "Walking Wounded",
+    "firstName": "Matthew",
+    "lastName": "Dziedzicki",
     "tags": [
       {
         "division": "South"
@@ -73,6 +75,8 @@
     "id": 7,
     "abbrev": "CDZ",
     "name": "ELFO's 18",
+    "firstName": "Chris",
+    "lastName": "Dziedzicki",
     "tags": [
       {
         "division": "North"
