@@ -34,7 +34,15 @@ const getLeagueMembers = async (page, seasonId) => {
   msg = `👨‍👨‍👦‍ 203 Parsing league members...`;
   await log(msg, page);
 
-  const members = rows.map(parseRow);
+  const members = rows.map(parseRow).sort((a, b) => {
+    if (a.id < b.id) {
+      return -1;
+    } else if (a.id > b.id) {
+      return 1;
+    }
+
+    return 0;
+  });
 
   msg = `👍 200 League members parsed successfully. ${members.length} members found.`;
   await log(msg, page);

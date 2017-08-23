@@ -1,10 +1,10 @@
 [
   {
-    "id": 7,
-    "abbrev": "BYE",
-    "name": "Team BYE WEEK",
-    "firstName": "Gary",
-    "lastName": "Bixler",
+    "id": 1,
+    "abbrev": "POO",
+    "name": "I will make you win",
+    "firstName": "Nate",
+    "lastName": "Clark",
     "tags": [
       {
         "division": "South"
@@ -24,11 +24,11 @@
     ]
   },
   {
-    "id": 9,
-    "abbrev": "HARR",
-    "name": "Repeat Offenders",
-    "firstName": "Jim",
-    "lastName": "Harries",
+    "id": 3,
+    "abbrev": "HURL",
+    "name": "Indy Hurlers",
+    "firstName": "Zak",
+    "lastName": "Hurley",
     "tags": [
       {
         "division": "North"
@@ -36,26 +36,14 @@
     ]
   },
   {
-    "id": 6,
-    "abbrev": "CRY",
-    "name": "Petting Is A No-No",
-    "firstName": "Brian",
-    "lastName": "Williams",
+    "id": 4,
+    "abbrev": "PAD",
+    "name": "More Gooder than you",
+    "firstName": "Matthew",
+    "lastName": "Dziedzicki",
     "tags": [
       {
-        "division": "West"
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "abbrev": "WVR",
-    "name": "Last Again",
-    "firstName": "Matt",
-    "lastName": "Weaver",
-    "tags": [
-      {
-        "division": "West"
+        "division": "North"
       }
     ]
   },
@@ -72,11 +60,47 @@
     ]
   },
   {
-    "id": 4,
-    "abbrev": "PAD",
-    "name": "More Gooder than you",
-    "firstName": "Matthew",
-    "lastName": "Dziedzicki",
+    "id": 6,
+    "abbrev": "CRY",
+    "name": "Petting Is A No-No",
+    "firstName": "Brian",
+    "lastName": "Williams",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "abbrev": "BYE",
+    "name": "Team BYE WEEK",
+    "firstName": "Gary",
+    "lastName": "Bixler",
+    "tags": [
+      {
+        "division": "South"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "abbrev": "Frye",
+    "name": "Team Pederass",
+    "firstName": "Brian",
+    "lastName": "Frye",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "abbrev": "HARR",
+    "name": "Repeat Offenders",
+    "firstName": "Jim",
+    "lastName": "Harries",
     "tags": [
       {
         "division": "North"
@@ -108,38 +132,14 @@
     ]
   },
   {
-    "id": 8,
-    "abbrev": "Frye",
-    "name": "Team Pederass",
-    "firstName": "Brian",
-    "lastName": "Frye",
+    "id": 12,
+    "abbrev": "WVR",
+    "name": "Last Again",
+    "firstName": "Matt",
+    "lastName": "Weaver",
     "tags": [
       {
-        "division": "East"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "abbrev": "HURL",
-    "name": "Indy Hurlers",
-    "firstName": "Zak",
-    "lastName": "Hurley",
-    "tags": [
-      {
-        "division": "North"
-      }
-    ]
-  },
-  {
-    "id": 1,
-    "abbrev": "POO",
-    "name": "I will make you win",
-    "firstName": "Nate",
-    "lastName": "Clark",
-    "tags": [
-      {
-        "division": "South"
+        "division": "West"
       }
     ]
   }

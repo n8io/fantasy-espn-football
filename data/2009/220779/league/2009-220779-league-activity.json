@@ -49,7 +49,7 @@
       "points": 375,
       "player": {
         "firstName": "Thomas",
-        "lastName": "Davis LB"
+        "lastName": "Davis Lb"
       }
     }
   },
@@ -76,7 +76,7 @@
       "points": 401,
       "player": {
         "firstName": "Adrian",
-        "lastName": "Peterson RB"
+        "lastName": "Peterson Rb"
       }
     }
   },
@@ -126,7 +126,7 @@
       "points": 430,
       "player": {
         "firstName": "Stephen",
-        "lastName": "Cooper LB"
+        "lastName": "Cooper Lb"
       }
     }
   },
@@ -495,7 +495,7 @@
       "week": 4,
       "points": 370,
       "player": {
-        "firstName": "D'Qwell",
+        "firstName": "D'qwell",
         "lastName": "Jackson"
       }
     }
@@ -1749,8 +1749,8 @@
       "week": 13,
       "points": 315.7,
       "player": {
-        "firstName": "",
-        "lastName": ""
+        "firstName": "Drew",
+        "lastName": "Brees"
       }
     }
   },
@@ -1895,7 +1895,7 @@
       "week": 14,
       "points": 469,
       "player": {
-        "firstName": "DeSean",
+        "firstName": "Desean",
         "lastName": "Jackson"
       }
     }
@@ -1957,9 +1957,7 @@
     "subType": "UNKNOWN",
     "subTypeText": "Defensive Player of the Year",
     "details": {
-      "notes": [
-        ""
-      ]
+      "notes": []
     }
   },
   {
@@ -1969,9 +1967,7 @@
     "subType": "UNKNOWN",
     "subTypeText": "Owner of the Year",
     "details": {
-      "notes": [
-        ""
-      ]
+      "notes": []
     }
   },
   {
@@ -1981,9 +1977,7 @@
     "subType": "UNKNOWN",
     "subTypeText": "Offensive Player of the Year",
     "details": {
-      "notes": [
-        ""
-      ]
+      "notes": []
     }
   },
   {
@@ -1993,9 +1987,7 @@
     "subType": "UNKNOWN",
     "subTypeText": "Special Teams Player of the Year",
     "details": {
-      "notes": [
-        ""
-      ]
+      "notes": []
     }
   },
   {
@@ -2005,9 +1997,7 @@
     "subType": "UNKNOWN",
     "subTypeText": "Rookie of the Year",
     "details": {
-      "notes": [
-        ""
-      ]
+      "notes": []
     }
   },
   {
@@ -2280,7 +2270,7 @@
       "points": 300.6,
       "player": {
         "firstName": "Donovan",
-        "lastName": "McNabb"
+        "lastName": "Mcnabb"
       }
     }
   },
@@ -2346,8 +2336,8 @@
         "2009 - Ben Graham —"
       ],
       "player": {
-        "firstName": "",
-        "lastName": ""
+        "firstName": "Ben",
+        "lastName": "Graham"
       }
     }
   },
@@ -2392,8 +2382,8 @@
         "2009 - Patrick Willis —"
       ],
       "player": {
-        "firstName": "",
-        "lastName": ""
+        "firstName": "Patrick",
+        "lastName": "Willis"
       }
     }
   },
@@ -2417,8 +2407,8 @@
         "2009 - James Laurinitis —"
       ],
       "player": {
-        "firstName": "",
-        "lastName": ""
+        "firstName": "James",
+        "lastName": "Laurinitis"
       }
     }
   },
@@ -2442,14 +2432,14 @@
         "2009 - Drew Brees —"
       ],
       "player": {
-        "firstName": "",
-        "lastName": ""
+        "firstName": "Drew",
+        "lastName": "Brees"
       }
     }
   },
   {
     "date": "2009-12-31T01:48:00Z",
-    "season": 2009,
+    "season": 2008,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_YEARLY",
     "subTypeText": "Rookie of the Year awarded to Jim",
@@ -2467,14 +2457,14 @@
         "2008 - Matt Forte —"
       ],
       "player": {
-        "firstName": "",
-        "lastName": ""
+        "firstName": "Matt",
+        "lastName": "Forte"
       }
     }
   },
   {
     "date": "2009-12-31T01:49:00Z",
-    "season": 2009,
+    "season": 2008,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_YEARLY",
     "subTypeText": "Owner of the Year awarded to Nate",
@@ -2495,7 +2485,7 @@
   },
   {
     "date": "2009-12-31T01:49:00Z",
-    "season": 2009,
+    "season": 2008,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_YEARLY",
     "subTypeText": "Special Teams Player of the Year awarded to Brok",
@@ -2513,14 +2503,14 @@
         "2008 - Brad Maynard —"
       ],
       "player": {
-        "firstName": "",
-        "lastName": ""
+        "firstName": "Brad",
+        "lastName": "Maynard"
       }
     }
   },
   {
     "date": "2009-12-31T01:49:00Z",
-    "season": 2009,
+    "season": 2008,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_YEARLY",
     "subTypeText": "Offensive Player of the Year awarded to Brok",
@@ -2538,14 +2528,14 @@
         "2008 - Drew Brees —"
       ],
       "player": {
-        "firstName": "",
-        "lastName": ""
+        "firstName": "Drew",
+        "lastName": "Brees"
       }
     }
   },
   {
     "date": "2009-12-31T01:50:00Z",
-    "season": 2009,
+    "season": 2008,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_YEARLY",
     "subTypeText": "Defensive Player of the Year awarded to Dubs",
@@ -2563,8 +2553,8 @@
         "2008 - Patrick Willis —"
       ],
       "player": {
-        "firstName": "",
-        "lastName": ""
+        "firstName": "Patrick",
+        "lastName": "Willis"
       }
     }
   }

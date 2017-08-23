@@ -88,10 +88,10 @@
     },
     "details": {
       "notes": [
-        "BLAM!! 2700+ points in Week 1 —"
+        "Week 1 — 2728.7"
       ],
       "week": 1,
-      "points": 2700
+      "points": 2728.7
     }
   },
   {
@@ -111,10 +111,14 @@
     },
     "details": {
       "notes": [
-        "Romo arigato, Mr. Roboto —"
+        "Week 1 — Tony Romo - 538.5pts"
       ],
-      "week": -1,
-      "points": 0
+      "week": 1,
+      "points": 538.5,
+      "player": {
+        "firstName": "Tony",
+        "lastName": "Romo"
+      }
     }
   },
   {
@@ -134,10 +138,10 @@
     },
     "details": {
       "notes": [
-        "Pladow! — BFS bringing home the bacon"
+        "Week 2 — 2939.8"
       ],
-      "week": -1,
-      "points": 0
+      "week": 2,
+      "points": 2939.8
     }
   },
   {
@@ -157,10 +161,10 @@
     },
     "details": {
       "notes": [
-        "Carson Palmer 600+ — Just because Derek Anderson wasn't on a team."
+        "Week 2 — Carson Palmer - 619.5pts - Just because Derek Anderson wasn't on a team."
       ],
-      "week": -1,
-      "points": 600,
+      "week": 2,
+      "points": 619.5,
       "player": {
         "firstName": "Carson",
         "lastName": "Palmer"
@@ -184,13 +188,13 @@
     },
     "details": {
       "notes": [
-        "Donovan McNabb — 530 pts not to shabby!"
+        "Week 3 — Donovan McNabb - 530.5 pts - not to shabby!"
       ],
-      "week": -1,
-      "points": 530,
+      "week": 3,
+      "points": 530.5,
       "player": {
         "firstName": "Donovan",
-        "lastName": "McNabb"
+        "lastName": "Mcnabb"
       }
     }
   },
@@ -211,10 +215,10 @@
     },
     "details": {
       "notes": [
-        ""
+        "Week 3 — 2569.6"
       ],
-      "week": -1,
-      "points": 0
+      "week": 3,
+      "points": 2569.6
     }
   },
   {
@@ -234,10 +238,10 @@
     },
     "details": {
       "notes": [
-        "Highest team point total this week 2561.7 —"
+        "Week 4 — 2563.7"
       ],
-      "week": 25,
-      "points": 2561.7
+      "week": 4,
+      "points": 2563.7
     }
   },
   {
@@ -257,13 +261,13 @@
     },
     "details": {
       "notes": [
-        "Romo strikes again 531.5 —"
+        "Week 4 — Tony Romo - 531.5pts - Romo strikes again!"
       ],
-      "week": -1,
+      "week": 4,
       "points": 531.5,
       "player": {
-        "firstName": "Romo",
-        "lastName": "strikes"
+        "firstName": "Tony",
+        "lastName": "Romo"
       }
     }
   },
@@ -284,10 +288,10 @@
     },
     "details": {
       "notes": [
-        "Highest team point total Week 6 — 2500+"
+        "Week 5 — 2587"
       ],
-      "week": 6,
-      "points": 2500
+      "week": 5,
+      "points": 2587
     }
   },
   {
@@ -307,13 +311,13 @@
     },
     "details": {
       "notes": [
-        "Terrence  McGee 384 pts — pure crap ass luck"
+        "Week 5 — Terrence McGee - 384 pts - pure crap ass luck"
       ],
-      "week": -1,
+      "week": 5,
       "points": 384,
       "player": {
         "firstName": "Terrence",
-        "lastName": "McGee"
+        "lastName": "Mcgee"
       }
     }
   },
@@ -334,10 +338,10 @@
     },
     "details": {
       "notes": [
-        "Adrian Peterson 600+ pts —"
+        "Week 6 — Adrian Peterson - 614pts"
       ],
-      "week": -1,
-      "points": 600,
+      "week": 6,
+      "points": 614,
       "player": {
         "firstName": "Adrian",
         "lastName": "Peterson"
@@ -361,10 +365,10 @@
     },
     "details": {
       "notes": [
-        "Still cheating I see 2870+  —"
+        "Week 6 — 2875.9"
       ],
-      "week": -1,
-      "points": 2870
+      "week": 6,
+      "points": 2875.9
     }
   },
   {
@@ -384,10 +388,14 @@
     },
     "details": {
       "notes": [
-        "Do you even know you got this award? —"
+        "Week 6 — Tom Brady - 572pts - Do you even know you got this award?"
       ],
-      "week": -1,
-      "points": 0
+      "week": 6,
+      "points": 572,
+      "player": {
+        "firstName": "Tom",
+        "lastName": "Brady"
+      }
     }
   },
   {
@@ -407,10 +415,10 @@
     },
     "details": {
       "notes": [
-        "Bout damn time I set this record — 3300+ pts"
+        "Week 7 — 3379.1"
       ],
-      "week": -1,
-      "points": 3300
+      "week": 7,
+      "points": 3379.1
     }
   },
   {
@@ -430,10 +438,10 @@
     },
     "details": {
       "notes": [
-        "2800+ —"
+        "Week 8 — 2806.4"
       ],
-      "week": -1,
-      "points": 2800
+      "week": 8,
+      "points": 2806.4
     }
   },
   {
@@ -453,10 +461,10 @@
     },
     "details": {
       "notes": [
-        "Tom Brady 520+ pts —"
+        "Week 8 — Tom Brady - 529pts"
       ],
-      "week": -1,
-      "points": 520,
+      "week": 8,
+      "points": 529,
       "player": {
         "firstName": "Tom",
         "lastName": "Brady"
@@ -480,10 +488,10 @@
     },
     "details": {
       "notes": [
-        "Adrian Peterson 530+ pts —"
+        "Week 9 — Adrian Peterson - 538pts"
       ],
-      "week": -1,
-      "points": 530,
+      "week": 9,
+      "points": 538,
       "player": {
         "firstName": "Adrian",
         "lastName": "Peterson"
@@ -507,10 +515,10 @@
     },
     "details": {
       "notes": [
-        "3200+ pts Week 9 —"
+        "Week 9 — 3263.7"
       ],
       "week": 9,
-      "points": 3200
+      "points": 3263.7
     }
   },
   {
@@ -530,10 +538,10 @@
     },
     "details": {
       "notes": [
-        "Week 10 2500+ —"
+        "Week 10 — 2530.5"
       ],
       "week": 10,
-      "points": 2500
+      "points": 2530.5
     }
   },
   {
@@ -553,13 +561,13 @@
     },
     "details": {
       "notes": [
-        "Donovan McNabb 400+ —"
+        "Week 10 — Donovan McNabb - 422.5pts"
       ],
-      "week": -1,
-      "points": 400,
+      "week": 10,
+      "points": 422.5,
       "player": {
         "firstName": "Donovan",
-        "lastName": "McNabb"
+        "lastName": "Mcnabb"
       }
     }
   },
@@ -580,13 +588,13 @@
     },
     "details": {
       "notes": [
-        "TO with 500+ pts —"
+        "Week 11 — Terrell Owens - 502pts"
       ],
-      "week": -1,
-      "points": 500,
+      "week": 11,
+      "points": 502,
       "player": {
-        "firstName": "TO",
-        "lastName": "with"
+        "firstName": "Terrell",
+        "lastName": "Owens"
       }
     }
   },
@@ -607,10 +615,10 @@
     },
     "details": {
       "notes": [
-        "2900+ pts Week 11 —"
+        "Week 11 — 2899.8"
       ],
       "week": 11,
-      "points": 2900
+      "points": 2899.8
     }
   },
   {
@@ -630,10 +638,10 @@
     },
     "details": {
       "notes": [
-        "Brett Favre 467pts+ —"
+        "Week 12 — Brett Favre - 467.5pts"
       ],
-      "week": -1,
-      "points": 467,
+      "week": 12,
+      "points": 467.5,
       "player": {
         "firstName": "Brett",
         "lastName": "Favre"
@@ -657,10 +665,10 @@
     },
     "details": {
       "notes": [
-        "2900+ pts Week 12 —"
+        "Week 12 — 2931.3"
       ],
       "week": 12,
-      "points": 2900
+      "points": 2931.3
     }
   },
   {
@@ -680,10 +688,10 @@
     },
     "details": {
       "notes": [
-        "Tony Romo 440+ pts — ROMO! The fight's out I'ma 'bout to punch yo...lights out ..."
+        "Week 13 — Tony Romo - 444.5pts - ROMO! The fight's out I'ma 'bout to punch yo...lights out ..."
       ],
-      "week": -1,
-      "points": 440,
+      "week": 13,
+      "points": 444.5,
       "player": {
         "firstName": "Tony",
         "lastName": "Romo"
@@ -707,10 +715,10 @@
     },
     "details": {
       "notes": [
-        "2710+ pts for Week 13 —"
+        "Week 13 — 2710.3"
       ],
       "week": 13,
-      "points": 2710
+      "points": 2710.3
     }
   },
   {
@@ -742,10 +750,10 @@
     },
     "details": {
       "notes": [
-        "2490+ pts Playoffs Week 1"
+        "Week 15 — 2486.9"
       ],
-      "week": 1,
-      "points": 2490
+      "week": 15,
+      "points": 2486.9
     }
   },
   {
@@ -765,10 +773,10 @@
     },
     "details": {
       "notes": [
-        "Drew Bree's 388+pts Playoffs Week 1 —"
+        "Week 15 — Drew Bree's - 388.5pts"
       ],
-      "week": 1,
-      "points": 388,
+      "week": 15,
+      "points": 388.5,
       "player": {
         "firstName": "Drew",
         "lastName": "Bree"
@@ -834,10 +842,10 @@
     },
     "details": {
       "notes": [
-        "Week 17 High Score —"
+        "Week 17 — 2473.1"
       ],
       "week": 17,
-      "points": 0
+      "points": 2473.1
     }
   },
   {
@@ -857,10 +865,10 @@
     },
     "details": {
       "notes": [
-        "Tom Brady Again Week 17 450+pts —"
+        "Week 17 — Tom Brady - 435pts - again"
       ],
       "week": 17,
-      "points": 450,
+      "points": 435,
       "player": {
         "firstName": "Tom",
         "lastName": "Brady"
@@ -884,10 +892,10 @@
     },
     "details": {
       "notes": [
-        "Kurt Warner 529+pts Week 16 —"
+        "Week 16 — Kurt Warner - 529.5pts"
       ],
       "week": 16,
-      "points": 529,
+      "points": 529.5,
       "player": {
         "firstName": "Kurt",
         "lastName": "Warner"
@@ -911,10 +919,10 @@
     },
     "details": {
       "notes": [
-        "Week 16 —"
+        "Week 16 — 2686"
       ],
       "week": 16,
-      "points": 0
+      "points": 2686
     }
   },
   {
@@ -976,10 +984,10 @@
     },
     "details": {
       "notes": [
-        "3200+pts Week 14 —"
+        "Week 14 — 3205"
       ],
       "week": 14,
-      "points": 3200
+      "points": 3205
     }
   },
   {
@@ -999,13 +1007,13 @@
     },
     "details": {
       "notes": [
-        "Fucking Tom Brady 600+pts Week 14 —"
+        "Week 14 — Tom Brady - 614.5pts"
       ],
       "week": 14,
-      "points": 600,
+      "points": 614.5,
       "player": {
-        "firstName": "Fucking",
-        "lastName": "Tom"
+        "firstName": "Tom",
+        "lastName": "Brady"
       }
     }
   }

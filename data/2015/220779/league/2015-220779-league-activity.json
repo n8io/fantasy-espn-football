@@ -48,8 +48,8 @@
       "week": 1,
       "points": 335,
       "player": {
-        "firstName": "JJ",
-        "lastName": "WATT"
+        "firstName": "Jj",
+        "lastName": "Watt"
       }
     }
   },
@@ -98,9 +98,7 @@
     "details": {
       "notes": [
         "W1 - 3290.5 - HURL — Soon, NOBODY will like you-",
-        "",
         "BREAK THE BANK - 3290.5 points!",
-        "",
         "If Frye and I combined our points, we would've beaten you by 493.6 points."
       ],
       "week": 1,
@@ -558,7 +556,7 @@
       "week": 5,
       "points": 355,
       "player": {
-        "firstName": "NaVorro",
+        "firstName": "Navorro",
         "lastName": "Bowman"
       }
     }
@@ -612,7 +610,7 @@
       "week": 3,
       "points": 432,
       "player": {
-        "firstName": "A.J.",
+        "firstName": "A.j.",
         "lastName": "Green"
       }
     }
@@ -693,7 +691,7 @@
       "week": 6,
       "points": 318,
       "player": {
-        "firstName": "DeAndre",
+        "firstName": "Deandre",
         "lastName": "Hopkins"
       }
     }
@@ -814,7 +812,7 @@
       "week": 7,
       "points": 337,
       "player": {
-        "firstName": "TY",
+        "firstName": "Ty",
         "lastName": "Hilton"
       }
     }
@@ -995,7 +993,6 @@
     "details": {
       "notes": [
         "W8 - Luke Kuechly - 380 — Tha Faq?",
-        "",
         "380"
       ],
       "week": 8,
@@ -1160,7 +1157,7 @@
       "week": 9,
       "points": 325,
       "player": {
-        "firstName": "TJ",
+        "firstName": "Tj",
         "lastName": "Ward"
       }
     }
@@ -1261,7 +1258,7 @@
       "points": 315,
       "player": {
         "firstName": "Ha",
-        "lastName": "Ha ClintonDix"
+        "lastName": "Ha Clinton"
       }
     }
   },
@@ -1768,7 +1765,7 @@
       "week": 11,
       "points": 298,
       "player": {
-        "firstName": "DeAndre",
+        "firstName": "Deandre",
         "lastName": "Hopkins"
       }
     }

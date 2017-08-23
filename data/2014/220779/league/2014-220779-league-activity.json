@@ -391,7 +391,7 @@
       "week": 3,
       "points": 345,
       "player": {
-        "firstName": "DeAndre",
+        "firstName": "Deandre",
         "lastName": "Levy"
       }
     }
@@ -780,7 +780,7 @@
       "week": 5,
       "points": 350,
       "player": {
-        "firstName": "T.Y.",
+        "firstName": "T.y.",
         "lastName": "Hilton"
       }
     }
@@ -1778,7 +1778,7 @@
       "week": 13,
       "points": 440,
       "player": {
-        "firstName": "DeAndre",
+        "firstName": "Deandre",
         "lastName": "Hopkins"
       }
     }
@@ -1805,7 +1805,7 @@
       "week": 14,
       "points": 428,
       "player": {
-        "firstName": "Le'Veon",
+        "firstName": "Le'veon",
         "lastName": "Bell"
       }
     }
@@ -2111,9 +2111,7 @@
       "id": 4
     },
     "details": {
-      "notes": [
-        ""
-      ]
+      "notes": []
     }
   },
   {
@@ -2132,9 +2130,7 @@
       "id": 3
     },
     "details": {
-      "notes": [
-        ""
-      ]
+      "notes": []
     }
   },
   {
@@ -2153,9 +2149,7 @@
       "id": 1
     },
     "details": {
-      "notes": [
-        ""
-      ]
+      "notes": []
     }
   },
   {
@@ -2174,9 +2168,7 @@
       "id": 2
     },
     "details": {
-      "notes": [
-        ""
-      ]
+      "notes": []
     }
   },
   {

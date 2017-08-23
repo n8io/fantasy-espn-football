@@ -162,7 +162,7 @@
       "points": 285,
       "player": {
         "firstName": "Good",
-        "lastName": "one"
+        "lastName": "One"
       }
     }
   },
@@ -424,7 +424,7 @@
       "points": 345,
       "player": {
         "firstName": "Eric",
-        "lastName": "Coleman"
+        "lastName": "Coleman S"
       }
     }
   },
@@ -608,7 +608,7 @@
       "week": 6,
       "points": 344.3,
       "player": {
-        "firstName": "tony",
+        "firstName": "Tony",
         "lastName": "Romo"
       }
     }
@@ -824,7 +824,7 @@
       "week": 5,
       "points": 326,
       "player": {
-        "firstName": "DeAngelo",
+        "firstName": "Deangelo",
         "lastName": "Williams"
       }
     }
@@ -878,7 +878,7 @@
       "week": 7,
       "points": 359,
       "player": {
-        "firstName": "LenDale",
+        "firstName": "Lendale",
         "lastName": "White"
       }
     }
@@ -1814,7 +1814,7 @@
       "week": 14,
       "points": 485,
       "player": {
-        "firstName": "D'Qwell",
+        "firstName": "D'qwell",
         "lastName": "Jackson"
       }
     }
@@ -1869,7 +1869,7 @@
       "points": 328.4,
       "player": {
         "firstName": "Fucking",
-        "lastName": "Brad"
+        "lastName": "Brad Maynard"
       }
     }
   },
@@ -1973,7 +1973,7 @@
       "points": 380,
       "player": {
         "firstName": "Brandon",
-        "lastName": "McDonald"
+        "lastName": "Mcdonald"
       }
     }
   },
@@ -2070,9 +2070,7 @@
       "id": 4
     },
     "details": {
-      "notes": [
-        ""
-      ]
+      "notes": []
     }
   },
   {
@@ -2147,7 +2145,7 @@
       "week": 16,
       "points": 333,
       "player": {
-        "firstName": "DeAngelo",
+        "firstName": "Deangelo",
         "lastName": "Williams"
       }
     }

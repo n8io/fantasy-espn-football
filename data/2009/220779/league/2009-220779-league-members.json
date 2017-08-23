@@ -1,49 +1,13 @@
 [
   {
-    "id": 4,
-    "abbrev": "Pad",
-    "name": "League Doormat",
-    "firstName": "Matthew",
-    "lastName": "Dziedzicki",
+    "id": 1,
+    "abbrev": "Nate",
+    "name": "Team Whistle Tips",
+    "firstName": "Nate",
+    "lastName": "Clark",
     "tags": [
       {
-        "division": "North"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "abbrev": "Frye",
-    "name": "Team Fuck",
-    "firstName": "Brian",
-    "lastName": "Frye",
-    "tags": [
-      {
-        "division": "West"
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "abbrev": "Weav",
-    "name": "Loves Being Raped",
-    "firstName": "Matt",
-    "lastName": "Weaver",
-    "tags": [
-      {
-        "division": "East"
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "abbrev": "Jim",
-    "name": "Tripple Threat",
-    "firstName": "Jim",
-    "lastName": "Harries",
-    "tags": [
-      {
-        "division": "East"
+        "division": "South"
       }
     ]
   },
@@ -60,6 +24,30 @@
     ]
   },
   {
+    "id": 3,
+    "abbrev": "HURL",
+    "name": "Peyton Is Makin It Wayne",
+    "firstName": "Zak",
+    "lastName": "Hurley",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "abbrev": "Pad",
+    "name": "League Doormat",
+    "firstName": "Matthew",
+    "lastName": "Dziedzicki",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
     "id": 5,
     "abbrev": "Mike",
     "name": "TDs N Beer",
@@ -68,18 +56,6 @@
     "tags": [
       {
         "division": "South"
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "abbrev": "Brok",
-    "name": "The One Eyed Man is King",
-    "firstName": "Brock",
-    "lastName": "Holtzapple",
-    "tags": [
-      {
-        "division": "North"
       }
     ]
   },
@@ -96,30 +72,6 @@
     ]
   },
   {
-    "id": 11,
-    "abbrev": "Jrod",
-    "name": "Whiskey Ditkas",
-    "firstName": "Jerrod",
-    "lastName": "Vastag",
-    "tags": [
-      {
-        "division": "North"
-      }
-    ]
-  },
-  {
-    "id": 1,
-    "abbrev": "Nate",
-    "name": "Team Whistle Tips",
-    "firstName": "Nate",
-    "lastName": "Clark",
-    "tags": [
-      {
-        "division": "South"
-      }
-    ]
-  },
-  {
     "id": 7,
     "abbrev": "cdz",
     "name": "off in the shower",
@@ -132,14 +84,62 @@
     ]
   },
   {
-    "id": 3,
-    "abbrev": "HURL",
-    "name": "Peyton Is Makin It Wayne",
-    "firstName": "Zak",
-    "lastName": "Hurley",
+    "id": 8,
+    "abbrev": "Frye",
+    "name": "Team Fuck",
+    "firstName": "Brian",
+    "lastName": "Frye",
     "tags": [
       {
         "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "abbrev": "Jim",
+    "name": "Tripple Threat",
+    "firstName": "Jim",
+    "lastName": "Harries",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "abbrev": "Brok",
+    "name": "The One Eyed Man is King",
+    "firstName": "Brock",
+    "lastName": "Holtzapple",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "abbrev": "Jrod",
+    "name": "Whiskey Ditkas",
+    "firstName": "Jerrod",
+    "lastName": "Vastag",
+    "tags": [
+      {
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "abbrev": "Weav",
+    "name": "Loves Being Raped",
+    "firstName": "Matt",
+    "lastName": "Weaver",
+    "tags": [
+      {
+        "division": "East"
       }
     ]
   }

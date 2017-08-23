@@ -6,6 +6,7 @@ import { parseKeyFromUrl } from '../../../utils/urls';
 import activityTypes from '../../../../config/leagueActivityTypes.json';
 import trophyTypes from '../../../../config/trophyTypes.json';
 import rosterActionTypes from '../../../../config/rosterActionTypes.json';
+import { properCase } from '../../../utils/string';
 import { dumbLogger as log } from '../../../utils/domLogger';
 
 const normalizeType = (typeMap, str, ignoreMismatch, unknownMsgPrefix) => {
@@ -70,12 +71,12 @@ const parseValueFromStringByRegex = (str, reg, fallback, castType) => {
 };
 
 const parseWeekFromString = str => {
-  const reg = /W[E]*[K]?[ ]*([0-9]{1,2})/gi;
+  const reg = /W[E]*[K]?[ ]*[-]?([0-9]{1,2})/i;
 
   const week = parseValueFromStringByRegex(str, reg, -1, 'int');
 
   if (week === -1) {
-    log(`  ⚠️ Week could not be determined from text: ${str}`);
+    log(`  ⚠️ 📅 Week could not be determined from text: ${str}`);
   }
 
   return week;
@@ -87,40 +88,30 @@ const parsePointsFromString = str => {
   const pts = parseValueFromStringByRegex(str, reg, 0.0, 'float');
 
   if (pts === 0) {
-    log(`  ⚠️ Points could not be determined from text: ${str}`);
+    log(`  ⚠️ 🔢 Points could not be determined from text: ${str}`);
   }
 
   return pts;
 };
 
 const parsePlayerNameFromString = str => {
-  const reg = /^(?!(W[E]*[K]?[ ]*[0-9]+[ ]*[-—]?[ ]*))(([a-z'-.]+)([ ]+[a-z'-.]+))*|[-—][ ]*([a-z'-.]+([ ][a-z'-.]+)*)[ ]*[-—]|[-—][ ]*([a-z'-.]+([ ][a-z'-.]+)*)[ ]*[0-9]|W[E]*[K]?[ ]* [0-9]{1,2} ([A-Z.' ]+)/gim;
+  const reg = /[-]*[ ]*([a-z][a-z'.]*([ ]+[a-z][a-z'.]*)+)/i;
+  const fullName = parseValueFromStringByRegex(str, reg, '')
+    .replace(/[ ]+/g, ' ')
+    .replace(/[-]+/g, '')
+    .trim()
+    .replace(/(['][s]|[s]['])$/g, '');
 
-  const matches = reg.exec(str);
-  const hasMatch = matches && matches.length;
-
-  let match = '';
-  if (!hasMatch) {
-    log(`  ⚠️ Could not find player name in the following string: ${str}`);
-    console.log(JSON.stringify(matches, null, 2));
+  if (!fullName) {
+    log(`🛑 Could not find player name in the following string: ${str}`);
     throw new Error();
-  } else if (matches[9]) {
-    match = matches[9];
-  } else if (matches[7]) {
-    match = matches[7];
-  } else if (matches[5]) {
-    match = matches[5];
-  } else if (matches[2]) {
-    match = matches[2];
   }
-
-  const fullName = match.replace(/[ ]+/g, ' ').replace(/[-]+/g, '').trim().replace(/(['][s]|[s]['])$/g, '');
 
   const parts = fullName.split(' ');
   const [firstName, ...lastNames] = parts;
-  const lastName = lastNames.join(' ');
+  const lastName = properCase(lastNames.join(' '));
 
-  return { firstName, lastName };
+  return { firstName: properCase(firstName), lastName };
 };
 
 const parseTrophyFromString = str => {
@@ -161,6 +152,12 @@ const parseTradeTypeFromString = str => {
   }
 
   return tradeType;
+};
+
+const parseYearFromTrophyNote = str => {
+  const reg = /([2][0-9]{3})/i;
+
+  return parseValueFromStringByRegex(str, reg, 0, 'int');
 };
 
 const parseDateCell = (cell, seasonId) => {
@@ -324,6 +321,10 @@ export const parseRow = (row, season) => {
 
     activity.trophy.id = parseKeyFromUrl(trophyLink.attr('href'), 'trophyId', 'int');
     activity.trophy.team.id = parseKeyFromUrl(teamLink.attr('href'), 'teamId', 'int');
+
+    if (activity.trophy.type.startsWith('YEARLY_')) {
+      activity.season = parseYearFromTrophyNote($(cells[2]).text()) || activity.season;
+    }
   }
 
   activity.details = parseActivityDetails(activity, cells[2]);

@@ -7,8 +7,7 @@
     "subTypeText": "League rules updated",
     "details": {
       "notes": [
-        "Activated league.",
-        ""
+        "Activated league."
       ]
     }
   },
@@ -21,8 +20,7 @@
     "details": {
       "notes": [
         "Changed draft type to live.",
-        "Made draft time Friday, Sep 1, 7:00 PM ET.",
-        ""
+        "Made draft time Friday, Sep 1, 7:00 PM ET."
       ]
     }
   },
@@ -64,8 +62,7 @@
         "Moved team Mike Bixler to division WHY TRY.",
         "Moved team Cleveland Browns to division WHY TRY.",
         "Moved team Frisky  Dingo to division DAMOCLES.",
-        "Moved team Down With OBJr. to division DAMOCLES.",
-        ""
+        "Moved team Down With OBJr. to division DAMOCLES."
       ]
     }
   },
@@ -77,8 +74,7 @@
     "subTypeText": "League schedule updated",
     "details": {
       "notes": [
-        "Modified schedule.",
-        ""
+        "Modified schedule."
       ]
     }
   },
@@ -90,8 +86,7 @@
     "subTypeText": "League schedule updated",
     "details": {
       "notes": [
-        "Modified schedule.",
-        ""
+        "Modified schedule."
       ]
     }
   },
@@ -103,8 +98,7 @@
     "subTypeText": "League schedule updated",
     "details": {
       "notes": [
-        "Modified schedule.",
-        ""
+        "Modified schedule."
       ]
     }
   },
@@ -116,8 +110,7 @@
     "subTypeText": "League schedule updated",
     "details": {
       "notes": [
-        "Modified schedule.",
-        ""
+        "Modified schedule."
       ]
     }
   },
@@ -129,8 +122,7 @@
     "subTypeText": "League schedule updated",
     "details": {
       "notes": [
-        "Modified schedule.",
-        ""
+        "Modified schedule."
       ]
     }
   },
@@ -142,8 +134,7 @@
     "subTypeText": "League schedule updated",
     "details": {
       "notes": [
-        "Modified schedule.",
-        ""
+        "Modified schedule."
       ]
     }
   },
@@ -155,8 +146,7 @@
     "subTypeText": "League schedule updated",
     "details": {
       "notes": [
-        "Modified schedule.",
-        ""
+        "Modified schedule."
       ]
     }
   },
@@ -168,8 +158,7 @@
     "subTypeText": "League schedule updated",
     "details": {
       "notes": [
-        "Modified schedule.",
-        ""
+        "Modified schedule."
       ]
     }
   },
@@ -181,8 +170,7 @@
     "subTypeText": "League schedule updated",
     "details": {
       "notes": [
-        "Modified schedule.",
-        ""
+        "Modified schedule."
       ]
     }
   },
@@ -194,8 +182,7 @@
     "subTypeText": "League schedule updated",
     "details": {
       "notes": [
-        "Modified schedule.",
-        ""
+        "Modified schedule."
       ]
     }
   },
@@ -207,8 +194,7 @@
     "subTypeText": "League schedule updated",
     "details": {
       "notes": [
-        "Modified schedule.",
-        ""
+        "Modified schedule."
       ]
     }
   },
@@ -220,8 +206,7 @@
     "subTypeText": "League schedule updated",
     "details": {
       "notes": [
-        "Modified schedule.",
-        ""
+        "Modified schedule."
       ]
     }
   },
@@ -233,8 +218,7 @@
     "subTypeText": "League schedule updated",
     "details": {
       "notes": [
-        "Modified schedule.",
-        ""
+        "Modified schedule."
       ]
     }
   },
@@ -958,30 +942,6 @@
     "subTypeText": "Drop",
     "details": {
       "notes": [
-        "DANK dropped David Parry, Ind DT to Waivers"
-      ],
-      "moves": [
-        {
-          "team": "DANK",
-          "action": "DROP",
-          "player": {
-            "name": "David Parry",
-            "team": "Ind",
-            "position": "DT"
-          }
-        }
-      ],
-      "isWaiver": false
-    }
-  },
-  {
-    "date": "2017-08-18T13:39:00Z",
-    "season": 2017,
-    "type": "ROSTER_TRANSACTION",
-    "subType": "ROSTER_DROP",
-    "subTypeText": "Drop",
-    "details": {
-      "notes": [
         "DANK dropped Chris Long, Phi DE to Waivers"
       ],
       "moves": [
@@ -999,6 +959,30 @@
     }
   },
   {
+    "date": "2017-08-18T13:39:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped David Parry, Ind DT to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "David Parry",
+            "team": "Ind",
+            "position": "DT"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
     "date": "2017-08-18T13:40:00Z",
     "season": 2017,
     "type": "ROSTER_TRANSACTION",
@@ -1006,18 +990,10 @@
     "subTypeText": "Drop",
     "details": {
       "notes": [
-        "DANK dropped Nick Novak, Hou K to Waivers"
+        "DANK dropped Malcolm Smith*, SF LB to Waivers"
       ],
       "moves": [
-        {
-          "team": "DANK",
-          "action": "DROP",
-          "player": {
-            "name": "Nick Novak",
-            "team": "Hou",
-            "position": "K"
-          }
-        }
+        null
       ],
       "isWaiver": false
     }
@@ -1054,10 +1030,18 @@
     "subTypeText": "Drop",
     "details": {
       "notes": [
-        "DANK dropped Malcolm Smith*, SF LB to Waivers"
+        "DANK dropped Nick Novak, Hou K to Waivers"
       ],
       "moves": [
-        null
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Nick Novak",
+            "team": "Hou",
+            "position": "K"
+          }
+        }
       ],
       "isWaiver": false
     }
@@ -1118,16 +1102,16 @@
     "subTypeText": "Drop",
     "details": {
       "notes": [
-        "DANK dropped Mason Crosby, GB K to Waivers"
+        "DANK dropped William Gholston, TB DE to Waivers"
       ],
       "moves": [
         {
           "team": "DANK",
           "action": "DROP",
           "player": {
-            "name": "Mason Crosby",
-            "team": "GB",
-            "position": "K"
+            "name": "William Gholston",
+            "team": "TB",
+            "position": "DE"
           }
         }
       ],
@@ -1190,40 +1174,16 @@
     "subTypeText": "Drop",
     "details": {
       "notes": [
-        "DANK dropped William Gholston, TB DE to Waivers"
+        "DANK dropped Mason Crosby, GB K to Waivers"
       ],
       "moves": [
         {
           "team": "DANK",
           "action": "DROP",
           "player": {
-            "name": "William Gholston",
-            "team": "TB",
-            "position": "DE"
-          }
-        }
-      ],
-      "isWaiver": false
-    }
-  },
-  {
-    "date": "2017-08-18T13:42:00Z",
-    "season": 2017,
-    "type": "ROSTER_TRANSACTION",
-    "subType": "ROSTER_DROP",
-    "subTypeText": "Drop",
-    "details": {
-      "notes": [
-        "DANK dropped Micah Hyde, Buf S to Waivers"
-      ],
-      "moves": [
-        {
-          "team": "DANK",
-          "action": "DROP",
-          "player": {
-            "name": "Micah Hyde",
-            "team": "Buf",
-            "position": "S"
+            "name": "Mason Crosby",
+            "team": "GB",
+            "position": "K"
           }
         }
       ],
@@ -1248,6 +1208,30 @@
             "name": "Mike Daniels",
             "team": "GB",
             "position": "DT"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-18T13:42:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Micah Hyde, Buf S to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Micah Hyde",
+            "team": "Buf",
+            "position": "S"
           }
         }
       ],
@@ -1556,30 +1540,6 @@
     "subTypeText": "Drop",
     "details": {
       "notes": [
-        "DANK dropped Karlos Dansby, Ari LB to Waivers"
-      ],
-      "moves": [
-        {
-          "team": "DANK",
-          "action": "DROP",
-          "player": {
-            "name": "Karlos Dansby",
-            "team": "Ari",
-            "position": "LB"
-          }
-        }
-      ],
-      "isWaiver": false
-    }
-  },
-  {
-    "date": "2017-08-18T18:03:00Z",
-    "season": 2017,
-    "type": "ROSTER_TRANSACTION",
-    "subType": "ROSTER_DROP",
-    "subTypeText": "Drop",
-    "details": {
-      "notes": [
         "DANK dropped Alan Branch, NE DT to Waivers"
       ],
       "moves": [
@@ -1669,6 +1629,30 @@
     }
   },
   {
+    "date": "2017-08-18T18:03:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Karlos Dansby, Ari LB to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Karlos Dansby",
+            "team": "Ari",
+            "position": "LB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
     "date": "2017-08-18T18:04:00Z",
     "season": 2017,
     "type": "ROSTER_TRANSACTION",
@@ -1700,8 +1684,7 @@
     "subTypeText": "League rules updated",
     "details": {
       "notes": [
-        "Modified draft order.",
-        ""
+        "Modified draft order."
       ]
     }
   },
@@ -4175,6 +4158,125 @@
         }
       ],
       "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-22T22:56:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Mark Barron, LAR LB to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "DANK",
+          "action": "DROP",
+          "player": {
+            "name": "Mark Barron",
+            "team": "LAR",
+            "position": "LB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-22T23:03:00Z",
+    "season": 2017,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Tuesday, Aug 22, 7:00 PM ET to Wednesday, Aug 23, 7:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2017-08-22T23:04:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_ADD_LM",
+    "subTypeText": "Add (By LM)",
+    "details": {
+      "notes": [
+        "KURT added Jordan Reed, Wsh TE from Waivers to Bench"
+      ],
+      "moves": [
+        {
+          "team": "KURT",
+          "action": "ADD",
+          "player": {
+            "name": "Jordan Reed",
+            "team": "Wsh",
+            "position": "TE"
+          }
+        }
+      ],
+      "isWaiver": true
+    }
+  },
+  {
+    "date": "2017-08-22T23:04:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP_LM",
+    "subTypeText": "Drop (By LM)",
+    "details": {
+      "notes": [
+        "KURT dropped Cam Newton, Car QB to Waivers"
+      ],
+      "moves": [
+        {
+          "team": "KURT",
+          "action": "DROP",
+          "player": {
+            "name": "Cam Newton",
+            "team": "Car",
+            "position": "QB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-22T23:06:00Z",
+    "season": 2017,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "TEAM_INFORMATION_UPDATE",
+    "subTypeText": "Team information updated",
+    "details": {
+      "notes": [
+        "Updated transaction counters for team League Man Nate'd.",
+        "Updated transaction counters for team jotas HOS.",
+        "Updated transaction counters for team Chicken  Dinner.",
+        "Updated transaction counters for team Mongolian Giants.",
+        "Updated transaction counters for team Two Mannings One Cup.",
+        "Updated transaction counters for team Ball Sagna.",
+        "Updated transaction counters for team Jobu's Rum.",
+        "Updated transaction counters for team Don't Know.",
+        "Updated transaction counters for team Mike Bixler.",
+        "Updated transaction counters for team Cleveland Browns.",
+        "Updated transaction counters for team Frisky  Dingo.",
+        "Updated transaction counters for team Down With OBJr.."
+      ]
+    }
+  },
+  {
+    "date": "2017-08-22T23:07:00Z",
+    "season": 2017,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Wednesday, Aug 23, 7:00 PM ET to Tuesday, Aug 22, 7:00 PM ET."
+      ]
     }
   }
 ]

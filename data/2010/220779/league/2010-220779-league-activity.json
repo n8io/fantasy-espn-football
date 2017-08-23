@@ -48,7 +48,7 @@
       "week": 1,
       "points": 370,
       "player": {
-        "firstName": "LaRon",
+        "firstName": "Laron",
         "lastName": "Landry"
       }
     }
@@ -125,7 +125,7 @@
       "week": 1,
       "points": 390,
       "player": {
-        "firstName": "DeAngelo",
+        "firstName": "Deangelo",
         "lastName": "Hall"
       }
     }
@@ -545,7 +545,7 @@
       "week": 5,
       "points": 360,
       "player": {
-        "firstName": "LaRon",
+        "firstName": "Laron",
         "lastName": "Landry"
       }
     }
@@ -831,7 +831,7 @@
       "points": 452,
       "player": {
         "firstName": "Darren",
-        "lastName": "McFadden"
+        "lastName": "Mcfadden"
       }
     }
   },
@@ -857,7 +857,7 @@
       "week": 7,
       "points": 510,
       "player": {
-        "firstName": "DeAngelo",
+        "firstName": "Deangelo",
         "lastName": "Hall"
       }
     }
@@ -1718,9 +1718,7 @@
       "id": 3
     },
     "details": {
-      "notes": [
-        ""
-      ]
+      "notes": []
     }
   },
   {
@@ -1848,7 +1846,7 @@
       "points": 443,
       "player": {
         "firstName": "Darren",
-        "lastName": "McFadden"
+        "lastName": "Mcfadden"
       }
     }
   },
@@ -2165,9 +2163,7 @@
       "id": 4
     },
     "details": {
-      "notes": [
-        ""
-      ]
+      "notes": []
     }
   },
   {
@@ -2186,9 +2182,7 @@
       "id": 1
     },
     "details": {
-      "notes": [
-        ""
-      ]
+      "notes": []
     }
   }
 ]

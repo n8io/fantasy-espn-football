@@ -18,11 +18,11 @@
       "fee": 0
     },
     "drops": {
-      "count": 31,
-      "fee": 15.5
+      "count": 0,
+      "fee": 0
     },
     "irPlacements": {
-      "count": 1,
+      "count": 0,
       "fee": 0
     },
     "misc": {
@@ -35,7 +35,7 @@
     },
     "paid": {
       "count": 0,
-      "fee": 65.5
+      "fee": 50
     }
   },
   {
@@ -57,8 +57,8 @@
       "fee": 0
     },
     "drops": {
-      "count": 28,
-      "fee": 14
+      "count": 0,
+      "fee": 0
     },
     "irPlacements": {
       "count": 0,
@@ -74,7 +74,7 @@
     },
     "paid": {
       "count": 0,
-      "fee": 64
+      "fee": 50
     }
   },
   {
@@ -96,8 +96,8 @@
       "fee": 0
     },
     "drops": {
-      "count": 32,
-      "fee": 16
+      "count": 0,
+      "fee": 0
     },
     "irPlacements": {
       "count": 0,
@@ -113,7 +113,7 @@
     },
     "paid": {
       "count": 0,
-      "fee": 66
+      "fee": 50
     }
   },
   {
@@ -135,8 +135,8 @@
       "fee": 0
     },
     "drops": {
-      "count": 29,
-      "fee": 14.5
+      "count": 0,
+      "fee": 0
     },
     "irPlacements": {
       "count": 0,
@@ -152,7 +152,7 @@
     },
     "paid": {
       "count": 0,
-      "fee": 64.5
+      "fee": 50
     }
   },
   {
@@ -174,11 +174,11 @@
       "fee": 0
     },
     "drops": {
-      "count": 29,
-      "fee": 14.5
+      "count": 0,
+      "fee": 0
     },
     "irPlacements": {
-      "count": 1,
+      "count": 0,
       "fee": 0
     },
     "misc": {
@@ -191,7 +191,7 @@
     },
     "paid": {
       "count": 0,
-      "fee": 64.5
+      "fee": 50
     }
   },
   {
@@ -213,11 +213,11 @@
       "fee": 0
     },
     "drops": {
-      "count": 29,
-      "fee": 14.5
+      "count": 0,
+      "fee": 0
     },
     "irPlacements": {
-      "count": 1,
+      "count": 0,
       "fee": 0
     },
     "misc": {
@@ -230,7 +230,7 @@
     },
     "paid": {
       "count": 0,
-      "fee": 64.5
+      "fee": 50
     }
   },
   {
@@ -252,8 +252,8 @@
       "fee": 0
     },
     "drops": {
-      "count": 27,
-      "fee": 13.5
+      "count": 0,
+      "fee": 0
     },
     "irPlacements": {
       "count": 0,
@@ -269,7 +269,7 @@
     },
     "paid": {
       "count": 0,
-      "fee": 63.5
+      "fee": 50
     }
   },
   {
@@ -291,8 +291,8 @@
       "fee": 0
     },
     "drops": {
-      "count": 28,
-      "fee": 14
+      "count": 0,
+      "fee": 0
     },
     "irPlacements": {
       "count": 0,
@@ -308,7 +308,7 @@
     },
     "paid": {
       "count": 0,
-      "fee": 64
+      "fee": 50
     }
   },
   {
@@ -330,11 +330,11 @@
       "fee": 0
     },
     "drops": {
-      "count": 28,
-      "fee": 14
+      "count": 0,
+      "fee": 0
     },
     "irPlacements": {
-      "count": 2,
+      "count": 0,
       "fee": 0
     },
     "misc": {
@@ -347,7 +347,7 @@
     },
     "paid": {
       "count": 0,
-      "fee": 64
+      "fee": 50
     }
   },
   {
@@ -369,8 +369,8 @@
       "fee": 0
     },
     "drops": {
-      "count": 30,
-      "fee": 15
+      "count": 0,
+      "fee": 0
     },
     "irPlacements": {
       "count": 0,
@@ -386,7 +386,7 @@
     },
     "paid": {
       "count": 0,
-      "fee": 65
+      "fee": 50
     }
   },
   {
@@ -408,8 +408,8 @@
       "fee": 0
     },
     "drops": {
-      "count": 30,
-      "fee": 15
+      "count": 0,
+      "fee": 0
     },
     "irPlacements": {
       "count": 0,
@@ -425,7 +425,7 @@
     },
     "paid": {
       "count": 0,
-      "fee": 65
+      "fee": 50
     }
   },
   {
@@ -443,12 +443,12 @@
       "fee": 0
     },
     "adds": {
-      "count": 0,
-      "fee": 0
+      "count": 1,
+      "fee": 0.5
     },
     "drops": {
-      "count": 28,
-      "fee": 14
+      "count": 0,
+      "fee": 0
     },
     "irPlacements": {
       "count": 0,
@@ -464,7 +464,7 @@
     },
     "paid": {
       "count": 0,
-      "fee": 64
+      "fee": 50.5
     }
   }
 ]

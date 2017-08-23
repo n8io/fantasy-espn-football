@@ -1,49 +1,13 @@
 [
   {
-    "id": 9,
-    "abbrev": "Jim",
-    "name": "Try My Margarita",
-    "firstName": "Jim",
-    "lastName": "Harries",
+    "id": 1,
+    "abbrev": "Nate",
+    "name": "Team Whistle Tips",
+    "firstName": "Nate",
+    "lastName": "Clark",
     "tags": [
       {
-        "division": "North"
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "abbrev": "Weav",
-    "name": "Last Again",
-    "firstName": "Matt",
-    "lastName": "Weaver",
-    "tags": [
-      {
-        "division": "West"
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "abbrev": "JRod",
-    "name": "Team Awesome",
-    "firstName": "Jerrod",
-    "lastName": "Vastag",
-    "tags": [
-      {
-        "division": "West"
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "abbrev": "Mike",
-    "name": "Touchdown Jesus",
-    "firstName": "Mike",
-    "lastName": "Saunders",
-    "tags": [
-      {
-        "division": "East"
+        "division": "South"
       }
     ]
   },
@@ -72,14 +36,38 @@
     ]
   },
   {
-    "id": 1,
-    "abbrev": "Nate",
-    "name": "Team Whistle Tips",
-    "firstName": "Nate",
-    "lastName": "Clark",
+    "id": 4,
+    "abbrev": "Pad",
+    "name": "Sweater Puppies",
+    "firstName": "Matthew",
+    "lastName": "Dziedzicki",
     "tags": [
       {
-        "division": "South"
+        "division": "North"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "abbrev": "Mike",
+    "name": "Touchdown Jesus",
+    "firstName": "Mike",
+    "lastName": "Saunders",
+    "tags": [
+      {
+        "division": "East"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "abbrev": "Dubs",
+    "name": "Powdered Toast Man",
+    "firstName": "Brian",
+    "lastName": "Williams",
+    "tags": [
+      {
+        "division": "West"
       }
     ]
   },
@@ -108,26 +96,14 @@
     ]
   },
   {
-    "id": 4,
-    "abbrev": "Pad",
-    "name": "Sweater Puppies",
-    "firstName": "Matthew",
-    "lastName": "Dziedzicki",
+    "id": 9,
+    "abbrev": "Jim",
+    "name": "Try My Margarita",
+    "firstName": "Jim",
+    "lastName": "Harries",
     "tags": [
       {
         "division": "North"
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "abbrev": "Dubs",
-    "name": "Powdered Toast Man",
-    "firstName": "Brian",
-    "lastName": "Williams",
-    "tags": [
-      {
-        "division": "West"
       }
     ]
   },
@@ -140,6 +116,30 @@
     "tags": [
       {
         "division": "South"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "abbrev": "JRod",
+    "name": "Team Awesome",
+    "firstName": "Jerrod",
+    "lastName": "Vastag",
+    "tags": [
+      {
+        "division": "West"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "abbrev": "Weav",
+    "name": "Last Again",
+    "firstName": "Matt",
+    "lastName": "Weaver",
+    "tags": [
+      {
+        "division": "West"
       }
     ]
   }
