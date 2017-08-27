@@ -46,16 +46,21 @@ const amend = (mbrs, season) => {
 
   if (season === 2016) {
     members = members.map(m => {
-      const member = { ...m };
+      const { tags, ...rest } = m;
+      const member = { ...rest };
 
       if (member.id === 7) {
         // Move team to Jason Pero
         member.abbrev = 'PERO';
+        member.alias = 'KURT';
         member.firstName = 'Jason';
         member.lastName = 'Pero';
       }
 
-      return member;
+      return {
+        ...member,
+        tags,
+      };
     });
   }
 

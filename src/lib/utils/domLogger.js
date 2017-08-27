@@ -1,7 +1,9 @@
 import moment from 'moment-timezone';
 
+const dateFormat = 'ddd MMM dd HH:mm:ss z YYYY';
+
 const domLogger = async (message, page) => {
-  const now = moment.tz('America/New_York').format('ddd MMM HH:mm:ss z YYYY');
+  const now = moment.tz('America/New_York').format(dateFormat);
 
   console.log(`${now}: ${message}`); // eslint-disable-line no-console
 
@@ -51,7 +53,7 @@ const domLogger = async (message, page) => {
 };
 
 export const dumbLogger = message => {
-  const now = moment.tz('America/New_York').format('ddd MMM HH:mm:ss z YYYY');
+  const now = moment.tz('America/New_York').format(dateFormat);
 
   console.log(`${now}: ${message}`); // eslint-disable-line no-console
 };

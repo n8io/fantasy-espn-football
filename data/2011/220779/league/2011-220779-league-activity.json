@@ -1852,10 +1852,14 @@
     },
     "details": {
       "notes": [
-        "Week 13 - Conner Barth —"
+        "Week 13 - Conner Barth - 360pts —"
       ],
       "week": 13,
-      "points": 0
+      "points": 360,
+      "player": {
+        "firstName": "Conner",
+        "lastName": "Barth"
+      }
     }
   },
   {

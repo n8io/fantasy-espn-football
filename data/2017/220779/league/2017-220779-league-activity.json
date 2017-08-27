@@ -262,7 +262,10 @@
       ],
       "moves": [
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Greg Olsen",
@@ -271,7 +274,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Matt Forte",
@@ -280,7 +286,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "William Hayes",
@@ -289,7 +298,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Tim Hightower",
@@ -298,7 +310,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "DeAndre Levy",
@@ -307,7 +322,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "LeGarrette Blount",
@@ -316,7 +334,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Dez Bryant",
@@ -325,7 +346,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Golden Tate",
@@ -334,7 +358,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Gerald McCoy",
@@ -343,7 +370,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Kam Chancellor",
@@ -352,7 +382,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Cameron Jordan",
@@ -361,7 +394,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Bilal Powell",
@@ -370,7 +406,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Byron Maxwell",
@@ -379,7 +418,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Chris Harris Jr.",
@@ -388,7 +430,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Brock Osweiler",
@@ -397,7 +442,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Ladarius Green",
@@ -406,7 +454,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Derek Wolfe",
@@ -415,7 +466,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Kevin Minter",
@@ -424,7 +478,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Chris Boswell",
@@ -433,7 +490,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Colton Schmidt",
@@ -442,7 +502,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Jaquiski Tartt",
@@ -451,7 +514,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Vic Beasley Jr.",
@@ -460,7 +526,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Ameer Abdullah",
@@ -469,7 +538,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Tyrell Williams",
@@ -478,7 +550,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Darron Lee",
@@ -487,7 +562,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "James Bradberry",
@@ -496,7 +574,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Jatavis Brown",
@@ -505,7 +586,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Riley Dixon",
@@ -514,7 +598,10 @@
           }
         },
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Wil Lutz",
@@ -558,7 +645,10 @@
       ],
       "moves": [
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Sam Koch",
@@ -567,7 +657,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Cameron Wake",
@@ -576,7 +669,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Lardarius Webb",
@@ -585,7 +681,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Brandon Graham",
@@ -594,7 +693,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Linval Joseph",
@@ -603,7 +705,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Nick Bellore",
@@ -612,7 +717,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Doug Martin",
@@ -621,7 +729,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Tavon Wilson",
@@ -630,7 +741,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Cordarrelle Patterson",
@@ -639,7 +753,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Zach Ertz",
@@ -648,7 +765,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Phillip Gaines",
@@ -657,7 +777,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Marqise Lee",
@@ -666,7 +789,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Davante Adams",
@@ -675,7 +801,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Taylor Gabriel",
@@ -684,7 +813,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Brad Wing",
@@ -693,7 +825,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Avery Williamson",
@@ -703,7 +838,10 @@
         },
         null,
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Cameron Brate",
@@ -712,7 +850,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Noah Spence",
@@ -721,7 +862,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Daryl Worley",
@@ -730,7 +874,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Kenneth Farrow",
@@ -754,7 +901,10 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Spencer Ware",
@@ -778,7 +928,10 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Frank Gore",
@@ -802,7 +955,10 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Ted Ginn Jr.",
@@ -822,18 +978,10 @@
     "subTypeText": "Drop",
     "details": {
       "notes": [
-        "DANK dropped Julian Edelman, NE WR to Waivers"
+        "DANK dropped Julian Edelman*, NE WR to Waivers"
       ],
       "moves": [
-        {
-          "team": "DANK",
-          "action": "DROP",
-          "player": {
-            "name": "Julian Edelman",
-            "team": "NE",
-            "position": "WR"
-          }
-        }
+        null
       ],
       "isWaiver": false
     }
@@ -850,7 +998,10 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "DeSean Jackson",
@@ -874,7 +1025,10 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Antonio Gates",
@@ -898,7 +1052,10 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Lawrence Timmons",
@@ -918,35 +1075,14 @@
     "subTypeText": "Drop",
     "details": {
       "notes": [
-        "DANK dropped Kawann Short, Car DT to Waivers"
-      ],
-      "moves": [
-        {
-          "team": "DANK",
-          "action": "DROP",
-          "player": {
-            "name": "Kawann Short",
-            "team": "Car",
-            "position": "DT"
-          }
-        }
-      ],
-      "isWaiver": false
-    }
-  },
-  {
-    "date": "2017-08-18T13:39:00Z",
-    "season": 2017,
-    "type": "ROSTER_TRANSACTION",
-    "subType": "ROSTER_DROP",
-    "subTypeText": "Drop",
-    "details": {
-      "notes": [
         "DANK dropped Chris Long, Phi DE to Waivers"
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Chris Long",
@@ -970,7 +1106,10 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "David Parry",
@@ -983,17 +1122,28 @@
     }
   },
   {
-    "date": "2017-08-18T13:40:00Z",
+    "date": "2017-08-18T13:39:00Z",
     "season": 2017,
     "type": "ROSTER_TRANSACTION",
     "subType": "ROSTER_DROP",
     "subTypeText": "Drop",
     "details": {
       "notes": [
-        "DANK dropped Malcolm Smith*, SF LB to Waivers"
+        "DANK dropped Kawann Short, Car DT to Waivers"
       ],
       "moves": [
-        null
+        {
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
+          "action": "DROP",
+          "player": {
+            "name": "Kawann Short",
+            "team": "Car",
+            "position": "DT"
+          }
+        }
       ],
       "isWaiver": false
     }
@@ -1010,7 +1160,10 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Marcus Peters",
@@ -1034,7 +1187,10 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Nick Novak",
@@ -1058,7 +1214,10 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Pat McAfee",
@@ -1066,6 +1225,22 @@
             "position": "P"
           }
         }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-18T13:40:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Malcolm Smith*, SF LB to Waivers"
+      ],
+      "moves": [
+        null
       ],
       "isWaiver": false
     }
@@ -1082,7 +1257,10 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Kelvin Benjamin",
@@ -1106,7 +1284,10 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "William Gholston",
@@ -1126,11 +1307,41 @@
     "subTypeText": "Drop",
     "details": {
       "notes": [
+        "DANK dropped Mason Crosby, GB K to Waivers"
+      ],
+      "moves": [
+        {
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
+          "action": "DROP",
+          "player": {
+            "name": "Mason Crosby",
+            "team": "GB",
+            "position": "K"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-18T13:41:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
         "DANK dropped Lachlan Edwards, NYJ P to Waivers"
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Lachlan Edwards",
@@ -1154,60 +1365,15 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Richard Sherman",
             "team": "Sea",
             "position": "CB"
-          }
-        }
-      ],
-      "isWaiver": false
-    }
-  },
-  {
-    "date": "2017-08-18T13:41:00Z",
-    "season": 2017,
-    "type": "ROSTER_TRANSACTION",
-    "subType": "ROSTER_DROP",
-    "subTypeText": "Drop",
-    "details": {
-      "notes": [
-        "DANK dropped Mason Crosby, GB K to Waivers"
-      ],
-      "moves": [
-        {
-          "team": "DANK",
-          "action": "DROP",
-          "player": {
-            "name": "Mason Crosby",
-            "team": "GB",
-            "position": "K"
-          }
-        }
-      ],
-      "isWaiver": false
-    }
-  },
-  {
-    "date": "2017-08-18T13:42:00Z",
-    "season": 2017,
-    "type": "ROSTER_TRANSACTION",
-    "subType": "ROSTER_DROP",
-    "subTypeText": "Drop",
-    "details": {
-      "notes": [
-        "DANK dropped Mike Daniels, GB DT to Waivers"
-      ],
-      "moves": [
-        {
-          "team": "DANK",
-          "action": "DROP",
-          "player": {
-            "name": "Mike Daniels",
-            "team": "GB",
-            "position": "DT"
           }
         }
       ],
@@ -1226,12 +1392,42 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Micah Hyde",
             "team": "Buf",
             "position": "S"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-18T13:42:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Mike Daniels, GB DT to Waivers"
+      ],
+      "moves": [
+        {
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
+          "action": "DROP",
+          "player": {
+            "name": "Mike Daniels",
+            "team": "GB",
+            "position": "DT"
           }
         }
       ],
@@ -1277,7 +1473,10 @@
       ],
       "moves": [
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Philip Rivers",
@@ -1286,7 +1485,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Kyle Williams",
@@ -1295,7 +1497,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Reggie Nelson",
@@ -1304,7 +1509,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Martellus Bennett",
@@ -1313,7 +1521,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Stephen Hauschka",
@@ -1322,7 +1533,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Graham Gano",
@@ -1331,7 +1545,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Michael Crabtree",
@@ -1340,7 +1557,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Britton Colquitt",
@@ -1349,7 +1569,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "T.J. Ward",
@@ -1358,7 +1581,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Doug Baldwin",
@@ -1367,7 +1593,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "DuJuan Harris",
@@ -1376,7 +1605,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "T.Y. Hilton",
@@ -1385,7 +1617,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Chandler Jones",
@@ -1394,7 +1629,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Casey Hayward",
@@ -1403,7 +1641,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Tyrone Crawford",
@@ -1412,7 +1653,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Jaye Howard",
@@ -1421,7 +1665,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Jared Crick",
@@ -1430,7 +1677,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Brad Nortman",
@@ -1439,7 +1689,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Nigel Bradham",
@@ -1448,7 +1701,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Xavier Rhodes",
@@ -1457,7 +1713,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Sheldon Richardson",
@@ -1466,7 +1725,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Travis Kelce",
@@ -1475,7 +1737,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Marquess Wilson",
@@ -1484,7 +1749,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Preston Brown",
@@ -1493,7 +1761,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Malcolm Butler",
@@ -1502,7 +1773,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Jake Ryan",
@@ -1511,7 +1785,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "Sheldon Rankins",
@@ -1520,7 +1797,10 @@
           }
         },
         {
-          "team": "JOTA",
+          "team": {
+            "id": 2,
+            "abbrev": "JOTA"
+          },
           "action": "DROP",
           "player": {
             "name": "DaVonte Lambert",
@@ -1540,11 +1820,41 @@
     "subTypeText": "Drop",
     "details": {
       "notes": [
+        "DANK dropped Karlos Dansby, Ari LB to Waivers"
+      ],
+      "moves": [
+        {
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
+          "action": "DROP",
+          "player": {
+            "name": "Karlos Dansby",
+            "team": "Ari",
+            "position": "LB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-18T18:03:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
         "DANK dropped Alan Branch, NE DT to Waivers"
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Alan Branch",
@@ -1568,7 +1878,10 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Donte Moncrief",
@@ -1592,7 +1905,10 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Matt Jones",
@@ -1616,36 +1932,15 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Joe Flacco",
             "team": "Bal",
             "position": "QB"
-          }
-        }
-      ],
-      "isWaiver": false
-    }
-  },
-  {
-    "date": "2017-08-18T18:03:00Z",
-    "season": 2017,
-    "type": "ROSTER_TRANSACTION",
-    "subType": "ROSTER_DROP",
-    "subTypeText": "Drop",
-    "details": {
-      "notes": [
-        "DANK dropped Karlos Dansby, Ari LB to Waivers"
-      ],
-      "moves": [
-        {
-          "team": "DANK",
-          "action": "DROP",
-          "player": {
-            "name": "Karlos Dansby",
-            "team": "Ari",
-            "position": "LB"
           }
         }
       ],
@@ -1664,7 +1959,10 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Dwayne Allen",
@@ -1727,7 +2025,10 @@
       ],
       "moves": [
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Carson Palmer",
@@ -1736,7 +2037,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Dustin Colquitt",
@@ -1745,7 +2049,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Matt Prater",
@@ -1754,7 +2061,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Jonathan Casillas",
@@ -1764,7 +2074,10 @@
         },
         null,
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Carlos Dunlap",
@@ -1773,7 +2086,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Adrian Clayborn",
@@ -1782,7 +2098,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Patrick Peterson",
@@ -1792,7 +2111,10 @@
         },
         null,
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Justin Houston",
@@ -1801,7 +2123,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Tyrod Taylor",
@@ -1810,7 +2135,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Ron Parker",
@@ -1819,7 +2147,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Craig Robertson",
@@ -1828,7 +2159,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Coby Fleener",
@@ -1837,7 +2171,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Michael Floyd",
@@ -1846,7 +2183,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Nick Perry",
@@ -1855,7 +2195,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Janoris Jenkins",
@@ -1864,7 +2207,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Josh Norman",
@@ -1873,7 +2219,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Rodney McLeod",
@@ -1882,7 +2231,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Latavius Murray",
@@ -1891,7 +2243,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Jack Doyle",
@@ -1900,7 +2255,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Jordan Matthews",
@@ -1909,7 +2267,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Stephon Tuitt",
@@ -1918,7 +2279,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Telvin Smith",
@@ -1927,7 +2291,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Willie Snead",
@@ -1936,7 +2303,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "T.J. Yeldon",
@@ -1945,7 +2315,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Bradley Pinion",
@@ -1954,7 +2327,10 @@
           }
         },
         {
-          "team": "FRYE",
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
           "action": "DROP",
           "player": {
             "name": "Jalen Richard",
@@ -2009,7 +2385,10 @@
       ],
       "moves": [
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Mike Nugent",
@@ -2018,7 +2397,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Darren Sproles",
@@ -2027,7 +2409,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Delanie Walker",
@@ -2036,7 +2421,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Glenn Dorsey",
@@ -2045,7 +2433,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Jason McCourty",
@@ -2054,7 +2445,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Ryan Succop",
@@ -2063,7 +2457,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Jermaine Gresham",
@@ -2072,7 +2469,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Kareem Jackson",
@@ -2081,7 +2481,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Marcell Dareus",
@@ -2090,7 +2493,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Andy Dalton",
@@ -2100,7 +2506,10 @@
         },
         null,
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Tahir Whitehead",
@@ -2109,7 +2518,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Rishard Matthews",
@@ -2118,7 +2530,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Deonte Thompson",
@@ -2127,7 +2542,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Marcus Cooper",
@@ -2136,7 +2554,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Jeff Locke",
@@ -2146,7 +2567,10 @@
         },
         null,
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "C.J. Mosley",
@@ -2156,7 +2580,10 @@
         },
         null,
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Christian Kirksey",
@@ -2165,7 +2592,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Byron Jones",
@@ -2175,7 +2605,10 @@
         },
         null,
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Marcus Mariota",
@@ -2184,7 +2617,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Tyler Lockett",
@@ -2193,7 +2629,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Danielle Hunter",
@@ -2202,7 +2641,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Tevin Coleman",
@@ -2211,7 +2653,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "DeForest Buckner",
@@ -2221,7 +2666,10 @@
         },
         null,
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Tyler Boyd",
@@ -2230,7 +2678,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Nick Kwiatkoski",
@@ -2239,7 +2690,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Robert Kelley",
@@ -2248,7 +2702,10 @@
           }
         },
         {
-          "team": "HURL",
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
           "action": "DROP",
           "player": {
             "name": "Edwin Jackson",
@@ -2272,7 +2729,10 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Malcolm Jenkins",
@@ -2296,7 +2756,10 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Todd Gurley",
@@ -2348,7 +2811,10 @@
       ],
       "moves": [
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Phil Dawson",
@@ -2357,7 +2823,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Ben Roethlisberger",
@@ -2366,7 +2835,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Mike Adams",
@@ -2375,7 +2847,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Kevin Huber",
@@ -2384,7 +2859,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Clinton McDonald",
@@ -2393,7 +2871,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Joe Haden",
@@ -2402,7 +2883,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Barry Church",
@@ -2411,7 +2895,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Alshon Jeffery",
@@ -2420,7 +2907,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Olivier Vernon",
@@ -2429,7 +2919,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Nathan Stupar",
@@ -2438,7 +2931,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Danny Trevathan",
@@ -2448,7 +2944,10 @@
         },
         null,
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "DeAndre Hopkins",
@@ -2457,7 +2956,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "David Amerson",
@@ -2466,7 +2968,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Johnathan Hankins",
@@ -2476,7 +2981,10 @@
         },
         null,
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Bradley McDougald",
@@ -2485,7 +2993,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Terrance West",
@@ -2494,7 +3005,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Dontrelle Inman",
@@ -2504,7 +3018,10 @@
         },
         null,
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Will Compton",
@@ -2513,7 +3030,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Jameis Winston",
@@ -2522,7 +3042,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Jeremy Langford",
@@ -2531,7 +3054,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Sammie Coates",
@@ -2540,7 +3066,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Ronald Darby",
@@ -2550,7 +3079,10 @@
         },
         null,
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Leonard Williams",
@@ -2559,7 +3091,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Jesse James",
@@ -2568,7 +3103,10 @@
           }
         },
         {
-          "team": "DUBS",
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
           "action": "DROP",
           "player": {
             "name": "Roberto Aguayo",
@@ -2592,7 +3130,10 @@
       ],
       "moves": [
         {
-          "team": "JROD",
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
           "action": "DROP",
           "player": {
             "name": "Eric Berry",
@@ -2642,7 +3183,10 @@
       ],
       "moves": [
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Adam Vinatieri",
@@ -2651,7 +3195,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Donnie Jones",
@@ -2660,7 +3207,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Paul Posluszny",
@@ -2669,7 +3219,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "David Harris",
@@ -2678,7 +3231,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Jonathan Stewart",
@@ -2687,7 +3243,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Michael Johnson",
@@ -2696,7 +3255,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Clay Matthews",
@@ -2705,7 +3267,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Jeremy Maclin",
@@ -2714,7 +3279,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Ryan Mathews",
@@ -2723,7 +3291,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Demaryius Thomas",
@@ -2732,7 +3303,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Everson Griffen",
@@ -2741,7 +3315,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Davon House",
@@ -2750,7 +3327,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Julius Thomas",
@@ -2759,7 +3339,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Lavonte David",
@@ -2768,7 +3351,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Blair Walsh",
@@ -2777,7 +3363,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Robert Alford",
@@ -2786,7 +3375,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Giovani Bernard",
@@ -2795,7 +3387,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Jordan Reed",
@@ -2804,7 +3399,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Tony Jefferson",
@@ -2813,7 +3411,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Calvin Pryor",
@@ -2822,7 +3423,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Kony Ealy",
@@ -2831,7 +3435,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Allen Robinson",
@@ -2840,7 +3447,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Jeremy Hill",
@@ -2849,7 +3459,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Allen Hurns",
@@ -2858,7 +3471,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "E.J. Gaines",
@@ -2867,7 +3483,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Sterling Shepard",
@@ -2876,7 +3495,10 @@
           }
         },
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Adolphus Washington",
@@ -2929,7 +3551,10 @@
       ],
       "moves": [
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Steve Smith Sr.",
@@ -2938,7 +3563,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Larry Fitzgerald",
@@ -2947,7 +3575,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Ahtyba Rubin",
@@ -2956,7 +3587,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Robert Ayers",
@@ -2965,7 +3599,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Matthew Stafford",
@@ -2974,7 +3611,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Patrick Chung",
@@ -2983,7 +3623,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Ndamukong Suh",
@@ -2992,7 +3635,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Corey Liuget",
@@ -3001,7 +3647,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Lance Kendricks",
@@ -3010,7 +3659,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Jacquizz Rodgers",
@@ -3019,7 +3671,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Dont'a Hightower",
@@ -3028,7 +3683,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Trumaine Johnson",
@@ -3037,7 +3695,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Keenan Robinson",
@@ -3047,7 +3708,10 @@
         },
         null,
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Justin Tucker",
@@ -3056,7 +3720,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Tavon Austin",
@@ -3065,7 +3732,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "T.J. McDonald",
@@ -3074,7 +3744,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Mike Gillislee",
@@ -3083,7 +3756,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Ryan Allen",
@@ -3092,7 +3768,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Ryan Shazier",
@@ -3101,7 +3780,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "James White",
@@ -3110,7 +3792,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Brandon McManus",
@@ -3119,7 +3804,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Bashaud Breeland",
@@ -3128,7 +3816,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Caraun Reid",
@@ -3137,7 +3828,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Jordan Berry",
@@ -3146,7 +3840,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Benardrick McKinney",
@@ -3156,7 +3853,10 @@
         },
         null,
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Hunter Henry",
@@ -3165,7 +3865,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Tyreek Hill",
@@ -3174,7 +3877,10 @@
           }
         },
         {
-          "team": "BROK",
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
           "action": "DROP",
           "player": {
             "name": "Jalen Mills",
@@ -3226,7 +3932,10 @@
       ],
       "moves": [
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Thomas Davis",
@@ -3235,7 +3944,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Brandon Marshall",
@@ -3244,7 +3956,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Rob Ninkovich",
@@ -3253,7 +3968,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Eric Weddle",
@@ -3262,7 +3980,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Mike Wallace",
@@ -3271,7 +3992,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Chris Baker",
@@ -3280,7 +4004,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Derrick Morgan",
@@ -3289,7 +4016,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Mark Ingram",
@@ -3298,7 +4028,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Muhammad Wilkerson",
@@ -3307,7 +4040,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Chris Conte",
@@ -3316,7 +4052,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Melvin Ingram",
@@ -3325,7 +4064,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Fletcher Cox",
@@ -3334,7 +4076,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Bryan Anger",
@@ -3343,7 +4088,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Marquette King",
@@ -3352,7 +4100,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Tyler Eifert",
@@ -3361,7 +4112,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Tyrann Mathieu",
@@ -3370,7 +4124,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Logan Ryan",
@@ -3379,7 +4136,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "A.J. Klein",
@@ -3388,7 +4148,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Dustin Hopkins",
@@ -3397,7 +4160,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Theo Riddick",
@@ -3406,7 +4172,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Jahleel Addae",
@@ -3415,7 +4184,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Eric Ebron",
@@ -3424,7 +4196,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Cairo Santos",
@@ -3434,7 +4209,10 @@
         },
         null,
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Jamison Crowder",
@@ -3443,7 +4221,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Thomas Rawls",
@@ -3452,7 +4233,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "Carson Wentz",
@@ -3461,7 +4245,10 @@
           }
         },
         {
-          "team": "EBBY",
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
           "action": "DROP",
           "player": {
             "name": "De'Vondre Campbell",
@@ -3495,7 +4282,10 @@
       ],
       "moves": [
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Stephen Gostkowski",
@@ -3504,7 +4294,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Adrian Peterson",
@@ -3513,7 +4306,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Calais Campbell",
@@ -3522,7 +4318,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "J.J. Watt",
@@ -3531,7 +4330,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Randall Cobb",
@@ -3540,7 +4342,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Russell Wilson",
@@ -3549,7 +4354,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Caleb Sturgis",
@@ -3558,7 +4366,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Steven Nelson",
@@ -3567,7 +4378,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Keanu Neal",
@@ -3576,7 +4390,10 @@
           }
         },
         {
-          "team": "NATE",
+          "team": {
+            "id": 1,
+            "abbrev": "NATE"
+          },
           "action": "DROP",
           "player": {
             "name": "Deion Jones",
@@ -3627,7 +4444,10 @@
       ],
       "moves": [
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Jason Witten",
@@ -3636,7 +4456,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Johnathan Joseph",
@@ -3645,7 +4468,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "D'Qwell Jackson",
@@ -3654,7 +4480,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Antoine Bethea",
@@ -3664,7 +4493,10 @@
         },
         null,
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Cliff Avril",
@@ -3673,7 +4505,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Dan Carpenter",
@@ -3682,7 +4517,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Steve McLendon",
@@ -3691,7 +4529,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Emmanuel Sanders",
@@ -3700,7 +4541,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Kurt Coleman",
@@ -3709,7 +4553,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Chris Ivory",
@@ -3718,7 +4565,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Von Miller",
@@ -3727,7 +4577,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Mason Foster",
@@ -3736,7 +4589,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Dan Bailey",
@@ -3746,7 +4602,10 @@
         },
         null,
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Akiem Hicks",
@@ -3755,7 +4614,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Malik Jackson",
@@ -3764,7 +4626,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Marvin Jones",
@@ -3773,7 +4638,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Cole Beasley",
@@ -3782,7 +4650,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Jamie Collins",
@@ -3791,7 +4662,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Jamar Taylor",
@@ -3800,7 +4674,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "C.J. Fiedorowicz",
@@ -3809,7 +4686,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Carlos Hyde",
@@ -3818,7 +4698,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Tim Jernigan",
@@ -3827,7 +4710,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Isaiah Crowell",
@@ -3836,7 +4722,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Pat O'Donnell",
@@ -3845,7 +4734,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Stefon Diggs",
@@ -3854,7 +4746,10 @@
           }
         },
         {
-          "team": "MBIX",
+          "team": {
+            "id": 9,
+            "abbrev": "MBIX"
+          },
           "action": "DROP",
           "player": {
             "name": "Matt Darr",
@@ -3905,7 +4800,10 @@
       ],
       "moves": [
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Sebastian Janikowski",
@@ -3914,7 +4812,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Shane Lechler",
@@ -3923,7 +4824,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Eli Manning",
@@ -3932,7 +4836,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Jon Ryan",
@@ -3941,7 +4848,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Marshawn Lynch",
@@ -3950,7 +4860,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Brandon Carr",
@@ -3959,7 +4872,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Michael Bennett",
@@ -3968,7 +4884,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Jimmy Graham",
@@ -3977,7 +4896,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Devin McCourty",
@@ -3986,7 +4908,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Jurrell Casey",
@@ -3995,7 +4920,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Kyle Rudolph",
@@ -4004,7 +4932,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Matt Asiata",
@@ -4013,7 +4944,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Andre Branch",
@@ -4022,7 +4956,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Damon Harrison",
@@ -4031,7 +4968,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Josh Gordon",
@@ -4040,7 +4980,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Kenny Vaccaro",
@@ -4049,7 +4992,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "John Simon",
@@ -4058,7 +5004,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Blake Bortles",
@@ -4067,7 +5016,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Brandin Cooks",
@@ -4076,7 +5028,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Jadeveon Clowney",
@@ -4085,7 +5040,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Eric Kendricks",
@@ -4094,7 +5052,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Ty Montgomery",
@@ -4103,7 +5064,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Duke Johnson Jr.",
@@ -4112,7 +5076,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Josh Lambo",
@@ -4121,7 +5088,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Joey Bosa",
@@ -4130,7 +5100,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Vernon Hargreaves III",
@@ -4139,7 +5112,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Karl Joseph",
@@ -4148,7 +5124,10 @@
           }
         },
         {
-          "team": "WEAV",
+          "team": {
+            "id": 12,
+            "abbrev": "WEAV"
+          },
           "action": "DROP",
           "player": {
             "name": "Blake Martinez",
@@ -4172,7 +5151,10 @@
       ],
       "moves": [
         {
-          "team": "DANK",
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
           "action": "DROP",
           "player": {
             "name": "Mark Barron",
@@ -4208,7 +5190,10 @@
       ],
       "moves": [
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "ADD",
           "player": {
             "name": "Jordan Reed",
@@ -4232,7 +5217,10 @@
       ],
       "moves": [
         {
-          "team": "KURT",
+          "team": {
+            "id": 7,
+            "abbrev": "KURT"
+          },
           "action": "DROP",
           "player": {
             "name": "Cam Newton",
@@ -4276,6 +5264,558 @@
     "details": {
       "notes": [
         "Changed current keeper date from Wednesday, Aug 23, 7:00 PM ET to Tuesday, Aug 22, 7:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2017-08-23T20:24:00Z",
+    "season": 2017,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Tuesday, Aug 22, 7:00 PM ET to Saturday, Aug 26, 7:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2017-08-23T20:24:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_ADD_LM",
+    "subTypeText": "Add (By LM)",
+    "details": {
+      "notes": [
+        "HURL added Tyreek Hill, KC WR from Free Agency to Bench"
+      ],
+      "moves": [
+        {
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
+          "action": "ADD",
+          "player": {
+            "name": "Tyreek Hill",
+            "team": "KC",
+            "position": "WR"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-23T20:25:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_ADD_LM",
+    "subTypeText": "Add (By LM)",
+    "details": {
+      "notes": [
+        "HURL added Telvin Smith, Jax LB from Free Agency to Bench"
+      ],
+      "moves": [
+        {
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
+          "action": "ADD",
+          "player": {
+            "name": "Telvin Smith",
+            "team": "Jax",
+            "position": "LB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-23T20:25:00Z",
+    "season": 2017,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Saturday, Aug 26, 7:00 PM ET to Tuesday, Aug 22, 7:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2017-08-24T13:46:00Z",
+    "season": 2017,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Tuesday, Aug 22, 7:00 PM ET to Friday, Aug 25, 7:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2017-08-24T13:47:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_ADD_LM",
+    "subTypeText": "Add (By LM)",
+    "details": {
+      "notes": [
+        "DANK added T.Y. Hilton, Ind WR from Free Agency to Bench"
+      ],
+      "moves": [
+        {
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
+          "action": "ADD",
+          "player": {
+            "name": "T.Y. Hilton",
+            "team": "Ind",
+            "position": "WR"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-24T13:48:00Z",
+    "season": 2017,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Friday, Aug 25, 7:00 PM ET to Tuesday, Aug 22, 7:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2017-08-24T21:37:00Z",
+    "season": 2017,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Tuesday, Aug 22, 7:00 PM ET to Tuesday, Aug 29, 7:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2017-08-24T21:38:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_ADD_LM",
+    "subTypeText": "Add (By LM)",
+    "details": {
+      "notes": [
+        "BROK added J.J. Watt, Hou DE from Free Agency to Bench"
+      ],
+      "moves": [
+        {
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
+          "action": "ADD",
+          "player": {
+            "name": "J.J. Watt",
+            "team": "Hou",
+            "position": "DE"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-24T21:57:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_ADD_LM",
+    "subTypeText": "Add (By LM)",
+    "details": {
+      "notes": [
+        "HURL added Ted Ginn Jr., NO WR from Free Agency to Bench"
+      ],
+      "moves": [
+        {
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
+          "action": "ADD",
+          "player": {
+            "name": "Ted Ginn Jr.",
+            "team": "NO",
+            "position": "WR"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-24T22:22:00Z",
+    "season": 2017,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Tuesday, Aug 29, 7:00 PM ET to Tuesday, Aug 22, 7:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2017-08-24T23:09:00Z",
+    "season": 2017,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Tuesday, Aug 22, 7:00 PM ET to Monday, Sep 4, 7:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2017-08-24T23:10:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_ADD_LM",
+    "subTypeText": "Add (By LM)",
+    "details": {
+      "notes": [
+        "FRYE added Christian Kirksey, Cle LB from Free Agency to Bench"
+      ],
+      "moves": [
+        {
+          "team": {
+            "id": 8,
+            "abbrev": "FRYE"
+          },
+          "action": "ADD",
+          "player": {
+            "name": "Christian Kirksey",
+            "team": "Cle",
+            "position": "LB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-24T23:15:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_ADD_LM",
+    "subTypeText": "Add (By LM)",
+    "details": {
+      "notes": [
+        "EBBY added Todd Gurley, LAR RB from Free Agency to Bench"
+      ],
+      "moves": [
+        {
+          "team": {
+            "id": 5,
+            "abbrev": "EBBY"
+          },
+          "action": "ADD",
+          "player": {
+            "name": "Todd Gurley",
+            "team": "LAR",
+            "position": "RB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-24T23:59:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_ADD_LM",
+    "subTypeText": "Add (By LM)",
+    "details": {
+      "notes": [
+        "DUBS added Damon Harrison, NYG DT from Free Agency to Bench"
+      ],
+      "moves": [
+        {
+          "team": {
+            "id": 6,
+            "abbrev": "DUBS"
+          },
+          "action": "ADD",
+          "player": {
+            "name": "Damon Harrison",
+            "team": "NYG",
+            "position": "DT"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-25T01:48:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_ADD_LM",
+    "subTypeText": "Add (By LM)",
+    "details": {
+      "notes": [
+        "JROD added Deion Jones, Atl LB from Free Agency to Bench"
+      ],
+      "moves": [
+        {
+          "team": {
+            "id": 11,
+            "abbrev": "JROD"
+          },
+          "action": "ADD",
+          "player": {
+            "name": "Deion Jones",
+            "team": "Atl",
+            "position": "LB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-25T02:01:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_ADD_LM",
+    "subTypeText": "Add (By LM)",
+    "details": {
+      "notes": [
+        "HURL added Jatavis Brown, LAC LB from Free Agency to Bench"
+      ],
+      "moves": [
+        {
+          "team": {
+            "id": 3,
+            "abbrev": "HURL"
+          },
+          "action": "ADD",
+          "player": {
+            "name": "Jatavis Brown",
+            "team": "LAC",
+            "position": "LB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-25T02:01:00Z",
+    "season": 2017,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Monday, Sep 4, 7:00 PM ET to Tuesday, Aug 22, 7:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2017-08-25T12:19:00Z",
+    "season": 2017,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Tuesday, Aug 22, 7:00 PM ET to Monday, Aug 28, 7:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2017-08-25T12:20:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_ADD_LM",
+    "subTypeText": "Add (By LM)",
+    "details": {
+      "notes": [
+        "BROK added Dez Bryant, Dal WR from Free Agency to Bench"
+      ],
+      "moves": [
+        {
+          "team": {
+            "id": 10,
+            "abbrev": "BROK"
+          },
+          "action": "ADD",
+          "player": {
+            "name": "Dez Bryant",
+            "team": "Dal",
+            "position": "WR"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-25T12:20:00Z",
+    "season": 2017,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Monday, Aug 28, 7:00 PM ET to Tuesday, Aug 22, 7:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2017-08-25T15:29:00Z",
+    "season": 2017,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Tuesday, Aug 22, 7:00 PM ET to Thursday, Aug 31, 7:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2017-08-25T15:29:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_ADD_LM",
+    "subTypeText": "Add (By LM)",
+    "details": {
+      "notes": [
+        "DANK added Marshawn Lynch, Oak RB from Free Agency to Bench"
+      ],
+      "moves": [
+        {
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
+          "action": "ADD",
+          "player": {
+            "name": "Marshawn Lynch",
+            "team": "Oak",
+            "position": "RB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-25T15:30:00Z",
+    "season": 2017,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Thursday, Aug 31, 7:00 PM ET to Tuesday, Aug 22, 7:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2017-08-27T15:53:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "The League of Extraordinary Idiots Champion awarded to WEAV",
+    "trophy": {
+      "name": "The League of Extraordinary Idiots Champion",
+      "team": {
+        "abbrev": "WEAV",
+        "id": 12
+      },
+      "type": "YEARLY_CHAMPION",
+      "id": 1
+    },
+    "details": {
+      "notes": [
+        "2011 —"
+      ]
+    }
+  },
+  {
+    "date": "2017-08-27T15:54:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "The League of Extraordinary Idiots Champion awarded to HURL",
+    "trophy": {
+      "name": "The League of Extraordinary Idiots Champion",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "YEARLY_CHAMPION",
+      "id": 1
+    },
+    "details": {
+      "notes": [
+        "2013 —"
+      ]
+    }
+  },
+  {
+    "date": "2017-08-27T15:54:00Z",
+    "season": 2012,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "The League of Extraordinary Idiots Champion awarded to NATE",
+    "trophy": {
+      "name": "The League of Extraordinary Idiots Champion",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "YEARLY_CHAMPION",
+      "id": 1
+    },
+    "details": {
+      "notes": [
+        "2012 —"
+      ]
+    }
+  },
+  {
+    "date": "2017-08-27T15:55:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "The League of Extraordinary Idiots Champion awarded to HURL",
+    "trophy": {
+      "name": "The League of Extraordinary Idiots Champion",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "YEARLY_CHAMPION",
+      "id": 1
+    },
+    "details": {
+      "notes": [
+        "2015 —"
       ]
     }
   }

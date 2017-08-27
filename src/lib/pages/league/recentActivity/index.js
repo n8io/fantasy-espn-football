@@ -10,7 +10,7 @@ import log from '../../../utils/domLogger';
 
 const { urls: { LEAGUE_RECENT_ACTIVITY } } = config;
 
-const recentActivity = async (page, seasonId) => {
+const recentActivity = async (page, seasonId, members) => {
   const fmt = 'YYYYMMDD';
   const startDate = getStartDate(seasonId).format(fmt);
   const endDate = getEndDate(seasonId).format(fmt);
@@ -46,7 +46,7 @@ const recentActivity = async (page, seasonId) => {
   msg = `🛠 203 Parsing league activity feed...`;
   await log(msg, page);
 
-  const activities = rows.map(row => parseRow(row, seasonId));
+  const activities = rows.map(row => parseRow(row, seasonId, members));
 
   msg = `👍 200 League activity feed parsed successfully. ${activities.length} activities found.`;
   await log(msg, page);

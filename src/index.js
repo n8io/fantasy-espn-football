@@ -18,12 +18,12 @@ const parseSeason = async (page, league, season) => {
   let msg = `🏈 203 Starting to parse the ${season} season...`;
   await log(msg, page);
 
-  let leagueRecentActivity = await getLeagueRecentActivity(page, season);
-  save(season, league, 'league', 'activity', leagueRecentActivity);
-  leagueRecentActivity = null;
-
   let leagueMembers = await getLeagueMembers(page, season);
   save(season, league, 'league', 'members', leagueMembers);
+
+  let leagueRecentActivity = await getLeagueRecentActivity(page, season, leagueMembers);
+  save(season, league, 'league', 'activity', leagueRecentActivity);
+  leagueRecentActivity = null;
 
   let leagueTransactionFees = await getLeagueTransactionFees(page, season);
   save(season, league, 'league', 'fees', leagueTransactionFees);

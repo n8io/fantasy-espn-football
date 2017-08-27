@@ -9,6 +9,15 @@ import rosterActionTypes from '../../../../config/rosterActionTypes.json';
 import { properCase } from '../../../utils/string';
 import { dumbLogger as log } from '../../../utils/domLogger';
 
+let MEMBERS;
+
+const getTeamByAbbrev = abbrev =>
+  MEMBERS.find(
+    m =>
+      (m.abbrev || '').toLowerCase() === (abbrev || '').toString().toLowerCase() ||
+      (m.alias || '').toLowerCase() === (abbrev || '').toString().toLowerCase()
+  );
+
 const normalizeType = (typeMap, str, ignoreMismatch, unknownMsgPrefix) => {
   const type = (str || '')
     .toString()
@@ -71,7 +80,7 @@ const parseValueFromStringByRegex = (str, reg, fallback, castType) => {
 };
 
 const parseWeekFromString = str => {
-  const reg = /W[E]*[K]?[ ]*[-]?([0-9]{1,2})/i;
+  const reg = /W[E]*[K]?[ ]*[-—]?([0-9]{1,2})/i;
 
   const week = parseValueFromStringByRegex(str, reg, -1, 'int');
 
@@ -95,10 +104,10 @@ const parsePointsFromString = str => {
 };
 
 const parsePlayerNameFromString = str => {
-  const reg = /[-]*[ ]*([a-z][a-z'.]*([ ]+[a-z][a-z'.]*)+)/i;
+  const reg = /[-—]*[ ]*([a-z][a-z'.]*([ ]+[a-z][a-z'.]*)+)/i;
   const fullName = parseValueFromStringByRegex(str, reg, '')
     .replace(/[ ]+/g, ' ')
-    .replace(/[-]+/g, '')
+    .replace(/[-—]+/g, '')
     .trim()
     .replace(/(['][s]|[s]['])$/g, '');
 
@@ -128,7 +137,8 @@ const parseTrophyFromString = str => {
       type: normalizeTrophyType(matches[matches.length - 2]),
     };
   } else {
-    throw new Error(`Could not determine tropy for: ${str}`);
+    log(`🛑 Could not determine tropy for: ${str}`);
+    throw new Error();
   }
 
   return trophy;
@@ -216,10 +226,17 @@ const parseRosterTransactionDetail = str => {
     return null;
   }
 
-  const [team, action, playerName, playerTeam, playerPosition] = matches.splice(1);
+  const [abbrev, action, playerName, playerTeam, playerPosition] = matches.splice(1);
+
+  const team = getTeamByAbbrev(abbrev);
+
+  if (!team) {
+    log(`🛑 Could not find team by abbreviation provided in the following abbreviation: ${abbrev} and string: ${str}`);
+    throw new Error();
+  }
 
   return {
-    team,
+    team: { id: team.id, abbrev },
     action: normalizeActionType(action),
     player: {
       name: playerName,
@@ -300,7 +317,9 @@ const parseActivityDetails = ({ type, subType, trophy }, cell) => {
 
 export const selector = 'table.tableBody';
 
-export const parseRow = (row, season) => {
+export const parseRow = (row, season, members) => {
+  MEMBERS = [...members];
+
   const cells = $(row).find('td');
 
   const isMessageBoardPost = $(cells[1]).text().toLowerCase().indexOf('posted') > -1;

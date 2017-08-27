@@ -750,10 +750,13 @@
       },
       "YEARLY_CHAMPION": {
         "id": 1,
-        "total": 1,
+        "total": 2,
         "history": [
           {
             "season": 2016
+          },
+          {
+            "season": 2012
           }
         ]
       },
@@ -1399,7 +1402,7 @@
   {
     "teamId": 3,
     "owner": "Zak Hurley",
-    "currentName": "Chicken Dinner",
+    "currentName": "The Zak Hurleys",
     "overall": {
       "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 9,
@@ -2027,10 +2030,16 @@
       },
       "YEARLY_CHAMPION": {
         "id": 1,
-        "total": 1,
+        "total": 3,
         "history": [
           {
             "season": 2009
+          },
+          {
+            "season": 2013
+          },
+          {
+            "season": 2015
           }
         ]
       },
@@ -2909,7 +2918,11 @@
           {
             "season": 2011,
             "week": 13,
-            "points": 0
+            "player": {
+              "firstName": "Conner",
+              "lastName": "Barth"
+            },
+            "points": 360
           },
           {
             "season": 2012,
@@ -7149,7 +7162,13 @@
         ]
       },
       "YEARLY_CHAMPION": {
-        "total": 0
+        "id": 1,
+        "total": 1,
+        "history": [
+          {
+            "season": 2011
+          }
+        ]
       },
       "YEARLY_DEFENSIVE_PLAYER": {
         "total": 0

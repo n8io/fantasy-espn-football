@@ -28,9 +28,9 @@ const parseValueFromStringByRegex = (str, reg, fallback, castType) => {
 const parseTeamIdFromLink = href => ({ teamId: parseKeyFromUrl(href, 'teamId', 'int') });
 
 const parseTeamFromCell = (cell, key) => {
-  const regTeamName = /([\S ]+)[ ][(][0-9]{1,2}[-][0-9]{1,2}[)]/gi;
-  const regWins = /[\S ]+[ ][(]([0-9]{1,2})[-][0-9]{1,2}[)]/gi;
-  const regLosses = /[\S ]+[ ][(][0-9]{1,2}[-]([0-9]{1,2})[)]/gi;
+  const regTeamName = /([\S ]+)[ ][(][0-9]{1,2}[-—][0-9]{1,2}[)]/gi;
+  const regWins = /[\S ]+[ ][(]([0-9]{1,2})[-—][0-9]{1,2}[)]/gi;
+  const regLosses = /[\S ]+[ ][(][0-9]{1,2}[-—]([0-9]{1,2})[)]/gi;
 
   const text = $(cell).text();
   const href = $(cell).find('a').attr('href');
@@ -52,8 +52,8 @@ const parseHomeTeamFromCell = cell => parseTeamFromCell(cell, 'homeTeam');
 const parseAwayTeamFromCell = cell => parseTeamFromCell(cell, 'awayTeam');
 
 const parseResultFromString = str => {
-  const regAwayScore = /([1-9]+[0-9]*([.][0-9]+)?)[-]/gi;
-  const regHomeScore = /[-]([1-9]+[0-9]*([.][0-9]+)?)/gi;
+  const regAwayScore = /([1-9]+[0-9]*([.][0-9]+)?)[-—]/gi;
+  const regHomeScore = /[-—]([1-9]+[0-9]*([.][0-9]+)?)/gi;
 
   return {
     homeScore: parseValueFromStringByRegex(str, regHomeScore, 0, 'float'),
