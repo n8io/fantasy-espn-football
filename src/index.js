@@ -15,7 +15,10 @@ import updatePlayoffSchedule from './lib/pages/league/schedule/playoffBracket';
 const { puppeteer: puppeteerConfig } = config;
 
 const parseSeason = async (page, league, season) => {
-  let msg = `🏈 203 Starting to parse the ${season} season...`;
+  let msg = ``;
+  await log(msg, page);
+
+  msg = `🏈 203 Starting to parse the ${season} season...`;
   await log(msg, page);
 
   let leagueMembers = await getLeagueMembers(page, season);

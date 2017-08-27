@@ -924,33 +924,6 @@
     "subTypeText": "Drop",
     "details": {
       "notes": [
-        "DANK dropped Frank Gore, Ind RB to Waivers"
-      ],
-      "moves": [
-        {
-          "team": {
-            "id": 4,
-            "abbrev": "DANK"
-          },
-          "action": "DROP",
-          "player": {
-            "name": "Frank Gore",
-            "team": "Ind",
-            "position": "RB"
-          }
-        }
-      ],
-      "isWaiver": false
-    }
-  },
-  {
-    "date": "2017-08-18T13:38:00Z",
-    "season": 2017,
-    "type": "ROSTER_TRANSACTION",
-    "subType": "ROSTER_DROP",
-    "subTypeText": "Drop",
-    "details": {
-      "notes": [
         "DANK dropped Ted Ginn Jr., NO WR to Waivers"
       ],
       "moves": [
@@ -1041,6 +1014,33 @@
     }
   },
   {
+    "date": "2017-08-18T13:38:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Frank Gore, Ind RB to Waivers"
+      ],
+      "moves": [
+        {
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
+          "action": "DROP",
+          "player": {
+            "name": "Frank Gore",
+            "team": "Ind",
+            "position": "RB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
     "date": "2017-08-18T13:39:00Z",
     "season": 2017,
     "type": "ROSTER_TRANSACTION",
@@ -1061,6 +1061,33 @@
             "name": "Lawrence Timmons",
             "team": "Mia",
             "position": "LB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-18T13:39:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Kawann Short, Car DT to Waivers"
+      ],
+      "moves": [
+        {
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
+          "action": "DROP",
+          "player": {
+            "name": "Kawann Short",
+            "team": "Car",
+            "position": "DT"
           }
         }
       ],
@@ -1114,33 +1141,6 @@
           "player": {
             "name": "David Parry",
             "team": "Ind",
-            "position": "DT"
-          }
-        }
-      ],
-      "isWaiver": false
-    }
-  },
-  {
-    "date": "2017-08-18T13:39:00Z",
-    "season": 2017,
-    "type": "ROSTER_TRANSACTION",
-    "subType": "ROSTER_DROP",
-    "subTypeText": "Drop",
-    "details": {
-      "notes": [
-        "DANK dropped Kawann Short, Car DT to Waivers"
-      ],
-      "moves": [
-        {
-          "team": {
-            "id": 4,
-            "abbrev": "DANK"
-          },
-          "action": "DROP",
-          "player": {
-            "name": "Kawann Short",
-            "team": "Car",
             "position": "DT"
           }
         }
@@ -1210,6 +1210,22 @@
     "subTypeText": "Drop",
     "details": {
       "notes": [
+        "DANK dropped Malcolm Smith*, SF LB to Waivers"
+      ],
+      "moves": [
+        null
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-18T13:40:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
         "DANK dropped Pat McAfee, Ind P to Waivers"
       ],
       "moves": [
@@ -1223,49 +1239,6 @@
             "name": "Pat McAfee",
             "team": "Ind",
             "position": "P"
-          }
-        }
-      ],
-      "isWaiver": false
-    }
-  },
-  {
-    "date": "2017-08-18T13:40:00Z",
-    "season": 2017,
-    "type": "ROSTER_TRANSACTION",
-    "subType": "ROSTER_DROP",
-    "subTypeText": "Drop",
-    "details": {
-      "notes": [
-        "DANK dropped Malcolm Smith*, SF LB to Waivers"
-      ],
-      "moves": [
-        null
-      ],
-      "isWaiver": false
-    }
-  },
-  {
-    "date": "2017-08-18T13:41:00Z",
-    "season": 2017,
-    "type": "ROSTER_TRANSACTION",
-    "subType": "ROSTER_DROP",
-    "subTypeText": "Drop",
-    "details": {
-      "notes": [
-        "DANK dropped Kelvin Benjamin, Car WR to Waivers"
-      ],
-      "moves": [
-        {
-          "team": {
-            "id": 4,
-            "abbrev": "DANK"
-          },
-          "action": "DROP",
-          "player": {
-            "name": "Kelvin Benjamin",
-            "team": "Car",
-            "position": "WR"
           }
         }
       ],
@@ -1307,7 +1280,7 @@
     "subTypeText": "Drop",
     "details": {
       "notes": [
-        "DANK dropped Mason Crosby, GB K to Waivers"
+        "DANK dropped Kelvin Benjamin, Car WR to Waivers"
       ],
       "moves": [
         {
@@ -1317,9 +1290,9 @@
           },
           "action": "DROP",
           "player": {
-            "name": "Mason Crosby",
-            "team": "GB",
-            "position": "K"
+            "name": "Kelvin Benjamin",
+            "team": "Car",
+            "position": "WR"
           }
         }
       ],
@@ -1374,6 +1347,33 @@
             "name": "Richard Sherman",
             "team": "Sea",
             "position": "CB"
+          }
+        }
+      ],
+      "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-18T13:41:00Z",
+    "season": 2017,
+    "type": "ROSTER_TRANSACTION",
+    "subType": "ROSTER_DROP",
+    "subTypeText": "Drop",
+    "details": {
+      "notes": [
+        "DANK dropped Mason Crosby, GB K to Waivers"
+      ],
+      "moves": [
+        {
+          "team": {
+            "id": 4,
+            "abbrev": "DANK"
+          },
+          "action": "DROP",
+          "player": {
+            "name": "Mason Crosby",
+            "team": "GB",
+            "position": "K"
           }
         }
       ],
@@ -5270,18 +5270,6 @@
   {
     "date": "2017-08-23T20:24:00Z",
     "season": 2017,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "LEAGUE_RULES_UPDATE",
-    "subTypeText": "League rules updated",
-    "details": {
-      "notes": [
-        "Changed current keeper date from Tuesday, Aug 22, 7:00 PM ET to Saturday, Aug 26, 7:00 PM ET."
-      ]
-    }
-  },
-  {
-    "date": "2017-08-23T20:24:00Z",
-    "season": 2017,
     "type": "ROSTER_TRANSACTION",
     "subType": "ROSTER_ADD_LM",
     "subTypeText": "Add (By LM)",
@@ -5304,6 +5292,30 @@
         }
       ],
       "isWaiver": false
+    }
+  },
+  {
+    "date": "2017-08-23T20:24:00Z",
+    "season": 2017,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Tuesday, Aug 22, 7:00 PM ET to Saturday, Aug 26, 7:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2017-08-23T20:25:00Z",
+    "season": 2017,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Saturday, Aug 26, 7:00 PM ET to Tuesday, Aug 22, 7:00 PM ET."
+      ]
     }
   },
   {
@@ -5331,18 +5343,6 @@
         }
       ],
       "isWaiver": false
-    }
-  },
-  {
-    "date": "2017-08-23T20:25:00Z",
-    "season": 2017,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "LEAGUE_RULES_UPDATE",
-    "subTypeText": "League rules updated",
-    "details": {
-      "notes": [
-        "Changed current keeper date from Saturday, Aug 26, 7:00 PM ET to Tuesday, Aug 22, 7:00 PM ET."
-      ]
     }
   },
   {
@@ -5648,6 +5648,18 @@
   {
     "date": "2017-08-25T12:20:00Z",
     "season": 2017,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Monday, Aug 28, 7:00 PM ET to Tuesday, Aug 22, 7:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2017-08-25T12:20:00Z",
+    "season": 2017,
     "type": "ROSTER_TRANSACTION",
     "subType": "ROSTER_ADD_LM",
     "subTypeText": "Add (By LM)",
@@ -5670,18 +5682,6 @@
         }
       ],
       "isWaiver": false
-    }
-  },
-  {
-    "date": "2017-08-25T12:20:00Z",
-    "season": 2017,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "LEAGUE_RULES_UPDATE",
-    "subTypeText": "League rules updated",
-    "details": {
-      "notes": [
-        "Changed current keeper date from Monday, Aug 28, 7:00 PM ET to Tuesday, Aug 22, 7:00 PM ET."
-      ]
     }
   },
   {
@@ -5758,27 +5758,6 @@
   },
   {
     "date": "2017-08-27T15:54:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_YEARLY",
-    "subTypeText": "The League of Extraordinary Idiots Champion awarded to HURL",
-    "trophy": {
-      "name": "The League of Extraordinary Idiots Champion",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "YEARLY_CHAMPION",
-      "id": 1
-    },
-    "details": {
-      "notes": [
-        "2013 —"
-      ]
-    }
-  },
-  {
-    "date": "2017-08-27T15:54:00Z",
     "season": 2012,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_YEARLY",
@@ -5795,6 +5774,27 @@
     "details": {
       "notes": [
         "2012 —"
+      ]
+    }
+  },
+  {
+    "date": "2017-08-27T15:54:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "The League of Extraordinary Idiots Champion awarded to HURL",
+    "trophy": {
+      "name": "The League of Extraordinary Idiots Champion",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "YEARLY_CHAMPION",
+      "id": 1
+    },
+    "details": {
+      "notes": [
+        "2013 —"
       ]
     }
   },
@@ -5816,6 +5816,216 @@
     "details": {
       "notes": [
         "2015 —"
+      ]
+    }
+  },
+  {
+    "date": "2017-08-27T21:25:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "The League of Extraordinary Idiots Runner Up awarded to NATE",
+    "trophy": {
+      "name": "The League of Extraordinary Idiots Runner Up",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "YEARLY_RUNNER_UP",
+      "id": 4
+    },
+    "details": {
+      "notes": [
+        "2011 —"
+      ]
+    }
+  },
+  {
+    "date": "2017-08-27T21:26:00Z",
+    "season": 2012,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "The League of Extraordinary Idiots Runner Up awarded to NATE",
+    "trophy": {
+      "name": "The League of Extraordinary Idiots Runner Up",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "YEARLY_RUNNER_UP",
+      "id": 4
+    },
+    "details": {
+      "notes": [
+        "2012 —"
+      ]
+    }
+  },
+  {
+    "date": "2017-08-27T21:27:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "The League of Extraordinary Idiots Runner Up awarded to KURT",
+    "trophy": {
+      "name": "The League of Extraordinary Idiots Runner Up",
+      "team": {
+        "abbrev": "KURT",
+        "id": 7
+      },
+      "type": "YEARLY_RUNNER_UP",
+      "id": 4
+    },
+    "details": {
+      "notes": [
+        "2013 —"
+      ]
+    }
+  },
+  {
+    "date": "2017-08-27T21:27:00Z",
+    "season": 2015,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "The League of Extraordinary Idiots Runner Up awarded to NATE",
+    "trophy": {
+      "name": "The League of Extraordinary Idiots Runner Up",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "YEARLY_RUNNER_UP",
+      "id": 4
+    },
+    "details": {
+      "notes": [
+        "2015 —"
+      ]
+    }
+  },
+  {
+    "date": "2017-08-27T21:30:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "TLOEI Regular Season Runner Up awarded to BROK",
+    "trophy": {
+      "name": "TLOEI Regular Season Runner Up",
+      "team": {
+        "abbrev": "BROK",
+        "id": 10
+      },
+      "type": "YEARLY_REGULAR_SEASON_RUNNER_UP",
+      "id": 3
+    },
+    "details": {
+      "notes": [
+        "2011 —"
+      ]
+    }
+  },
+  {
+    "date": "2017-08-27T21:31:00Z",
+    "season": 2012,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "TLOEI Regular Season Runner Up awarded to HURL",
+    "trophy": {
+      "name": "TLOEI Regular Season Runner Up",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "YEARLY_REGULAR_SEASON_RUNNER_UP",
+      "id": 3
+    },
+    "details": {
+      "notes": [
+        "2012 —"
+      ]
+    }
+  },
+  {
+    "date": "2017-08-27T21:32:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "TLOEI Regular Season Runner Up awarded to DANK",
+    "trophy": {
+      "name": "TLOEI Regular Season Runner Up",
+      "team": {
+        "abbrev": "DANK",
+        "id": 4
+      },
+      "type": "YEARLY_REGULAR_SEASON_RUNNER_UP",
+      "id": 3
+    },
+    "details": {
+      "notes": [
+        "2013 —"
+      ]
+    }
+  },
+  {
+    "date": "2017-08-27T21:36:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "TLOEI Regular Season Champion awarded to JOTA",
+    "trophy": {
+      "name": "TLOEI Regular Season Champion",
+      "team": {
+        "abbrev": "JOTA",
+        "id": 2
+      },
+      "type": "YEARLY_REGULAR_SEASON_CHAMPION",
+      "id": 2
+    },
+    "details": {
+      "notes": [
+        "2011 —"
+      ]
+    }
+  },
+  {
+    "date": "2017-08-27T21:37:00Z",
+    "season": 2012,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "TLOEI Regular Season Champion awarded to DANK",
+    "trophy": {
+      "name": "TLOEI Regular Season Champion",
+      "team": {
+        "abbrev": "DANK",
+        "id": 4
+      },
+      "type": "YEARLY_REGULAR_SEASON_CHAMPION",
+      "id": 2
+    },
+    "details": {
+      "notes": [
+        "2012 —"
+      ]
+    }
+  },
+  {
+    "date": "2017-08-27T21:37:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "TLOEI Regular Season Champion awarded to JROD",
+    "trophy": {
+      "name": "TLOEI Regular Season Champion",
+      "team": {
+        "abbrev": "JROD",
+        "id": 11
+      },
+      "type": "YEARLY_REGULAR_SEASON_CHAMPION",
+      "id": 2
+    },
+    "details": {
+      "notes": [
+        "2013 —"
       ]
     }
   }

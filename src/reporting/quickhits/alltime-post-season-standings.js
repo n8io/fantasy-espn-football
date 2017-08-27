@@ -1,26 +1,29 @@
 /* eslint-disable no-console,no-bitwise */
 import getMatchups from '../data/league/matchups';
-import MEMBERS from '../data/league/members';
+import { getMembersBySeason } from '../data/league/members';
 import { save } from '../../lib/utils/reportWriter';
 
-const { YEARS_BACK = 1 } = {};
+const { YEARS_BACK } = process.env;
 const MATCHUPS = getMatchups(YEARS_BACK);
 
-const getMemberById = id => MEMBERS.find(m => m.id === id);
+const getMember = (season, id) => getMembersBySeason(season).find(m => m.id === id);
 
 const getSeeds = ({ homeTeam, homeTeam: { tags: hTags }, awayTeam, awayTeam: { tags: aTags } }) => {
   const hSeed = hTags.find(t => t.startsWith('PLACE_'));
   const aSeed = aTags.find(t => t.startsWith('PLACE_'));
-  const home = getMemberById(homeTeam.id);
-  const away = getMemberById(awayTeam.id);
+  const season = ~~hTags.find(t => t.startsWith('SEASON_')).replace(/SEASON[_]/gi, '');
+  const home = getMember(season, homeTeam.id);
+  const away = getMember(season, awayTeam.id);
 
   return [
     {
-      abbrev: home.abbrev,
+      season,
+      team: home,
       place: ~~hSeed.replace(/PLACE[_]/g, ''),
     },
     {
-      abbrev: away.abbrev,
+      season,
+      team: away,
       place: ~~aSeed.replace(/PLACE[_]/g, ''),
     },
   ];
@@ -42,14 +45,17 @@ const standingsSummary = () =>
       return 0;
     })
     .reduce(
-      (acc, { abbrev, place }) => ({
+      (acc, { season, team: { abbrev }, place }) => ({
         ...acc,
-        [place]: abbrev,
+        [season]: {
+          ...acc[season],
+          [place]: abbrev,
+        },
       }),
       {}
     );
 
 // console.log(JSON.stringify(standingsSummary(), null, 2));
 const summarization = standingsSummary();
-const fileName = `post-season-standings${YEARS_BACK ? `.last-${`00${YEARS_BACK}`.slice(-2)}-years` : '.alltime'}`;
+const fileName = `post-season-standings.${YEARS_BACK ? `last-${`00${YEARS_BACK}`.slice(-2)}-years` : 'alltime'}`;
 save('quick', 'league', fileName, summarization);

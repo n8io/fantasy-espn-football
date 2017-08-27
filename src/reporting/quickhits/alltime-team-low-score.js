@@ -4,8 +4,8 @@ import getMatchups from '../data/league/matchups';
 import { getMembersBySeason } from '../data/league/members';
 // import { save } from '../../lib/utils/reportWriter';
 
-const { MAX_RESULTS: maxResults = 3 } = process.env;
-const MAX_RESULTS = math.eval(maxResults) || 3;
+const { MAX_RESULTS: maxResults = 5 } = process.env;
+const MAX_RESULTS = math.eval(maxResults) || 5;
 const MATCHUPS = getMatchups();
 
 const getMemberById = (members, id) => members.find(m => m.id === id);

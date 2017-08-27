@@ -8,8 +8,8 @@ import defensivePlayerHighScore from './alltime-player-defensive-high-score';
 import specialTeamsPlayerHighScore from './alltime-player-special-teams-high-score';
 import hindsghtPlayerHighScore from './alltime-player-hindsight-high-score';
 
-require('./last-years-regular-season-standings');
-require('./last-years-post-season-standings');
+require('./alltime-regular-season-standings');
+require('./alltime-post-season-standings');
 
 const reducer = (acc, item) => ({
   ...acc,

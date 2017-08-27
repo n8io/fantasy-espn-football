@@ -184,13 +184,13 @@ export default async (page, seasonId, schedule) => {
         id: parseKeyFromUrl(homeHref, 'teamId', 'int'),
         name: parseValueFromStringByRegex(homeText, regTeamName),
         score: parseValueFromStringByRegex(homeText, regScore, 0.0, 'float'),
-        tags: [],
+        tags: [`SEASON_${seasonId}`],
       },
       awayTeam: {
         id: parseKeyFromUrl(awayHref, 'teamId', 'int'),
         name: parseValueFromStringByRegex(awayText, regTeamName),
         score: parseValueFromStringByRegex(awayText, regScore, 0.0, 'float'),
-        tags: [],
+        tags: [`SEASON_${seasonId}`],
       },
     };
 

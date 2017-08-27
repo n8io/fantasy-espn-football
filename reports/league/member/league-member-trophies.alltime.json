@@ -806,13 +806,22 @@
       },
       "YEARLY_RUNNER_UP": {
         "id": 4,
-        "total": 2,
+        "total": 5,
         "history": [
           {
             "season": 2008
           },
           {
             "season": 2009
+          },
+          {
+            "season": 2011
+          },
+          {
+            "season": 2012
+          },
+          {
+            "season": 2015
           }
         ]
       },
@@ -1383,7 +1392,13 @@
         "total": 0
       },
       "YEARLY_REGULAR_SEASON_CHAMPION": {
-        "total": 0
+        "id": 2,
+        "total": 1,
+        "history": [
+          {
+            "season": 2011
+          }
+        ]
       },
       "YEARLY_REGULAR_SEASON_RUNNER_UP": {
         "total": 0
@@ -2079,10 +2094,13 @@
       },
       "YEARLY_REGULAR_SEASON_RUNNER_UP": {
         "id": 3,
-        "total": 1,
+        "total": 2,
         "history": [
           {
             "season": 2016
+          },
+          {
+            "season": 2012
           }
         ]
       },
@@ -2537,15 +2555,24 @@
       },
       "YEARLY_REGULAR_SEASON_CHAMPION": {
         "id": 2,
-        "total": 1,
+        "total": 2,
         "history": [
           {
             "season": 2010
+          },
+          {
+            "season": 2012
           }
         ]
       },
       "YEARLY_REGULAR_SEASON_RUNNER_UP": {
-        "total": 0
+        "id": 3,
+        "total": 1,
+        "history": [
+          {
+            "season": 2013
+          }
+        ]
       },
       "YEARLY_ROOKIE": {
         "total": 0
@@ -4259,10 +4286,13 @@
       },
       "YEARLY_RUNNER_UP": {
         "id": 4,
-        "total": 1,
+        "total": 2,
         "history": [
           {
             "season": 2010
+          },
+          {
+            "season": 2013
           }
         ]
       },
@@ -5846,7 +5876,13 @@
         ]
       },
       "YEARLY_REGULAR_SEASON_RUNNER_UP": {
-        "total": 0
+        "id": 3,
+        "total": 1,
+        "history": [
+          {
+            "season": 2011
+          }
+        ]
       },
       "YEARLY_ROOKIE": {
         "total": 0
@@ -6573,10 +6609,13 @@
       },
       "YEARLY_REGULAR_SEASON_CHAMPION": {
         "id": 2,
-        "total": 1,
+        "total": 2,
         "history": [
           {
             "season": 2016
+          },
+          {
+            "season": 2013
           }
         ]
       },

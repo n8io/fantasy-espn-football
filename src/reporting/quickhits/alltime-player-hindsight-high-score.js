@@ -11,7 +11,7 @@ import { save } from '../../lib/utils/reportWriter';
 
 const ACTIVITIES = getActivities();
 
-const { MAX_RESULTS: maxResults = 3 } = process.env;
+const { MAX_RESULTS: maxResults = 5 } = process.env;
 const MAX_RESULTS = ~~maxResults || 3;
 
 const getMemberById = (members, id) => members.find(m => m.id === id);

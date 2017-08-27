@@ -2452,6 +2452,7 @@
       "score": 2915.8,
       "tags": [
         "WINNER",
+        "SEASON_2014",
         "SEED_8"
       ]
     },
@@ -2465,6 +2466,7 @@
       "score": 2375.7,
       "tags": [
         "LOSER",
+        "SEASON_2014",
         "SEED_1"
       ]
     },
@@ -2487,6 +2489,7 @@
       "score": 2485.1,
       "tags": [
         "WINNER",
+        "SEASON_2014",
         "SEED_5"
       ]
     },
@@ -2500,6 +2503,7 @@
       "score": 2473,
       "tags": [
         "LOSER",
+        "SEASON_2014",
         "SEED_4"
       ]
     },
@@ -2522,6 +2526,7 @@
       "score": 2767.5,
       "tags": [
         "LOSER",
+        "SEASON_2014",
         "SEED_6"
       ]
     },
@@ -2535,6 +2540,7 @@
       "score": 3168.7,
       "tags": [
         "WINNER",
+        "SEASON_2014",
         "SEED_3"
       ]
     },
@@ -2557,6 +2563,7 @@
       "score": 2099.4,
       "tags": [
         "LOSER",
+        "SEASON_2014",
         "SEED_7"
       ]
     },
@@ -2570,6 +2577,7 @@
       "score": 2297.1,
       "tags": [
         "WINNER",
+        "SEASON_2014",
         "SEED_2"
       ]
     },
@@ -2593,6 +2601,7 @@
       "score": 1772.6,
       "tags": [
         "LOSER",
+        "SEASON_2014",
         "SEED_10"
       ]
     },
@@ -2606,6 +2615,7 @@
       "score": 2171.6,
       "tags": [
         "WINNER",
+        "SEASON_2014",
         "SEED_9"
       ]
     },
@@ -2629,6 +2639,7 @@
       "score": 2277.2,
       "tags": [
         "WINNER",
+        "SEASON_2014",
         "SEED_12"
       ]
     },
@@ -2642,6 +2653,7 @@
       "score": 1789.1,
       "tags": [
         "LOSER",
+        "SEASON_2014",
         "SEED_11"
       ]
     },
@@ -2663,7 +2675,8 @@
       },
       "score": 2509.2,
       "tags": [
-        "WINNER"
+        "WINNER",
+        "SEASON_2014"
       ]
     },
     "homeTeam": {
@@ -2675,7 +2688,8 @@
       },
       "score": 1929.6,
       "tags": [
-        "LOSER"
+        "LOSER",
+        "SEASON_2014"
       ]
     },
     "tags": [
@@ -2696,7 +2710,8 @@
       },
       "score": 2147.7,
       "tags": [
-        "WINNER"
+        "WINNER",
+        "SEASON_2014"
       ]
     },
     "homeTeam": {
@@ -2708,7 +2723,8 @@
       },
       "score": 2128.4,
       "tags": [
-        "LOSER"
+        "LOSER",
+        "SEASON_2014"
       ]
     },
     "tags": [
@@ -2729,7 +2745,8 @@
       },
       "score": 2106.7,
       "tags": [
-        "LOSER"
+        "LOSER",
+        "SEASON_2014"
       ]
     },
     "homeTeam": {
@@ -2741,7 +2758,8 @@
       },
       "score": 2235.8,
       "tags": [
-        "WINNER"
+        "WINNER",
+        "SEASON_2014"
       ]
     },
     "tags": [
@@ -2762,7 +2780,8 @@
       },
       "score": 2921.3,
       "tags": [
-        "WINNER"
+        "WINNER",
+        "SEASON_2014"
       ]
     },
     "homeTeam": {
@@ -2774,7 +2793,8 @@
       },
       "score": 2232.2,
       "tags": [
-        "LOSER"
+        "LOSER",
+        "SEASON_2014"
       ]
     },
     "tags": [
@@ -2795,7 +2815,8 @@
       },
       "score": 2320.6,
       "tags": [
-        "WINNER"
+        "WINNER",
+        "SEASON_2014"
       ]
     },
     "homeTeam": {
@@ -2807,7 +2828,8 @@
       },
       "score": 1603.5,
       "tags": [
-        "LOSER"
+        "LOSER",
+        "SEASON_2014"
       ]
     },
     "tags": [
@@ -2828,7 +2850,8 @@
       },
       "score": 2340.7,
       "tags": [
-        "WINNER"
+        "WINNER",
+        "SEASON_2014"
       ]
     },
     "homeTeam": {
@@ -2840,7 +2863,8 @@
       },
       "score": 1974.6,
       "tags": [
-        "LOSER"
+        "LOSER",
+        "SEASON_2014"
       ]
     },
     "tags": [
@@ -2862,6 +2886,7 @@
       "score": 2189.6,
       "tags": [
         "LOSER",
+        "SEASON_2014",
         "RUNNER_UP",
         "PLACE_2"
       ]
@@ -2876,6 +2901,7 @@
       "score": 2238.4,
       "tags": [
         "WINNER",
+        "SEASON_2014",
         "CHAMPION",
         "PLACE_1"
       ]
@@ -2899,6 +2925,7 @@
       "score": 2301.5,
       "tags": [
         "WINNER",
+        "SEASON_2014",
         "PLACE_3"
       ]
     },
@@ -2912,6 +2939,7 @@
       "score": 2146.8,
       "tags": [
         "LOSER",
+        "SEASON_2014",
         "PLACE_4"
       ]
     },
@@ -2934,6 +2962,7 @@
       "score": 2282.4,
       "tags": [
         "LOSER",
+        "SEASON_2014",
         "PLACE_6"
       ]
     },
@@ -2947,6 +2976,7 @@
       "score": 2287.9,
       "tags": [
         "WINNER",
+        "SEASON_2014",
         "PLACE_5"
       ]
     },
@@ -2969,6 +2999,7 @@
       "score": 2422.2,
       "tags": [
         "LOSER",
+        "SEASON_2014",
         "PLACE_8"
       ]
     },
@@ -2982,6 +3013,7 @@
       "score": 2895.6,
       "tags": [
         "WINNER",
+        "SEASON_2014",
         "PLACE_7"
       ]
     },
@@ -3005,6 +3037,7 @@
       "score": 2198.6,
       "tags": [
         "WINNER",
+        "SEASON_2014",
         "PLACE_9"
       ]
     },
@@ -3018,6 +3051,7 @@
       "score": 1986.6,
       "tags": [
         "LOSER",
+        "SEASON_2014",
         "PLACE_10"
       ]
     },
@@ -3040,6 +3074,7 @@
       "score": 2290.1,
       "tags": [
         "WINNER",
+        "SEASON_2014",
         "PLACE_11"
       ]
     },
@@ -3053,6 +3088,7 @@
       "score": 1735.5,
       "tags": [
         "LOSER",
+        "SEASON_2014",
         "PLACE_12",
         "LAST_PLACE"
       ]

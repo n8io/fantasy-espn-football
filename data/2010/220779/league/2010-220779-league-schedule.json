@@ -2442,6 +2442,7 @@
       "score": 2685.8,
       "tags": [
         "WINNER",
+        "SEASON_2010",
         "SEED_8"
       ]
     },
@@ -2455,6 +2456,7 @@
       "score": 1852.1,
       "tags": [
         "LOSER",
+        "SEASON_2010",
         "SEED_1"
       ]
     },
@@ -2477,6 +2479,7 @@
       "score": 2716.2,
       "tags": [
         "WINNER",
+        "SEASON_2010",
         "SEED_5"
       ]
     },
@@ -2490,6 +2493,7 @@
       "score": 2063.5,
       "tags": [
         "LOSER",
+        "SEASON_2010",
         "SEED_4"
       ]
     },
@@ -2512,6 +2516,7 @@
       "score": 2622.5,
       "tags": [
         "WINNER",
+        "SEASON_2010",
         "SEED_6"
       ]
     },
@@ -2525,6 +2530,7 @@
       "score": 2411.1,
       "tags": [
         "LOSER",
+        "SEASON_2010",
         "SEED_3"
       ]
     },
@@ -2547,6 +2553,7 @@
       "score": 2678.8,
       "tags": [
         "WINNER",
+        "SEASON_2010",
         "SEED_7"
       ]
     },
@@ -2560,6 +2567,7 @@
       "score": 2636.2,
       "tags": [
         "LOSER",
+        "SEASON_2010",
         "SEED_2"
       ]
     },
@@ -2583,6 +2591,7 @@
       "score": 1716.6,
       "tags": [
         "LOSER",
+        "SEASON_2010",
         "SEED_10"
       ]
     },
@@ -2596,6 +2605,7 @@
       "score": 2260.2,
       "tags": [
         "WINNER",
+        "SEASON_2010",
         "SEED_9"
       ]
     },
@@ -2618,6 +2628,7 @@
       "score": 1918.2,
       "tags": [
         "LOSER",
+        "SEASON_2010",
         "SEED_12"
       ]
     },
@@ -2631,6 +2642,7 @@
       "score": 2110.2,
       "tags": [
         "WINNER",
+        "SEASON_2010",
         "SEED_11"
       ]
     },
@@ -2652,7 +2664,8 @@
       },
       "score": 2280,
       "tags": [
-        "WINNER"
+        "WINNER",
+        "SEASON_2010"
       ]
     },
     "homeTeam": {
@@ -2664,7 +2677,8 @@
       },
       "score": 2169.2,
       "tags": [
-        "LOSER"
+        "LOSER",
+        "SEASON_2010"
       ]
     },
     "tags": [
@@ -2685,7 +2699,8 @@
       },
       "score": 2735,
       "tags": [
-        "WINNER"
+        "WINNER",
+        "SEASON_2010"
       ]
     },
     "homeTeam": {
@@ -2697,7 +2712,8 @@
       },
       "score": 2420,
       "tags": [
-        "LOSER"
+        "LOSER",
+        "SEASON_2010"
       ]
     },
     "tags": [
@@ -2718,7 +2734,8 @@
       },
       "score": 1742.6,
       "tags": [
-        "LOSER"
+        "LOSER",
+        "SEASON_2010"
       ]
     },
     "homeTeam": {
@@ -2730,7 +2747,8 @@
       },
       "score": 2140.3,
       "tags": [
-        "WINNER"
+        "WINNER",
+        "SEASON_2010"
       ]
     },
     "tags": [
@@ -2751,7 +2769,8 @@
       },
       "score": 2128.6,
       "tags": [
-        "LOSER"
+        "LOSER",
+        "SEASON_2010"
       ]
     },
     "homeTeam": {
@@ -2763,7 +2782,8 @@
       },
       "score": 2653.2,
       "tags": [
-        "WINNER"
+        "WINNER",
+        "SEASON_2010"
       ]
     },
     "tags": [
@@ -2784,7 +2804,8 @@
       },
       "score": 2361.7,
       "tags": [
-        "LOSER"
+        "LOSER",
+        "SEASON_2010"
       ]
     },
     "homeTeam": {
@@ -2796,7 +2817,8 @@
       },
       "score": 2500.7,
       "tags": [
-        "WINNER"
+        "WINNER",
+        "SEASON_2010"
       ]
     },
     "tags": [
@@ -2818,7 +2840,8 @@
       },
       "score": 2568.7,
       "tags": [
-        "WINNER"
+        "WINNER",
+        "SEASON_2010"
       ]
     },
     "homeTeam": {
@@ -2830,7 +2853,8 @@
       },
       "score": 2420.5,
       "tags": [
-        "LOSER"
+        "LOSER",
+        "SEASON_2010"
       ]
     },
     "tags": [
@@ -2852,6 +2876,7 @@
       "score": 2476.5,
       "tags": [
         "WINNER",
+        "SEASON_2010",
         "CHAMPION",
         "PLACE_1"
       ]
@@ -2866,6 +2891,7 @@
       "score": 2208.4,
       "tags": [
         "LOSER",
+        "SEASON_2010",
         "RUNNER_UP",
         "PLACE_2"
       ]
@@ -2889,6 +2915,7 @@
       "score": 2116.4,
       "tags": [
         "LOSER",
+        "SEASON_2010",
         "PLACE_4"
       ]
     },
@@ -2902,6 +2929,7 @@
       "score": 2209.8,
       "tags": [
         "WINNER",
+        "SEASON_2010",
         "PLACE_3"
       ]
     },
@@ -2924,6 +2952,7 @@
       "score": 2402.7,
       "tags": [
         "LOSER",
+        "SEASON_2010",
         "PLACE_6"
       ]
     },
@@ -2937,6 +2966,7 @@
       "score": 3158.8,
       "tags": [
         "WINNER",
+        "SEASON_2010",
         "PLACE_5"
       ]
     },
@@ -2959,6 +2989,7 @@
       "score": 2746,
       "tags": [
         "WINNER",
+        "SEASON_2010",
         "PLACE_7"
       ]
     },
@@ -2972,6 +3003,7 @@
       "score": 2546.9,
       "tags": [
         "LOSER",
+        "SEASON_2010",
         "PLACE_8"
       ]
     },
@@ -2994,6 +3026,7 @@
       "score": 1757.1,
       "tags": [
         "LOSER",
+        "SEASON_2010",
         "PLACE_10"
       ]
     },
@@ -3007,6 +3040,7 @@
       "score": 2662.7,
       "tags": [
         "WINNER",
+        "SEASON_2010",
         "PLACE_9"
       ]
     },
@@ -3029,6 +3063,7 @@
       "score": 1944,
       "tags": [
         "LOSER",
+        "SEASON_2010",
         "PLACE_12",
         "LAST_PLACE"
       ]
@@ -3043,6 +3078,7 @@
       "score": 2461.5,
       "tags": [
         "WINNER",
+        "SEASON_2010",
         "PLACE_11"
       ]
     },

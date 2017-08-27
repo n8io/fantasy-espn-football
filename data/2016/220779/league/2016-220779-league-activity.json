@@ -24626,7 +24626,7 @@
     },
     "details": {
       "notes": [
-        "2016 Runner Up (8-5) —"
+        "2016 —"
       ]
     }
   },
@@ -24646,7 +24646,9 @@
       "id": 4
     },
     "details": {
-      "notes": []
+      "notes": [
+        "2016 —"
+      ]
     }
   },
   {
@@ -24666,7 +24668,7 @@
     },
     "details": {
       "notes": [
-        "10-3 —"
+        "2016 —"
       ]
     }
   },
@@ -24720,7 +24722,7 @@
     },
     "details": {
       "notes": [
-        "EZEKIEL ELLIOT — 89% of the vote"
+        "2016 — Ezekiel Elliot"
       ],
       "player": {
         "firstName": "Ezekiel",
@@ -24745,7 +24747,7 @@
     },
     "details": {
       "notes": [
-        "DAVID JOHNSON — 63% of the vote"
+        "2016 — David Johnson"
       ],
       "player": {
         "firstName": "David",
@@ -24770,7 +24772,7 @@
     },
     "details": {
       "notes": [
-        "LANDON COLLINS — 50% of the vote"
+        "2016 — Landon Collins"
       ],
       "player": {
         "firstName": "Landon",
@@ -24795,7 +24797,7 @@
     },
     "details": {
       "notes": [
-        "MATT BRYANT — 100% of the vote"
+        "2016 — Matt Bryant"
       ],
       "player": {
         "firstName": "Matt",
@@ -24819,7 +24821,9 @@
       "id": 14
     },
     "details": {
-      "notes": []
+      "notes": [
+        "2016 —"
+      ]
     }
   }
 ]
