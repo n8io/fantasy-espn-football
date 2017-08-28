@@ -3173,7 +3173,7 @@
         "KURT dropped Jordan Reed, Wsh TE to Waivers",
         "KURT dropped Tony Jefferson, Bal S to Waivers",
         "KURT dropped Calvin Pryor, Cle S to Waivers",
-        "KURT dropped Kony Ealy, NE DE to Waivers",
+        "KURT dropped Kony Ealy, NYJ DE to Waivers",
         "KURT dropped Allen Robinson, Jax WR to Waivers",
         "KURT dropped Jeremy Hill, Cin RB to Waivers",
         "KURT dropped Allen Hurns, Jax WR to Waivers",
@@ -3430,7 +3430,7 @@
           "action": "DROP",
           "player": {
             "name": "Kony Ealy",
-            "team": "NE",
+            "team": "NYJ",
             "position": "DE"
           }
         },

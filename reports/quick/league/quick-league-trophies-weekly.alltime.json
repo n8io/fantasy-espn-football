@@ -54,5 +54,19 @@
     "3": "In week 13 of the 2009 season Brian Williams (Powdered Toast Man) left Donnie Jones on the bench when he scored 504 points",
     "4": "In week 12 of the 2010 season Zak Hurley (Calais Campbell Half Sacks) left Jacoby Ford on the bench when he scored 488.4 points",
     "5": "In week 4 of the 2013 season Jeremiah Howe (Jotas Hos) left Sean Lee on the bench when he scored 480 points"
+  },
+  "winningestTeams": {
+    "1": "Zak Hurley (The Zak Hurleys) with a 66% win percentage",
+    "2": "Jerrod Vastag (Frisky Dingo) with a 61% win percentage",
+    "3": "Nate Clark (League Man Nate'd) with a 55% win percentage",
+    "4": "Daniel Kelly (Mongolian Giants) with a 55% win percentage",
+    "5": "Kurtis Dilyard (Jobu's Rum) with a 55% win percentage"
+  },
+  "losingestTeams": {
+    "1": "Mike Bixler (Mike Bixler) with a 63% loss percentage",
+    "2": "Jeremiah Howe (jotas HOS) with a 59% loss percentage",
+    "3": "Brian Frye (Don't Know) with a 58% loss percentage",
+    "4": "Brock Holtzapple (Cleveland Browns) with a 55% loss percentage",
+    "5": "Matthew Eberhardt (Two Mannings One Cup) with a 54% loss percentage"
   }
 }

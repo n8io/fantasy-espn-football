@@ -7,6 +7,8 @@ import offensivePlayerHighScore from './alltime-player-offensive-high-score';
 import defensivePlayerHighScore from './alltime-player-defensive-high-score';
 import specialTeamsPlayerHighScore from './alltime-player-special-teams-high-score';
 import hindsghtPlayerHighScore from './alltime-player-hindsight-high-score';
+import winningestTeams from './alltime-winningest-owner';
+import losingestTeams from './alltime-losingest-owner';
 
 require('./alltime-regular-season-standings');
 require('./alltime-post-season-standings');
@@ -25,6 +27,8 @@ const summarization = {
   defensivePlayerHighScores: defensivePlayerHighScore().reduce(reducer, {}),
   specialTeamsPlayerHighScores: specialTeamsPlayerHighScore().reduce(reducer, {}),
   hindsightPlayerHighScores: hindsghtPlayerHighScore().reduce(reducer, {}),
+  winningestTeams: winningestTeams().reduce(reducer, {}),
+  losingestTeams: losingestTeams().reduce(reducer, {}),
 };
 
 const fileName = `trophies-weekly.alltime`;
