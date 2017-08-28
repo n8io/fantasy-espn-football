@@ -4,7 +4,11 @@ import { parseKeyFromUrl } from '../../../utils/urls';
 import { properCase } from '../../../utils/string';
 
 const parseStringPassthrough = (str, key) => ({ [key]: (str || '').trim().replace(/[ ]+/g, ' ') });
-const parseTeamAbbrevFromString = str => parseStringPassthrough(str, 'abbrev');
+const parseTeamAbbrevFromString = str => {
+  const obj = parseStringPassthrough(str, 'abbrev');
+
+  return { ...obj, abbrev: obj.abbrev.toUpperCase() };
+};
 const parseTeamNameFromString = str => parseStringPassthrough(str, 'name');
 const parseDivisionFromString = str => parseStringPassthrough(str, 'division');
 const parseOwnerNameFromString = str => {

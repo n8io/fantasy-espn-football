@@ -1,17 +1,18 @@
 /* eslint-disable no-console,no-bitwise */
 import math from 'mathjs';
 import getMatchups from '../data/league/matchups';
-import members from '../data/league/members';
+import { getMembersBySeason, getMembersAlltime, getMemberAliasKey, getMemberByAliasKey } from '../data/league/members';
 
 const { MAX_RESULTS: maxResults = 5 } = process.env;
 const MAX_RESULTS = ~~maxResults || 5;
 const MATCHUPS = getMatchups();
-
-const getMemberById = id => members.find(m => m.id === id);
+const MEMBERS_ALLTIME = getMembersAlltime();
 
 const onlyCompleted = ({ homeTeam: { tags } }) => tags.find(t => t !== 'INDETERMINATE');
 const onlyValidCompetitions = ({ homeTeam: { score: hs }, awayTeam: { score: as } }) => hs > 100 && as > 100;
 const maxResultsLimit = (d, index) => index <= MAX_RESULTS - 1;
+
+const getSeason = ({ tags }) => ~~tags.find(t => t.startsWith('SEASON_')).replace(/SEASON[_]/i, '');
 
 const getWinner = mu => {
   if (mu.homeTeam.score > mu.awayTeam.score) {
@@ -29,23 +30,40 @@ const getLoser = mu => {
   return mu.awayTeam;
 };
 
+const getTeamKeySuffix = key => key.replace(/[0-9]/gi, '');
+
+const onlyValidTeams = t => t.wins + t.losses >= 8;
+
 const reduceRecords = (acc, mu) => {
+  const season = getSeason(mu);
+  const seasonMembers = getMembersBySeason(season);
   const winner = getWinner(mu);
   const loser = getLoser(mu);
 
-  const wBefore = acc[winner.id] || { wins: 0, losses: 0, pointsFor: 0, pointsAgainst: 0 };
-  const lBefore = acc[loser.id] || { wins: 0, losses: 0, pointsFor: 0, pointsAgainst: 0 };
+  const wMember = seasonMembers.find(m => m.id === winner.id);
+  const lMember = seasonMembers.find(m => m.id === loser.id);
+
+  const wmak = getMemberAliasKey(`${season}${wMember.abbrev}`);
+  const lmak = getMemberAliasKey(`${season}${lMember.abbrev}`);
+
+  const { key: wmk } = getMemberByAliasKey(MEMBERS_ALLTIME, wmak);
+  const { key: lmk } = getMemberByAliasKey(MEMBERS_ALLTIME, lmak);
+
+  const wBefore = acc[wmk] || { wins: 0, losses: 0, pointsFor: 0, pointsAgainst: 0 };
+  const lBefore = acc[lmk] || { wins: 0, losses: 0, pointsFor: 0, pointsAgainst: 0 };
 
   return {
     ...acc,
-    [winner.id]: {
+    [wmk]: {
       ...wBefore,
       wins: wBefore.wins + 1,
       pointsFor: math.round(math.add(wBefore.pointsFor, winner.score), 3),
+      pointsAgainst: math.round(math.add(wBefore.pointsAgainst, loser.score), 3),
     },
-    [loser.id]: {
+    [lmk]: {
       ...lBefore,
       losses: lBefore.losses + 1,
+      pointsFor: math.round(math.add(lBefore.pointsFor, loser.score), 3),
       pointsAgainst: math.round(math.add(lBefore.pointsAgainst, winner.score), 3),
     },
   };
@@ -56,35 +74,71 @@ const matchups = MATCHUPS.filter(onlyCompleted).filter(onlyValidCompetitions);
 // eslint-disable-next-line
 const teamRecords = matchups.reduce(reduceRecords, {});
 
-const getWinningestTeams = () => {
-  const winningestTeams = Object.keys(teamRecords)
+const getTeams = () => {
+  const teams = Object.keys(teamRecords)
     .map(key => ({
-      id: ~~key,
+      key,
       wins: teamRecords[key].wins,
       losses: teamRecords[key].losses,
-      winPct: math.round(teamRecords[key].wins / (teamRecords[key].wins + teamRecords[key].losses) * 100, 0),
       pointsFor: teamRecords[key].pointsFor,
       pointsAgainst: teamRecords[key].pointsAgainst,
     }))
+    .filter(onlyValidTeams) // Only owners who have at least half of one season under them are considered valid
+    .reduce((acc, team) => {
+      const suffix = getTeamKeySuffix(team.key);
+      const records = acc.filter(t => getTeamKeySuffix(t.key) === suffix);
+
+      let record = { ...team };
+
+      if (records.length) {
+        // A record already exists for this owner, we need to accumulate
+        record = {
+          ...record,
+          key: team.key,
+          wins: record.wins + records[0].wins,
+          losses: record.losses + records[0].losses,
+          pointsFor: record.pointsFort + records[0].pointsFor,
+          pointsAgainst: record.pointsAgainst + records[0].pointsAgainst,
+        };
+      }
+
+      return [...acc.filter(t => getTeamKeySuffix(t.key) !== suffix), record];
+    }, [])
+    .map(tr => ({
+      ...tr,
+      winPct: math.round(tr.wins / (tr.wins + tr.losses) * 100, 2),
+      lossPct: math.round(tr.losses / (tr.wins + tr.losses) * 100, 2),
+    }))
     .sort((a, b) => {
-      if (a.wins > b.wins) {
+      if (a.winPct > b.winPct) {
         return -1;
-      } else if (a.wins < b.wins) {
+      } else if (a.winPct < b.winPct) {
+        return 1;
+      }
+
+      // Tiebreaker 1 (avg points against per game)
+      const apapg = math.round(a.pointsAgainst / (a.wins + a.losses), 2);
+      const bpapg = math.round(b.pointsAgainst / (b.wins + b.losses), 2);
+
+      if (apapg > bpapg) {
+        return -1;
+      } else if (apapg < bpapg) {
         return 1;
       }
 
       return 0;
     })
+    .filter(maxResultsLimit)
     .map((team, index) => {
-      const { firstName, lastName, name } = getMemberById(team.id);
+      const { firstName, lastName, name } = MEMBERS_ALLTIME[team.key];
 
       return {
-        [index + 1]: `${firstName} ${lastName} (${name}) with a ${team.winPct}% win percentage`,
+        [index +
+        1]: `${firstName} ${lastName} (${name}) with a ${team.winPct}% win percentage with a W/L record of ${team.wins}/${team.losses}`,
       };
-    })
-    .filter(maxResultsLimit);
+    });
 
-  return winningestTeams;
+  return teams;
 };
 
-export default getWinningestTeams;
+export default getTeams;

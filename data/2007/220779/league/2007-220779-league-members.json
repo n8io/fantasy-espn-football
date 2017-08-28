@@ -8,6 +8,9 @@
     "tags": [
       {
         "division": "South"
+      },
+      {
+        "season": 2007
       }
     ]
   },
@@ -20,6 +23,9 @@
     "tags": [
       {
         "division": "East"
+      },
+      {
+        "season": 2007
       }
     ]
   },
@@ -32,6 +38,9 @@
     "tags": [
       {
         "division": "North"
+      },
+      {
+        "season": 2007
       }
     ]
   },
@@ -44,6 +53,9 @@
     "tags": [
       {
         "division": "North"
+      },
+      {
+        "season": 2007
       }
     ]
   },
@@ -56,6 +68,9 @@
     "tags": [
       {
         "division": "East"
+      },
+      {
+        "season": 2007
       }
     ]
   },
@@ -68,6 +83,9 @@
     "tags": [
       {
         "division": "West"
+      },
+      {
+        "season": 2007
       }
     ]
   },
@@ -80,18 +98,24 @@
     "tags": [
       {
         "division": "South"
+      },
+      {
+        "season": 2007
       }
     ]
   },
   {
     "id": 8,
-    "abbrev": "Frye",
+    "abbrev": "FRYE",
     "name": "Team Pederass",
     "firstName": "Brian",
     "lastName": "Frye",
     "tags": [
       {
         "division": "East"
+      },
+      {
+        "season": 2007
       }
     ]
   },
@@ -104,6 +128,9 @@
     "tags": [
       {
         "division": "North"
+      },
+      {
+        "season": 2007
       }
     ]
   },
@@ -116,6 +143,9 @@
     "tags": [
       {
         "division": "South"
+      },
+      {
+        "season": 2007
       }
     ]
   },
@@ -128,6 +158,9 @@
     "tags": [
       {
         "division": "West"
+      },
+      {
+        "season": 2007
       }
     ]
   },
@@ -140,6 +173,9 @@
     "tags": [
       {
         "division": "West"
+      },
+      {
+        "season": 2007
       }
     ]
   }

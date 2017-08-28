@@ -1,13 +1,16 @@
 [
   {
     "id": 1,
-    "abbrev": "Nate",
+    "abbrev": "NATE",
     "name": "Team Whistle Tips",
     "firstName": "Nate",
     "lastName": "Clark",
     "tags": [
       {
         "division": "South"
+      },
+      {
+        "season": 2008
       }
     ]
   },
@@ -20,6 +23,9 @@
     "tags": [
       {
         "division": "East"
+      },
+      {
+        "season": 2008
       }
     ]
   },
@@ -32,114 +38,144 @@
     "tags": [
       {
         "division": "South"
+      },
+      {
+        "season": 2008
       }
     ]
   },
   {
     "id": 4,
-    "abbrev": "Pad",
+    "abbrev": "PAD",
     "name": "Sweater Puppies",
     "firstName": "Matthew",
     "lastName": "Dziedzicki",
     "tags": [
       {
         "division": "North"
+      },
+      {
+        "season": 2008
       }
     ]
   },
   {
     "id": 5,
-    "abbrev": "Mike",
+    "abbrev": "MIKE",
     "name": "Touchdown Jesus",
     "firstName": "Mike",
     "lastName": "Saunders",
     "tags": [
       {
         "division": "East"
+      },
+      {
+        "season": 2008
       }
     ]
   },
   {
     "id": 6,
-    "abbrev": "Dubs",
+    "abbrev": "DUBS",
     "name": "Powdered Toast Man",
     "firstName": "Brian",
     "lastName": "Williams",
     "tags": [
       {
         "division": "West"
+      },
+      {
+        "season": 2008
       }
     ]
   },
   {
     "id": 7,
-    "abbrev": "cdz",
+    "abbrev": "CDZ",
     "name": "off in the shower",
     "firstName": "Chris",
     "lastName": "Dziedzicki",
     "tags": [
       {
         "division": "North"
+      },
+      {
+        "season": 2008
       }
     ]
   },
   {
     "id": 8,
-    "abbrev": "Frye",
+    "abbrev": "FRYE",
     "name": "Team AutoDraft",
     "firstName": "Brian",
     "lastName": "Frye",
     "tags": [
       {
         "division": "East"
+      },
+      {
+        "season": 2008
       }
     ]
   },
   {
     "id": 9,
-    "abbrev": "Jim",
+    "abbrev": "JIM",
     "name": "Try My Margarita",
     "firstName": "Jim",
     "lastName": "Harries",
     "tags": [
       {
         "division": "North"
+      },
+      {
+        "season": 2008
       }
     ]
   },
   {
     "id": 10,
-    "abbrev": "Brok",
+    "abbrev": "BROK",
     "name": "The One Eyed Man is King",
     "firstName": "Brock",
     "lastName": "Holtzapple",
     "tags": [
       {
         "division": "South"
+      },
+      {
+        "season": 2008
       }
     ]
   },
   {
     "id": 11,
-    "abbrev": "JRod",
+    "abbrev": "JROD",
     "name": "Team Awesome",
     "firstName": "Jerrod",
     "lastName": "Vastag",
     "tags": [
       {
         "division": "West"
+      },
+      {
+        "season": 2008
       }
     ]
   },
   {
     "id": 12,
-    "abbrev": "Weav",
+    "abbrev": "WEAV",
     "name": "Last Again",
     "firstName": "Matt",
     "lastName": "Weaver",
     "tags": [
       {
         "division": "West"
+      },
+      {
+        "season": 2008
       }
     ]
   }

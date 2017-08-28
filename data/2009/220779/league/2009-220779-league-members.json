@@ -1,13 +1,16 @@
 [
   {
     "id": 1,
-    "abbrev": "Nate",
+    "abbrev": "NATE",
     "name": "Team Whistle Tips",
     "firstName": "Nate",
     "lastName": "Clark",
     "tags": [
       {
         "division": "South"
+      },
+      {
+        "season": 2009
       }
     ]
   },
@@ -20,6 +23,9 @@
     "tags": [
       {
         "division": "South"
+      },
+      {
+        "season": 2009
       }
     ]
   },
@@ -32,114 +38,144 @@
     "tags": [
       {
         "division": "West"
+      },
+      {
+        "season": 2009
       }
     ]
   },
   {
     "id": 4,
-    "abbrev": "Pad",
+    "abbrev": "PAD",
     "name": "League Doormat",
     "firstName": "Matthew",
     "lastName": "Dziedzicki",
     "tags": [
       {
         "division": "North"
+      },
+      {
+        "season": 2009
       }
     ]
   },
   {
     "id": 5,
-    "abbrev": "Mike",
+    "abbrev": "MIKE",
     "name": "TDs N Beer",
     "firstName": "Mike",
     "lastName": "Saunders",
     "tags": [
       {
         "division": "South"
+      },
+      {
+        "season": 2009
       }
     ]
   },
   {
     "id": 6,
-    "abbrev": "Dubs",
+    "abbrev": "DUBS",
     "name": "Powdered Toast Man",
     "firstName": "Brian",
     "lastName": "Williams",
     "tags": [
       {
         "division": "West"
+      },
+      {
+        "season": 2009
       }
     ]
   },
   {
     "id": 7,
-    "abbrev": "cdz",
+    "abbrev": "CDZ",
     "name": "off in the shower",
     "firstName": "Chris",
     "lastName": "Dziedzicki",
     "tags": [
       {
         "division": "East"
+      },
+      {
+        "season": 2009
       }
     ]
   },
   {
     "id": 8,
-    "abbrev": "Frye",
+    "abbrev": "FRYE",
     "name": "Team Fuck",
     "firstName": "Brian",
     "lastName": "Frye",
     "tags": [
       {
         "division": "West"
+      },
+      {
+        "season": 2009
       }
     ]
   },
   {
     "id": 9,
-    "abbrev": "Jim",
+    "abbrev": "JIM",
     "name": "Tripple Threat",
     "firstName": "Jim",
     "lastName": "Harries",
     "tags": [
       {
         "division": "East"
+      },
+      {
+        "season": 2009
       }
     ]
   },
   {
     "id": 10,
-    "abbrev": "Brok",
+    "abbrev": "BROK",
     "name": "The One Eyed Man is King",
     "firstName": "Brock",
     "lastName": "Holtzapple",
     "tags": [
       {
         "division": "North"
+      },
+      {
+        "season": 2009
       }
     ]
   },
   {
     "id": 11,
-    "abbrev": "Jrod",
+    "abbrev": "JROD",
     "name": "Whiskey Ditkas",
     "firstName": "Jerrod",
     "lastName": "Vastag",
     "tags": [
       {
         "division": "North"
+      },
+      {
+        "season": 2009
       }
     ]
   },
   {
     "id": 12,
-    "abbrev": "Weav",
+    "abbrev": "WEAV",
     "name": "Loves Being Raped",
     "firstName": "Matt",
     "lastName": "Weaver",
     "tags": [
       {
         "division": "East"
+      },
+      {
+        "season": 2009
       }
     ]
   }
