@@ -75,5 +75,19 @@
     "3": "Zak Walcher (Black Magic) with a 59.38% loss percentage with a W/L record of 13/19",
     "4": "Jeremiah Howe (jotas HOS) with a 59.01% loss percentage with a W/L record of 66/95",
     "5": "Brian Frye (Don't Know) with a 57.76% loss percentage with a W/L record of 68/93"
+  },
+  "easiestSchedule": {
+    "1": "Zak Walcher (Black Magic) with an avg of 2213.81 points against",
+    "2": "Mike Bixler (Mike Bixler) with an avg of 2238.38 points against",
+    "3": "Matthew Dziedzicki (Walking Wounded) with an avg of 2270.46 points against",
+    "4": "Brian Williams (Ball Sagna) with an avg of 2282.98 points against",
+    "5": "Chris Dziedzicki (ELFO's 18) with an avg of 2295.69 points against"
+  },
+  "hardestSchedule": {
+    "1": "Daniel Kelly (Mongolian Giants) with an avg of 2345.06 points against",
+    "2": "Brian Frye (Don't Know) with an avg of 2336.68 points against",
+    "3": "Mike Saunders (Chalupa Batman) with an avg of 2331.4 points against",
+    "4": "Jim Harries (Lucky Fuckers) with an avg of 2327.82 points against",
+    "5": "Matthew Eberhardt (Two Mannings One Cup) with an avg of 2325.15 points against"
   }
 }

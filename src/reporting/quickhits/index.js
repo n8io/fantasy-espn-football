@@ -10,6 +10,8 @@ import specialTeamsPlayerHighScore from './alltime-player-special-teams-high-sco
 import hindsghtPlayerHighScore from './alltime-player-hindsight-high-score';
 import winningestTeams from './alltime-winningest-owner';
 import losingestTeams from './alltime-losingest-owner';
+import easiestSchedule from './alltime-owner-schedule-easiest';
+import hardestSchedule from './alltime-owner-schedule-hardest';
 
 require('./alltime-regular-season-standings');
 require('./alltime-post-season-standings');
@@ -31,6 +33,8 @@ const summarization = {
   highestHindsightPlayerScores: hindsghtPlayerHighScore().reduce(reducer, {}),
   winningestTeams: winningestTeams().reduce(reducer, {}),
   losingestTeams: losingestTeams().reduce(reducer, {}),
+  easiestSchedule: easiestSchedule().reduce(reducer, {}),
+  hardestSchedule: hardestSchedule().reduce(reducer, {}),
 };
 
 const fileName = `alltime`;
