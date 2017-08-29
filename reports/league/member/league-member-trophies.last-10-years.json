@@ -4066,7 +4066,7 @@
       },
       "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE": {
         "id": 10,
-        "total": 8,
+        "total": 9,
         "history": [
           {
             "season": 2008,
@@ -4076,6 +4076,15 @@
               "lastName": "Hentrich"
             },
             "points": 400.4
+          },
+          {
+            "season": 2008,
+            "week": 12,
+            "player": {
+              "firstName": "Nick",
+              "lastName": "Folk"
+            },
+            "points": 330
           },
           {
             "season": 2009,
@@ -5631,7 +5640,7 @@
       },
       "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE": {
         "id": 10,
-        "total": 15,
+        "total": 14,
         "history": [
           {
             "season": 2008,
@@ -5653,15 +5662,6 @@
           },
           {
             "season": 2008,
-            "week": 12,
-            "player": {
-              "firstName": "Brad",
-              "lastName": "Maynard"
-            },
-            "points": 437
-          },
-          {
-            "season": 2008,
             "week": 13,
             "player": {
               "firstName": "Brad",
@@ -5673,8 +5673,8 @@
             "season": 2008,
             "week": 14,
             "player": {
-              "firstName": "Fucking",
-              "lastName": "Brad Maynard"
+              "firstName": "Brad",
+              "lastName": "Maynard"
             },
             "points": 328.4
           },

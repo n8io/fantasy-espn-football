@@ -16,6 +16,10 @@ const MAX_RESULTS = ~~maxResults || 3;
 
 const getMemberById = (members, id) => members.find(m => m.id === id);
 
+const maxPointsSort = (a, b) => b.details.points - a.details.points;
+
+const maxResultsFilter = (d, index) => index <= MAX_RESULTS - 1;
+
 const onlyWeeklyPlayerTrophies = ({ trophy, details: { points } }) =>
   trophy &&
   [
@@ -25,35 +29,19 @@ const onlyWeeklyPlayerTrophies = ({ trophy, details: { points } }) =>
   ].indexOf(trophy.type) > -1 &&
   points > 0;
 
-export default () => {
-  const scores = ACTIVITIES.filter(onlyWeeklyPlayerTrophies)
-    .map(({ details: { points } }) => points)
-    .sort((a, b) => b - a)
-    .filter((d, index) => index <= MAX_RESULTS - 1);
+export default () =>
+  ACTIVITIES.filter(onlyWeeklyPlayerTrophies)
+    .sort(maxPointsSort)
+    .map(({ season, trophy: { team: { id } }, details: { week, points, player } }, index) => {
+      const members = getMembersBySeason(season);
+      const member = getMemberById(members, id);
+      const realName = member.firstName ? `${member.firstName} ${member.lastName}` : `???`;
+      const playerName = player.firstName ? `${player.firstName} ${player.lastName}` : '???';
 
-  const activities = ACTIVITIES.filter(onlyWeeklyPlayerTrophies)
-    .filter(({ details: { points } }) => scores.indexOf(points) > -1)
-    .sort((a, b) => {
-      if (a.details.points > b.details.points) {
-        return -1;
-      } else if (a.details.points > b.details.points) {
-        return 1;
-      }
+      const suffix = `${realName} (${member.name}) scored ${math.round(points, 2)} points with ${playerName}`;
 
-      return 0;
+      const msg = `In week ${week} of the ${season} season ${suffix}`;
+
+      return { [index + 1]: msg };
     })
-    .filter((d, index) => index <= MAX_RESULTS - 1);
-
-  return activities.map(({ season, trophy: { team: { id } }, details: { week, points, player } }, index) => {
-    const members = getMembersBySeason(season);
-    const member = getMemberById(members, id);
-    const realName = member.firstName ? `${member.firstName} ${member.lastName}` : `???`;
-    const playerName = player.firstName ? `${player.firstName} ${player.lastName}` : '???';
-
-    const suffix = `${realName} (${member.name}) scored ${math.round(scores[index], 2)} points with ${playerName}`;
-
-    const msg = `In week ${week} of the ${season} season ${suffix}`;
-
-    return { [index + 1]: msg };
-  });
-};
+    .filter(maxResultsFilter);

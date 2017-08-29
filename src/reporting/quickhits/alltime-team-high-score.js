@@ -18,35 +18,48 @@ const getWinner = mu => {
   return mu.awayTeam;
 };
 
-const getTeamHighScores = () => {
-  const defecits = MATCHUPS.filter(({ homeTeam: { tags } }) => tags.find(t => t !== 'INDETERMINATE'))
-    .filter(({ homeTeam: { score: hs }, awayTeam: { score: as } }) => hs > 100 && as > 100)
-    .map(({ homeTeam: { score: hs }, awayTeam: { score: as } }) => math.max(hs, as))
-    .sort((a, b) => b - a)
-    .filter((d, index) => index <= MAX_RESULTS - 1);
+const isGameStarted = ({ homeTeam: { tags } }) => tags.find(t => t !== 'INDETERMINATE');
 
-  const highestScoreMatchups = MATCHUPS.filter(
-    ({ homeTeam: { score: hs }, awayTeam: { score: as } }) => defecits.indexOf(math.max(hs, as)) > -1
-  );
+const isValidMatchup = ({ homeTeam: { score: hs }, awayTeam: { score: as } }) => hs > 100 && as > 100;
+
+const appendMaxScore = mu => ({
+  ...mu,
+  maxScore: math.max(mu.homeTeam.score, mu.awayTeam.score),
+});
+
+const maxScoreSort = (a, b) => b.maxScore - a.maxScore;
+
+const maxResultsFilter = (d, index) => index <= MAX_RESULTS - 1;
+
+const getTeamHighScores = () => {
+  const highestScoreMatchups = MATCHUPS.filter(isGameStarted)
+    .filter(isValidMatchup)
+    .map(appendMaxScore)
+    .sort(maxScoreSort)
+    .filter(maxResultsFilter);
 
   // eslint-disable-next-line
-  return highestScoreMatchups.filter((d, index) => index <= MAX_RESULTS - 1).map((mu, index) => {
-    const week = ~~mu.tags.find(t => t.startsWith('WEEK_')).replace(/WEEK[_]/, '');
-    const season = ~~mu.tags.find(t => t.startsWith('SEASON_')).replace(/SEASON[_]/, '');
-    const playoffRound = ~~(mu.tags.find(t => t.startsWith('PLAYOFF_ROUND_')) || '').replace(/PLAYOFF[_]ROUND[_]/, '');
-    const members = getMembersBySeason(season);
-    const winner = getWinner(mu);
-    const wMember = getMemberById(members, winner.id);
-    const wRealName = wMember.firstName ? `${wMember.firstName} ${wMember.lastName}` : `???`;
+  return highestScoreMatchups
+    .sort(maxScoreSort)
+    .map((mu, index) => {
+      const week = ~~mu.tags.find(t => t.startsWith('WEEK_')).replace(/WEEK[_]/, '');
+      const season = ~~mu.tags.find(t => t.startsWith('SEASON_')).replace(/SEASON[_]/, '');
+      const playoffRound = ~~(mu.tags.find(t => t.startsWith('PLAYOFF_ROUND_')) || '')
+        .replace(/PLAYOFF[_]ROUND[_]/, '');
+      const members = getMembersBySeason(season);
+      const winner = getWinner(mu);
+      const wMember = getMemberById(members, winner.id);
+      const wRealName = wMember.firstName ? `${wMember.firstName} ${wMember.lastName}` : `???`;
 
-    const suffix = `${wRealName} (${winner.name}) scored ${math.round(defecits[index], 2)} points`;
-    let msg = `In week ${week} of the ${season} season ${suffix}`;
-    if (playoffRound) {
-      msg = `During round ${playoffRound} of the ${season} playoffs ${suffix}`;
-    }
+      const suffix = `${wRealName} (${winner.name}) scored ${math.round(mu.maxScore, 2)} points`;
+      let msg = `In week ${week} of the ${season} season ${suffix}`;
+      if (playoffRound) {
+        msg = `During round ${playoffRound} of the ${season} playoffs ${suffix}`;
+      }
 
-    return { [index + 1]: msg };
-  });
+      return { [index + 1]: msg };
+    })
+    .filter(maxResultsFilter);
 };
 
 export default getTeamHighScores;

@@ -1608,25 +1608,25 @@
     "season": 2008,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to Brok",
+    "subTypeText": "Special Team High Score awarded to cdz",
     "trophy": {
       "name": "Special Team High Score",
       "team": {
-        "abbrev": "Brok",
-        "id": 10
+        "abbrev": "cdz",
+        "id": 7
       },
       "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
       "id": 10
     },
     "details": {
       "notes": [
-        "Brad Maynard 437pts Week 12 —"
+        "Nick Folk 330pts Week 12 —"
       ],
       "week": 12,
-      "points": 437,
+      "points": 330,
       "player": {
-        "firstName": "Brad",
-        "lastName": "Maynard"
+        "firstName": "Nick",
+        "lastName": "Folk"
       }
     }
   },
@@ -1863,13 +1863,13 @@
     },
     "details": {
       "notes": [
-        "Fucking Brad Maynard 328.4pts Week 14 —"
+        "Brad Maynard 328.4pts Week 14 —"
       ],
       "week": 14,
       "points": 328.4,
       "player": {
-        "firstName": "Fucking",
-        "lastName": "Brad Maynard"
+        "firstName": "Brad",
+        "lastName": "Maynard"
       }
     }
   },

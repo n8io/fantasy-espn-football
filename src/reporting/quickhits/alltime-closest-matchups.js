@@ -26,41 +26,54 @@ const getWinner = mu => {
   return mu.awayTeam;
 };
 
-const getClosestMatchups = () => {
-  const defecits = MATCHUPS.filter(({ homeTeam: { tags } }) => tags.find(t => t !== 'INDETERMINATE'))
-    .filter(({ homeTeam: { score: hs }, awayTeam: { score: as } }) => hs && as)
-    .map(({ homeTeam: { score: hs }, awayTeam: { score: as } }) => Math.abs(hs - as))
-    .sort((a, b) => a - b)
-    .filter((d, index) => index <= MAX_RESULTS - 1);
+const isGameStarted = ({ homeTeam: { tags } }) => tags.find(t => t !== 'INDETERMINATE');
 
-  const closestMatchups = MATCHUPS.filter(
-    ({ homeTeam: { score: hs }, awayTeam: { score: as } }) => defecits.indexOf(Math.abs(hs - as)) > -1
-  );
+const isValidMatchup = ({ homeTeam: { score: hs }, awayTeam: { score: as } }) => hs > 100 && as > 100;
+
+const appendDeficit = mu => ({
+  ...mu,
+  defecit: math.abs(mu.homeTeam.score - mu.awayTeam.score),
+});
+
+const defecitSort = (a, b) => a.defecit - b.defecit;
+
+const maxResultsFilter = (d, index) => index <= MAX_RESULTS - 1;
+
+const getClosestMatchups = () => {
+  const closestMatchups = MATCHUPS.filter(isGameStarted)
+    .filter(isValidMatchup)
+    .map(appendDeficit)
+    .sort(defecitSort)
+    .filter(maxResultsFilter);
 
   // eslint-disable-next-line
-  return closestMatchups.filter((d, index) => index <= MAX_RESULTS - 1).map((mu, index) => {
-    const week = ~~mu.tags.find(t => t.startsWith('WEEK_')).replace(/WEEK[_]/, '');
-    const season = ~~mu.tags.find(t => t.startsWith('SEASON_')).replace(/SEASON[_]/, '');
-    const playoffRound = ~~(mu.tags.find(t => t.startsWith('PLAYOFF_ROUND_')) || '').replace(/PLAYOFF[_]ROUND[_]/, '');
-    const members = getMembersBySeason(season);
-    const winner = getWinner(mu);
-    const loser = getLoser(mu);
-    const wMember = getMemberById(members, winner.id);
-    const lMember = getMemberById(members, loser.id);
-    const wRealName = wMember.firstName ? `${wMember.firstName} ${wMember.lastName}` : `???`;
-    const lRealName = lMember.firstName ? `${lMember.firstName} ${lMember.lastName}` : `???`;
+  return closestMatchups
+    .sort(defecitSort)
+    .map((mu, index) => {
+      const week = ~~mu.tags.find(t => t.startsWith('WEEK_')).replace(/WEEK[_]/, '');
+      const season = ~~mu.tags.find(t => t.startsWith('SEASON_')).replace(/SEASON[_]/, '');
+      const playoffRound = ~~(mu.tags.find(t => t.startsWith('PLAYOFF_ROUND_')) || '')
+        .replace(/PLAYOFF[_]ROUND[_]/, '');
+      const members = getMembersBySeason(season);
+      const winner = getWinner(mu);
+      const loser = getLoser(mu);
+      const wMember = getMemberById(members, winner.id);
+      const lMember = getMemberById(members, loser.id);
+      const wRealName = wMember.firstName ? `${wMember.firstName} ${wMember.lastName}` : `???`;
+      const lRealName = lMember.firstName ? `${lMember.firstName} ${lMember.lastName}` : `???`;
 
-    const suffix = `${lRealName} (${loser.name}) lost to ${wRealName} (${winner.name}) by ${math.round(
-      defecits[index],
-      2
-    )} points`;
-    let msg = `In week ${week} of the ${season} season ${suffix}`;
-    if (playoffRound) {
-      msg = `During round ${playoffRound} of the ${season} playoffs ${suffix}`;
-    }
+      const suffix = `${lRealName} (${loser.name}) lost to ${wRealName} (${winner.name}) by ${math.round(
+        mu.defecit,
+        2
+      )} points`;
+      let msg = `In week ${week} of the ${season} season ${suffix}`;
+      if (playoffRound) {
+        msg = `During round ${playoffRound} of the ${season} playoffs ${suffix}`;
+      }
 
-    return { [index + 1]: msg };
-  });
+      return { [index + 1]: msg };
+    })
+    .filter(maxResultsFilter);
 };
 
 export default getClosestMatchups;
