@@ -57,5 +57,5 @@ const standingsSummary = () =>
 
 // console.log(JSON.stringify(standingsSummary(), null, 2));
 const summarization = standingsSummary();
-const fileName = `regular-season-standings.${YEARS_BACK ? `last-${`00${YEARS_BACK}`.slice(-2)}-years` : 'alltime'}`;
+const fileName = `standings-regular.${YEARS_BACK ? `last-${`00${YEARS_BACK}`.slice(-2)}-years` : 'alltime'}`;
 save('quick', 'league', fileName, summarization);

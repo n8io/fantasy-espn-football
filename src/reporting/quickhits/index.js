@@ -13,8 +13,8 @@ import losingestTeams from './alltime-losingest-owner';
 import easiestSchedule from './alltime-owner-schedule-easiest';
 import hardestSchedule from './alltime-owner-schedule-hardest';
 
-require('./alltime-regular-season-standings');
-require('./alltime-post-season-standings');
+require('./alltime-standings-regular');
+require('./alltime-standings-final');
 
 const reducer = (acc, item) => ({
   ...acc,
