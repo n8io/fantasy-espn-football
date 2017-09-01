@@ -154,5 +154,29 @@
     "8": "Zak Hurley (The Zak Hurleys) with an avg of 2314.43 points against",
     "9": "Brock Holtzapple (Cleveland Browns) with an avg of 2312.1 points against",
     "10": "Jason Pero (Susan Bixler) with an avg of 2310.6 points against"
+  },
+  "teamPointDiffHigh": {
+    "1": "Mike Bixler (Mike Bixler) with an average point differential of 721.12",
+    "2": "Jason Pero (Susan Bixler) with an average point differential of 432.69",
+    "3": "Zak Hurley (The Zak Hurleys) with an average point differential of 432.34",
+    "4": "Matthew Dziedzicki (Walking Wounded) with an average point differential of 427.73",
+    "5": "Mike Saunders (Chalupa Batman) with an average point differential of 401.35",
+    "6": "Jerrod Vastag (Frisky Dingo) with an average point differential of 395.99",
+    "7": "Zak Walcher (Black Magic) with an average point differential of 393.98",
+    "8": "Jeremiah Howe (jotas HOS) with an average point differential of 385.41",
+    "9": "Matthew Eberhardt (Two Mannings One Cup) with an average point differential of 385.09",
+    "10": "Daniel Kelly (Mongolian Giants) with an average point differential of 380.8"
+  },
+  "teamPointDiffLow": {
+    "1": "Chris Dziedzicki (ELFO's 18) with an average point differential of 348.37",
+    "2": "Brian Williams (Ball Sagna) with an average point differential of 348.94",
+    "3": "Nate Clark (League Man Nate'd) with an average point differential of 356.58",
+    "4": "Brock Holtzapple (Cleveland Browns) with an average point differential of 368.07",
+    "5": "Brian Frye (Don't Know) with an average point differential of 375.9",
+    "6": "Jim Harries (Lucky Fuckers) with an average point differential of 378.43",
+    "7": "Matt Weaver (Down With OBJr.) with an average point differential of 380.06",
+    "8": "Daniel Kelly (Mongolian Giants) with an average point differential of 380.8",
+    "9": "Matthew Eberhardt (Two Mannings One Cup) with an average point differential of 385.09",
+    "10": "Jeremiah Howe (jotas HOS) with an average point differential of 385.41"
   }
 }
