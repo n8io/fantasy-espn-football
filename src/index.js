@@ -12,6 +12,7 @@ import getLeagueTransactionFees from './lib/pages/league/transactionFees';
 import getLeagueSchedule from './lib/pages/league/schedule';
 import updatePlayoffSchedule from './lib/pages/league/schedule/playoffBracket';
 import getLeagueRosters from './lib/pages/league/weekly';
+import getLeagueDraftRecap from './lib/pages/league/draft';
 
 const { puppeteer: puppeteerConfig } = config;
 
@@ -40,10 +41,15 @@ const parseSeason = async (page, league, season, browser) => {
   leagueSchedule = null;
   leagueUpdatedSchedule = null;
 
-  const leagueRosters = await getLeagueRosters({ browser, page, league, season });
+  let leagueDraftRecap = await getLeagueDraftRecap({ page, league, season });
+  await log(`💾 301 Saving ${season} season draft recap...`);
+  save(season, league, 'league', 'draft', leagueDraftRecap);
+  leagueDraftRecap = null;
 
+  let leagueRosters = await getLeagueRosters({ browser, page, league, season });
   await log(`💾 301 Saving ${season} season rosters...`);
   save(season, league, 'league', 'rosters', leagueRosters);
+  leagueRosters = null;
 
   msg = `🏁 200 Done parsing data for ${season} season.`;
   await log(msg, page);
