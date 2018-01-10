@@ -1,477 +1,5 @@
 [
   {
-    "date": "2007-08-13T00:05:00Z",
-    "season": 2007,
-    "type": "TROPHY_CREATED",
-    "subType": "UNKNOWN",
-    "subTypeText": "The League of Extraordinary Idiots Champion",
-    "details": {
-      "notes": [
-        "Playoff champion"
-      ]
-    }
-  },
-  {
-    "date": "2007-08-13T00:06:00Z",
-    "season": 2007,
-    "type": "TROPHY_CREATED",
-    "subType": "UNKNOWN",
-    "subTypeText": "TLOEI Regular Season Champion",
-    "details": {
-      "notes": [
-        "Regular season champion"
-      ]
-    }
-  },
-  {
-    "date": "2007-08-13T00:09:00Z",
-    "season": 2007,
-    "type": "TROPHY_CREATED",
-    "subType": "UNKNOWN",
-    "subTypeText": "TLOEI Regular Season Runner Up",
-    "details": {
-      "notes": [
-        "Regular season runner up"
-      ]
-    }
-  },
-  {
-    "date": "2007-08-13T00:12:00Z",
-    "season": 2007,
-    "type": "TROPHY_CREATED",
-    "subType": "UNKNOWN",
-    "subTypeText": "The League of Extraordinary Idiots Runner Up",
-    "details": {
-      "notes": [
-        "Playoff runner up"
-      ]
-    }
-  },
-  {
-    "date": "2007-08-13T00:17:00Z",
-    "season": 2007,
-    "type": "TROPHY_CREATED",
-    "subType": "UNKNOWN",
-    "subTypeText": "Weekly Team Highest Points",
-    "details": {
-      "notes": [
-        "Given out weekly for highest team score"
-      ]
-    }
-  },
-  {
-    "date": "2007-08-17T22:22:00Z",
-    "season": 2007,
-    "type": "TROPHY_CREATED",
-    "subType": "UNKNOWN",
-    "subTypeText": "Offensive Player High Score",
-    "details": {
-      "notes": [
-        "Given each week to the team owner who had the highest scoring offensive player points"
-      ]
-    }
-  },
-  {
-    "date": "2007-09-11T13:13:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to SAU",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "SAU",
-        "id": 5
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 1 — 2728.7"
-      ],
-      "week": 1,
-      "points": 2728.7
-    }
-  },
-  {
-    "date": "2007-09-11T13:16:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to ROMO",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "ROMO",
-        "id": 2
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 1 — Tony Romo - 538.5pts"
-      ],
-      "week": 1,
-      "points": 538.5,
-      "player": {
-        "firstName": "Tony",
-        "lastName": "Romo"
-      }
-    }
-  },
-  {
-    "date": "2007-09-18T12:01:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to HURL",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 2 — 2939.8"
-      ],
-      "week": 2,
-      "points": 2939.8
-    }
-  },
-  {
-    "date": "2007-09-18T12:01:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to POO",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "POO",
-        "id": 1
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 2 — Carson Palmer - 619.5pts - Just because Derek Anderson wasn't on a team."
-      ],
-      "week": 2,
-      "points": 619.5,
-      "player": {
-        "firstName": "Carson",
-        "lastName": "Palmer"
-      }
-    }
-  },
-  {
-    "date": "2007-09-28T20:54:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to HARR",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "HARR",
-        "id": 9
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 3 — Donovan McNabb - 530.5 pts - not to shabby!"
-      ],
-      "week": 3,
-      "points": 530.5,
-      "player": {
-        "firstName": "Donovan",
-        "lastName": "Mcnabb"
-      }
-    }
-  },
-  {
-    "date": "2007-09-28T20:54:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to PAD",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "PAD",
-        "id": 4
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 3 — 2569.6"
-      ],
-      "week": 3,
-      "points": 2569.6
-    }
-  },
-  {
-    "date": "2007-10-02T11:24:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to CRY",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "CRY",
-        "id": 6
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 4 — 2563.7"
-      ],
-      "week": 4,
-      "points": 2563.7
-    }
-  },
-  {
-    "date": "2007-10-02T11:25:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to ROMO",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "ROMO",
-        "id": 2
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 4 — Tony Romo - 531.5pts - Romo strikes again!"
-      ],
-      "week": 4,
-      "points": 531.5,
-      "player": {
-        "firstName": "Tony",
-        "lastName": "Romo"
-      }
-    }
-  },
-  {
-    "date": "2007-10-09T13:33:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to HURL",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 5 — 2587"
-      ],
-      "week": 5,
-      "points": 2587
-    }
-  },
-  {
-    "date": "2007-10-09T13:36:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to HURL",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 5 — Terrence McGee - 384 pts - pure crap ass luck"
-      ],
-      "week": 5,
-      "points": 384,
-      "player": {
-        "firstName": "Terrence",
-        "lastName": "Mcgee"
-      }
-    }
-  },
-  {
-    "date": "2007-10-16T14:05:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to POO",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "POO",
-        "id": 1
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 6 — Adrian Peterson - 614pts"
-      ],
-      "week": 6,
-      "points": 614,
-      "player": {
-        "firstName": "Adrian",
-        "lastName": "Peterson"
-      }
-    }
-  },
-  {
-    "date": "2007-10-16T14:05:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to HURL",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 6 — 2875.9"
-      ],
-      "week": 6,
-      "points": 2875.9
-    }
-  },
-  {
-    "date": "2007-10-23T14:00:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to BYE",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "BYE",
-        "id": 7
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 6 — Tom Brady - 572pts - Do you even know you got this award?"
-      ],
-      "week": 6,
-      "points": 572,
-      "player": {
-        "firstName": "Tom",
-        "lastName": "Brady"
-      }
-    }
-  },
-  {
-    "date": "2007-10-23T14:00:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to POO",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "POO",
-        "id": 1
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 7 — 3379.1"
-      ],
-      "week": 7,
-      "points": 3379.1
-    }
-  },
-  {
-    "date": "2007-11-01T17:29:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to HOLT",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "HOLT",
-        "id": 10
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 8 — 2806.4"
-      ],
-      "week": 8,
-      "points": 2806.4
-    }
-  },
-  {
-    "date": "2007-11-01T17:30:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to BYE",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "BYE",
-        "id": 7
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 8 — Tom Brady - 529pts"
-      ],
-      "week": 8,
-      "points": 529,
-      "player": {
-        "firstName": "Tom",
-        "lastName": "Brady"
-      }
-    }
-  },
-  {
     "date": "2007-11-06T13:34:00Z",
     "season": 2007,
     "type": "TROPHY_AWARDED",
@@ -499,7 +27,280 @@
     }
   },
   {
-    "date": "2007-11-06T13:36:00Z",
+    "date": "Invalid date",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to BYE",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "BYE",
+        "id": 7
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 14 — Tom Brady - 614.5pts"
+      ],
+      "week": 14,
+      "points": 614.5,
+      "player": {
+        "firstName": "Tom",
+        "lastName": "Brady"
+      }
+    }
+  },
+  {
+    "date": "Invalid date",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "The League of Extraordinary Idiots Champion awarded to SAU",
+    "trophy": {
+      "name": "The League of Extraordinary Idiots Champion",
+      "team": {
+        "abbrev": "SAU",
+        "id": 5
+      },
+      "type": "YEARLY_CHAMPION",
+      "id": 1
+    },
+    "details": {
+      "notes": [
+        "2007 —"
+      ]
+    }
+  },
+  {
+    "date": "Invalid date",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "The League of Extraordinary Idiots Runner Up awarded to PAD",
+    "trophy": {
+      "name": "The League of Extraordinary Idiots Runner Up",
+      "team": {
+        "abbrev": "PAD",
+        "id": 4
+      },
+      "type": "YEARLY_RUNNER_UP",
+      "id": 4
+    },
+    "details": {
+      "notes": [
+        "2007 —"
+      ]
+    }
+  },
+  {
+    "date": "Invalid date",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to SAU",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "SAU",
+        "id": 5
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 16 — 2686"
+      ],
+      "week": 16,
+      "points": 2686
+    }
+  },
+  {
+    "date": "Invalid date",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to CRY",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "CRY",
+        "id": 6
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 16 — Kurt Warner - 529.5pts"
+      ],
+      "week": 16,
+      "points": 529.5,
+      "player": {
+        "firstName": "Kurt",
+        "lastName": "Warner"
+      }
+    }
+  },
+  {
+    "date": "Invalid date",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to BYE",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "BYE",
+        "id": 7
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 17 — Tom Brady - 435pts - again"
+      ],
+      "week": 17,
+      "points": 435,
+      "player": {
+        "firstName": "Tom",
+        "lastName": "Brady"
+      }
+    }
+  },
+  {
+    "date": "Invalid date",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to CRY",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "CRY",
+        "id": 6
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 17 — 2473.1"
+      ],
+      "week": 17,
+      "points": 2473.1
+    }
+  },
+  {
+    "date": "2007-12-19T16:12:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "TLOEI Regular Season Runner Up awarded to Frye",
+    "trophy": {
+      "name": "TLOEI Regular Season Runner Up",
+      "team": {
+        "abbrev": "Frye",
+        "id": 8
+      },
+      "type": "YEARLY_REGULAR_SEASON_RUNNER_UP",
+      "id": 3
+    },
+    "details": {
+      "notes": [
+        "2007 —"
+      ]
+    }
+  },
+  {
+    "date": "2007-12-19T04:30:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "TLOEI Regular Season Champion awarded to HURL",
+    "trophy": {
+      "name": "TLOEI Regular Season Champion",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "YEARLY_REGULAR_SEASON_CHAMPION",
+      "id": 2
+    },
+    "details": {
+      "notes": [
+        "2007 —"
+      ]
+    }
+  },
+  {
+    "date": "2007-12-19T04:25:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to HOLT",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "HOLT",
+        "id": 10
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 15 — Drew Bree's - 388.5pts"
+      ],
+      "week": 15,
+      "points": 388.5,
+      "player": {
+        "firstName": "Drew",
+        "lastName": "Bree"
+      }
+    }
+  },
+  {
+    "date": "2007-12-19T04:25:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to HOLT",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "HOLT",
+        "id": 10
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 15 — 2486.9"
+      ],
+      "week": 15,
+      "points": 2486.9
+    }
+  },
+  {
+    "date": "2007-12-17T13:36:00Z",
+    "season": 2007,
+    "type": "LEAGUE_NOTE_UPDATE",
+    "subType": "NONE",
+    "subTypeText": "In the words of the great Rocky Balboa",
+    "details": {
+      "notes": [
+        "A new LM note has been posted."
+      ]
+    }
+  },
+  {
+    "date": "2007-12-04T17:22:00Z",
     "season": 2007,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
@@ -515,10 +316,137 @@
     },
     "details": {
       "notes": [
-        "Week 9 — 3263.7"
+        "Week 13 — 2710.3"
       ],
-      "week": 9,
-      "points": 3263.7
+      "week": 13,
+      "points": 2710.3
+    }
+  },
+  {
+    "date": "2007-12-04T17:20:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to ROMO",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "ROMO",
+        "id": 2
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 13 — Tony Romo - 444.5pts - ROMO! The fight's out I'ma 'bout to punch yo...lights out ..."
+      ],
+      "week": 13,
+      "points": 444.5,
+      "player": {
+        "firstName": "Tony",
+        "lastName": "Romo"
+      }
+    }
+  },
+  {
+    "date": "2007-11-27T13:32:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to PAD",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "PAD",
+        "id": 4
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 12 — 2931.3"
+      ],
+      "week": 12,
+      "points": 2931.3
+    }
+  },
+  {
+    "date": "2007-11-27T13:31:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to POO",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "POO",
+        "id": 1
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 12 — Brett Favre - 467.5pts"
+      ],
+      "week": 12,
+      "points": 467.5,
+      "player": {
+        "firstName": "Brett",
+        "lastName": "Favre"
+      }
+    }
+  },
+  {
+    "date": "2007-11-20T13:06:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to SAU",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "SAU",
+        "id": 5
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 11 — 2899.8"
+      ],
+      "week": 11,
+      "points": 2899.8
+    }
+  },
+  {
+    "date": "2007-11-20T13:05:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to SAU",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "SAU",
+        "id": 5
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 11 — Terrell Owens - 502pts"
+      ],
+      "week": 11,
+      "points": 502,
+      "player": {
+        "firstName": "Terrell",
+        "lastName": "Owens"
+      }
     }
   },
   {
@@ -572,134 +500,7 @@
     }
   },
   {
-    "date": "2007-11-20T13:05:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to SAU",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "SAU",
-        "id": 5
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 11 — Terrell Owens - 502pts"
-      ],
-      "week": 11,
-      "points": 502,
-      "player": {
-        "firstName": "Terrell",
-        "lastName": "Owens"
-      }
-    }
-  },
-  {
-    "date": "2007-11-20T13:06:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to SAU",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "SAU",
-        "id": 5
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 11 — 2899.8"
-      ],
-      "week": 11,
-      "points": 2899.8
-    }
-  },
-  {
-    "date": "2007-11-27T13:31:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to POO",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "POO",
-        "id": 1
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 12 — Brett Favre - 467.5pts"
-      ],
-      "week": 12,
-      "points": 467.5,
-      "player": {
-        "firstName": "Brett",
-        "lastName": "Favre"
-      }
-    }
-  },
-  {
-    "date": "2007-11-27T13:32:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to PAD",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "PAD",
-        "id": 4
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 12 — 2931.3"
-      ],
-      "week": 12,
-      "points": 2931.3
-    }
-  },
-  {
-    "date": "2007-12-04T17:20:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to ROMO",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "ROMO",
-        "id": 2
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 13 — Tony Romo - 444.5pts - ROMO! The fight's out I'ma 'bout to punch yo...lights out ..."
-      ],
-      "week": 13,
-      "points": 444.5,
-      "player": {
-        "firstName": "Tony",
-        "lastName": "Romo"
-      }
-    }
-  },
-  {
-    "date": "2007-12-04T17:22:00Z",
+    "date": "2007-11-06T13:36:00Z",
     "season": 2007,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
@@ -715,260 +516,14 @@
     },
     "details": {
       "notes": [
-        "Week 13 — 2710.3"
+        "Week 9 — 3263.7"
       ],
-      "week": 13,
-      "points": 2710.3
+      "week": 9,
+      "points": 3263.7
     }
   },
   {
-    "date": "2007-12-17T13:36:00Z",
-    "season": 2007,
-    "type": "LEAGUE_NOTE_UPDATE",
-    "subType": "NONE",
-    "subTypeText": "In the words of the great Rocky Balboa",
-    "details": {
-      "notes": [
-        "A new LM note has been posted."
-      ]
-    }
-  },
-  {
-    "date": "2007-12-19T04:25:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to HOLT",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "HOLT",
-        "id": 10
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 15 — 2486.9"
-      ],
-      "week": 15,
-      "points": 2486.9
-    }
-  },
-  {
-    "date": "2007-12-19T04:25:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to HOLT",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "HOLT",
-        "id": 10
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 15 — Drew Bree's - 388.5pts"
-      ],
-      "week": 15,
-      "points": 388.5,
-      "player": {
-        "firstName": "Drew",
-        "lastName": "Bree"
-      }
-    }
-  },
-  {
-    "date": "2007-12-19T04:30:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_YEARLY",
-    "subTypeText": "TLOEI Regular Season Champion awarded to HURL",
-    "trophy": {
-      "name": "TLOEI Regular Season Champion",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "YEARLY_REGULAR_SEASON_CHAMPION",
-      "id": 2
-    },
-    "details": {
-      "notes": [
-        "2007 —"
-      ]
-    }
-  },
-  {
-    "date": "2007-12-19T16:12:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_YEARLY",
-    "subTypeText": "TLOEI Regular Season Runner Up awarded to Frye",
-    "trophy": {
-      "name": "TLOEI Regular Season Runner Up",
-      "team": {
-        "abbrev": "Frye",
-        "id": 8
-      },
-      "type": "YEARLY_REGULAR_SEASON_RUNNER_UP",
-      "id": 3
-    },
-    "details": {
-      "notes": [
-        "2007 —"
-      ]
-    }
-  },
-  {
-    "date": "2008-01-05T03:27:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to CRY",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "CRY",
-        "id": 6
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 17 — 2473.1"
-      ],
-      "week": 17,
-      "points": 2473.1
-    }
-  },
-  {
-    "date": "2008-01-05T03:29:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to BYE",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "BYE",
-        "id": 7
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 17 — Tom Brady - 435pts - again"
-      ],
-      "week": 17,
-      "points": 435,
-      "player": {
-        "firstName": "Tom",
-        "lastName": "Brady"
-      }
-    }
-  },
-  {
-    "date": "2008-01-05T03:30:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to CRY",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "CRY",
-        "id": 6
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 16 — Kurt Warner - 529.5pts"
-      ],
-      "week": 16,
-      "points": 529.5,
-      "player": {
-        "firstName": "Kurt",
-        "lastName": "Warner"
-      }
-    }
-  },
-  {
-    "date": "2008-01-05T03:30:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to SAU",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "SAU",
-        "id": 5
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 16 — 2686"
-      ],
-      "week": 16,
-      "points": 2686
-    }
-  },
-  {
-    "date": "2008-01-05T03:31:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_YEARLY",
-    "subTypeText": "The League of Extraordinary Idiots Runner Up awarded to PAD",
-    "trophy": {
-      "name": "The League of Extraordinary Idiots Runner Up",
-      "team": {
-        "abbrev": "PAD",
-        "id": 4
-      },
-      "type": "YEARLY_RUNNER_UP",
-      "id": 4
-    },
-    "details": {
-      "notes": [
-        "2007 —"
-      ]
-    }
-  },
-  {
-    "date": "2008-01-05T03:31:00Z",
-    "season": 2007,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_YEARLY",
-    "subTypeText": "The League of Extraordinary Idiots Champion awarded to SAU",
-    "trophy": {
-      "name": "The League of Extraordinary Idiots Champion",
-      "team": {
-        "abbrev": "SAU",
-        "id": 5
-      },
-      "type": "YEARLY_CHAMPION",
-      "id": 1
-    },
-    "details": {
-      "notes": [
-        "2007 —"
-      ]
-    }
-  },
-  {
-    "date": "2008-01-05T03:51:00Z",
+    "date": "Invalid date",
     "season": 2007,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
@@ -991,7 +546,7 @@
     }
   },
   {
-    "date": "2008-01-05T03:52:00Z",
+    "date": "2007-11-01T17:30:00Z",
     "season": 2007,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
@@ -1007,14 +562,459 @@
     },
     "details": {
       "notes": [
-        "Week 14 — Tom Brady - 614.5pts"
+        "Week 8 — Tom Brady - 529pts"
       ],
-      "week": 14,
-      "points": 614.5,
+      "week": 8,
+      "points": 529,
       "player": {
         "firstName": "Tom",
         "lastName": "Brady"
       }
+    }
+  },
+  {
+    "date": "2007-11-01T17:29:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to HOLT",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "HOLT",
+        "id": 10
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 8 — 2806.4"
+      ],
+      "week": 8,
+      "points": 2806.4
+    }
+  },
+  {
+    "date": "2007-10-23T14:00:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to POO",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "POO",
+        "id": 1
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 7 — 3379.1"
+      ],
+      "week": 7,
+      "points": 3379.1
+    }
+  },
+  {
+    "date": "2007-10-23T14:00:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to BYE",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "BYE",
+        "id": 7
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 6 — Tom Brady - 572pts - Do you even know you got this award?"
+      ],
+      "week": 6,
+      "points": 572,
+      "player": {
+        "firstName": "Tom",
+        "lastName": "Brady"
+      }
+    }
+  },
+  {
+    "date": "2007-10-16T14:05:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to HURL",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 6 — 2875.9"
+      ],
+      "week": 6,
+      "points": 2875.9
+    }
+  },
+  {
+    "date": "2007-10-16T14:05:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to POO",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "POO",
+        "id": 1
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 6 — Adrian Peterson - 614pts"
+      ],
+      "week": 6,
+      "points": 614,
+      "player": {
+        "firstName": "Adrian",
+        "lastName": "Peterson"
+      }
+    }
+  },
+  {
+    "date": "2007-10-09T13:36:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to HURL",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 5 — Terrence McGee - 384 pts - pure crap ass luck"
+      ],
+      "week": 5,
+      "points": 384,
+      "player": {
+        "firstName": "Terrence",
+        "lastName": "Mcgee"
+      }
+    }
+  },
+  {
+    "date": "2007-10-09T13:33:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to HURL",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 5 — 2587"
+      ],
+      "week": 5,
+      "points": 2587
+    }
+  },
+  {
+    "date": "2007-10-02T11:25:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to ROMO",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "ROMO",
+        "id": 2
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 4 — Tony Romo - 531.5pts - Romo strikes again!"
+      ],
+      "week": 4,
+      "points": 531.5,
+      "player": {
+        "firstName": "Tony",
+        "lastName": "Romo"
+      }
+    }
+  },
+  {
+    "date": "2007-10-02T11:24:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to CRY",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "CRY",
+        "id": 6
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 4 — 2563.7"
+      ],
+      "week": 4,
+      "points": 2563.7
+    }
+  },
+  {
+    "date": "2007-09-28T20:54:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to PAD",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "PAD",
+        "id": 4
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 3 — 2569.6"
+      ],
+      "week": 3,
+      "points": 2569.6
+    }
+  },
+  {
+    "date": "2007-09-28T20:54:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to HARR",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "HARR",
+        "id": 9
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 3 — Donovan McNabb - 530.5 pts - not to shabby!"
+      ],
+      "week": 3,
+      "points": 530.5,
+      "player": {
+        "firstName": "Donovan",
+        "lastName": "Mcnabb"
+      }
+    }
+  },
+  {
+    "date": "2007-09-18T12:01:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to POO",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "POO",
+        "id": 1
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 2 — Carson Palmer - 619.5pts - Just because Derek Anderson wasn't on a team."
+      ],
+      "week": 2,
+      "points": 619.5,
+      "player": {
+        "firstName": "Carson",
+        "lastName": "Palmer"
+      }
+    }
+  },
+  {
+    "date": "2007-09-18T12:01:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to HURL",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 2 — 2939.8"
+      ],
+      "week": 2,
+      "points": 2939.8
+    }
+  },
+  {
+    "date": "2007-09-11T13:16:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to ROMO",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "ROMO",
+        "id": 2
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 1 — Tony Romo - 538.5pts"
+      ],
+      "week": 1,
+      "points": 538.5,
+      "player": {
+        "firstName": "Tony",
+        "lastName": "Romo"
+      }
+    }
+  },
+  {
+    "date": "2007-09-11T13:13:00Z",
+    "season": 2007,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to SAU",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "SAU",
+        "id": 5
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 1 — 2728.7"
+      ],
+      "week": 1,
+      "points": 2728.7
+    }
+  },
+  {
+    "date": "2007-08-17T22:22:00Z",
+    "season": 2007,
+    "type": "TROPHY_CREATED",
+    "subType": "UNKNOWN",
+    "subTypeText": "Offensive Player High Score",
+    "details": {
+      "notes": [
+        "Given each week to the team owner who had the highest scoring offensive player points"
+      ]
+    }
+  },
+  {
+    "date": "2007-08-13T00:17:00Z",
+    "season": 2007,
+    "type": "TROPHY_CREATED",
+    "subType": "UNKNOWN",
+    "subTypeText": "Weekly Team Highest Points",
+    "details": {
+      "notes": [
+        "Given out weekly for highest team score"
+      ]
+    }
+  },
+  {
+    "date": "2007-08-13T00:12:00Z",
+    "season": 2007,
+    "type": "TROPHY_CREATED",
+    "subType": "UNKNOWN",
+    "subTypeText": "The League of Extraordinary Idiots Runner Up",
+    "details": {
+      "notes": [
+        "Playoff runner up"
+      ]
+    }
+  },
+  {
+    "date": "2007-08-13T00:09:00Z",
+    "season": 2007,
+    "type": "TROPHY_CREATED",
+    "subType": "UNKNOWN",
+    "subTypeText": "TLOEI Regular Season Runner Up",
+    "details": {
+      "notes": [
+        "Regular season runner up"
+      ]
+    }
+  },
+  {
+    "date": "2007-08-13T00:06:00Z",
+    "season": 2007,
+    "type": "TROPHY_CREATED",
+    "subType": "UNKNOWN",
+    "subTypeText": "TLOEI Regular Season Champion",
+    "details": {
+      "notes": [
+        "Regular season champion"
+      ]
+    }
+  },
+  {
+    "date": "2007-08-13T00:05:00Z",
+    "season": 2007,
+    "type": "TROPHY_CREATED",
+    "subType": "UNKNOWN",
+    "subTypeText": "The League of Extraordinary Idiots Champion",
+    "details": {
+      "notes": [
+        "Playoff champion"
+      ]
     }
   }
 ]

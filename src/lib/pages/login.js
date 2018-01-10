@@ -16,15 +16,17 @@ const login = async page => {
   await log(msg, page);
 
   // Login
-  await page.type(username);
-  await page.press('Tab');
-  await page.type(password);
+  await page.keyboard.type(username);
+  await page.keyboard.press('Tab');
+  await page.keyboard.type(password);
   await page.keyboard.down('Shift');
-  await page.press('Tab');
-  await page.mouse.click(700, 270);
+  await page.keyboard.press('Tab');
+
+  const viewport = page.viewport();
+  await page.mouse.click(viewport.width / 2, 270);
 
   // Wait for login to complete
-  await page.waitFor(5000);
+  await page.waitForNavigation({ waitUntil: 'networkidle2' });
 
   const seasonSelector = await page.$('select#seasonHistoryMenu');
 

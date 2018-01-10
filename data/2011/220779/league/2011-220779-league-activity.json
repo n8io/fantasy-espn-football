@@ -1,1124 +1,5 @@
 [
   {
-    "date": "2011-06-28T15:12:00Z",
-    "season": 2011,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "LEAGUE_RULES_UPDATE",
-    "subTypeText": "League rules updated",
-    "details": {
-      "notes": [
-        "Activated league."
-      ]
-    }
-  },
-  {
-    "date": "2011-08-14T23:03:00Z",
-    "season": 2011,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "LEAGUE_RULES_UPDATE",
-    "subTypeText": "League rules updated",
-    "details": {
-      "notes": [
-        "Changed current keeper date from Monday, Aug 1, 11:00 PM ET to Tuesday, Aug 9, 5:00 PM ET.",
-        "Changed future keeper date from Wednesday, Aug 1, 11:00 PM ET to Tuesday, Aug 7, 5:00 PM ET."
-      ]
-    }
-  },
-  {
-    "date": "2011-08-14T23:03:00Z",
-    "season": 2011,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "LEAGUE_RULES_UPDATE",
-    "subTypeText": "League rules updated",
-    "details": {
-      "notes": [
-        "Changed current keeper date from Tuesday, Aug 9, 5:00 PM ET to Tuesday, Aug 16, 5:00 PM ET.",
-        "Changed future keeper date from Tuesday, Aug 7, 5:00 PM ET to Tuesday, Aug 14, 5:00 PM ET."
-      ]
-    }
-  },
-  {
-    "date": "2011-08-14T23:08:00Z",
-    "season": 2011,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "UNKNOWN",
-    "subTypeText": "Scoring categories updated",
-    "details": {
-      "notes": [
-        "Changed scoring category Punts Inside the 10 from 40 to 30 points.",
-        "Changed scoring category Punts Inside the 20 from 30 to 20 points.",
-        "Changed scoring category Fair Catches from 15 to 10 points."
-      ]
-    }
-  },
-  {
-    "date": "2011-08-14T23:21:00Z",
-    "season": 2011,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "UNKNOWN",
-    "subTypeText": "Scoring categories updated",
-    "details": {
-      "notes": [
-        "Changed scoring category FG Made (50+ yards) from 100 to 105 points.",
-        "Changed scoring category FG Missed (50+ yards) from 10 to 15 points.",
-        "Changed scoring category FG Made (40-49 yards) from 75 to 80 points.",
-        "Changed scoring category FG Made (0-39 yards) from 50 to 55 points.",
-        "Changed scoring category FG Missed (0-39 yards) from -10 to -15 points.",
-        "Changed scoring category Each PAT Made from 10 to 15 points."
-      ]
-    }
-  },
-  {
-    "date": "2011-08-14T23:26:00Z",
-    "season": 2011,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "LEAGUE_TEAM_OR_DIVISION_UPDATE",
-    "subTypeText": "Teams and divisions updated",
-    "details": {
-      "notes": [
-        "Moved team Playoff Runner Up to division North.",
-        "Moved team Jotas Hos to division East.",
-        "Moved team League Doormat to division West.",
-        "Moved team off in the shower to division East.",
-        "Moved team Going First to GREAT! to division West.",
-        "Moved team Team Fuc k This to division North.",
-        "Moved team The One Eyed Man is King to division South."
-      ]
-    }
-  },
-  {
-    "date": "2011-08-22T14:32:00Z",
-    "season": 2011,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "LEAGUE_RULES_UPDATE",
-    "subTypeText": "League rules updated",
-    "details": {
-      "notes": [
-        "Changed current keeper date from Tuesday, Aug 16, 5:00 PM ET to Tuesday, Aug 23, 5:00 PM ET."
-      ]
-    }
-  },
-  {
-    "date": "2011-08-22T14:34:00Z",
-    "season": 2011,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "LEAGUE_RULES_UPDATE",
-    "subTypeText": "League rules updated",
-    "details": {
-      "notes": [
-        "Changed current keeper date from Tuesday, Aug 23, 5:00 PM ET to Tuesday, Aug 16, 5:00 PM ET."
-      ]
-    }
-  },
-  {
-    "date": "2011-08-22T14:38:00Z",
-    "season": 2011,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "LEAGUE_RULES_UPDATE",
-    "subTypeText": "League rules updated",
-    "details": {
-      "notes": [
-        "Changed current keeper date from Tuesday, Aug 16, 5:00 PM ET to Tuesday, Aug 23, 5:00 PM ET."
-      ]
-    }
-  },
-  {
-    "date": "2011-08-22T14:47:00Z",
-    "season": 2011,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "LEAGUE_RULES_UPDATE",
-    "subTypeText": "League rules updated",
-    "details": {
-      "notes": [
-        "Changed current keeper date from Tuesday, Aug 23, 5:00 PM ET to Tuesday, Aug 16, 5:00 PM ET."
-      ]
-    }
-  },
-  {
-    "date": "2011-08-23T14:08:00Z",
-    "season": 2011,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "LEAGUE_RULES_UPDATE",
-    "subTypeText": "League rules updated",
-    "details": {
-      "notes": [
-        "Changed current keeper date from Tuesday, Aug 16, 5:00 PM ET to Tuesday, Aug 23, 5:00 PM ET."
-      ]
-    }
-  },
-  {
-    "date": "2011-08-23T14:10:00Z",
-    "season": 2011,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "LEAGUE_RULES_UPDATE",
-    "subTypeText": "League rules updated",
-    "details": {
-      "notes": [
-        "Changed current keeper date from Tuesday, Aug 23, 5:00 PM ET to Tuesday, Aug 16, 5:00 PM ET."
-      ]
-    }
-  },
-  {
-    "date": "2011-08-25T00:16:00Z",
-    "season": 2011,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "LEAGUE_RULES_UPDATE",
-    "subTypeText": "League rules updated",
-    "details": {
-      "notes": [
-        "Changed draft type to live.",
-        "Enabled draft pick trading.",
-        "Made draft time Monday, Aug 29, 7:00 PM ET."
-      ]
-    }
-  },
-  {
-    "date": "2011-08-30T00:51:00Z",
-    "season": 2011,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "DRAFT_COMPLETED",
-    "subTypeText": "Draft completed.",
-    "details": {
-      "notes": [
-        "View results at Draft Recap"
-      ]
-    }
-  },
-  {
-    "date": "2011-08-30T12:06:00Z",
-    "season": 2011,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "TEAM_INFORMATION_UPDATE",
-    "subTypeText": "Team information updated",
-    "details": {
-      "notes": [
-        "Updated transaction counters for team Jotas Hos.",
-        "Updated transaction counters for team TLOEI Champion."
-      ]
-    }
-  },
-  {
-    "date": "2011-08-30T12:12:00Z",
-    "season": 2011,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "TEAM_INFORMATION_UPDATE",
-    "subTypeText": "Team information updated",
-    "details": {
-      "notes": [
-        "Updated transaction counters for team Calais Campbell Half Sacks.",
-        "Updated transaction counters for team TLOEI Champion.",
-        "Updated transaction counters for team On Side Boob Kicks.",
-        "Updated transaction counters for team Whiskey Ditkas."
-      ]
-    }
-  },
-  {
-    "date": "2011-09-15T03:22:00Z",
-    "season": 2011,
-    "type": "LEAGUE_SETTINGS_UPDATE",
-    "subType": "LEAGUE_MEMBERS_UPDATE",
-    "subTypeText": "League members updated",
-    "details": {
-      "notes": [
-        "Assigned LM powers to Brian Frye."
-      ]
-    }
-  },
-  {
-    "date": "2011-09-15T12:03:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to NATE",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 1- Steve Smith 367pts —"
-      ],
-      "week": 1,
-      "points": 367,
-      "player": {
-        "firstName": "Steve",
-        "lastName": "Smith"
-      }
-    }
-  },
-  {
-    "date": "2011-09-15T12:19:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to JIM",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "JIM",
-        "id": 9
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 1- David Akers 265pts —"
-      ],
-      "week": 1,
-      "points": 265,
-      "player": {
-        "firstName": "David",
-        "lastName": "Akers"
-      }
-    }
-  },
-  {
-    "date": "2011-09-15T12:31:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to JIM",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "JIM",
-        "id": 9
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 1- Brian Urlacher 350pts —"
-      ],
-      "week": 1,
-      "points": 350,
-      "player": {
-        "firstName": "Brian",
-        "lastName": "Urlacher"
-      }
-    }
-  },
-  {
-    "date": "2011-09-15T12:33:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to CDZ",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "CDZ",
-        "id": 7
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 1- Tom Brady 392.1pts —"
-      ],
-      "week": 1,
-      "points": 392.1,
-      "player": {
-        "firstName": "Tom",
-        "lastName": "Brady"
-      }
-    }
-  },
-  {
-    "date": "2011-09-15T12:36:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to CDZ",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "CDZ",
-        "id": 7
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week-1 2997.5pts —"
-      ],
-      "week": 1,
-      "points": 2997.5
-    }
-  },
-  {
-    "date": "2011-09-22T12:13:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to BROK",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "BROK",
-        "id": 10
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 2 - John Kasay 260pts  —"
-      ],
-      "week": 2,
-      "points": 260,
-      "player": {
-        "firstName": "John",
-        "lastName": "Kasay"
-      }
-    }
-  },
-  {
-    "date": "2011-09-22T12:19:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to JJ",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "JJ",
-        "id": 2
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 2 - Jason Campbell 290.9pts —"
-      ],
-      "week": 2,
-      "points": 290.9,
-      "player": {
-        "firstName": "Jason",
-        "lastName": "Campbell"
-      }
-    }
-  },
-  {
-    "date": "2011-09-22T12:22:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to JJ",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "JJ",
-        "id": 2
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 2 - Morgan Burnett 305pts —"
-      ],
-      "week": 2,
-      "points": 305,
-      "player": {
-        "firstName": "Morgan",
-        "lastName": "Burnett"
-      }
-    }
-  },
-  {
-    "date": "2011-09-22T12:33:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to FRYE",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "FRYE",
-        "id": 8
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 2 - Miles Austin 398pts —"
-      ],
-      "week": 2,
-      "points": 398,
-      "player": {
-        "firstName": "Miles",
-        "lastName": "Austin"
-      }
-    }
-  },
-  {
-    "date": "2011-09-22T12:35:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to NATE",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 2 -  2936.6pts  —"
-      ],
-      "week": 2,
-      "points": 2936.6
-    }
-  },
-  {
-    "date": "2011-09-29T11:45:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to HURL",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 3 - Joe Flacco 352.7pts  —"
-      ],
-      "week": 3,
-      "points": 352.7,
-      "player": {
-        "firstName": "Joe",
-        "lastName": "Flacco"
-      }
-    }
-  },
-  {
-    "date": "2011-09-29T11:48:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to PAD",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "PAD",
-        "id": 4
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 3 - Jon Ryan 281.6pts  —"
-      ],
-      "week": 3,
-      "points": 281.6,
-      "player": {
-        "firstName": "Jon",
-        "lastName": "Ryan"
-      }
-    }
-  },
-  {
-    "date": "2011-09-29T11:50:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to JROD",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "JROD",
-        "id": 11
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 3 - Pat Angerer 345pts —"
-      ],
-      "week": 3,
-      "points": 345,
-      "player": {
-        "firstName": "Pat",
-        "lastName": "Angerer"
-      }
-    }
-  },
-  {
-    "date": "2011-09-29T11:52:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to WEAV",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "WEAV",
-        "id": 12
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 3 - Wes Welker 434pts —"
-      ],
-      "week": 3,
-      "points": 434,
-      "player": {
-        "firstName": "Wes",
-        "lastName": "Welker"
-      }
-    }
-  },
-  {
-    "date": "2011-09-29T11:56:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to JJ",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "JJ",
-        "id": 2
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 3 - 2697.5pts —"
-      ],
-      "week": 3,
-      "points": 2697.5
-    }
-  },
-  {
-    "date": "2011-10-06T14:39:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to MIKE",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "MIKE",
-        "id": 5
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 4 - Yeremiah Bell 350pts.  —"
-      ],
-      "week": 4,
-      "points": 350,
-      "player": {
-        "firstName": "Yeremiah",
-        "lastName": "Bell"
-      }
-    }
-  },
-  {
-    "date": "2011-10-06T14:41:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to WEAV",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "WEAV",
-        "id": 12
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 4 - T.J. Conley 234.2pts.  —"
-      ],
-      "week": 4,
-      "points": 234.2,
-      "player": {
-        "firstName": "T.j.",
-        "lastName": "Conley"
-      }
-    }
-  },
-  {
-    "date": "2011-10-06T14:44:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to BROK",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "BROK",
-        "id": 10
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 4 - Kevell Conner 385pts.  —"
-      ],
-      "week": 4,
-      "points": 385,
-      "player": {
-        "firstName": "Kevell",
-        "lastName": "Conner"
-      }
-    }
-  },
-  {
-    "date": "2011-10-06T14:55:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to WEAV",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "WEAV",
-        "id": 12
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 4 - Aaron Rodgers 476.4 —"
-      ],
-      "week": 4,
-      "points": 476.4,
-      "player": {
-        "firstName": "Aaron",
-        "lastName": "Rodgers"
-      }
-    }
-  },
-  {
-    "date": "2011-10-06T14:56:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to JROD",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "JROD",
-        "id": 11
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 4 - 2770.3pts.  —"
-      ],
-      "week": 4,
-      "points": 2770.3
-    }
-  },
-  {
-    "date": "2011-10-13T11:48:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to JIM",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "JIM",
-        "id": 9
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 5 - Pierre Garcon 305pts —"
-      ],
-      "week": 5,
-      "points": 305,
-      "player": {
-        "firstName": "Pierre",
-        "lastName": "Garcon"
-      }
-    }
-  },
-  {
-    "date": "2011-10-13T11:50:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to CDZ",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "CDZ",
-        "id": 7
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 5 - Sebastian Janikowski 410pts —"
-      ],
-      "week": 5,
-      "points": 410,
-      "player": {
-        "firstName": "Sebastian",
-        "lastName": "Janikowski"
-      }
-    }
-  },
-  {
-    "date": "2011-10-13T11:53:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to HURL",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 5 - George Wilson 405pts —"
-      ],
-      "week": 5,
-      "points": 405,
-      "player": {
-        "firstName": "George",
-        "lastName": "Wilson"
-      }
-    }
-  },
-  {
-    "date": "2011-10-13T11:56:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to PAD",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "PAD",
-        "id": 4
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 5 - Dwayne Bowe 324pts —"
-      ],
-      "week": 5,
-      "points": 324,
-      "player": {
-        "firstName": "Dwayne",
-        "lastName": "Bowe"
-      }
-    }
-  },
-  {
-    "date": "2011-10-13T11:57:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to HURL",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 5 - 3342.9pts —"
-      ],
-      "week": 5,
-      "points": 3342.9
-    }
-  },
-  {
-    "date": "2011-10-21T15:34:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to CDZ",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "CDZ",
-        "id": 7
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 6 - Derrelle Revis 330pts —"
-      ],
-      "week": 6,
-      "points": 330,
-      "player": {
-        "firstName": "Derrelle",
-        "lastName": "Revis"
-      }
-    }
-  },
-  {
-    "date": "2011-10-21T15:36:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to BROK",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "BROK",
-        "id": 10
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 6 - Billy Cundif 380pts —"
-      ],
-      "week": 6,
-      "points": 380,
-      "player": {
-        "firstName": "Billy",
-        "lastName": "Cundif"
-      }
-    }
-  },
-  {
-    "date": "2011-10-21T15:42:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to HURL",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 6 - Sean Lee 275pts —"
-      ],
-      "week": 6,
-      "points": 275,
-      "player": {
-        "firstName": "Sean",
-        "lastName": "Lee"
-      }
-    }
-  },
-  {
-    "date": "2011-10-21T15:49:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to CDZ",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "CDZ",
-        "id": 7
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 6 -  Devin Hester 375pts —"
-      ],
-      "week": 6,
-      "points": 375,
-      "player": {
-        "firstName": "Devin",
-        "lastName": "Hester"
-      }
-    }
-  },
-  {
-    "date": "2011-10-21T15:50:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to HURL",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 6 - 2546.2pts —"
-      ],
-      "week": 6,
-      "points": 2546.2
-    }
-  },
-  {
-    "date": "2011-10-27T12:16:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to MIKE",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "MIKE",
-        "id": 5
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 7 - Josh Scobee 370pts  —"
-      ],
-      "week": 7,
-      "points": 370,
-      "player": {
-        "firstName": "Josh",
-        "lastName": "Scobee"
-      }
-    }
-  },
-  {
-    "date": "2011-10-27T12:18:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to JROD",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "JROD",
-        "id": 11
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 7 - Olindo Mare 340pts  —"
-      ],
-      "week": 7,
-      "points": 340,
-      "player": {
-        "firstName": "Olindo",
-        "lastName": "Mare"
-      }
-    }
-  },
-  {
-    "date": "2011-10-27T12:27:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to NATE",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 7 - James Anderson 365pts —"
-      ],
-      "week": 7,
-      "points": 365,
-      "player": {
-        "firstName": "James",
-        "lastName": "Anderson"
-      }
-    }
-  },
-  {
-    "date": "2011-10-27T12:28:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to BROK",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "BROK",
-        "id": 10
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 7 - Arian Foster 489pts —"
-      ],
-      "week": 7,
-      "points": 489,
-      "player": {
-        "firstName": "Arian",
-        "lastName": "Foster"
-      }
-    }
-  },
-  {
     "date": "2011-10-27T12:29:00Z",
     "season": 2011,
     "type": "TROPHY_AWARDED",
@@ -1142,315 +23,49 @@
     }
   },
   {
-    "date": "2011-11-04T17:31:00Z",
+    "date": "Invalid date",
     "season": 2011,
     "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to HURL",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "Defensive Player of the Year awarded to CDZ",
     "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 8 - Nick Novak 310pts  —"
-      ],
-      "week": 8,
-      "points": 310,
-      "player": {
-        "firstName": "Nick",
-        "lastName": "Novak"
-      }
-    }
-  },
-  {
-    "date": "2011-11-04T17:37:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to WEAV",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "WEAV",
-        "id": 12
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 8 - Rian Lindell 245pts —"
-      ],
-      "week": 8,
-      "points": 245,
-      "player": {
-        "firstName": "Rian",
-        "lastName": "Lindell"
-      }
-    }
-  },
-  {
-    "date": "2011-11-04T17:41:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to CDZ",
-    "trophy": {
-      "name": "Defensive Player High Score",
+      "name": "Defensive Player of the Year",
       "team": {
         "abbrev": "CDZ",
         "id": 7
       },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
+      "type": "YEARLY_DEFENSIVE_PLAYER",
+      "id": 13
     },
     "details": {
       "notes": [
-        "Week 8 - London Fletcher 400pts —"
+        "2011 — D'Qwell Jackson"
       ],
-      "week": 8,
-      "points": 400,
       "player": {
-        "firstName": "London",
-        "lastName": "Fletcher"
-      }
-    }
-  },
-  {
-    "date": "2011-11-04T17:46:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to NATE",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 8 - Lesean McCoy 331pts —"
-      ],
-      "week": 8,
-      "points": 331,
-      "player": {
-        "firstName": "Lesean",
-        "lastName": "Mccoy"
-      }
-    }
-  },
-  {
-    "date": "2011-11-04T17:54:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to NATE",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 8 - 2981.6pts —"
-      ],
-      "week": 8,
-      "points": 2981.6
-    }
-  },
-  {
-    "date": "2011-11-11T13:55:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to FAT",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "FAT",
-        "id": 6
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 9 - Julio Jones 363pts —"
-      ],
-      "week": 9,
-      "points": 363,
-      "player": {
-        "firstName": "Julio",
-        "lastName": "Jones"
-      }
-    }
-  },
-  {
-    "date": "2011-11-11T14:00:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to MIKE",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "MIKE",
-        "id": 5
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 9 - Donnie Jones 320.4pts —"
-      ],
-      "week": 9,
-      "points": 320.4,
-      "player": {
-        "firstName": "Donnie",
-        "lastName": "Jones"
-      }
-    }
-  },
-  {
-    "date": "2011-11-11T14:04:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to CDZ",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "CDZ",
-        "id": 7
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 9 - Patrick Peterson 392pts. —"
-      ],
-      "week": 9,
-      "points": 392,
-      "player": {
-        "firstName": "Patrick",
-        "lastName": "Peterson"
-      }
-    }
-  },
-  {
-    "date": "2011-11-11T14:05:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to JIM",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "JIM",
-        "id": 9
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 9 - 2959.7pts —"
-      ],
-      "week": 9,
-      "points": 2959.7
-    }
-  },
-  {
-    "date": "2011-11-11T14:06:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to FRYE",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "FRYE",
-        "id": 8
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 9 - Vincent Jackson 352pts —"
-      ],
-      "week": 9,
-      "points": 352,
-      "player": {
-        "firstName": "Vincent",
+        "firstName": "D'qwell",
         "lastName": "Jackson"
       }
     }
   },
   {
-    "date": "2011-11-18T01:20:00Z",
+    "date": "Invalid date",
     "season": 2011,
     "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to BROK",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "Special Teams Player of the Year awarded to JIM",
     "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "BROK",
-        "id": 10
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 10 - John Kasay 350pts —"
-      ],
-      "week": 10,
-      "points": 350,
-      "player": {
-        "firstName": "John",
-        "lastName": "Kasay"
-      }
-    }
-  },
-  {
-    "date": "2011-11-18T01:21:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to JIM",
-    "trophy": {
-      "name": "Special Team High Score",
+      "name": "Special Teams Player of the Year",
       "team": {
         "abbrev": "JIM",
         "id": 9
       },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
+      "type": "YEARLY_SPECIAL_TEAMS_PLAYER",
+      "id": 16
     },
     "details": {
       "notes": [
-        "Week 10 - David Akers 310pts —"
+        "2011 — David Akers"
       ],
-      "week": 10,
-      "points": 310,
       "player": {
         "firstName": "David",
         "lastName": "Akers"
@@ -1458,728 +73,53 @@
     }
   },
   {
-    "date": "2011-11-18T01:23:00Z",
+    "date": "Invalid date",
     "season": 2011,
     "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to JJ",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "Owner of the Year awarded to WEAV",
     "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "JJ",
-        "id": 2
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 10 -  Karlos Dansby 360pts —"
-      ],
-      "week": 10,
-      "points": 360,
-      "player": {
-        "firstName": "Karlos",
-        "lastName": "Dansby"
-      }
-    }
-  },
-  {
-    "date": "2011-11-18T01:25:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to BROK",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "BROK",
-        "id": 10
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 10 - Arian Foster 363pts —"
-      ],
-      "week": 10,
-      "points": 363,
-      "player": {
-        "firstName": "Arian",
-        "lastName": "Foster"
-      }
-    }
-  },
-  {
-    "date": "2011-11-18T01:26:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to BROK",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "BROK",
-        "id": 10
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 10 - 2962.2pts —"
-      ],
-      "week": 10,
-      "points": 2962.2
-    }
-  },
-  {
-    "date": "2011-11-23T19:12:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to PAD",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "PAD",
-        "id": 4
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 11 - Jon Ryan 374.4 pts —"
-      ],
-      "week": 11,
-      "points": 374.4,
-      "player": {
-        "firstName": "Jon",
-        "lastName": "Ryan"
-      }
-    }
-  },
-  {
-    "date": "2011-11-23T19:13:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to JROD",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "JROD",
-        "id": 11
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 11 - Brandon Fields 377.4 —"
-      ],
-      "week": 11,
-      "points": 377.4,
-      "player": {
-        "firstName": "Brandon",
-        "lastName": "Fields"
-      }
-    }
-  },
-  {
-    "date": "2011-11-23T19:14:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to NATE",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 11 - James Laurinaitis 340pts —"
-      ],
-      "week": 11,
-      "points": 340,
-      "player": {
-        "firstName": "James",
-        "lastName": "Laurinaitis"
-      }
-    }
-  },
-  {
-    "date": "2011-11-23T19:15:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to FRYE",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "FRYE",
-        "id": 8
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 11 - Vincent Jackson 301pts —"
-      ],
-      "week": 11,
-      "points": 301,
-      "player": {
-        "firstName": "Vincent",
-        "lastName": "Jackson"
-      }
-    }
-  },
-  {
-    "date": "2011-11-23T19:16:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to NATE",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 11 - 3001.7pts —"
-      ],
-      "week": 11,
-      "points": 3001.7
-    }
-  },
-  {
-    "date": "2011-12-02T14:28:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to MIKE",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "MIKE",
-        "id": 5
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 12 - Beanie Wells 338pts —"
-      ],
-      "week": 12,
-      "points": 338,
-      "player": {
-        "firstName": "Beanie",
-        "lastName": "Wells"
-      }
-    }
-  },
-  {
-    "date": "2011-12-02T14:31:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to CDZ",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "CDZ",
-        "id": 7
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 12 - Sebastian Janikowski 445pts —"
-      ],
-      "week": 12,
-      "points": 445,
-      "player": {
-        "firstName": "Sebastian",
-        "lastName": "Janikowski"
-      }
-    }
-  },
-  {
-    "date": "2011-12-02T14:32:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to CDZ",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "CDZ",
-        "id": 7
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 12 - Patrick Peterson 335pts —"
-      ],
-      "week": 12,
-      "points": 335,
-      "player": {
-        "firstName": "Patrick",
-        "lastName": "Peterson"
-      }
-    }
-  },
-  {
-    "date": "2011-12-02T14:35:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to BROK",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "BROK",
-        "id": 10
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 12 -  Drew Brees 359.9pts —"
-      ],
-      "week": 12,
-      "points": 359.9,
-      "player": {
-        "firstName": "Drew",
-        "lastName": "Brees"
-      }
-    }
-  },
-  {
-    "date": "2011-12-02T14:38:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to JJ",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "JJ",
-        "id": 2
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 12 - 2974.4pts —"
-      ],
-      "week": 12,
-      "points": 2974.4
-    }
-  },
-  {
-    "date": "2011-12-06T14:39:00Z",
-    "season": 2011,
-    "type": "LEAGUE_NOTE_UPDATE",
-    "subType": "NONE",
-    "subTypeText": "ESPN Fantasy News",
-    "details": {
-      "notes": [
-        "A new LM note has been posted."
-      ]
-    }
-  },
-  {
-    "date": "2011-12-15T13:26:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to JIM",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "JIM",
-        "id": 9
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 13 - Pierre Garcon 317pts —"
-      ],
-      "week": 13,
-      "points": 317,
-      "player": {
-        "firstName": "Pierre",
-        "lastName": "Garcon"
-      }
-    }
-  },
-  {
-    "date": "2011-12-15T13:28:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to MIKE",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "MIKE",
-        "id": 5
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 13 - Conner Barth - 360pts —"
-      ],
-      "week": 13,
-      "points": 360,
-      "player": {
-        "firstName": "Conner",
-        "lastName": "Barth"
-      }
-    }
-  },
-  {
-    "date": "2011-12-15T13:31:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to PAD",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "PAD",
-        "id": 4
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 13 - Curtis Lofton 300pts —"
-      ],
-      "week": 13,
-      "points": 300,
-      "player": {
-        "firstName": "Curtis",
-        "lastName": "Lofton"
-      }
-    }
-  },
-  {
-    "date": "2011-12-15T13:33:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to CDZ",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "CDZ",
-        "id": 7
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 13 - Percy Harvin 374pts —"
-      ],
-      "week": 13,
-      "points": 374,
-      "player": {
-        "firstName": "Percy",
-        "lastName": "Harvin"
-      }
-    }
-  },
-  {
-    "date": "2011-12-15T13:34:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to HURL",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 13 - 2886pts —"
-      ],
-      "week": 13,
-      "points": 2886
-    }
-  },
-  {
-    "date": "2011-12-16T14:11:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to FRYE",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "FRYE",
-        "id": 8
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 14 - Antonio Brown 302pts —"
-      ],
-      "week": 14,
-      "points": 302,
-      "player": {
-        "firstName": "Antonio",
-        "lastName": "Brown"
-      }
-    }
-  },
-  {
-    "date": "2011-12-16T14:13:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to JROD",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "JROD",
-        "id": 11
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 14 - Adam Podlesh 330.2pts —"
-      ],
-      "week": 14,
-      "points": 330.2,
-      "player": {
-        "firstName": "Adam",
-        "lastName": "Podlesh"
-      }
-    }
-  },
-  {
-    "date": "2011-12-16T14:15:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to NATE",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 14 - James Anderson 337.5pts —"
-      ],
-      "week": 14,
-      "points": 337.5,
-      "player": {
-        "firstName": "James",
-        "lastName": "Anderson"
-      }
-    }
-  },
-  {
-    "date": "2011-12-16T14:17:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to JJ",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "JJ",
-        "id": 2
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 14 - Maurice Jones Drew 354pts —"
-      ],
-      "week": 14,
-      "points": 354,
-      "player": {
-        "firstName": "Maurice",
-        "lastName": "Jones Drew"
-      }
-    }
-  },
-  {
-    "date": "2011-12-16T14:18:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to NATE",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 14 - 2964.5pts —"
-      ],
-      "week": 14,
-      "points": 2964.5
-    }
-  },
-  {
-    "date": "2011-12-28T15:09:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to FRYE",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "FRYE",
-        "id": 8
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 15 - Greg Little  261pts —"
-      ],
-      "week": 15,
-      "points": 261,
-      "player": {
-        "firstName": "Greg",
-        "lastName": "Little"
-      }
-    }
-  },
-  {
-    "date": "2011-12-28T15:10:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to NATE",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 15 - Andy Lee  277pts —"
-      ],
-      "week": 15,
-      "points": 277,
-      "player": {
-        "firstName": "Andy",
-        "lastName": "Lee"
-      }
-    }
-  },
-  {
-    "date": "2011-12-28T15:19:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to WEAV",
-    "trophy": {
-      "name": "Defensive Player High Score",
+      "name": "Owner of the Year",
       "team": {
         "abbrev": "WEAV",
         "id": 12
       },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
+      "type": "YEARLY_OWNER",
+      "id": 14
     },
     "details": {
       "notes": [
-        "Week 15 - Jason Pierre-Paul 340pts —"
-      ],
-      "week": 15,
-      "points": 340,
-      "player": {
-        "firstName": "Jason",
-        "lastName": "Pierre"
-      }
+        "2011 —"
+      ]
     }
   },
   {
-    "date": "2011-12-28T15:23:00Z",
+    "date": "Invalid date",
     "season": 2011,
     "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to MIKE",
+    "subType": "TROPHY_YEARLY",
+    "subTypeText": "Rookie of the Year awarded to NATE",
     "trophy": {
-      "name": "Offensive Player High Score",
+      "name": "Rookie of the Year",
       "team": {
-        "abbrev": "MIKE",
-        "id": 5
+        "abbrev": "NATE",
+        "id": 1
       },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
+      "type": "YEARLY_ROOKIE",
+      "id": 17
     },
     "details": {
       "notes": [
-        "Week 15 - Calvin Johnson 416pts —"
+        "2011 — Cam Newton"
       ],
-      "week": 15,
-      "points": 416,
       "player": {
-        "firstName": "Calvin",
-        "lastName": "Johnson"
+        "firstName": "Cam",
+        "lastName": "Newton"
       }
     }
   },
   {
-    "date": "2011-12-28T15:25:00Z",
+    "date": "2011-12-28T15:38:00Z",
     "season": 2011,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
@@ -2195,63 +135,36 @@
     },
     "details": {
       "notes": [
-        "Week 15 - 2602.1 —"
+        "Week 16 - 2752.3pts —"
       ],
-      "week": 15,
-      "points": 2602.1
+      "week": 16,
+      "points": 2752.3
     }
   },
   {
-    "date": "2011-12-28T15:31:00Z",
+    "date": "2011-12-28T15:37:00Z",
     "season": 2011,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to JJ",
+    "subTypeText": "Offensive Player High Score awarded to WEAV",
     "trophy": {
-      "name": "Hindsight is 20/20",
+      "name": "Offensive Player High Score",
       "team": {
-        "abbrev": "JJ",
-        "id": 2
+        "abbrev": "WEAV",
+        "id": 12
       },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
     },
     "details": {
       "notes": [
-        "Week 16 - Josh Cribbs 331pts —"
+        "Week 16 - Aaron Rodgers 319.9pts —"
       ],
       "week": 16,
-      "points": 331,
+      "points": 319.9,
       "player": {
-        "firstName": "Josh",
-        "lastName": "Cribbs"
-      }
-    }
-  },
-  {
-    "date": "2011-12-28T15:32:00Z",
-    "season": 2011,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to JIM",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "JIM",
-        "id": 9
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 16 - David Akers 325pts —"
-      ],
-      "week": 16,
-      "points": 325,
-      "player": {
-        "firstName": "David",
-        "lastName": "Akers"
+        "firstName": "Aaron",
+        "lastName": "Rodgers"
       }
     }
   },
@@ -2283,34 +196,61 @@
     }
   },
   {
-    "date": "2011-12-28T15:37:00Z",
+    "date": "2011-12-28T15:32:00Z",
     "season": 2011,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to WEAV",
+    "subTypeText": "Special Team High Score awarded to JIM",
     "trophy": {
-      "name": "Offensive Player High Score",
+      "name": "Special Team High Score",
       "team": {
-        "abbrev": "WEAV",
-        "id": 12
+        "abbrev": "JIM",
+        "id": 9
       },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
     },
     "details": {
       "notes": [
-        "Week 16 - Aaron Rodgers 319.9pts —"
+        "Week 16 - David Akers 325pts —"
       ],
       "week": 16,
-      "points": 319.9,
+      "points": 325,
       "player": {
-        "firstName": "Aaron",
-        "lastName": "Rodgers"
+        "firstName": "David",
+        "lastName": "Akers"
       }
     }
   },
   {
-    "date": "2011-12-28T15:38:00Z",
+    "date": "2011-12-28T15:31:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to JJ",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "JJ",
+        "id": 2
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 16 - Josh Cribbs 331pts —"
+      ],
+      "week": 16,
+      "points": 331,
+      "player": {
+        "firstName": "Josh",
+        "lastName": "Cribbs"
+      }
+    }
+  },
+  {
+    "date": "2011-12-28T15:25:00Z",
     "season": 2011,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
@@ -2326,77 +266,754 @@
     },
     "details": {
       "notes": [
-        "Week 16 - 2752.3pts —"
+        "Week 15 - 2602.1 —"
       ],
-      "week": 16,
-      "points": 2752.3
+      "week": 15,
+      "points": 2602.1
     }
   },
   {
-    "date": "2012-01-05T15:23:00Z",
+    "date": "2011-12-28T15:23:00Z",
     "season": 2011,
     "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_YEARLY",
-    "subTypeText": "Rookie of the Year awarded to NATE",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to MIKE",
     "trophy": {
-      "name": "Rookie of the Year",
+      "name": "Offensive Player High Score",
       "team": {
-        "abbrev": "NATE",
-        "id": 1
+        "abbrev": "MIKE",
+        "id": 5
       },
-      "type": "YEARLY_ROOKIE",
-      "id": 17
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
     },
     "details": {
       "notes": [
-        "2011 — Cam Newton"
+        "Week 15 - Calvin Johnson 416pts —"
       ],
+      "week": 15,
+      "points": 416,
       "player": {
-        "firstName": "Cam",
-        "lastName": "Newton"
+        "firstName": "Calvin",
+        "lastName": "Johnson"
       }
     }
   },
   {
-    "date": "2012-01-05T15:25:00Z",
+    "date": "2011-12-28T15:19:00Z",
     "season": 2011,
     "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_YEARLY",
-    "subTypeText": "Owner of the Year awarded to WEAV",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to WEAV",
     "trophy": {
-      "name": "Owner of the Year",
+      "name": "Defensive Player High Score",
       "team": {
         "abbrev": "WEAV",
         "id": 12
       },
-      "type": "YEARLY_OWNER",
-      "id": 14
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
     },
     "details": {
       "notes": [
-        "2011 —"
-      ]
+        "Week 15 - Jason Pierre-Paul 340pts —"
+      ],
+      "week": 15,
+      "points": 340,
+      "player": {
+        "firstName": "Jason",
+        "lastName": "Pierre"
+      }
     }
   },
   {
-    "date": "2012-01-12T17:50:00Z",
+    "date": "2011-12-28T15:10:00Z",
     "season": 2011,
     "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_YEARLY",
-    "subTypeText": "Special Teams Player of the Year awarded to JIM",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to NATE",
     "trophy": {
-      "name": "Special Teams Player of the Year",
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 15 - Andy Lee  277pts —"
+      ],
+      "week": 15,
+      "points": 277,
+      "player": {
+        "firstName": "Andy",
+        "lastName": "Lee"
+      }
+    }
+  },
+  {
+    "date": "2011-12-28T15:09:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to FRYE",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "FRYE",
+        "id": 8
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 15 - Greg Little  261pts —"
+      ],
+      "week": 15,
+      "points": 261,
+      "player": {
+        "firstName": "Greg",
+        "lastName": "Little"
+      }
+    }
+  },
+  {
+    "date": "2011-12-16T14:18:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to NATE",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 14 - 2964.5pts —"
+      ],
+      "week": 14,
+      "points": 2964.5
+    }
+  },
+  {
+    "date": "2011-12-16T14:17:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to JJ",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "JJ",
+        "id": 2
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 14 - Maurice Jones Drew 354pts —"
+      ],
+      "week": 14,
+      "points": 354,
+      "player": {
+        "firstName": "Maurice",
+        "lastName": "Jones Drew"
+      }
+    }
+  },
+  {
+    "date": "2011-12-16T14:15:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to NATE",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 14 - James Anderson 337.5pts —"
+      ],
+      "week": 14,
+      "points": 337.5,
+      "player": {
+        "firstName": "James",
+        "lastName": "Anderson"
+      }
+    }
+  },
+  {
+    "date": "2011-12-16T14:13:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to JROD",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "JROD",
+        "id": 11
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 14 - Adam Podlesh 330.2pts —"
+      ],
+      "week": 14,
+      "points": 330.2,
+      "player": {
+        "firstName": "Adam",
+        "lastName": "Podlesh"
+      }
+    }
+  },
+  {
+    "date": "2011-12-16T14:11:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to FRYE",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "FRYE",
+        "id": 8
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 14 - Antonio Brown 302pts —"
+      ],
+      "week": 14,
+      "points": 302,
+      "player": {
+        "firstName": "Antonio",
+        "lastName": "Brown"
+      }
+    }
+  },
+  {
+    "date": "2011-12-15T13:34:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to HURL",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 13 - 2886pts —"
+      ],
+      "week": 13,
+      "points": 2886
+    }
+  },
+  {
+    "date": "2011-12-15T13:33:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to CDZ",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "CDZ",
+        "id": 7
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 13 - Percy Harvin 374pts —"
+      ],
+      "week": 13,
+      "points": 374,
+      "player": {
+        "firstName": "Percy",
+        "lastName": "Harvin"
+      }
+    }
+  },
+  {
+    "date": "2011-12-15T13:31:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to PAD",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "PAD",
+        "id": 4
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 13 - Curtis Lofton 300pts —"
+      ],
+      "week": 13,
+      "points": 300,
+      "player": {
+        "firstName": "Curtis",
+        "lastName": "Lofton"
+      }
+    }
+  },
+  {
+    "date": "2011-12-15T13:28:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to MIKE",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "MIKE",
+        "id": 5
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 13 - Conner Barth - 360pts —"
+      ],
+      "week": 13,
+      "points": 360,
+      "player": {
+        "firstName": "Conner",
+        "lastName": "Barth"
+      }
+    }
+  },
+  {
+    "date": "2011-12-15T13:26:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to JIM",
+    "trophy": {
+      "name": "Hindsight is 20/20",
       "team": {
         "abbrev": "JIM",
         "id": 9
       },
-      "type": "YEARLY_SPECIAL_TEAMS_PLAYER",
-      "id": 16
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
     },
     "details": {
       "notes": [
-        "2011 — David Akers"
+        "Week 13 - Pierre Garcon 317pts —"
       ],
+      "week": 13,
+      "points": 317,
+      "player": {
+        "firstName": "Pierre",
+        "lastName": "Garcon"
+      }
+    }
+  },
+  {
+    "date": "2011-12-06T14:39:00Z",
+    "season": 2011,
+    "type": "LEAGUE_NOTE_UPDATE",
+    "subType": "NONE",
+    "subTypeText": "ESPN Fantasy News",
+    "details": {
+      "notes": [
+        "A new LM note has been posted."
+      ]
+    }
+  },
+  {
+    "date": "2011-12-02T14:38:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to JJ",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "JJ",
+        "id": 2
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 12 - 2974.4pts —"
+      ],
+      "week": 12,
+      "points": 2974.4
+    }
+  },
+  {
+    "date": "2011-12-02T14:35:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to BROK",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "BROK",
+        "id": 10
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 12 -  Drew Brees 359.9pts —"
+      ],
+      "week": 12,
+      "points": 359.9,
+      "player": {
+        "firstName": "Drew",
+        "lastName": "Brees"
+      }
+    }
+  },
+  {
+    "date": "2011-12-02T14:32:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to CDZ",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "CDZ",
+        "id": 7
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 12 - Patrick Peterson 335pts —"
+      ],
+      "week": 12,
+      "points": 335,
+      "player": {
+        "firstName": "Patrick",
+        "lastName": "Peterson"
+      }
+    }
+  },
+  {
+    "date": "2011-12-02T14:31:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to CDZ",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "CDZ",
+        "id": 7
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 12 - Sebastian Janikowski 445pts —"
+      ],
+      "week": 12,
+      "points": 445,
+      "player": {
+        "firstName": "Sebastian",
+        "lastName": "Janikowski"
+      }
+    }
+  },
+  {
+    "date": "2011-12-02T14:28:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to MIKE",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "MIKE",
+        "id": 5
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 12 - Beanie Wells 338pts —"
+      ],
+      "week": 12,
+      "points": 338,
+      "player": {
+        "firstName": "Beanie",
+        "lastName": "Wells"
+      }
+    }
+  },
+  {
+    "date": "2011-11-23T19:16:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to NATE",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 11 - 3001.7pts —"
+      ],
+      "week": 11,
+      "points": 3001.7
+    }
+  },
+  {
+    "date": "2011-11-23T19:15:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to FRYE",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "FRYE",
+        "id": 8
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 11 - Vincent Jackson 301pts —"
+      ],
+      "week": 11,
+      "points": 301,
+      "player": {
+        "firstName": "Vincent",
+        "lastName": "Jackson"
+      }
+    }
+  },
+  {
+    "date": "2011-11-23T19:14:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to NATE",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 11 - James Laurinaitis 340pts —"
+      ],
+      "week": 11,
+      "points": 340,
+      "player": {
+        "firstName": "James",
+        "lastName": "Laurinaitis"
+      }
+    }
+  },
+  {
+    "date": "2011-11-23T19:13:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to JROD",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "JROD",
+        "id": 11
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 11 - Brandon Fields 377.4 —"
+      ],
+      "week": 11,
+      "points": 377.4,
+      "player": {
+        "firstName": "Brandon",
+        "lastName": "Fields"
+      }
+    }
+  },
+  {
+    "date": "2011-11-23T19:12:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to PAD",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "PAD",
+        "id": 4
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 11 - Jon Ryan 374.4 pts —"
+      ],
+      "week": 11,
+      "points": 374.4,
+      "player": {
+        "firstName": "Jon",
+        "lastName": "Ryan"
+      }
+    }
+  },
+  {
+    "date": "2011-11-18T01:26:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to BROK",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "BROK",
+        "id": 10
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 10 - 2962.2pts —"
+      ],
+      "week": 10,
+      "points": 2962.2
+    }
+  },
+  {
+    "date": "2011-11-18T01:25:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to BROK",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "BROK",
+        "id": 10
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 10 - Arian Foster 363pts —"
+      ],
+      "week": 10,
+      "points": 363,
+      "player": {
+        "firstName": "Arian",
+        "lastName": "Foster"
+      }
+    }
+  },
+  {
+    "date": "2011-11-18T01:23:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to JJ",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "JJ",
+        "id": 2
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 10 -  Karlos Dansby 360pts —"
+      ],
+      "week": 10,
+      "points": 360,
+      "player": {
+        "firstName": "Karlos",
+        "lastName": "Dansby"
+      }
+    }
+  },
+  {
+    "date": "2011-11-18T01:21:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to JIM",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "JIM",
+        "id": 9
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 10 - David Akers 310pts —"
+      ],
+      "week": 10,
+      "points": 310,
       "player": {
         "firstName": "David",
         "lastName": "Akers"
@@ -2404,7 +1021,296 @@
     }
   },
   {
-    "date": "2012-01-12T17:51:00Z",
+    "date": "2011-11-18T01:20:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to BROK",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "BROK",
+        "id": 10
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 10 - John Kasay 350pts —"
+      ],
+      "week": 10,
+      "points": 350,
+      "player": {
+        "firstName": "John",
+        "lastName": "Kasay"
+      }
+    }
+  },
+  {
+    "date": "2011-11-11T14:06:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to FRYE",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "FRYE",
+        "id": 8
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 9 - Vincent Jackson 352pts —"
+      ],
+      "week": 9,
+      "points": 352,
+      "player": {
+        "firstName": "Vincent",
+        "lastName": "Jackson"
+      }
+    }
+  },
+  {
+    "date": "2011-11-11T14:05:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to JIM",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "JIM",
+        "id": 9
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 9 - 2959.7pts —"
+      ],
+      "week": 9,
+      "points": 2959.7
+    }
+  },
+  {
+    "date": "2011-11-11T14:04:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to CDZ",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "CDZ",
+        "id": 7
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 9 - Patrick Peterson 392pts. —"
+      ],
+      "week": 9,
+      "points": 392,
+      "player": {
+        "firstName": "Patrick",
+        "lastName": "Peterson"
+      }
+    }
+  },
+  {
+    "date": "2011-11-11T14:00:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to MIKE",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "MIKE",
+        "id": 5
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 9 - Donnie Jones 320.4pts —"
+      ],
+      "week": 9,
+      "points": 320.4,
+      "player": {
+        "firstName": "Donnie",
+        "lastName": "Jones"
+      }
+    }
+  },
+  {
+    "date": "2011-11-11T13:55:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to FAT",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "FAT",
+        "id": 6
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 9 - Julio Jones 363pts —"
+      ],
+      "week": 9,
+      "points": 363,
+      "player": {
+        "firstName": "Julio",
+        "lastName": "Jones"
+      }
+    }
+  },
+  {
+    "date": "2011-11-04T17:54:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to NATE",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 8 - 2981.6pts —"
+      ],
+      "week": 8,
+      "points": 2981.6
+    }
+  },
+  {
+    "date": "2011-11-04T17:46:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to NATE",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 8 - Lesean McCoy 331pts —"
+      ],
+      "week": 8,
+      "points": 331,
+      "player": {
+        "firstName": "Lesean",
+        "lastName": "Mccoy"
+      }
+    }
+  },
+  {
+    "date": "2011-11-04T17:41:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to CDZ",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "CDZ",
+        "id": 7
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 8 - London Fletcher 400pts —"
+      ],
+      "week": 8,
+      "points": 400,
+      "player": {
+        "firstName": "London",
+        "lastName": "Fletcher"
+      }
+    }
+  },
+  {
+    "date": "2011-11-04T17:37:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to WEAV",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "WEAV",
+        "id": 12
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 8 - Rian Lindell 245pts —"
+      ],
+      "week": 8,
+      "points": 245,
+      "player": {
+        "firstName": "Rian",
+        "lastName": "Lindell"
+      }
+    }
+  },
+  {
+    "date": "2011-11-04T17:31:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to HURL",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 8 - Nick Novak 310pts  —"
+      ],
+      "week": 8,
+      "points": 310,
+      "player": {
+        "firstName": "Nick",
+        "lastName": "Novak"
+      }
+    }
+  },
+  {
+    "date": "Invalid date",
     "season": 2011,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_YEARLY",
@@ -2429,28 +1335,1122 @@
     }
   },
   {
-    "date": "2012-01-13T14:18:00Z",
+    "date": "2011-10-27T12:28:00Z",
     "season": 2011,
     "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_YEARLY",
-    "subTypeText": "Defensive Player of the Year awarded to CDZ",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to BROK",
     "trophy": {
-      "name": "Defensive Player of the Year",
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "BROK",
+        "id": 10
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 7 - Arian Foster 489pts —"
+      ],
+      "week": 7,
+      "points": 489,
+      "player": {
+        "firstName": "Arian",
+        "lastName": "Foster"
+      }
+    }
+  },
+  {
+    "date": "2011-10-27T12:27:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to NATE",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 7 - James Anderson 365pts —"
+      ],
+      "week": 7,
+      "points": 365,
+      "player": {
+        "firstName": "James",
+        "lastName": "Anderson"
+      }
+    }
+  },
+  {
+    "date": "2011-10-27T12:18:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to JROD",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "JROD",
+        "id": 11
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 7 - Olindo Mare 340pts  —"
+      ],
+      "week": 7,
+      "points": 340,
+      "player": {
+        "firstName": "Olindo",
+        "lastName": "Mare"
+      }
+    }
+  },
+  {
+    "date": "2011-10-27T12:16:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to MIKE",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "MIKE",
+        "id": 5
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 7 - Josh Scobee 370pts  —"
+      ],
+      "week": 7,
+      "points": 370,
+      "player": {
+        "firstName": "Josh",
+        "lastName": "Scobee"
+      }
+    }
+  },
+  {
+    "date": "2011-10-21T15:50:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to HURL",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 6 - 2546.2pts —"
+      ],
+      "week": 6,
+      "points": 2546.2
+    }
+  },
+  {
+    "date": "2011-10-21T15:49:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to CDZ",
+    "trophy": {
+      "name": "Offensive Player High Score",
       "team": {
         "abbrev": "CDZ",
         "id": 7
       },
-      "type": "YEARLY_DEFENSIVE_PLAYER",
-      "id": 13
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
     },
     "details": {
       "notes": [
-        "2011 — D'Qwell Jackson"
+        "Week 6 -  Devin Hester 375pts —"
       ],
+      "week": 6,
+      "points": 375,
       "player": {
-        "firstName": "D'qwell",
-        "lastName": "Jackson"
+        "firstName": "Devin",
+        "lastName": "Hester"
       }
+    }
+  },
+  {
+    "date": "2011-10-21T15:42:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to HURL",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 6 - Sean Lee 275pts —"
+      ],
+      "week": 6,
+      "points": 275,
+      "player": {
+        "firstName": "Sean",
+        "lastName": "Lee"
+      }
+    }
+  },
+  {
+    "date": "2011-10-21T15:36:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to BROK",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "BROK",
+        "id": 10
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 6 - Billy Cundif 380pts —"
+      ],
+      "week": 6,
+      "points": 380,
+      "player": {
+        "firstName": "Billy",
+        "lastName": "Cundif"
+      }
+    }
+  },
+  {
+    "date": "2011-10-21T15:34:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to CDZ",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "CDZ",
+        "id": 7
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 6 - Derrelle Revis 330pts —"
+      ],
+      "week": 6,
+      "points": 330,
+      "player": {
+        "firstName": "Derrelle",
+        "lastName": "Revis"
+      }
+    }
+  },
+  {
+    "date": "2011-10-13T11:57:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to HURL",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 5 - 3342.9pts —"
+      ],
+      "week": 5,
+      "points": 3342.9
+    }
+  },
+  {
+    "date": "2011-10-13T11:56:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to PAD",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "PAD",
+        "id": 4
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 5 - Dwayne Bowe 324pts —"
+      ],
+      "week": 5,
+      "points": 324,
+      "player": {
+        "firstName": "Dwayne",
+        "lastName": "Bowe"
+      }
+    }
+  },
+  {
+    "date": "2011-10-13T11:53:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to HURL",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 5 - George Wilson 405pts —"
+      ],
+      "week": 5,
+      "points": 405,
+      "player": {
+        "firstName": "George",
+        "lastName": "Wilson"
+      }
+    }
+  },
+  {
+    "date": "2011-10-13T11:50:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to CDZ",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "CDZ",
+        "id": 7
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 5 - Sebastian Janikowski 410pts —"
+      ],
+      "week": 5,
+      "points": 410,
+      "player": {
+        "firstName": "Sebastian",
+        "lastName": "Janikowski"
+      }
+    }
+  },
+  {
+    "date": "2011-10-13T11:48:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to JIM",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "JIM",
+        "id": 9
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 5 - Pierre Garcon 305pts —"
+      ],
+      "week": 5,
+      "points": 305,
+      "player": {
+        "firstName": "Pierre",
+        "lastName": "Garcon"
+      }
+    }
+  },
+  {
+    "date": "2011-10-06T14:56:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to JROD",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "JROD",
+        "id": 11
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 4 - 2770.3pts.  —"
+      ],
+      "week": 4,
+      "points": 2770.3
+    }
+  },
+  {
+    "date": "2011-10-06T14:55:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to WEAV",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "WEAV",
+        "id": 12
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 4 - Aaron Rodgers 476.4 —"
+      ],
+      "week": 4,
+      "points": 476.4,
+      "player": {
+        "firstName": "Aaron",
+        "lastName": "Rodgers"
+      }
+    }
+  },
+  {
+    "date": "2011-10-06T14:44:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to BROK",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "BROK",
+        "id": 10
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 4 - Kevell Conner 385pts.  —"
+      ],
+      "week": 4,
+      "points": 385,
+      "player": {
+        "firstName": "Kevell",
+        "lastName": "Conner"
+      }
+    }
+  },
+  {
+    "date": "2011-10-06T14:41:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to WEAV",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "WEAV",
+        "id": 12
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 4 - T.J. Conley 234.2pts.  —"
+      ],
+      "week": 4,
+      "points": 234.2,
+      "player": {
+        "firstName": "T.j.",
+        "lastName": "Conley"
+      }
+    }
+  },
+  {
+    "date": "2011-10-06T14:39:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to MIKE",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "MIKE",
+        "id": 5
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 4 - Yeremiah Bell 350pts.  —"
+      ],
+      "week": 4,
+      "points": 350,
+      "player": {
+        "firstName": "Yeremiah",
+        "lastName": "Bell"
+      }
+    }
+  },
+  {
+    "date": "2011-09-29T11:56:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to JJ",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "JJ",
+        "id": 2
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 3 - 2697.5pts —"
+      ],
+      "week": 3,
+      "points": 2697.5
+    }
+  },
+  {
+    "date": "2011-09-29T11:52:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to WEAV",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "WEAV",
+        "id": 12
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 3 - Wes Welker 434pts —"
+      ],
+      "week": 3,
+      "points": 434,
+      "player": {
+        "firstName": "Wes",
+        "lastName": "Welker"
+      }
+    }
+  },
+  {
+    "date": "2011-09-29T11:50:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to JROD",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "JROD",
+        "id": 11
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 3 - Pat Angerer 345pts —"
+      ],
+      "week": 3,
+      "points": 345,
+      "player": {
+        "firstName": "Pat",
+        "lastName": "Angerer"
+      }
+    }
+  },
+  {
+    "date": "2011-09-29T11:48:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to PAD",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "PAD",
+        "id": 4
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 3 - Jon Ryan 281.6pts  —"
+      ],
+      "week": 3,
+      "points": 281.6,
+      "player": {
+        "firstName": "Jon",
+        "lastName": "Ryan"
+      }
+    }
+  },
+  {
+    "date": "2011-09-29T11:45:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to HURL",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 3 - Joe Flacco 352.7pts  —"
+      ],
+      "week": 3,
+      "points": 352.7,
+      "player": {
+        "firstName": "Joe",
+        "lastName": "Flacco"
+      }
+    }
+  },
+  {
+    "date": "2011-09-22T12:35:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to NATE",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 2 -  2936.6pts  —"
+      ],
+      "week": 2,
+      "points": 2936.6
+    }
+  },
+  {
+    "date": "2011-09-22T12:33:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to FRYE",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "FRYE",
+        "id": 8
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 2 - Miles Austin 398pts —"
+      ],
+      "week": 2,
+      "points": 398,
+      "player": {
+        "firstName": "Miles",
+        "lastName": "Austin"
+      }
+    }
+  },
+  {
+    "date": "2011-09-22T12:22:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to JJ",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "JJ",
+        "id": 2
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 2 - Morgan Burnett 305pts —"
+      ],
+      "week": 2,
+      "points": 305,
+      "player": {
+        "firstName": "Morgan",
+        "lastName": "Burnett"
+      }
+    }
+  },
+  {
+    "date": "2011-09-22T12:19:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to JJ",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "JJ",
+        "id": 2
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 2 - Jason Campbell 290.9pts —"
+      ],
+      "week": 2,
+      "points": 290.9,
+      "player": {
+        "firstName": "Jason",
+        "lastName": "Campbell"
+      }
+    }
+  },
+  {
+    "date": "2011-09-22T12:13:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to BROK",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "BROK",
+        "id": 10
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 2 - John Kasay 260pts  —"
+      ],
+      "week": 2,
+      "points": 260,
+      "player": {
+        "firstName": "John",
+        "lastName": "Kasay"
+      }
+    }
+  },
+  {
+    "date": "2011-09-15T12:36:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to CDZ",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "CDZ",
+        "id": 7
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week-1 2997.5pts —"
+      ],
+      "week": 1,
+      "points": 2997.5
+    }
+  },
+  {
+    "date": "2011-09-15T12:33:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to CDZ",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "CDZ",
+        "id": 7
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 1- Tom Brady 392.1pts —"
+      ],
+      "week": 1,
+      "points": 392.1,
+      "player": {
+        "firstName": "Tom",
+        "lastName": "Brady"
+      }
+    }
+  },
+  {
+    "date": "2011-09-15T12:31:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to JIM",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "JIM",
+        "id": 9
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 1- Brian Urlacher 350pts —"
+      ],
+      "week": 1,
+      "points": 350,
+      "player": {
+        "firstName": "Brian",
+        "lastName": "Urlacher"
+      }
+    }
+  },
+  {
+    "date": "2011-09-15T12:19:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to JIM",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "JIM",
+        "id": 9
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 1- David Akers 265pts —"
+      ],
+      "week": 1,
+      "points": 265,
+      "player": {
+        "firstName": "David",
+        "lastName": "Akers"
+      }
+    }
+  },
+  {
+    "date": "2011-09-15T12:03:00Z",
+    "season": 2011,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to NATE",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 1- Steve Smith 367pts —"
+      ],
+      "week": 1,
+      "points": 367,
+      "player": {
+        "firstName": "Steve",
+        "lastName": "Smith"
+      }
+    }
+  },
+  {
+    "date": "2011-09-15T03:22:00Z",
+    "season": 2011,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_MEMBERS_UPDATE",
+    "subTypeText": "League members updated",
+    "details": {
+      "notes": [
+        "Assigned LM powers to Brian Frye."
+      ]
+    }
+  },
+  {
+    "date": "2011-08-30T12:12:00Z",
+    "season": 2011,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "TEAM_INFORMATION_UPDATE",
+    "subTypeText": "Team information updated",
+    "details": {
+      "notes": [
+        "Updated transaction counters for team Calais Campbell Half Sacks.",
+        "Updated transaction counters for team TLOEI Champion.",
+        "Updated transaction counters for team On Side Boob Kicks.",
+        "Updated transaction counters for team Whiskey Ditkas."
+      ]
+    }
+  },
+  {
+    "date": "2011-08-30T12:06:00Z",
+    "season": 2011,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "TEAM_INFORMATION_UPDATE",
+    "subTypeText": "Team information updated",
+    "details": {
+      "notes": [
+        "Updated transaction counters for team Jotas Hos.",
+        "Updated transaction counters for team TLOEI Champion."
+      ]
+    }
+  },
+  {
+    "date": "2011-08-30T00:51:00Z",
+    "season": 2011,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "DRAFT_COMPLETED",
+    "subTypeText": "Draft completed.",
+    "details": {
+      "notes": [
+        "View results at Draft Recap"
+      ]
+    }
+  },
+  {
+    "date": "2011-08-25T00:16:00Z",
+    "season": 2011,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed draft type to live.",
+        "Enabled draft pick trading.",
+        "Made draft time Monday, Aug 29, 7:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2011-08-23T14:10:00Z",
+    "season": 2011,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Tuesday, Aug 23, 5:00 PM ET to Tuesday, Aug 16, 5:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2011-08-23T14:08:00Z",
+    "season": 2011,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Tuesday, Aug 16, 5:00 PM ET to Tuesday, Aug 23, 5:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2011-08-22T14:47:00Z",
+    "season": 2011,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Tuesday, Aug 23, 5:00 PM ET to Tuesday, Aug 16, 5:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2011-08-22T14:38:00Z",
+    "season": 2011,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Tuesday, Aug 16, 5:00 PM ET to Tuesday, Aug 23, 5:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2011-08-22T14:34:00Z",
+    "season": 2011,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Tuesday, Aug 23, 5:00 PM ET to Tuesday, Aug 16, 5:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2011-08-22T14:32:00Z",
+    "season": 2011,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Tuesday, Aug 16, 5:00 PM ET to Tuesday, Aug 23, 5:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2011-08-14T23:26:00Z",
+    "season": 2011,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_TEAM_OR_DIVISION_UPDATE",
+    "subTypeText": "Teams and divisions updated",
+    "details": {
+      "notes": [
+        "Moved team Playoff Runner Up to division North.",
+        "Moved team Jotas Hos to division East.",
+        "Moved team League Doormat to division West.",
+        "Moved team off in the shower to division East.",
+        "Moved team Going First to GREAT! to division West.",
+        "Moved team Team Fuc k This to division North.",
+        "Moved team The One Eyed Man is King to division South."
+      ]
+    }
+  },
+  {
+    "date": "2011-08-14T23:21:00Z",
+    "season": 2011,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "UNKNOWN",
+    "subTypeText": "Scoring categories updated",
+    "details": {
+      "notes": [
+        "Changed scoring category FG Made (50+ yards) from 100 to 105 points.",
+        "Changed scoring category FG Missed (50+ yards) from 10 to 15 points.",
+        "Changed scoring category FG Made (40-49 yards) from 75 to 80 points.",
+        "Changed scoring category FG Made (0-39 yards) from 50 to 55 points.",
+        "Changed scoring category FG Missed (0-39 yards) from -10 to -15 points.",
+        "Changed scoring category Each PAT Made from 10 to 15 points."
+      ]
+    }
+  },
+  {
+    "date": "2011-08-14T23:08:00Z",
+    "season": 2011,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "UNKNOWN",
+    "subTypeText": "Scoring categories updated",
+    "details": {
+      "notes": [
+        "Changed scoring category Punts Inside the 10 from 40 to 30 points.",
+        "Changed scoring category Punts Inside the 20 from 30 to 20 points.",
+        "Changed scoring category Fair Catches from 15 to 10 points."
+      ]
+    }
+  },
+  {
+    "date": "2011-08-14T23:03:00Z",
+    "season": 2011,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Tuesday, Aug 9, 5:00 PM ET to Tuesday, Aug 16, 5:00 PM ET.",
+        "Changed future keeper date from Tuesday, Aug 7, 5:00 PM ET to Tuesday, Aug 14, 5:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2011-08-14T23:03:00Z",
+    "season": 2011,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Changed current keeper date from Monday, Aug 1, 11:00 PM ET to Tuesday, Aug 9, 5:00 PM ET.",
+        "Changed future keeper date from Wednesday, Aug 1, 11:00 PM ET to Tuesday, Aug 7, 5:00 PM ET."
+      ]
+    }
+  },
+  {
+    "date": "2011-06-28T15:12:00Z",
+    "season": 2011,
+    "type": "LEAGUE_SETTINGS_UPDATE",
+    "subType": "LEAGUE_RULES_UPDATE",
+    "subTypeText": "League rules updated",
+    "details": {
+      "notes": [
+        "Activated league."
+      ]
     }
   }
 ]

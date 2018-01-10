@@ -1,2557 +1,3103 @@
-{
-  "week1": {
-    "id": 1,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Frisky Dingo",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "League Man Nate'd",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_1",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
+[
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Danger Muffin",
+      "record": {
+        "wins": 8,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Two Mannings One Cup",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Down With OBJr.",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_1",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
+      "score": 2036.4,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Destroyer of Worlds",
+      "record": {
+        "wins": 3,
+        "losses": 10
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "jotas HOS",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "Jobu's Rum",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_1",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "Cleveland Browns",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "The Zak Hurleys",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_1",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Mongolian Giants",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Ball Sagna",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_1",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Mike Bixler",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "Don't Know",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_1",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
-      }
-    ],
+      "score": 1615.9,
+      "tags": [
+        "LOSER"
+      ]
+    },
     "tags": [
-      "WEEK_1"
+      "WEEK_1",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
-  "week2": {
-    "id": 2,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Down With OBJr.",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "League Man Nate'd",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_2",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Two Mannings One Cup",
+      "record": {
+        "wins": 7,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "jotas HOS",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Frisky Dingo",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_2",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
+      "score": 2379.3,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Down With OBJr.",
+      "record": {
+        "wins": 10,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "Jobu's Rum",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "The Zak Hurleys",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_2",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Two Mannings One Cup",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Mongolian Giants",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_2",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Ball Sagna",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "Don't Know",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_2",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "Cleveland Browns",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Mike Bixler",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_2",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
-      }
-    ],
+      "score": 2399.4,
+      "tags": [
+        "WINNER"
+      ]
+    },
     "tags": [
-      "WEEK_2"
+      "WEEK_1",
+      "SEASON_2017",
+      "REGULAR_SEASON"
     ]
   },
-  "week3": {
-    "id": 3,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Frisky Dingo",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Down With OBJr.",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_3",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "jotas HOS",
+      "record": {
+        "wins": 10,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "League Man Nate'd",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "Jobu's Rum",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_3",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
+      "score": 2410.2,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "Jobu's Rum",
+      "record": {
+        "wins": 5,
+        "losses": 8
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "The Zak Hurleys",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "jotas HOS",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_3",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Mike Bixler",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Ball Sagna",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_3",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Don't Know",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Two Mannings One Cup",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_3",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Mongolian Giants",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "Cleveland Browns",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_3",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      }
-    ],
+      "score": 2416.4,
+      "tags": [
+        "WINNER"
+      ]
+    },
     "tags": [
-      "WEEK_3"
+      "WEEK_1",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
-  "week4": {
-    "id": 4,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "jotas HOS",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "League Man Nate'd",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_4",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "Cleveland Browns",
+      "record": {
+        "wins": 9,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "Jobu's Rum",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Frisky Dingo",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_4",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
+      "score": 2287.5,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Spell things how you want",
+      "record": {
+        "wins": 7,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Down With OBJr.",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "The Zak Hurleys",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_4",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "Cleveland Browns",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Ball Sagna",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_4",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Don't Know",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Mongolian Giants",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_4",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Two Mannings One Cup",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Mike Bixler",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_4",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      }
-    ],
+      "score": 2031.6,
+      "tags": [
+        "LOSER"
+      ]
+    },
     "tags": [
-      "WEEK_4"
+      "WEEK_1",
+      "SEASON_2017",
+      "REGULAR_SEASON"
     ]
   },
-  "week5": {
-    "id": 5,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Down With OBJr.",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Frisky Dingo",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_5",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Maximum Effort",
+      "record": {
+        "wins": 4,
+        "losses": 9
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "The Zak Hurleys",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "Jobu's Rum",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_5",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
+      "score": 1834.1,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Ball Sagna",
+      "record": {
+        "wins": 7,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Ball Sagna",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "jotas HOS",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_5",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Mongolian Giants",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Two Mannings One Cup",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_5",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Don't Know",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "Cleveland Browns",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_5",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "League Man Nate'd",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Mike Bixler",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_5",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      }
-    ],
+      "score": 2528.9,
+      "tags": [
+        "WINNER"
+      ]
+    },
     "tags": [
-      "WEEK_5"
+      "WEEK_1",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
-  "week6": {
-    "id": 6,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "The Zak Hurleys",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "League Man Nate'd",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_6",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Mike Bixler",
+      "record": {
+        "wins": 5,
+        "losses": 8
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "Jobu's Rum",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Down With OBJr.",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_6",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
+      "score": 1618.9,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "DisNigga Swings BIG DICK",
+      "record": {
+        "wins": 3,
+        "losses": 10
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Don't Know",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "jotas HOS",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_6",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Frisky Dingo",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Ball Sagna",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_6",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Two Mannings One Cup",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "Cleveland Browns",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_6",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Mongolian Giants",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Mike Bixler",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_6",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      }
-    ],
+      "score": 1919.4,
+      "tags": [
+        "WINNER"
+      ]
+    },
     "tags": [
-      "WEEK_6"
+      "WEEK_1",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
-  "week7": {
-    "id": 7,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Mongolian Giants",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Down With OBJr.",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_7",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Down With OBJr.",
+      "record": {
+        "wins": 10,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "Cleveland Browns",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "Jobu's Rum",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_7",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
+      "score": 1849.1,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Destroyer of Worlds",
+      "record": {
+        "wins": 3,
+        "losses": 10
       },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "League Man Nate'd",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Ball Sagna",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_7",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "jotas HOS",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Two Mannings One Cup",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_7",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "The Zak Hurleys",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "Don't Know",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_7",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Frisky Dingo",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Mike Bixler",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_7",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      }
-    ],
+      "score": 2224.6,
+      "tags": [
+        "WINNER"
+      ]
+    },
     "tags": [
-      "WEEK_7"
+      "WEEK_2",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
-  "week8": {
-    "id": 8,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "Cleveland Browns",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "League Man Nate'd",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_8",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "jotas HOS",
+      "record": {
+        "wins": 10,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "The Zak Hurleys",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Frisky Dingo",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_8",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
+      "score": 2454,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Danger Muffin",
+      "record": {
+        "wins": 8,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Down With OBJr.",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "jotas HOS",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_8",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Ball Sagna",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Two Mannings One Cup",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_8",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "Jobu's Rum",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Mongolian Giants",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_8",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Don't Know",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Mike Bixler",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_8",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
-      }
-    ],
+      "score": 1806.3,
+      "tags": [
+        "LOSER"
+      ]
+    },
     "tags": [
-      "WEEK_8"
+      "WEEK_2",
+      "SEASON_2017",
+      "REGULAR_SEASON"
     ]
   },
-  "week9": {
-    "id": 9,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Ball Sagna",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "Jobu's Rum",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_9",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "Jobu's Rum",
+      "record": {
+        "wins": 5,
+        "losses": 8
       },
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Mongolian Giants",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "jotas HOS",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_9",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
+      "score": 2165.7,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Spell things how you want",
+      "record": {
+        "wins": 7,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Mike Bixler",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "The Zak Hurleys",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_9",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "League Man Nate'd",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Two Mannings One Cup",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_9",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Down With OBJr.",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "Don't Know",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_9",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Frisky Dingo",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "Cleveland Browns",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_9",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      }
-    ],
+      "score": 1997.3,
+      "tags": [
+        "LOSER"
+      ]
+    },
     "tags": [
-      "WEEK_9"
+      "WEEK_2",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
-  "week10": {
-    "id": 10,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 4,
-          "name": "Mongolian Giants",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 1,
-          "name": "League Man Nate'd",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_10",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Two Mannings One Cup",
+      "record": {
+        "wins": 7,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Don't Know",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Frisky Dingo",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_10",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
+      "score": 2677.8,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Maximum Effort",
+      "record": {
+        "wins": 4,
+        "losses": 9
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Ball Sagna",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Down With OBJr.",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_10",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Mike Bixler",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "Jobu's Rum",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_10",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "The Zak Hurleys",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Two Mannings One Cup",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_10",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "jotas HOS",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "Cleveland Browns",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_10",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      }
-    ],
+      "score": 2561.4,
+      "tags": [
+        "LOSER"
+      ]
+    },
     "tags": [
-      "WEEK_10"
+      "WEEK_2",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
-  "week11": {
-    "id": 11,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Mike Bixler",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "jotas HOS",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_11",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Ball Sagna",
+      "record": {
+        "wins": 7,
+        "losses": 6
       },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Ball Sagna",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "The Zak Hurleys",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_11",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
+      "score": 2545.7,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "DisNigga Swings BIG DICK",
+      "record": {
+        "wins": 3,
+        "losses": 10
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "Jobu's Rum",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 5,
-          "name": "Two Mannings One Cup",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_11",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 11,
-          "name": "Frisky Dingo",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Mongolian Giants",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_11",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "League Man Nate'd",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "Don't Know",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_11",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Down With OBJr.",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "Cleveland Browns",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_11",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      }
-    ],
+      "score": 2047.3,
+      "tags": [
+        "LOSER"
+      ]
+    },
     "tags": [
-      "WEEK_11"
+      "WEEK_2",
+      "SEASON_2017",
+      "REGULAR_SEASON"
     ]
   },
-  "week12": {
-    "id": 12,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "League Man Nate'd",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Frisky Dingo",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_12",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "Cleveland Browns",
+      "record": {
+        "wins": 9,
+        "losses": 4
       },
-      {
-        "awayTeam": {
-          "id": 7,
-          "name": "Jobu's Rum",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 2,
-          "name": "jotas HOS",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_12",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
+      "score": 2375,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Mike Bixler",
+      "record": {
+        "wins": 5,
+        "losses": 8
       },
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Two Mannings One Cup",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 6,
-          "name": "Ball Sagna",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_12",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 3,
-          "name": "The Zak Hurleys",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Mongolian Giants",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_12",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 10,
-          "name": "Cleveland Browns",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 8,
-          "name": "Don't Know",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_12",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 12,
-          "name": "Down With OBJr.",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 9,
-          "name": "Mike Bixler",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_12",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      }
-    ],
+      "score": 1973.2,
+      "tags": [
+        "LOSER"
+      ]
+    },
     "tags": [
-      "WEEK_12"
+      "WEEK_2",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
-  "week13": {
-    "id": 13,
-    "matchups": [
-      {
-        "awayTeam": {
-          "id": 5,
-          "name": "Two Mannings One Cup",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 11,
-          "name": "Frisky Dingo",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_13",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Danger Muffin",
+      "record": {
+        "wins": 8,
+        "losses": 5
       },
-      {
-        "awayTeam": {
-          "id": 1,
-          "name": "League Man Nate'd",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 12,
-          "name": "Down With OBJr.",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_13",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
+      "score": 2326.7,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Down With OBJr.",
+      "record": {
+        "wins": 10,
+        "losses": 3
       },
-      {
-        "awayTeam": {
-          "id": 8,
-          "name": "Don't Know",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 7,
-          "name": "Jobu's Rum",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_13",
-          "SEASON_2017",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 2,
-          "name": "jotas HOS",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 3,
-          "name": "The Zak Hurleys",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_13",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 6,
-          "name": "Ball Sagna",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 4,
-          "name": "Mongolian Giants",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_13",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
-      },
-      {
-        "awayTeam": {
-          "id": 9,
-          "name": "Mike Bixler",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "homeTeam": {
-          "id": 10,
-          "name": "Cleveland Browns",
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "score": 0,
-          "tags": [
-            "INDETERMINATE"
-          ]
-        },
-        "tags": [
-          "WEEK_13",
-          "SEASON_2017",
-          "DIVISIONAL_MATCHUP",
-          "REGULAR_SEASON"
-        ]
-      }
-    ],
+      "score": 2655.3,
+      "tags": [
+        "WINNER"
+      ]
+    },
     "tags": [
-      "WEEK_13"
+      "WEEK_3",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
     ]
   },
-  "week14": {
-    "id": 14,
-    "matchups": [],
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Destroyer of Worlds",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 1901.3,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "Jobu's Rum",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 1913,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_3",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Spell things how you want",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2626.1,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "jotas HOS",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2496.1,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_3",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Mike Bixler",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2382.8,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Ball Sagna",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 1909,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_3",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "DisNigga Swings BIG DICK",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2060.7,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Two Mannings One Cup",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2856.6,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_3",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Maximum Effort",
+      "record": {
+        "wins": 4,
+        "losses": 9
+      },
+      "score": 2275.3,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "Cleveland Browns",
+      "record": {
+        "wins": 9,
+        "losses": 4
+      },
+      "score": 2619.8,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_3",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "jotas HOS",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2285.8,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Destroyer of Worlds",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2030.6,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_4",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "Jobu's Rum",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2288.3,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Danger Muffin",
+      "record": {
+        "wins": 8,
+        "losses": 5
+      },
+      "score": 2636.1,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_4",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Down With OBJr.",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2534.9,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Spell things how you want",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2391.9,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_4",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "Cleveland Browns",
+      "record": {
+        "wins": 9,
+        "losses": 4
+      },
+      "score": 2264.4,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Ball Sagna",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2157.3,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_4",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "DisNigga Swings BIG DICK",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2272,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Maximum Effort",
+      "record": {
+        "wins": 4,
+        "losses": 9
+      },
+      "score": 2160.1,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_4",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Two Mannings One Cup",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2842.2,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Mike Bixler",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 1796.9,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_4",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Down With OBJr.",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 1945.9,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Danger Muffin",
+      "record": {
+        "wins": 8,
+        "losses": 5
+      },
+      "score": 1969.1,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_5",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Spell things how you want",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2780,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "Jobu's Rum",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2524,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_5",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Ball Sagna",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2280.8,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "jotas HOS",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2377.1,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_5",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Maximum Effort",
+      "record": {
+        "wins": 4,
+        "losses": 9
+      },
+      "score": 2565.1,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Two Mannings One Cup",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2423,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_5",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "DisNigga Swings BIG DICK",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 1968.5,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "Cleveland Browns",
+      "record": {
+        "wins": 9,
+        "losses": 4
+      },
+      "score": 2424.2,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_5",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Destroyer of Worlds",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 1767.9,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Mike Bixler",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 1957.7,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_5",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Spell things how you want",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2469,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Destroyer of Worlds",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 1895.9,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_6",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "Jobu's Rum",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 1966.3,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Down With OBJr.",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2643.5,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_6",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "DisNigga Swings BIG DICK",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2015,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "jotas HOS",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2797.4,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_6",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Danger Muffin",
+      "record": {
+        "wins": 8,
+        "losses": 5
+      },
+      "score": 2065.2,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Ball Sagna",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2280.3,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_6",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Two Mannings One Cup",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2092.2,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "Cleveland Browns",
+      "record": {
+        "wins": 9,
+        "losses": 4
+      },
+      "score": 2716.5,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_6",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Maximum Effort",
+      "record": {
+        "wins": 4,
+        "losses": 9
+      },
+      "score": 2252.8,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Mike Bixler",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2667.6,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_6",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Maximum Effort",
+      "record": {
+        "wins": 4,
+        "losses": 9
+      },
+      "score": 1905.9,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Down With OBJr.",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2436.4,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_7",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "Cleveland Browns",
+      "record": {
+        "wins": 9,
+        "losses": 4
+      },
+      "score": 2108.8,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "Jobu's Rum",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2020.4,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_7",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Destroyer of Worlds",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2002.9,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Ball Sagna",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2221.3,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_7",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "jotas HOS",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2780.7,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Two Mannings One Cup",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2400,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_7",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Spell things how you want",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2901.7,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "DisNigga Swings BIG DICK",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2050.7,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_7",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Danger Muffin",
+      "record": {
+        "wins": 8,
+        "losses": 5
+      },
+      "score": 3101.5,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Mike Bixler",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 1724.4,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_7",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "Cleveland Browns",
+      "record": {
+        "wins": 9,
+        "losses": 4
+      },
+      "score": 2132.9,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Destroyer of Worlds",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2263.3,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_8",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Spell things how you want",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2228.7,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Danger Muffin",
+      "record": {
+        "wins": 8,
+        "losses": 5
+      },
+      "score": 2767.6,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_8",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Down With OBJr.",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2179.8,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "jotas HOS",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2005.9,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_8",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Ball Sagna",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2081.4,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Two Mannings One Cup",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2914.5,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_8",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "Jobu's Rum",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2267.2,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Maximum Effort",
+      "record": {
+        "wins": 4,
+        "losses": 9
+      },
+      "score": 2405.6,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_8",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "DisNigga Swings BIG DICK",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2238,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Mike Bixler",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2542.9,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_8",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Ball Sagna",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 1909.1,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "Jobu's Rum",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 1801.5,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_9",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Maximum Effort",
+      "record": {
+        "wins": 4,
+        "losses": 9
+      },
+      "score": 2418.3,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "jotas HOS",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2631.9,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_9",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Mike Bixler",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2044.8,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Spell things how you want",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2379.8,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_9",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Destroyer of Worlds",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 1879.4,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Two Mannings One Cup",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2317.2,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_9",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Down With OBJr.",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2557,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "DisNigga Swings BIG DICK",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 1745.5,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_9",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Danger Muffin",
+      "record": {
+        "wins": 8,
+        "losses": 5
+      },
+      "score": 2540.5,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "Cleveland Browns",
+      "record": {
+        "wins": 9,
+        "losses": 4
+      },
+      "score": 1987.9,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_9",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Maximum Effort",
+      "record": {
+        "wins": 4,
+        "losses": 9
+      },
+      "score": 2044.5,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Destroyer of Worlds",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2023.4,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_10",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "DisNigga Swings BIG DICK",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2424.2,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Danger Muffin",
+      "record": {
+        "wins": 8,
+        "losses": 5
+      },
+      "score": 2501.8,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_10",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Ball Sagna",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 1551.9,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Down With OBJr.",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2730.8,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_10",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Mike Bixler",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2009.9,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "Jobu's Rum",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 1637.3,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_10",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Spell things how you want",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2865.5,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Two Mannings One Cup",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2786.7,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_10",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "jotas HOS",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2368.5,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "Cleveland Browns",
+      "record": {
+        "wins": 9,
+        "losses": 4
+      },
+      "score": 1863.8,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_10",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Mike Bixler",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2304.2,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "jotas HOS",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2425.6,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_11",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Ball Sagna",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2761.1,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Spell things how you want",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2401.9,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_11",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "Jobu's Rum",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2340.8,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Two Mannings One Cup",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2301.1,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_11",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Danger Muffin",
+      "record": {
+        "wins": 8,
+        "losses": 5
+      },
+      "score": 2060.3,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Maximum Effort",
+      "record": {
+        "wins": 4,
+        "losses": 9
+      },
+      "score": 2346.9,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_11",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Destroyer of Worlds",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2692.7,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "DisNigga Swings BIG DICK",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2113.7,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_11",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Down With OBJr.",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2313.9,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "Cleveland Browns",
+      "record": {
+        "wins": 9,
+        "losses": 4
+      },
+      "score": 2782.8,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_11",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Destroyer of Worlds",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 1864.7,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Danger Muffin",
+      "record": {
+        "wins": 8,
+        "losses": 5
+      },
+      "score": 3119.8,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_12",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 7,
+      "name": "Jobu's Rum",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2100.8,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "jotas HOS",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2429.6,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_12",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Two Mannings One Cup",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2608.5,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Ball Sagna",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2491.2,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_12",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Spell things how you want",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2633.2,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Maximum Effort",
+      "record": {
+        "wins": 4,
+        "losses": 9
+      },
+      "score": 2351,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_12",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "Cleveland Browns",
+      "record": {
+        "wins": 9,
+        "losses": 4
+      },
+      "score": 2158.4,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 8,
+      "name": "DisNigga Swings BIG DICK",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2290.3,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_12",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 12,
+      "name": "Down With OBJr.",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2114.8,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 9,
+      "name": "Mike Bixler",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 1967.8,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_12",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Two Mannings One Cup",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2398.2,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Danger Muffin",
+      "record": {
+        "wins": 8,
+        "losses": 5
+      },
+      "score": 2154.8,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_13",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Destroyer of Worlds",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2534,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Down With OBJr.",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2599.4,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_13",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "DisNigga Swings BIG DICK",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 1259.3,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "Jobu's Rum",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2391.7,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_13",
+      "SEASON_2017",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 2,
+      "name": "jotas HOS",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2540.7,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 3,
+      "name": "Spell things how you want",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2293.6,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_13",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Ball Sagna",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2384.1,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Maximum Effort",
+      "record": {
+        "wins": 4,
+        "losses": 9
+      },
+      "score": 2129.9,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "tags": [
+      "WEEK_13",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Mike Bixler",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2363.2,
+      "tags": [
+        "LOSER"
+      ]
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "Cleveland Browns",
+      "record": {
+        "wins": 9,
+        "losses": 4
+      },
+      "score": 2657.1,
+      "tags": [
+        "WINNER"
+      ]
+    },
+    "tags": [
+      "WEEK_13",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "REGULAR_SEASON"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Mike Bixler",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2073.8,
+      "tags": [
+        "WINNER",
+        "SEASON_2017",
+        "SEED_8"
+      ]
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Down With OBJr.",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2017.9,
+      "tags": [
+        "LOSER",
+        "SEASON_2017",
+        "SEED_1"
+      ]
+    },
     "tags": [
       "WEEK_14",
-      "PLAYOFF_ROUND_1"
-    ],
-    "playoffRound": 1
+      "SEASON_2017",
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Danger Muffin",
+      "record": {
+        "wins": 8,
+        "losses": 5
+      },
+      "score": 2569.8,
+      "tags": [
+        "LOSER",
+        "SEASON_2017",
+        "SEED_5"
+      ]
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Two Mannings One Cup",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2860.8,
+      "tags": [
+        "WINNER",
+        "SEASON_2017",
+        "SEED_4"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "SEASON_2017",
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Ball Sagna",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2702.3,
+      "tags": [
+        "WINNER",
+        "SEASON_2017",
+        "SEED_6"
+      ]
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "Cleveland Browns",
+      "record": {
+        "wins": 9,
+        "losses": 4
+      },
+      "score": 1998.1,
+      "tags": [
+        "LOSER",
+        "SEASON_2017",
+        "SEED_3"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "SEASON_2017",
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Spell things how you want",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2299.5,
+      "tags": [
+        "LOSER",
+        "SEASON_2017",
+        "SEED_7"
+      ]
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "jotas HOS",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2626.7,
+      "tags": [
+        "WINNER",
+        "SEASON_2017",
+        "SEED_2"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "SEASON_2017",
+      "DIVISIONAL_MATCHUP",
+      "PLAYOFF_ROUND_1",
+      "PLAYOFF",
+      "PLAYOFF_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 4,
+      "name": "Maximum Effort",
+      "record": {
+        "wins": 4,
+        "losses": 9
+      },
+      "score": 1637.2,
+      "tags": [
+        "LOSER",
+        "SEASON_2017",
+        "SEED_10"
+      ]
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "Jobu's Rum",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 1856,
+      "tags": [
+        "WINNER",
+        "SEASON_2017",
+        "SEED_9"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "SEASON_2017",
+      "PLAYOFF_ROUND_1",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "DisNigga Swings BIG DICK",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2166,
+      "tags": [
+        "LOSER",
+        "SEASON_2017",
+        "SEED_12"
+      ]
+    },
+    "homeTeam": {
+      "id": 1,
+      "name": "Destroyer of Worlds",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2594.9,
+      "tags": [
+        "WINNER",
+        "SEASON_2017",
+        "SEED_11"
+      ]
+    },
+    "tags": [
+      "WEEK_14",
+      "SEASON_2017",
+      "PLAYOFF_ROUND_1",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_FIRST_ROUND"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Mike Bixler",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2240.4,
+      "tags": [
+        "LOSER",
+        "SEASON_2017"
+      ]
+    },
+    "homeTeam": {
+      "id": 5,
+      "name": "Two Mannings One Cup",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2446.8,
+      "tags": [
+        "WINNER",
+        "SEASON_2017"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "SEASON_2017",
+      "PLAYOFF_ROUND_2",
+      "PLAYOFF",
+      "PLAYOFF_SEMIFINAL"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 6,
+      "name": "Ball Sagna",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2101.2,
+      "tags": [
+        "LOSER",
+        "SEASON_2017"
+      ]
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "jotas HOS",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2111.1,
+      "tags": [
+        "WINNER",
+        "SEASON_2017"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "SEASON_2017",
+      "PLAYOFF_ROUND_2",
+      "PLAYOFF",
+      "PLAYOFF_SEMIFINAL"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 10,
+      "name": "Cleveland Browns",
+      "record": {
+        "wins": 9,
+        "losses": 4
+      },
+      "score": 1954.4,
+      "tags": [
+        "LOSER",
+        "SEASON_2017"
+      ]
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Down With OBJr.",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2086.6,
+      "tags": [
+        "WINNER",
+        "SEASON_2017"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "SEASON_2017",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_SEMIFINAL_THIRD"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Spell things how you want",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2917,
+      "tags": [
+        "WINNER",
+        "SEASON_2017"
+      ]
+    },
+    "homeTeam": {
+      "id": 11,
+      "name": "Danger Muffin",
+      "record": {
+        "wins": 8,
+        "losses": 5
+      },
+      "score": 2441.5,
+      "tags": [
+        "LOSER",
+        "SEASON_2017"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "SEASON_2017",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_SEMIFINAL_THIRD"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Destroyer of Worlds",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2430.7,
+      "tags": [
+        "WINNER",
+        "SEASON_2017"
+      ]
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "Jobu's Rum",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 1916.8,
+      "tags": [
+        "LOSER",
+        "SEASON_2017"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "SEASON_2017",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_SEMIFINAL"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "DisNigga Swings BIG DICK",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2011.2,
+      "tags": [
+        "LOSER",
+        "SEASON_2017"
+      ]
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Maximum Effort",
+      "record": {
+        "wins": 4,
+        "losses": 9
+      },
+      "score": 2185.5,
+      "tags": [
+        "WINNER",
+        "SEASON_2017"
+      ]
+    },
+    "tags": [
+      "WEEK_15",
+      "SEASON_2017",
+      "PLAYOFF_ROUND_2",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_SEMIFINAL"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 5,
+      "name": "Two Mannings One Cup",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2550.1,
+      "tags": [
+        "WINNER",
+        "SEASON_2017",
+        "CHAMPION",
+        "PLACE_1"
+      ]
+    },
+    "homeTeam": {
+      "id": 2,
+      "name": "jotas HOS",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 2134.2,
+      "tags": [
+        "LOSER",
+        "SEASON_2017",
+        "RUNNER_UP",
+        "PLACE_2"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "SEASON_2017",
+      "PLAYOFF_ROUND_3",
+      "PLAYOFF",
+      "PLAYOFF_CHAMPIONSHIP"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 9,
+      "name": "Mike Bixler",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 2120.4,
+      "tags": [
+        "WINNER",
+        "SEASON_2017",
+        "PLACE_3"
+      ]
+    },
+    "homeTeam": {
+      "id": 6,
+      "name": "Ball Sagna",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 1952.4,
+      "tags": [
+        "LOSER",
+        "SEASON_2017",
+        "PLACE_4"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "SEASON_2017",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_CHAMPIONSHIP_THIRD"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 3,
+      "name": "Spell things how you want",
+      "record": {
+        "wins": 7,
+        "losses": 6
+      },
+      "score": 2164.7,
+      "tags": [
+        "WINNER",
+        "SEASON_2017",
+        "PLACE_5"
+      ]
+    },
+    "homeTeam": {
+      "id": 12,
+      "name": "Down With OBJr.",
+      "record": {
+        "wins": 10,
+        "losses": 3
+      },
+      "score": 1880.8,
+      "tags": [
+        "LOSER",
+        "SEASON_2017",
+        "PLACE_6"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "SEASON_2017",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_CHAMPIONSHIP_FIFTH"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 11,
+      "name": "Danger Muffin",
+      "record": {
+        "wins": 8,
+        "losses": 5
+      },
+      "score": 3107.1,
+      "tags": [
+        "WINNER",
+        "SEASON_2017",
+        "PLACE_7"
+      ]
+    },
+    "homeTeam": {
+      "id": 10,
+      "name": "Cleveland Browns",
+      "record": {
+        "wins": 9,
+        "losses": 4
+      },
+      "score": 1928.4,
+      "tags": [
+        "LOSER",
+        "SEASON_2017",
+        "PLACE_8"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "SEASON_2017",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_WINNERS",
+      "CONSOLATION_WINNERS_CHAMPIONSHIP_SEVENTH"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 1,
+      "name": "Destroyer of Worlds",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 2368.6,
+      "tags": [
+        "WINNER",
+        "SEASON_2017",
+        "PLACE_9"
+      ]
+    },
+    "homeTeam": {
+      "id": 4,
+      "name": "Maximum Effort",
+      "record": {
+        "wins": 4,
+        "losses": 9
+      },
+      "score": 1785.1,
+      "tags": [
+        "LOSER",
+        "SEASON_2017",
+        "PLACE_10"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "SEASON_2017",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_CHAMPIONSHIP_NINTH"
+    ]
+  },
+  {
+    "awayTeam": {
+      "id": 8,
+      "name": "DisNigga Swings BIG DICK",
+      "record": {
+        "wins": 3,
+        "losses": 10
+      },
+      "score": 1688.7,
+      "tags": [
+        "WINNER",
+        "SEASON_2017",
+        "PLACE_11"
+      ]
+    },
+    "homeTeam": {
+      "id": 7,
+      "name": "Jobu's Rum",
+      "record": {
+        "wins": 5,
+        "losses": 8
+      },
+      "score": 1675,
+      "tags": [
+        "LOSER",
+        "SEASON_2017",
+        "PLACE_12",
+        "LAST_PLACE"
+      ]
+    },
+    "tags": [
+      "WEEK_16",
+      "SEASON_2017",
+      "PLAYOFF_ROUND_3",
+      "CONSOLATION_LOSERS",
+      "CONSOLATION_LOSERS_CHAMPIONSHIP_ELEVENTH",
+      "CONSOLATION_LAST_PLACE"
+    ]
   }
-}
+]

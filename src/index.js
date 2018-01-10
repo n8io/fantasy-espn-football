@@ -11,10 +11,11 @@ import getLeagueMembers from './lib/pages/league/members';
 import getLeagueTransactionFees from './lib/pages/league/transactionFees';
 import getLeagueSchedule from './lib/pages/league/schedule';
 import updatePlayoffSchedule from './lib/pages/league/schedule/playoffBracket';
+import getLeagueRosters from './lib/pages/league/weekly';
 
 const { puppeteer: puppeteerConfig } = config;
 
-const parseSeason = async (page, league, season) => {
+const parseSeason = async (page, league, season, browser) => {
   let msg = ``;
   await log(msg, page);
 
@@ -39,6 +40,11 @@ const parseSeason = async (page, league, season) => {
   leagueSchedule = null;
   leagueUpdatedSchedule = null;
 
+  const leagueRosters = await getLeagueRosters({ browser, page, league, season });
+
+  await log(`💾 301 Saving ${season} season rosters...`);
+  save(season, league, 'league', 'rosters', leagueRosters);
+
   msg = `🏁 200 Done parsing data for ${season} season.`;
   await log(msg, page);
 };
@@ -53,7 +59,7 @@ const parseSeason = async (page, league, season) => {
     const page = await browser.newPage();
     const { browser: emualteOptions, espn: { seasons, league } } = config;
 
-    await page.setRequestInterceptionEnabled(true);
+    await page.setRequestInterception(true);
 
     // Block image requests bc we dont want the unnecessary overhead
     page.on('request', request => {
@@ -77,7 +83,7 @@ const parseSeason = async (page, league, season) => {
     for (let i = 0; i < seasons.length; i++) {
       const season = seasons[i];
 
-      await parseSeason(page, league, season);
+      await parseSeason(page, league, season, browser);
     }
     /* eslint-enable no-plusplus,no-await-in-loop */
 

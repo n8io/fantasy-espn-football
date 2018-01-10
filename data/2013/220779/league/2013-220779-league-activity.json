@@ -1,945 +1,5 @@
 [
   {
-    "date": "2013-09-11T12:28:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to JROD",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "JROD",
-        "id": 11
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 1 - Peyton Manning 445.6 million points —"
-      ],
-      "week": 1,
-      "points": 445.6,
-      "player": {
-        "firstName": "Peyton",
-        "lastName": "Manning"
-      }
-    }
-  },
-  {
-    "date": "2013-09-11T12:31:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to JJ",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "JJ",
-        "id": 2
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 1 - Jerod Mayo 315 points — Patriots suck."
-      ],
-      "week": 1,
-      "points": 315,
-      "player": {
-        "firstName": "Jerod",
-        "lastName": "Mayo"
-      }
-    }
-  },
-  {
-    "date": "2013-09-11T12:38:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to NATE",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 1 - Dustin Colquitt 272.6 points — Frye's punter had more but was on the bench."
-      ],
-      "week": 1,
-      "points": 272.6,
-      "player": {
-        "firstName": "Dustin",
-        "lastName": "Colquitt"
-      }
-    }
-  },
-  {
-    "date": "2013-09-11T12:40:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to MIKE",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "MIKE",
-        "id": 5
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 1 - Chalupa Batman (Saunders) 2795.6 points — Try a little harder next time Chris..."
-      ],
-      "week": 1,
-      "points": 2795.6
-    }
-  },
-  {
-    "date": "2013-09-11T12:44:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to BROK",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "BROK",
-        "id": 10
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 1 - Anquan Boldin 347 points — Brock had 5 players on his bench score 0 points and his bench still almost outscored his starters after Sunday.  Just a fun fact.  Thanks for the win Brock!"
-      ],
-      "week": 1,
-      "points": 347,
-      "player": {
-        "firstName": "Anquan",
-        "lastName": "Boldin"
-      }
-    }
-  },
-  {
-    "date": "2013-09-18T16:10:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to JROD",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "JROD",
-        "id": 11
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 2 - 3148.3 pts —"
-      ],
-      "week": 2,
-      "points": 3148.3
-    }
-  },
-  {
-    "date": "2013-09-18T16:11:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to PAD",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "PAD",
-        "id": 4
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 2 - Phillip Rivers - 338.7 pts —"
-      ],
-      "week": 2,
-      "points": 338.7,
-      "player": {
-        "firstName": "Phillip",
-        "lastName": "Rivers"
-      }
-    }
-  },
-  {
-    "date": "2013-09-18T16:11:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to NATE",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 2 - Dustin Colquitt - 306.4 pts —"
-      ],
-      "week": 2,
-      "points": 306.4,
-      "player": {
-        "firstName": "Dustin",
-        "lastName": "Colquitt"
-      }
-    }
-  },
-  {
-    "date": "2013-09-18T16:12:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to NATE",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 2 - Michael Vick - 385.4 pts —"
-      ],
-      "week": 2,
-      "points": 385.4,
-      "player": {
-        "firstName": "Michael",
-        "lastName": "Vick"
-      }
-    }
-  },
-  {
-    "date": "2013-09-18T16:12:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to BROK",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "BROK",
-        "id": 10
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 2 - Brian Cushing - 370 pts —"
-      ],
-      "week": 2,
-      "points": 370,
-      "player": {
-        "firstName": "Brian",
-        "lastName": "Cushing"
-      }
-    }
-  },
-  {
-    "date": "2013-09-25T12:14:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to BROK",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "BROK",
-        "id": 10
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 3 - Matt Prater - 325 pts —"
-      ],
-      "week": 3,
-      "points": 325,
-      "player": {
-        "firstName": "Matt",
-        "lastName": "Prater"
-      }
-    }
-  },
-  {
-    "date": "2013-09-25T12:14:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to FRYE",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "FRYE",
-        "id": 8
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 3 - Justin Houston - 422.5 pts —"
-      ],
-      "week": 3,
-      "points": 422.5,
-      "player": {
-        "firstName": "Justin",
-        "lastName": "Houston"
-      }
-    }
-  },
-  {
-    "date": "2013-09-25T12:15:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to JIM",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "JIM",
-        "id": 9
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 3 - Karlos Dansby - 355 pts —"
-      ],
-      "week": 3,
-      "points": 355,
-      "player": {
-        "firstName": "Karlos",
-        "lastName": "Dansby"
-      }
-    }
-  },
-  {
-    "date": "2013-09-25T12:15:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to BROK",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "BROK",
-        "id": 10
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 3 - Antonio Brown - 392pts —"
-      ],
-      "week": 3,
-      "points": 392,
-      "player": {
-        "firstName": "Antonio",
-        "lastName": "Brown"
-      }
-    }
-  },
-  {
-    "date": "2013-09-25T12:15:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to JROD",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "JROD",
-        "id": 11
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 3 - 2812.2 pts —"
-      ],
-      "week": 3,
-      "points": 2812.2
-    }
-  },
-  {
-    "date": "2013-10-03T11:57:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to JJ",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "JJ",
-        "id": 2
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 4 - Sean Lee - 545 pts —"
-      ],
-      "week": 4,
-      "points": 545,
-      "player": {
-        "firstName": "Sean",
-        "lastName": "Lee"
-      }
-    }
-  },
-  {
-    "date": "2013-10-03T11:57:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to MIKE",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "MIKE",
-        "id": 5
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 4 - Johnny Hekker - 393 pts —"
-      ],
-      "week": 4,
-      "points": 393,
-      "player": {
-        "firstName": "Johnny",
-        "lastName": "Hekker"
-      }
-    }
-  },
-  {
-    "date": "2013-10-03T11:58:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to NATE",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 4 - Chad Greenway - 340 pts —"
-      ],
-      "week": 4,
-      "points": 340,
-      "player": {
-        "firstName": "Chad",
-        "lastName": "Greenway"
-      }
-    }
-  },
-  {
-    "date": "2013-10-03T11:58:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to JIM",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "JIM",
-        "id": 9
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 4 - Darren Sproles - 368 pts —"
-      ],
-      "week": 4,
-      "points": 368,
-      "player": {
-        "firstName": "Darren",
-        "lastName": "Sproles"
-      }
-    }
-  },
-  {
-    "date": "2013-10-03T11:59:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to WEAV",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "WEAV",
-        "id": 12
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 4 - 2933.5 pts —"
-      ],
-      "week": 4,
-      "points": 2933.5
-    }
-  },
-  {
-    "date": "2013-10-22T17:00:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to JIM",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "JIM",
-        "id": 9
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 6 - 2663.5 pts —"
-      ],
-      "week": 6,
-      "points": 2663.5
-    }
-  },
-  {
-    "date": "2013-10-22T17:01:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to MIKE",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "MIKE",
-        "id": 5
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 7 - 2900 pts —"
-      ],
-      "week": 7,
-      "points": 2900
-    }
-  },
-  {
-    "date": "2013-10-22T17:01:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to NATE",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 6 - V. Davis - 425 pts —"
-      ],
-      "week": 6,
-      "points": 425,
-      "player": {
-        "firstName": "V.",
-        "lastName": "Davis"
-      }
-    }
-  },
-  {
-    "date": "2013-10-22T17:02:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to MIKE",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "MIKE",
-        "id": 5
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 7- V Jackson - 348 pts —"
-      ],
-      "week": 7,
-      "points": 348,
-      "player": {
-        "firstName": "V",
-        "lastName": "Jackson"
-      }
-    }
-  },
-  {
-    "date": "2013-10-22T17:02:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to BROK",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "BROK",
-        "id": 10
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 6- D Searcy - 395 pts —"
-      ],
-      "week": 6,
-      "points": 395,
-      "player": {
-        "firstName": "D",
-        "lastName": "Searcy"
-      }
-    }
-  },
-  {
-    "date": "2013-10-22T17:03:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to PAD",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "PAD",
-        "id": 4
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 7- E Henderson - 365pts —"
-      ],
-      "week": 7,
-      "points": 365,
-      "player": {
-        "firstName": "E",
-        "lastName": "Henderson"
-      }
-    }
-  },
-  {
-    "date": "2013-10-22T17:03:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to PAD",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "PAD",
-        "id": 4
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 6 - M Crosby - 310pts —"
-      ],
-      "week": 6,
-      "points": 310,
-      "player": {
-        "firstName": "M",
-        "lastName": "Crosby"
-      }
-    }
-  },
-  {
-    "date": "2013-10-22T17:04:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to PAD",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "PAD",
-        "id": 4
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 7- B Kern - 262.6pts —"
-      ],
-      "week": 7,
-      "points": 262.6,
-      "player": {
-        "firstName": "B",
-        "lastName": "Kern"
-      }
-    }
-  },
-  {
-    "date": "2013-10-22T17:04:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to JJ",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "JJ",
-        "id": 2
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 6 - J McCourty - 315pts —"
-      ],
-      "week": 6,
-      "points": 315,
-      "player": {
-        "firstName": "J",
-        "lastName": "Mccourty"
-      }
-    }
-  },
-  {
-    "date": "2013-10-22T17:05:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to NATE",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 7 - A Vinatieri - 300 pts —"
-      ],
-      "week": 7,
-      "points": 300,
-      "player": {
-        "firstName": "A",
-        "lastName": "Vinatieri"
-      }
-    }
-  },
-  {
-    "date": "2013-11-05T13:00:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to JROD",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "JROD",
-        "id": 11
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 8 - Jon Ryan - 360.6 pts —"
-      ],
-      "week": 8,
-      "points": 360.6,
-      "player": {
-        "firstName": "Jon",
-        "lastName": "Ryan"
-      }
-    }
-  },
-  {
-    "date": "2013-11-05T13:01:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to NATE",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 8 - Dan Bailey - 360 pts —"
-      ],
-      "week": 8,
-      "points": 360,
-      "player": {
-        "firstName": "Dan",
-        "lastName": "Bailey"
-      }
-    }
-  },
-  {
-    "date": "2013-11-05T13:01:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to HURL",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 8 - Derrick Johnson - 345 pts —"
-      ],
-      "week": 8,
-      "points": 345,
-      "player": {
-        "firstName": "Derrick",
-        "lastName": "Johnson"
-      }
-    }
-  },
-  {
-    "date": "2013-11-05T13:02:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to MIKE",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "MIKE",
-        "id": 5
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 8 - Calvin Johnson - 456 pts —"
-      ],
-      "week": 8,
-      "points": 456,
-      "player": {
-        "firstName": "Calvin",
-        "lastName": "Johnson"
-      }
-    }
-  },
-  {
-    "date": "2013-11-05T13:02:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to CDZ",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "CDZ",
-        "id": 7
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 8 - 2784.6 pts —"
-      ],
-      "week": 8,
-      "points": 2784.6
-    }
-  },
-  {
-    "date": "2013-11-07T12:42:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to WILL",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "WILL",
-        "id": 6
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 9 - 2947.6 pts —"
-      ],
-      "week": 9,
-      "points": 2947.6
-    }
-  },
-  {
     "date": "2013-11-07T12:43:00Z",
     "season": 2013,
     "type": "TROPHY_AWARDED",
@@ -967,88 +27,7 @@
     }
   },
   {
-    "date": "2013-11-07T12:43:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to NATE",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 9 - Nick Foles - 454.8 pts —"
-      ],
-      "week": 9,
-      "points": 454.8,
-      "player": {
-        "firstName": "Nick",
-        "lastName": "Foles"
-      }
-    }
-  },
-  {
-    "date": "2013-11-07T12:44:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to JROD",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "JROD",
-        "id": 11
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 9 - Mark Barron  - 345 pts —"
-      ],
-      "week": 9,
-      "points": 345,
-      "player": {
-        "firstName": "Mark",
-        "lastName": "Barron"
-      }
-    }
-  },
-  {
-    "date": "2013-11-07T12:44:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to WILL",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "WILL",
-        "id": 6
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 9 - Andre Johnson  - 491 pts —"
-      ],
-      "week": 9,
-      "points": 491,
-      "player": {
-        "firstName": "Andre",
-        "lastName": "Johnson"
-      }
-    }
-  },
-  {
-    "date": "2013-11-28T21:41:00Z",
+    "date": "Invalid date",
     "season": 2013,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
@@ -1064,87 +43,188 @@
     },
     "details": {
       "notes": [
-        "Week 10 - 2695.4 pts —"
+        "Week 16 - 3188.1 pts —"
       ],
-      "week": 10,
-      "points": 2695.4
+      "week": 16,
+      "points": 3188.1
     }
   },
   {
-    "date": "2013-11-28T21:42:00Z",
+    "date": "Invalid date",
     "season": 2013,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to MIKE",
+    "subTypeText": "Defensive Player High Score awarded to JROD",
     "trophy": {
-      "name": "Weekly Team Highest Points",
+      "name": "Defensive Player High Score",
       "team": {
-        "abbrev": "MIKE",
-        "id": 5
+        "abbrev": "JROD",
+        "id": 11
       },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
     },
     "details": {
       "notes": [
-        "Week 11 -  2933.9 pts —"
+        "Week 16 - Patrick Willis - 460 pts —"
       ],
-      "week": 11,
-      "points": 2933.9
+      "week": 16,
+      "points": 460,
+      "player": {
+        "firstName": "Patrick",
+        "lastName": "Willis"
+      }
     }
   },
   {
-    "date": "2013-11-28T21:42:00Z",
+    "date": "Invalid date",
     "season": 2013,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to CDZ",
+    "subTypeText": "Special Team High Score awarded to HURL",
     "trophy": {
-      "name": "Weekly Team Highest Points",
+      "name": "Special Team High Score",
       "team": {
-        "abbrev": "CDZ",
-        "id": 7
+        "abbrev": "HURL",
+        "id": 3
       },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
     },
     "details": {
       "notes": [
-        "Week 12 - 2950.2 pts —"
+        "Week 16 - Dan Carpenter - 285 pts —"
       ],
-      "week": 12,
-      "points": 2950.2
+      "week": 16,
+      "points": 285,
+      "player": {
+        "firstName": "Dan",
+        "lastName": "Carpenter"
+      }
     }
   },
   {
-    "date": "2013-11-28T21:43:00Z",
+    "date": "Invalid date",
     "season": 2013,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to CDZ",
+    "subTypeText": "Hindsight is 20/20 awarded to WILL",
     "trophy": {
       "name": "Hindsight is 20/20",
       "team": {
-        "abbrev": "CDZ",
-        "id": 7
+        "abbrev": "WILL",
+        "id": 6
       },
       "type": "WEEKLY_HINDSIGHT",
       "id": 11
     },
     "details": {
       "notes": [
-        "Week 10 -Darnell Ellerbe - 315 pts —"
+        "Week 16 - Brandon Fields - 350.2 pts —"
       ],
-      "week": 10,
-      "points": 315,
+      "week": 16,
+      "points": 350.2,
       "player": {
-        "firstName": "Darnell",
-        "lastName": "Ellerbe"
+        "firstName": "Brandon",
+        "lastName": "Fields"
       }
     }
   },
   {
-    "date": "2013-11-28T21:43:00Z",
+    "date": "2013-12-24T15:11:00Z",
+    "season": 2013,
+    "type": "LEAGUE_NOTE_UPDATE",
+    "subType": "NONE",
+    "subTypeText": "3 times",
+    "details": {
+      "notes": [
+        "A new LM note has been posted."
+      ]
+    }
+  },
+  {
+    "date": "2013-12-20T12:50:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to PAD",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "PAD",
+        "id": 4
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 15 - Jamaal Charles - 564 pts —"
+      ],
+      "week": 15,
+      "points": 564,
+      "player": {
+        "firstName": "Jamaal",
+        "lastName": "Charles"
+      }
+    }
+  },
+  {
+    "date": "2013-12-20T12:50:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to NATE",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 15 - James Anderson - 300 pts —"
+      ],
+      "week": 15,
+      "points": 300,
+      "player": {
+        "firstName": "James",
+        "lastName": "Anderson"
+      }
+    }
+  },
+  {
+    "date": "2013-12-20T12:49:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to MIKE",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "MIKE",
+        "id": 5
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 15 - Justin Tucker - 455 pts —"
+      ],
+      "week": 15,
+      "points": 455,
+      "player": {
+        "firstName": "Justin",
+        "lastName": "Tucker"
+      }
+    }
+  },
+  {
+    "date": "2013-12-20T12:49:00Z",
     "season": 2013,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
@@ -1160,67 +240,460 @@
     },
     "details": {
       "notes": [
-        "Week 11 -Marquette King - 328 pts —"
+        "Week 15 - Dan Bailey - 470 pts —"
       ],
-      "week": 11,
-      "points": 328,
+      "week": 15,
+      "points": 470,
       "player": {
-        "firstName": "Marquette",
-        "lastName": "King"
+        "firstName": "Dan",
+        "lastName": "Bailey"
       }
     }
   },
   {
-    "date": "2013-11-28T21:44:00Z",
+    "date": "2013-12-20T12:48:00Z",
     "season": 2013,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to CDZ",
+    "subTypeText": "Weekly Team Highest Points awarded to JROD",
     "trophy": {
-      "name": "Hindsight is 20/20",
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "JROD",
+        "id": 11
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 15 - 2963.9 pts —"
+      ],
+      "week": 15,
+      "points": 2963.9
+    }
+  },
+  {
+    "date": "2013-12-18T13:02:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to CDZ",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
       "team": {
         "abbrev": "CDZ",
         "id": 7
       },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
     },
     "details": {
       "notes": [
-        "Week 12 -Julian Edelman - 346 pts —"
+        "Week 14 - 3369.8 pts —"
       ],
-      "week": 12,
-      "points": 346,
+      "week": 14,
+      "points": 3369.8
+    }
+  },
+  {
+    "date": "2013-12-18T13:01:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to HURL",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "HURL",
+        "id": 3
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 14 - Cordarrelle Patterson - 388 pts —"
+      ],
+      "week": 14,
+      "points": 388,
       "player": {
-        "firstName": "Julian",
-        "lastName": "Edelman"
+        "firstName": "Cordarrelle",
+        "lastName": "Patterson"
       }
     }
   },
   {
-    "date": "2013-11-28T21:44:00Z",
+    "date": "2013-12-18T13:01:00Z",
     "season": 2013,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to WILL",
+    "subTypeText": "Defensive Player High Score awarded to JIM",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "JIM",
+        "id": 9
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 14 - Karlos Dansby - 380 pts —"
+      ],
+      "week": 14,
+      "points": 380,
+      "player": {
+        "firstName": "Karlos",
+        "lastName": "Dansby"
+      }
+    }
+  },
+  {
+    "date": "2013-12-18T13:00:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to JIM",
     "trophy": {
       "name": "Special Team High Score",
       "team": {
-        "abbrev": "WILL",
-        "id": 6
+        "abbrev": "JIM",
+        "id": 9
       },
       "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
       "id": 10
     },
     "details": {
       "notes": [
-        "Week 10 -Steven Hauchke - 365 pts —"
+        "Week 14 - Nick Folk - 300 pts —"
       ],
-      "week": 10,
+      "week": 14,
+      "points": 300,
+      "player": {
+        "firstName": "Nick",
+        "lastName": "Folk"
+      }
+    }
+  },
+  {
+    "date": "2013-12-18T13:00:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to JIM",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "JIM",
+        "id": 9
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 14 - Andrew Luck - 357.8 pts —"
+      ],
+      "week": 14,
+      "points": 357.8,
+      "player": {
+        "firstName": "Andrew",
+        "lastName": "Luck"
+      }
+    }
+  },
+  {
+    "date": "2013-12-10T13:00:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to JROD",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "JROD",
+        "id": 11
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 13 - 3047.5 pts —"
+      ],
+      "week": 13,
+      "points": 3047.5
+    }
+  },
+  {
+    "date": "2013-12-10T12:59:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to JROD",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "JROD",
+        "id": 11
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 13 - Alshon Jeffery - 470 pts —"
+      ],
+      "week": 13,
+      "points": 470,
+      "player": {
+        "firstName": "Alshon",
+        "lastName": "Jeffery"
+      }
+    }
+  },
+  {
+    "date": "2013-12-10T12:59:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to JIM",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "JIM",
+        "id": 9
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 13 - Nick Roach - 320 pts —"
+      ],
+      "week": 13,
+      "points": 320,
+      "player": {
+        "firstName": "Nick",
+        "lastName": "Roach"
+      }
+    }
+  },
+  {
+    "date": "2013-12-10T12:58:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to MIKE",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "MIKE",
+        "id": 5
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 13 - Justin Tucker - 365 pts —"
+      ],
+      "week": 13,
       "points": 365,
       "player": {
-        "firstName": "Steven",
-        "lastName": "Hauchke"
+        "firstName": "Justin",
+        "lastName": "Tucker"
+      }
+    }
+  },
+  {
+    "date": "2013-12-10T12:58:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to NATE",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 13 - Eric Decker - 473 pts —"
+      ],
+      "week": 13,
+      "points": 473,
+      "player": {
+        "firstName": "Eric",
+        "lastName": "Decker"
+      }
+    }
+  },
+  {
+    "date": "2013-11-28T21:50:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to FRYE",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "FRYE",
+        "id": 8
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 12 - Josh Gordon - 379 pts —"
+      ],
+      "week": 12,
+      "points": 379,
+      "player": {
+        "firstName": "Josh",
+        "lastName": "Gordon"
+      }
+    }
+  },
+  {
+    "date": "2013-11-28T21:49:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to MIKE",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "MIKE",
+        "id": 5
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 11 - Calvin Johnson - 362 pts —"
+      ],
+      "week": 11,
+      "points": 362,
+      "player": {
+        "firstName": "Calvin",
+        "lastName": "Johnson"
+      }
+    }
+  },
+  {
+    "date": "2013-11-28T21:49:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to CDZ",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "CDZ",
+        "id": 7
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 10 -Tavon Austin - 600 pts —"
+      ],
+      "week": 10,
+      "points": 600,
+      "player": {
+        "firstName": "Tavon",
+        "lastName": "Austin"
+      }
+    }
+  },
+  {
+    "date": "2013-11-28T21:48:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to CDZ",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "CDZ",
+        "id": 7
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 12 -Paul Posluszny - 345 pts —"
+      ],
+      "week": 12,
+      "points": 345,
+      "player": {
+        "firstName": "Paul",
+        "lastName": "Posluszny"
+      }
+    }
+  },
+  {
+    "date": "2013-11-28T21:48:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to CDZ",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "CDZ",
+        "id": 7
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 11 -Vontaze Burfict - 430 pts —"
+      ],
+      "week": 11,
+      "points": 430,
+      "player": {
+        "firstName": "Vontaze",
+        "lastName": "Burfict"
+      }
+    }
+  },
+  {
+    "date": "2013-11-28T21:47:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to PAD",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "PAD",
+        "id": 4
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 10 -Demeco Ryans - 380 pts —"
+      ],
+      "week": 10,
+      "points": 380,
+      "player": {
+        "firstName": "Demeco",
+        "lastName": "Ryans"
       }
     }
   },
@@ -1279,169 +752,61 @@
     }
   },
   {
-    "date": "2013-11-28T21:47:00Z",
+    "date": "2013-11-28T21:44:00Z",
     "season": 2013,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to PAD",
+    "subTypeText": "Special Team High Score awarded to WILL",
     "trophy": {
-      "name": "Defensive Player High Score",
+      "name": "Special Team High Score",
       "team": {
-        "abbrev": "PAD",
-        "id": 4
+        "abbrev": "WILL",
+        "id": 6
       },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
     },
     "details": {
       "notes": [
-        "Week 10 -Demeco Ryans - 380 pts —"
+        "Week 10 -Steven Hauchke - 365 pts —"
       ],
       "week": 10,
-      "points": 380,
+      "points": 365,
       "player": {
-        "firstName": "Demeco",
-        "lastName": "Ryans"
+        "firstName": "Steven",
+        "lastName": "Hauchke"
       }
     }
   },
   {
-    "date": "2013-11-28T21:48:00Z",
+    "date": "2013-11-28T21:44:00Z",
     "season": 2013,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to CDZ",
+    "subTypeText": "Hindsight is 20/20 awarded to CDZ",
     "trophy": {
-      "name": "Defensive Player High Score",
+      "name": "Hindsight is 20/20",
       "team": {
         "abbrev": "CDZ",
         "id": 7
       },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
     },
     "details": {
       "notes": [
-        "Week 11 -Vontaze Burfict - 430 pts —"
-      ],
-      "week": 11,
-      "points": 430,
-      "player": {
-        "firstName": "Vontaze",
-        "lastName": "Burfict"
-      }
-    }
-  },
-  {
-    "date": "2013-11-28T21:48:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to CDZ",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "CDZ",
-        "id": 7
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 12 -Paul Posluszny - 345 pts —"
+        "Week 12 -Julian Edelman - 346 pts —"
       ],
       "week": 12,
-      "points": 345,
+      "points": 346,
       "player": {
-        "firstName": "Paul",
-        "lastName": "Posluszny"
+        "firstName": "Julian",
+        "lastName": "Edelman"
       }
     }
   },
   {
-    "date": "2013-11-28T21:49:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to CDZ",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "CDZ",
-        "id": 7
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 10 -Tavon Austin - 600 pts —"
-      ],
-      "week": 10,
-      "points": 600,
-      "player": {
-        "firstName": "Tavon",
-        "lastName": "Austin"
-      }
-    }
-  },
-  {
-    "date": "2013-11-28T21:49:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to MIKE",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "MIKE",
-        "id": 5
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 11 - Calvin Johnson - 362 pts —"
-      ],
-      "week": 11,
-      "points": 362,
-      "player": {
-        "firstName": "Calvin",
-        "lastName": "Johnson"
-      }
-    }
-  },
-  {
-    "date": "2013-11-28T21:50:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to FRYE",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "FRYE",
-        "id": 8
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 12 - Josh Gordon - 379 pts —"
-      ],
-      "week": 12,
-      "points": 379,
-      "player": {
-        "firstName": "Josh",
-        "lastName": "Gordon"
-      }
-    }
-  },
-  {
-    "date": "2013-12-10T12:58:00Z",
+    "date": "2013-11-28T21:43:00Z",
     "season": 2013,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
@@ -1457,230 +822,45 @@
     },
     "details": {
       "notes": [
-        "Week 13 - Eric Decker - 473 pts —"
+        "Week 11 -Marquette King - 328 pts —"
       ],
-      "week": 13,
-      "points": 473,
+      "week": 11,
+      "points": 328,
       "player": {
-        "firstName": "Eric",
-        "lastName": "Decker"
+        "firstName": "Marquette",
+        "lastName": "King"
       }
     }
   },
   {
-    "date": "2013-12-10T12:58:00Z",
+    "date": "2013-11-28T21:43:00Z",
     "season": 2013,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to MIKE",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "MIKE",
-        "id": 5
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 13 - Justin Tucker - 365 pts —"
-      ],
-      "week": 13,
-      "points": 365,
-      "player": {
-        "firstName": "Justin",
-        "lastName": "Tucker"
-      }
-    }
-  },
-  {
-    "date": "2013-12-10T12:59:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to JIM",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "JIM",
-        "id": 9
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 13 - Nick Roach - 320 pts —"
-      ],
-      "week": 13,
-      "points": 320,
-      "player": {
-        "firstName": "Nick",
-        "lastName": "Roach"
-      }
-    }
-  },
-  {
-    "date": "2013-12-10T12:59:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to JROD",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "JROD",
-        "id": 11
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 13 - Alshon Jeffery - 470 pts —"
-      ],
-      "week": 13,
-      "points": 470,
-      "player": {
-        "firstName": "Alshon",
-        "lastName": "Jeffery"
-      }
-    }
-  },
-  {
-    "date": "2013-12-10T13:00:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Weekly Team Highest Points awarded to JROD",
-    "trophy": {
-      "name": "Weekly Team Highest Points",
-      "team": {
-        "abbrev": "JROD",
-        "id": 11
-      },
-      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
-      "id": 5
-    },
-    "details": {
-      "notes": [
-        "Week 13 - 3047.5 pts —"
-      ],
-      "week": 13,
-      "points": 3047.5
-    }
-  },
-  {
-    "date": "2013-12-18T13:00:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to JIM",
+    "subTypeText": "Hindsight is 20/20 awarded to CDZ",
     "trophy": {
       "name": "Hindsight is 20/20",
       "team": {
-        "abbrev": "JIM",
-        "id": 9
+        "abbrev": "CDZ",
+        "id": 7
       },
       "type": "WEEKLY_HINDSIGHT",
       "id": 11
     },
     "details": {
       "notes": [
-        "Week 14 - Andrew Luck - 357.8 pts —"
+        "Week 10 -Darnell Ellerbe - 315 pts —"
       ],
-      "week": 14,
-      "points": 357.8,
+      "week": 10,
+      "points": 315,
       "player": {
-        "firstName": "Andrew",
-        "lastName": "Luck"
+        "firstName": "Darnell",
+        "lastName": "Ellerbe"
       }
     }
   },
   {
-    "date": "2013-12-18T13:00:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to JIM",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "JIM",
-        "id": 9
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 14 - Nick Folk - 300 pts —"
-      ],
-      "week": 14,
-      "points": 300,
-      "player": {
-        "firstName": "Nick",
-        "lastName": "Folk"
-      }
-    }
-  },
-  {
-    "date": "2013-12-18T13:01:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to JIM",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "JIM",
-        "id": 9
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 14 - Karlos Dansby - 380 pts —"
-      ],
-      "week": 14,
-      "points": 380,
-      "player": {
-        "firstName": "Karlos",
-        "lastName": "Dansby"
-      }
-    }
-  },
-  {
-    "date": "2013-12-18T13:01:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to HURL",
-    "trophy": {
-      "name": "Offensive Player High Score",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 6
-    },
-    "details": {
-      "notes": [
-        "Week 14 - Cordarrelle Patterson - 388 pts —"
-      ],
-      "week": 14,
-      "points": 388,
-      "player": {
-        "firstName": "Cordarrelle",
-        "lastName": "Patterson"
-      }
-    }
-  },
-  {
-    "date": "2013-12-18T13:02:00Z",
+    "date": "2013-11-28T21:42:00Z",
     "season": 2013,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
@@ -1696,14 +876,37 @@
     },
     "details": {
       "notes": [
-        "Week 14 - 3369.8 pts —"
+        "Week 12 - 2950.2 pts —"
       ],
-      "week": 14,
-      "points": 3369.8
+      "week": 12,
+      "points": 2950.2
     }
   },
   {
-    "date": "2013-12-20T12:48:00Z",
+    "date": "2013-11-28T21:42:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to MIKE",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "MIKE",
+        "id": 5
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 11 -  2933.9 pts —"
+      ],
+      "week": 11,
+      "points": 2933.9
+    }
+  },
+  {
+    "date": "2013-11-28T21:41:00Z",
     "season": 2013,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
@@ -1719,188 +922,68 @@
     },
     "details": {
       "notes": [
-        "Week 15 - 2963.9 pts —"
+        "Week 10 - 2695.4 pts —"
       ],
-      "week": 15,
-      "points": 2963.9
+      "week": 10,
+      "points": 2695.4
     }
   },
   {
-    "date": "2013-12-20T12:49:00Z",
+    "date": "2013-11-07T12:44:00Z",
     "season": 2013,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to NATE",
-    "trophy": {
-      "name": "Hindsight is 20/20",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
-    },
-    "details": {
-      "notes": [
-        "Week 15 - Dan Bailey - 470 pts —"
-      ],
-      "week": 15,
-      "points": 470,
-      "player": {
-        "firstName": "Dan",
-        "lastName": "Bailey"
-      }
-    }
-  },
-  {
-    "date": "2013-12-20T12:49:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to MIKE",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "MIKE",
-        "id": 5
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 15 - Justin Tucker - 455 pts —"
-      ],
-      "week": 15,
-      "points": 455,
-      "player": {
-        "firstName": "Justin",
-        "lastName": "Tucker"
-      }
-    }
-  },
-  {
-    "date": "2013-12-20T12:50:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to NATE",
-    "trophy": {
-      "name": "Defensive Player High Score",
-      "team": {
-        "abbrev": "NATE",
-        "id": 1
-      },
-      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
-      "id": 9
-    },
-    "details": {
-      "notes": [
-        "Week 15 - James Anderson - 300 pts —"
-      ],
-      "week": 15,
-      "points": 300,
-      "player": {
-        "firstName": "James",
-        "lastName": "Anderson"
-      }
-    }
-  },
-  {
-    "date": "2013-12-20T12:50:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Offensive Player High Score awarded to PAD",
+    "subTypeText": "Offensive Player High Score awarded to WILL",
     "trophy": {
       "name": "Offensive Player High Score",
       "team": {
-        "abbrev": "PAD",
-        "id": 4
+        "abbrev": "WILL",
+        "id": 6
       },
       "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
       "id": 6
     },
     "details": {
       "notes": [
-        "Week 15 - Jamaal Charles - 564 pts —"
+        "Week 9 - Andre Johnson  - 491 pts —"
       ],
-      "week": 15,
-      "points": 564,
+      "week": 9,
+      "points": 491,
       "player": {
-        "firstName": "Jamaal",
-        "lastName": "Charles"
+        "firstName": "Andre",
+        "lastName": "Johnson"
       }
     }
   },
   {
-    "date": "2013-12-24T15:11:00Z",
-    "season": 2013,
-    "type": "LEAGUE_NOTE_UPDATE",
-    "subType": "NONE",
-    "subTypeText": "3 times",
-    "details": {
-      "notes": [
-        "A new LM note has been posted."
-      ]
-    }
-  },
-  {
-    "date": "2014-01-07T12:40:00Z",
+    "date": "2013-11-07T12:44:00Z",
     "season": 2013,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Hindsight is 20/20 awarded to WILL",
+    "subTypeText": "Defensive Player High Score awarded to JROD",
     "trophy": {
-      "name": "Hindsight is 20/20",
+      "name": "Defensive Player High Score",
       "team": {
-        "abbrev": "WILL",
-        "id": 6
+        "abbrev": "JROD",
+        "id": 11
       },
-      "type": "WEEKLY_HINDSIGHT",
-      "id": 11
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
     },
     "details": {
       "notes": [
-        "Week 16 - Brandon Fields - 350.2 pts —"
+        "Week 9 - Mark Barron  - 345 pts —"
       ],
-      "week": 16,
-      "points": 350.2,
+      "week": 9,
+      "points": 345,
       "player": {
-        "firstName": "Brandon",
-        "lastName": "Fields"
+        "firstName": "Mark",
+        "lastName": "Barron"
       }
     }
   },
   {
-    "date": "2014-01-07T12:40:00Z",
-    "season": 2013,
-    "type": "TROPHY_AWARDED",
-    "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Special Team High Score awarded to HURL",
-    "trophy": {
-      "name": "Special Team High Score",
-      "team": {
-        "abbrev": "HURL",
-        "id": 3
-      },
-      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
-      "id": 10
-    },
-    "details": {
-      "notes": [
-        "Week 16 - Dan Carpenter - 285 pts —"
-      ],
-      "week": 16,
-      "points": 285,
-      "player": {
-        "firstName": "Dan",
-        "lastName": "Carpenter"
-      }
-    }
-  },
-  {
-    "date": "2014-01-07T12:41:00Z",
+    "date": "Invalid date",
     "season": 2013,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
@@ -1927,34 +1010,581 @@
     }
   },
   {
-    "date": "2014-01-07T12:41:00Z",
+    "date": "2013-11-07T12:43:00Z",
     "season": 2013,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
-    "subTypeText": "Defensive Player High Score awarded to JROD",
+    "subTypeText": "Hindsight is 20/20 awarded to NATE",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 9 - Nick Foles - 454.8 pts —"
+      ],
+      "week": 9,
+      "points": 454.8,
+      "player": {
+        "firstName": "Nick",
+        "lastName": "Foles"
+      }
+    }
+  },
+  {
+    "date": "2013-11-07T12:42:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to WILL",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "WILL",
+        "id": 6
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 9 - 2947.6 pts —"
+      ],
+      "week": 9,
+      "points": 2947.6
+    }
+  },
+  {
+    "date": "2013-11-05T13:02:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to CDZ",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "CDZ",
+        "id": 7
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 8 - 2784.6 pts —"
+      ],
+      "week": 8,
+      "points": 2784.6
+    }
+  },
+  {
+    "date": "2013-11-05T13:02:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to MIKE",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "MIKE",
+        "id": 5
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 8 - Calvin Johnson - 456 pts —"
+      ],
+      "week": 8,
+      "points": 456,
+      "player": {
+        "firstName": "Calvin",
+        "lastName": "Johnson"
+      }
+    }
+  },
+  {
+    "date": "2013-11-05T13:01:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to HURL",
     "trophy": {
       "name": "Defensive Player High Score",
       "team": {
-        "abbrev": "JROD",
-        "id": 11
+        "abbrev": "HURL",
+        "id": 3
       },
       "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
       "id": 9
     },
     "details": {
       "notes": [
-        "Week 16 - Patrick Willis - 460 pts —"
+        "Week 8 - Derrick Johnson - 345 pts —"
       ],
-      "week": 16,
-      "points": 460,
+      "week": 8,
+      "points": 345,
       "player": {
-        "firstName": "Patrick",
-        "lastName": "Willis"
+        "firstName": "Derrick",
+        "lastName": "Johnson"
       }
     }
   },
   {
-    "date": "2014-01-07T12:41:00Z",
+    "date": "2013-11-05T13:01:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to NATE",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 8 - Dan Bailey - 360 pts —"
+      ],
+      "week": 8,
+      "points": 360,
+      "player": {
+        "firstName": "Dan",
+        "lastName": "Bailey"
+      }
+    }
+  },
+  {
+    "date": "2013-11-05T13:00:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to JROD",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "JROD",
+        "id": 11
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 8 - Jon Ryan - 360.6 pts —"
+      ],
+      "week": 8,
+      "points": 360.6,
+      "player": {
+        "firstName": "Jon",
+        "lastName": "Ryan"
+      }
+    }
+  },
+  {
+    "date": "2013-10-22T17:05:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to NATE",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 7 - A Vinatieri - 300 pts —"
+      ],
+      "week": 7,
+      "points": 300,
+      "player": {
+        "firstName": "A",
+        "lastName": "Vinatieri"
+      }
+    }
+  },
+  {
+    "date": "2013-10-22T17:04:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to JJ",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "JJ",
+        "id": 2
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 6 - J McCourty - 315pts —"
+      ],
+      "week": 6,
+      "points": 315,
+      "player": {
+        "firstName": "J",
+        "lastName": "Mccourty"
+      }
+    }
+  },
+  {
+    "date": "2013-10-22T17:04:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to PAD",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "PAD",
+        "id": 4
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 7- B Kern - 262.6pts —"
+      ],
+      "week": 7,
+      "points": 262.6,
+      "player": {
+        "firstName": "B",
+        "lastName": "Kern"
+      }
+    }
+  },
+  {
+    "date": "2013-10-22T17:03:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to PAD",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "PAD",
+        "id": 4
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 6 - M Crosby - 310pts —"
+      ],
+      "week": 6,
+      "points": 310,
+      "player": {
+        "firstName": "M",
+        "lastName": "Crosby"
+      }
+    }
+  },
+  {
+    "date": "2013-10-22T17:03:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to PAD",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "PAD",
+        "id": 4
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 7- E Henderson - 365pts —"
+      ],
+      "week": 7,
+      "points": 365,
+      "player": {
+        "firstName": "E",
+        "lastName": "Henderson"
+      }
+    }
+  },
+  {
+    "date": "2013-10-22T17:02:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to BROK",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "BROK",
+        "id": 10
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 6- D Searcy - 395 pts —"
+      ],
+      "week": 6,
+      "points": 395,
+      "player": {
+        "firstName": "D",
+        "lastName": "Searcy"
+      }
+    }
+  },
+  {
+    "date": "2013-10-22T17:02:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to MIKE",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "MIKE",
+        "id": 5
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 7- V Jackson - 348 pts —"
+      ],
+      "week": 7,
+      "points": 348,
+      "player": {
+        "firstName": "V",
+        "lastName": "Jackson"
+      }
+    }
+  },
+  {
+    "date": "2013-10-22T17:01:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to NATE",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 6 - V. Davis - 425 pts —"
+      ],
+      "week": 6,
+      "points": 425,
+      "player": {
+        "firstName": "V.",
+        "lastName": "Davis"
+      }
+    }
+  },
+  {
+    "date": "2013-10-22T17:01:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to MIKE",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "MIKE",
+        "id": 5
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 7 - 2900 pts —"
+      ],
+      "week": 7,
+      "points": 2900
+    }
+  },
+  {
+    "date": "2013-10-22T17:00:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to JIM",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "JIM",
+        "id": 9
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 6 - 2663.5 pts —"
+      ],
+      "week": 6,
+      "points": 2663.5
+    }
+  },
+  {
+    "date": "2013-10-03T11:59:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to WEAV",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "WEAV",
+        "id": 12
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 4 - 2933.5 pts —"
+      ],
+      "week": 4,
+      "points": 2933.5
+    }
+  },
+  {
+    "date": "2013-10-03T11:58:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to JIM",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "JIM",
+        "id": 9
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 4 - Darren Sproles - 368 pts —"
+      ],
+      "week": 4,
+      "points": 368,
+      "player": {
+        "firstName": "Darren",
+        "lastName": "Sproles"
+      }
+    }
+  },
+  {
+    "date": "2013-10-03T11:58:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to NATE",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 4 - Chad Greenway - 340 pts —"
+      ],
+      "week": 4,
+      "points": 340,
+      "player": {
+        "firstName": "Chad",
+        "lastName": "Greenway"
+      }
+    }
+  },
+  {
+    "date": "2013-10-03T11:57:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to MIKE",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "MIKE",
+        "id": 5
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 4 - Johnny Hekker - 393 pts —"
+      ],
+      "week": 4,
+      "points": 393,
+      "player": {
+        "firstName": "Johnny",
+        "lastName": "Hekker"
+      }
+    }
+  },
+  {
+    "date": "2013-10-03T11:57:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to JJ",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "JJ",
+        "id": 2
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 4 - Sean Lee - 545 pts —"
+      ],
+      "week": 4,
+      "points": 545,
+      "player": {
+        "firstName": "Sean",
+        "lastName": "Lee"
+      }
+    }
+  },
+  {
+    "date": "2013-09-25T12:15:00Z",
     "season": 2013,
     "type": "TROPHY_AWARDED",
     "subType": "TROPHY_WEEKLY",
@@ -1970,10 +1600,380 @@
     },
     "details": {
       "notes": [
-        "Week 16 - 3188.1 pts —"
+        "Week 3 - 2812.2 pts —"
       ],
-      "week": 16,
-      "points": 3188.1
+      "week": 3,
+      "points": 2812.2
+    }
+  },
+  {
+    "date": "2013-09-25T12:15:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to BROK",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "BROK",
+        "id": 10
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 3 - Antonio Brown - 392pts —"
+      ],
+      "week": 3,
+      "points": 392,
+      "player": {
+        "firstName": "Antonio",
+        "lastName": "Brown"
+      }
+    }
+  },
+  {
+    "date": "2013-09-25T12:15:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to JIM",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "JIM",
+        "id": 9
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 3 - Karlos Dansby - 355 pts —"
+      ],
+      "week": 3,
+      "points": 355,
+      "player": {
+        "firstName": "Karlos",
+        "lastName": "Dansby"
+      }
+    }
+  },
+  {
+    "date": "2013-09-25T12:14:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to BROK",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "BROK",
+        "id": 10
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 3 - Matt Prater - 325 pts —"
+      ],
+      "week": 3,
+      "points": 325,
+      "player": {
+        "firstName": "Matt",
+        "lastName": "Prater"
+      }
+    }
+  },
+  {
+    "date": "2013-09-25T12:14:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to FRYE",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "FRYE",
+        "id": 8
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 3 - Justin Houston - 422.5 pts —"
+      ],
+      "week": 3,
+      "points": 422.5,
+      "player": {
+        "firstName": "Justin",
+        "lastName": "Houston"
+      }
+    }
+  },
+  {
+    "date": "2013-09-18T16:12:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to NATE",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 2 - Michael Vick - 385.4 pts —"
+      ],
+      "week": 2,
+      "points": 385.4,
+      "player": {
+        "firstName": "Michael",
+        "lastName": "Vick"
+      }
+    }
+  },
+  {
+    "date": "2013-09-18T16:12:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to BROK",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "BROK",
+        "id": 10
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 2 - Brian Cushing - 370 pts —"
+      ],
+      "week": 2,
+      "points": 370,
+      "player": {
+        "firstName": "Brian",
+        "lastName": "Cushing"
+      }
+    }
+  },
+  {
+    "date": "2013-09-18T16:11:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to NATE",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 2 - Dustin Colquitt - 306.4 pts —"
+      ],
+      "week": 2,
+      "points": 306.4,
+      "player": {
+        "firstName": "Dustin",
+        "lastName": "Colquitt"
+      }
+    }
+  },
+  {
+    "date": "2013-09-18T16:11:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to PAD",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "PAD",
+        "id": 4
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 2 - Phillip Rivers - 338.7 pts —"
+      ],
+      "week": 2,
+      "points": 338.7,
+      "player": {
+        "firstName": "Phillip",
+        "lastName": "Rivers"
+      }
+    }
+  },
+  {
+    "date": "2013-09-18T16:10:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to JROD",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "JROD",
+        "id": 11
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 2 - 3148.3 pts —"
+      ],
+      "week": 2,
+      "points": 3148.3
+    }
+  },
+  {
+    "date": "2013-09-11T12:44:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Hindsight is 20/20 awarded to BROK",
+    "trophy": {
+      "name": "Hindsight is 20/20",
+      "team": {
+        "abbrev": "BROK",
+        "id": 10
+      },
+      "type": "WEEKLY_HINDSIGHT",
+      "id": 11
+    },
+    "details": {
+      "notes": [
+        "Week 1 - Anquan Boldin 347 points — Brock had 5 players on his bench score 0 points and his bench still almost outscored his starters after Sunday.  Just a fun fact.  Thanks for the win Brock!"
+      ],
+      "week": 1,
+      "points": 347,
+      "player": {
+        "firstName": "Anquan",
+        "lastName": "Boldin"
+      }
+    }
+  },
+  {
+    "date": "2013-09-11T12:40:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Weekly Team Highest Points awarded to MIKE",
+    "trophy": {
+      "name": "Weekly Team Highest Points",
+      "team": {
+        "abbrev": "MIKE",
+        "id": 5
+      },
+      "type": "WEEKLY_TEAM_HIGHEST_POINTS",
+      "id": 5
+    },
+    "details": {
+      "notes": [
+        "Week 1 - Chalupa Batman (Saunders) 2795.6 points — Try a little harder next time Chris..."
+      ],
+      "week": 1,
+      "points": 2795.6
+    }
+  },
+  {
+    "date": "2013-09-11T12:38:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Special Team High Score awarded to NATE",
+    "trophy": {
+      "name": "Special Team High Score",
+      "team": {
+        "abbrev": "NATE",
+        "id": 1
+      },
+      "type": "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE",
+      "id": 10
+    },
+    "details": {
+      "notes": [
+        "Week 1 - Dustin Colquitt 272.6 points — Frye's punter had more but was on the bench."
+      ],
+      "week": 1,
+      "points": 272.6,
+      "player": {
+        "firstName": "Dustin",
+        "lastName": "Colquitt"
+      }
+    }
+  },
+  {
+    "date": "2013-09-11T12:31:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Defensive Player High Score awarded to JJ",
+    "trophy": {
+      "name": "Defensive Player High Score",
+      "team": {
+        "abbrev": "JJ",
+        "id": 2
+      },
+      "type": "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 9
+    },
+    "details": {
+      "notes": [
+        "Week 1 - Jerod Mayo 315 points — Patriots suck."
+      ],
+      "week": 1,
+      "points": 315,
+      "player": {
+        "firstName": "Jerod",
+        "lastName": "Mayo"
+      }
+    }
+  },
+  {
+    "date": "2013-09-11T12:28:00Z",
+    "season": 2013,
+    "type": "TROPHY_AWARDED",
+    "subType": "TROPHY_WEEKLY",
+    "subTypeText": "Offensive Player High Score awarded to JROD",
+    "trophy": {
+      "name": "Offensive Player High Score",
+      "team": {
+        "abbrev": "JROD",
+        "id": 11
+      },
+      "type": "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE",
+      "id": 6
+    },
+    "details": {
+      "notes": [
+        "Week 1 - Peyton Manning 445.6 million points —"
+      ],
+      "week": 1,
+      "points": 445.6,
+      "player": {
+        "firstName": "Peyton",
+        "lastName": "Manning"
+      }
     }
   }
 ]

@@ -6,5 +6,6 @@
   "LEAGUE_SCOREBOARD": "scoreboard",
   "LEAGUE_PLAYOFF_BRACKET": "h2hplayoffs",
   "LEAGUE_TRANSACTIONS": "tools/transactioncounter",
-  "ROSTER": "clubhouse"
+  "ROSTER": "clubhouse",
+  "SCOREBOARD": "scoreboard"
 }
