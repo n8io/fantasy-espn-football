@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "abbrev": "NATE",
+    "name": "N8th Place",
+    "firstName": "Nate",
+    "lastName": "Clark",
+    "tags": [
+      {
+        "division": "OLDBOY"
+      },
+      {
+        "season": 2018
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "abbrev": "JOTA",
+    "name": "jotas HOS",
+    "firstName": "Jeremiah",
+    "lastName": "Howe",
+    "tags": [
+      {
+        "division": "MISERY"
+      },
+      {
+        "season": 2018
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "abbrev": "HURL",
+    "name": "NUMBER FIVE",
+    "firstName": "Zak",
+    "lastName": "Hurley",
+    "tags": [
+      {
+        "division": "PSYCHO"
+      },
+      {
+        "season": 2018
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "abbrev": "CJAY",
+    "name": "ABOUT TO GO H.A.M.",
+    "firstName": "Christopher",
+    "lastName": "Iliff",
+    "tags": [
+      {
+        "division": "CANDYMAN"
+      },
+      {
+        "season": 2018
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "abbrev": "EBBY",
+    "name": "Two Mannings One Cup",
+    "firstName": "Matthew",
+    "lastName": "Eberhardt",
+    "tags": [
+      {
+        "division": "MISERY"
+      },
+      {
+        "season": 2018
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "abbrev": "DUBS",
+    "name": "Barry's Dingles",
+    "firstName": "Brian",
+    "lastName": "Williams",
+    "tags": [
+      {
+        "division": "PSYCHO"
+      },
+      {
+        "season": 2018
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "abbrev": "KURT",
+    "name": "Speedball Brown",
+    "firstName": "Kurtis",
+    "lastName": "Dilyard",
+    "tags": [
+      {
+        "division": "CANDYMAN"
+      },
+      {
+        "season": 2018
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "abbrev": "FRYE",
+    "name": "New Beginnings",
+    "firstName": "Brian",
+    "lastName": "Frye",
+    "tags": [
+      {
+        "division": "CANDYMAN"
+      },
+      {
+        "season": 2018
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "abbrev": "MBIX",
+    "name": "Mike Bixler",
+    "firstName": "Mike",
+    "lastName": "Bixler",
+    "tags": [
+      {
+        "division": "MISERY"
+      },
+      {
+        "season": 2018
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "abbrev": "BROK",
+    "name": "War Hammer",
+    "firstName": "Brock",
+    "lastName": "Holtzapple",
+    "tags": [
+      {
+        "division": "OLDBOY"
+      },
+      {
+        "season": 2018
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "abbrev": "JROD",
+    "name": "Danger Muffin",
+    "firstName": "Jerrod",
+    "lastName": "Vastag",
+    "tags": [
+      {
+        "division": "OLDBOY"
+      },
+      {
+        "season": 2018
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "abbrev": "WEAV",
+    "name": "Down With OBJr.",
+    "firstName": "Matt",
+    "lastName": "Weaver",
+    "tags": [
+      {
+        "division": "PSYCHO"
+      },
+      {
+        "season": 2018
+      }
+    ]
+  }
+]

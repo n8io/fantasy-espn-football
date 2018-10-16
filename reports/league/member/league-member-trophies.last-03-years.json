@@ -2,11 +2,11 @@
   {
     "teamId": 1,
     "owner": "Nate Clark",
-    "currentName": "Destroyer of Worlds",
+    "currentName": "N8th Place",
     "overall": {
       "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 9,
-        "total": 6,
+        "total": 7,
         "history": [
           {
             "season": 2015,
@@ -19,12 +19,12 @@
           },
           {
             "season": 2016,
-            "week": 1,
+            "week": 15,
             "player": {
               "firstName": "Kwon",
               "lastName": "Alexander"
             },
-            "points": 425
+            "points": 365
           },
           {
             "season": 2016,
@@ -37,12 +37,21 @@
           },
           {
             "season": 2016,
+            "week": 1,
+            "player": {
+              "firstName": "Kwon",
+              "lastName": "Alexander"
+            },
+            "points": 425
+          },
+          {
+            "season": 2017,
             "week": 15,
             "player": {
               "firstName": "Kwon",
               "lastName": "Alexander"
             },
-            "points": 365
+            "points": 325
           },
           {
             "season": 2017,
@@ -54,13 +63,13 @@
             "points": 295
           },
           {
-            "season": 2017,
-            "week": 15,
+            "season": 2018,
+            "week": 4,
             "player": {
-              "firstName": "Kwon",
-              "lastName": "Alexander"
+              "firstName": "Demario",
+              "lastName": "Davis"
             },
-            "points": 325
+            "points": 285
           }
         ]
       },
@@ -68,24 +77,6 @@
         "id": 11,
         "total": 11,
         "history": [
-          {
-            "season": 2014,
-            "week": 5,
-            "player": {
-              "firstName": "Stephen",
-              "lastName": "Gostkowski"
-            },
-            "points": 385
-          },
-          {
-            "season": 2014,
-            "week": 7,
-            "player": {
-              "firstName": "Kevin",
-              "lastName": "Huber"
-            },
-            "points": 356.6
-          },
           {
             "season": 2015,
             "week": 1,
@@ -115,12 +106,12 @@
           },
           {
             "season": 2016,
-            "week": 1,
+            "week": 14,
             "player": {
-              "firstName": "Shareece",
-              "lastName": "Wright"
+              "firstName": "Brad",
+              "lastName": "Wing"
             },
-            "points": 320
+            "points": 347.8
           },
           {
             "season": 2016,
@@ -133,21 +124,21 @@
           },
           {
             "season": 2016,
-            "week": 14,
+            "week": 1,
             "player": {
-              "firstName": "Brad",
-              "lastName": "Wing"
+              "firstName": "Shareece",
+              "lastName": "Wright"
             },
-            "points": 347.8
+            "points": 320
           },
           {
             "season": 2017,
-            "week": 4,
+            "week": 10,
             "player": {
-              "firstName": "Greg",
-              "lastName": "Zuerlien"
+              "firstName": "De'vondre",
+              "lastName": "Cambell"
             },
-            "points": 585
+            "points": 300
           },
           {
             "season": 2017,
@@ -160,12 +151,30 @@
           },
           {
             "season": 2017,
-            "week": 10,
+            "week": 4,
             "player": {
-              "firstName": "De'vondre",
-              "lastName": "Cambell"
+              "firstName": "Greg",
+              "lastName": "Zuerlien"
             },
-            "points": 300
+            "points": 585
+          },
+          {
+            "season": 2018,
+            "week": 7,
+            "player": {
+              "firstName": "Greg",
+              "lastName": "Zuerlein"
+            },
+            "points": 360
+          },
+          {
+            "season": 2018,
+            "week": 1,
+            "player": {
+              "firstName": "Britton",
+              "lastName": "Colquitt"
+            },
+            "points": 409.4
           }
         ]
       },
@@ -174,35 +183,8 @@
       },
       "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 6,
-        "total": 4,
+        "total": 2,
         "history": [
-          {
-            "season": 2014,
-            "week": 2,
-            "player": {
-              "firstName": "Jordy",
-              "lastName": "Nelson"
-            },
-            "points": 361
-          },
-          {
-            "season": 2014,
-            "week": 10,
-            "player": {
-              "firstName": "Marshawn",
-              "lastName": "Lynch"
-            },
-            "points": 406
-          },
-          {
-            "season": 2014,
-            "week": 11,
-            "player": {
-              "firstName": "Mike",
-              "lastName": "Evans"
-            },
-            "points": 405
-          },
           {
             "season": 2016,
             "week": 1,
@@ -211,22 +193,22 @@
               "lastName": "Brees"
             },
             "points": 357.9
+          },
+          {
+            "season": 2018,
+            "week": 3,
+            "player": {
+              "firstName": "Drew",
+              "lastName": "Brees"
+            },
+            "points": 423.8
           }
         ]
       },
       "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE": {
         "id": 10,
-        "total": 7,
+        "total": 6,
         "history": [
-          {
-            "season": 2014,
-            "week": 5,
-            "player": {
-              "firstName": "Phil",
-              "lastName": "Dawson"
-            },
-            "points": 390
-          },
           {
             "season": 2015,
             "week": 3,
@@ -285,27 +267,17 @@
       },
       "WEEKLY_TEAM_HIGHEST_POINTS": {
         "id": 5,
-        "total": 4,
+        "total": 2,
         "history": [
           {
-            "season": 2014,
-            "week": 2,
-            "points": 2696.2
-          },
-          {
-            "season": 2014,
-            "week": 16,
-            "points": 2891.6
+            "season": 2016,
+            "week": 15,
+            "points": 3207.3
           },
           {
             "season": 2016,
             "week": 1,
             "points": 2915
-          },
-          {
-            "season": 2016,
-            "week": 15,
-            "points": 3207.3
           }
         ]
       },
@@ -357,26 +329,8 @@
     "overall": {
       "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 9,
-        "total": 5,
+        "total": 3,
         "history": [
-          {
-            "season": 2014,
-            "week": 6,
-            "player": {
-              "firstName": "Reshad",
-              "lastName": "Johnson"
-            },
-            "points": 365
-          },
-          {
-            "season": 2014,
-            "week": 8,
-            "player": {
-              "firstName": "Reshad",
-              "lastName": "Johnson"
-            },
-            "points": 355
-          },
           {
             "season": 2015,
             "week": 4,
@@ -388,37 +342,28 @@
           },
           {
             "season": 2017,
-            "week": 12,
-            "player": {
-              "firstName": "Blake",
-              "lastName": "Martinez"
-            },
-            "points": 390
-          },
-          {
-            "season": 2017,
             "week": 14,
             "player": {
               "firstName": "Lavonte",
               "lastName": "David"
             },
             "points": 370
+          },
+          {
+            "season": 2017,
+            "week": 12,
+            "player": {
+              "firstName": "Blake",
+              "lastName": "Martinez"
+            },
+            "points": 390
           }
         ]
       },
       "WEEKLY_HINDSIGHT": {
         "id": 11,
-        "total": 6,
+        "total": 5,
         "history": [
-          {
-            "season": 2014,
-            "week": 13,
-            "player": {
-              "firstName": "Ryan",
-              "lastName": "Fitzpatrick"
-            },
-            "points": 395.4
-          },
           {
             "season": 2015,
             "week": 9,
@@ -439,21 +384,21 @@
           },
           {
             "season": 2016,
-            "week": 6,
-            "player": {
-              "firstName": "Jay",
-              "lastName": "Ajayi"
-            },
-            "points": 385
-          },
-          {
-            "season": 2016,
             "week": 8,
             "player": {
               "firstName": "Graham",
               "lastName": "Gano"
             },
             "points": 330
+          },
+          {
+            "season": 2016,
+            "week": 6,
+            "player": {
+              "firstName": "Jay",
+              "lastName": "Ajayi"
+            },
+            "points": 385
           },
           {
             "season": 2017,
@@ -471,26 +416,8 @@
       },
       "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 6,
-        "total": 7,
+        "total": 5,
         "history": [
-          {
-            "season": 2014,
-            "week": 7,
-            "player": {
-              "firstName": "Russel",
-              "lastName": "Wilson"
-            },
-            "points": 375.9
-          },
-          {
-            "season": 2014,
-            "week": 16,
-            "player": {
-              "firstName": "Russel",
-              "lastName": "Wilson"
-            },
-            "points": 379.7
-          },
           {
             "season": 2015,
             "week": 4,
@@ -540,35 +467,8 @@
       },
       "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE": {
         "id": 10,
-        "total": 5,
+        "total": 2,
         "history": [
-          {
-            "season": 2014,
-            "week": 6,
-            "player": {
-              "firstName": "Donnie",
-              "lastName": "Jones"
-            },
-            "points": 309.6
-          },
-          {
-            "season": 2014,
-            "week": 8,
-            "player": {
-              "firstName": "Justin",
-              "lastName": "Tucker"
-            },
-            "points": 305
-          },
-          {
-            "season": 2014,
-            "week": 11,
-            "player": {
-              "firstName": "Greg",
-              "lastName": "Zuerlein"
-            },
-            "points": 390
-          },
           {
             "season": 2015,
             "week": 1,
@@ -595,13 +495,13 @@
         "history": [
           {
             "season": 2017,
-            "week": 6,
-            "points": 2797.4
+            "week": 9,
+            "points": 2631.9
           },
           {
             "season": 2017,
-            "week": 9,
-            "points": 2631.9
+            "week": 6,
+            "points": 2797.4
           }
         ]
       },
@@ -637,11 +537,11 @@
   {
     "teamId": 3,
     "owner": "Zak Hurley",
-    "currentName": "Spell things how you want",
+    "currentName": "NUMBER FIVE",
     "overall": {
       "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 9,
-        "total": 1,
+        "total": 3,
         "history": [
           {
             "season": 2016,
@@ -651,6 +551,24 @@
               "lastName": "Whitehead"
             },
             "points": 310
+          },
+          {
+            "season": 2018,
+            "week": 2,
+            "player": {
+              "firstName": "Darius",
+              "lastName": "Leonard"
+            },
+            "points": 477.5
+          },
+          {
+            "season": 2018,
+            "week": 3,
+            "player": {
+              "firstName": "Darius",
+              "lastName": "Leonard"
+            },
+            "points": 365
           }
         ]
       },
@@ -689,7 +607,7 @@
       },
       "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 6,
-        "total": 5,
+        "total": 6,
         "history": [
           {
             "season": 2015,
@@ -702,6 +620,15 @@
           },
           {
             "season": 2016,
+            "week": 13,
+            "player": {
+              "firstName": "David",
+              "lastName": "Johnson"
+            },
+            "points": 317
+          },
+          {
+            "season": 2016,
             "week": 2,
             "player": {
               "firstName": "Travis",
@@ -710,13 +637,13 @@
             "points": 303
           },
           {
-            "season": 2016,
+            "season": 2017,
             "week": 13,
             "player": {
-              "firstName": "David",
-              "lastName": "Johnson"
+              "firstName": "Tyreke",
+              "lastName": "Hill"
             },
-            "points": 317
+            "points": 402
           },
           {
             "season": 2017,
@@ -728,47 +655,20 @@
             "points": 360
           },
           {
-            "season": 2017,
-            "week": 13,
+            "season": 2018,
+            "week": 1,
             "player": {
-              "firstName": "Tyreke",
+              "firstName": "Tyreek",
               "lastName": "Hill"
             },
-            "points": 402
+            "points": 529
           }
         ]
       },
       "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE": {
         "id": 10,
-        "total": 7,
+        "total": 5,
         "history": [
-          {
-            "season": 2014,
-            "week": 3,
-            "player": {
-              "firstName": "Adam",
-              "lastName": "Vinatieri"
-            },
-            "points": 290
-          },
-          {
-            "season": 2014,
-            "week": 9,
-            "player": {
-              "firstName": "Adam",
-              "lastName": "Vinatieri"
-            },
-            "points": 355
-          },
-          {
-            "season": 2014,
-            "week": 10,
-            "player": {
-              "firstName": "Colton",
-              "lastName": "Schmidt"
-            },
-            "points": 286.4
-          },
           {
             "season": 2015,
             "week": 8,
@@ -789,6 +689,15 @@
           },
           {
             "season": 2017,
+            "week": 8,
+            "player": {
+              "firstName": "Harrison",
+              "lastName": "Butker"
+            },
+            "points": 435
+          },
+          {
+            "season": 2017,
             "week": 5,
             "player": {
               "firstName": "Harrison",
@@ -797,35 +706,20 @@
             "points": 440
           },
           {
-            "season": 2017,
-            "week": 8,
+            "season": 2018,
+            "week": 4,
             "player": {
-              "firstName": "Harrison",
-              "lastName": "Butker"
+              "firstName": "Cody",
+              "lastName": "Parkey"
             },
-            "points": 435
+            "points": 365
           }
         ]
       },
       "WEEKLY_TEAM_HIGHEST_POINTS": {
         "id": 5,
-        "total": 12,
+        "total": 11,
         "history": [
-          {
-            "season": 2014,
-            "week": 9,
-            "points": 2668.1
-          },
-          {
-            "season": 2014,
-            "week": 12,
-            "points": 2827.5
-          },
-          {
-            "season": 2014,
-            "week": 7,
-            "points": 3040
-          },
           {
             "season": 2015,
             "week": 1,
@@ -843,8 +737,8 @@
           },
           {
             "season": 2016,
-            "week": 3,
-            "points": 2839.3
+            "week": 12,
+            "points": 2627.8
           },
           {
             "season": 2016,
@@ -853,13 +747,13 @@
           },
           {
             "season": 2016,
-            "week": 12,
-            "points": 2627.8
+            "week": 3,
+            "points": 2839.3
           },
           {
             "season": 2017,
-            "week": 5,
-            "points": 2780
+            "week": 15,
+            "points": 2945
           },
           {
             "season": 2017,
@@ -868,8 +762,18 @@
           },
           {
             "season": 2017,
-            "week": 15,
-            "points": 2945
+            "week": 5,
+            "points": 2780
+          },
+          {
+            "season": 2018,
+            "week": 3,
+            "points": 2874.8
+          },
+          {
+            "season": 2018,
+            "week": 4,
+            "points": 3355.5
           }
         ]
       },
@@ -896,13 +800,7 @@
         "total": 0
       },
       "YEARLY_REGULAR_SEASON_CHAMPION": {
-        "id": 2,
-        "total": 1,
-        "history": [
-          {
-            "season": 2014
-          }
-        ]
+        "total": 0
       },
       "YEARLY_REGULAR_SEASON_RUNNER_UP": {
         "id": 3,
@@ -926,22 +824,13 @@
   },
   {
     "teamId": 4,
-    "owner": "Daniel Kelly",
-    "currentName": "Maximum Effort",
+    "owner": "Christopher Iliff",
+    "currentName": "ABOUT TO GO H.A.M.",
     "overall": {
       "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 9,
         "total": 2,
         "history": [
-          {
-            "season": 2016,
-            "week": 7,
-            "player": {
-              "firstName": "Landon",
-              "lastName": "Collins"
-            },
-            "points": 405
-          },
           {
             "season": 2016,
             "week": 16,
@@ -950,6 +839,15 @@
               "lastName": "Jenkins"
             },
             "points": 360
+          },
+          {
+            "season": 2016,
+            "week": 7,
+            "player": {
+              "firstName": "Landon",
+              "lastName": "Collins"
+            },
+            "points": 405
           }
         ]
       },
@@ -958,13 +856,13 @@
         "total": 3,
         "history": [
           {
-            "season": 2014,
+            "season": 2017,
             "week": 6,
             "player": {
-              "firstName": "Cam",
-              "lastName": "Newton"
+              "firstName": "Mychael",
+              "lastName": "Kendricks"
             },
-            "points": 370.2
+            "points": 340
           },
           {
             "season": 2017,
@@ -976,13 +874,13 @@
             "points": 335
           },
           {
-            "season": 2017,
-            "week": 6,
+            "season": 2018,
+            "week": 3,
             "player": {
-              "firstName": "Mychael",
-              "lastName": "Kendricks"
+              "firstName": "Calvin",
+              "lastName": "Ridley"
             },
-            "points": 340
+            "points": 391
           }
         ]
       },
@@ -993,15 +891,6 @@
         "id": 6,
         "total": 3,
         "history": [
-          {
-            "season": 2014,
-            "week": 5,
-            "player": {
-              "firstName": "Demaryius",
-              "lastName": "Thomas"
-            },
-            "points": 425
-          },
           {
             "season": 2015,
             "week": 5,
@@ -1019,22 +908,22 @@
               "lastName": "Hilton"
             },
             "points": 365
+          },
+          {
+            "season": 2018,
+            "week": 2,
+            "player": {
+              "firstName": "Ben",
+              "lastName": "Roethlisberger"
+            },
+            "points": 432.6
           }
         ]
       },
       "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE": {
         "id": 10,
-        "total": 3,
+        "total": 2,
         "history": [
-          {
-            "season": 2014,
-            "week": 16,
-            "player": {
-              "firstName": "Randy",
-              "lastName": "Bullock"
-            },
-            "points": 345
-          },
           {
             "season": 2016,
             "week": 14,
@@ -1060,9 +949,9 @@
         "total": 1,
         "history": [
           {
-            "season": 2014,
-            "week": 11,
-            "points": 2728.3
+            "season": 2018,
+            "week": 2,
+            "points": 2941.2
           }
         ]
       },
@@ -1112,17 +1001,8 @@
     "overall": {
       "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 9,
-        "total": 6,
+        "total": 5,
         "history": [
-          {
-            "season": 2014,
-            "week": 15,
-            "player": {
-              "firstName": "William",
-              "lastName": "Gay"
-            },
-            "points": 365
-          },
           {
             "season": 2015,
             "week": 8,
@@ -1152,36 +1032,36 @@
           },
           {
             "season": 2016,
-            "week": 6,
-            "player": {
-              "firstName": "Jatavis",
-              "lastName": "Brown"
-            },
-            "points": 380
-          },
-          {
-            "season": 2016,
             "week": 9,
             "player": {
               "firstName": "Thomas",
               "lastName": "Davis"
             },
             "points": 370
+          },
+          {
+            "season": 2016,
+            "week": 6,
+            "player": {
+              "firstName": "Jatavis",
+              "lastName": "Brown"
+            },
+            "points": 380
           }
         ]
       },
       "WEEKLY_HINDSIGHT": {
         "id": 11,
-        "total": 5,
+        "total": 4,
         "history": [
           {
-            "season": 2014,
-            "week": 12,
+            "season": 2016,
+            "week": 10,
             "player": {
-              "firstName": "Steven",
-              "lastName": "Hauschka"
+              "firstName": "Dustin",
+              "lastName": "Hopkins"
             },
-            "points": 310
+            "points": 330
           },
           {
             "season": 2016,
@@ -1193,13 +1073,13 @@
             "points": 385
           },
           {
-            "season": 2016,
-            "week": 10,
+            "season": 2017,
+            "week": 15,
             "player": {
-              "firstName": "Dustin",
-              "lastName": "Hopkins"
+              "firstName": "Robbie",
+              "lastName": "Gould"
             },
-            "points": 330
+            "points": 485
           },
           {
             "season": 2017,
@@ -1209,15 +1089,6 @@
               "lastName": "Wilson"
             },
             "points": 355.4
-          },
-          {
-            "season": 2017,
-            "week": 15,
-            "player": {
-              "firstName": "Robbie",
-              "lastName": "Gould"
-            },
-            "points": 485
           }
         ]
       },
@@ -1232,26 +1103,8 @@
       },
       "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 6,
-        "total": 8,
+        "total": 6,
         "history": [
-          {
-            "season": 2014,
-            "week": 1,
-            "player": {
-              "firstName": "Matt",
-              "lastName": "Ryan"
-            },
-            "points": 366.4
-          },
-          {
-            "season": 2014,
-            "week": 13,
-            "player": {
-              "firstName": "Deandre",
-              "lastName": "Hopkins"
-            },
-            "points": 440
-          },
           {
             "season": 2015,
             "week": 3,
@@ -1272,21 +1125,12 @@
           },
           {
             "season": 2017,
-            "week": 1,
-            "player": {
-              "firstName": "Kareem",
-              "lastName": "Hunt"
-            },
-            "points": 446
-          },
-          {
-            "season": 2017,
-            "week": 3,
+            "week": 16,
             "player": {
               "firstName": "Todd",
-              "lastName": "Gurley"
+              "lastName": "Gurley Iii"
             },
-            "points": 354
+            "points": 496
           },
           {
             "season": 2017,
@@ -1299,28 +1143,28 @@
           },
           {
             "season": 2017,
-            "week": 16,
+            "week": 3,
             "player": {
               "firstName": "Todd",
-              "lastName": "Gurley Iii"
+              "lastName": "Gurley"
             },
-            "points": 496
+            "points": 354
+          },
+          {
+            "season": 2017,
+            "week": 1,
+            "player": {
+              "firstName": "Kareem",
+              "lastName": "Hunt"
+            },
+            "points": 446
           }
         ]
       },
       "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE": {
         "id": 10,
-        "total": 4,
+        "total": 3,
         "history": [
-          {
-            "season": 2014,
-            "week": 4,
-            "player": {
-              "firstName": "Blair",
-              "lastName": "Walsh"
-            },
-            "points": 340
-          },
           {
             "season": 2015,
             "week": 11,
@@ -1332,21 +1176,21 @@
           },
           {
             "season": 2017,
-            "week": 1,
-            "player": {
-              "firstName": "Matt",
-              "lastName": "Prater"
-            },
-            "points": 302.8
-          },
-          {
-            "season": 2017,
             "week": 16,
             "player": {
               "firstName": "Lachlan",
               "lastName": "Edwards"
             },
             "points": 374.2
+          },
+          {
+            "season": 2017,
+            "week": 1,
+            "player": {
+              "firstName": "Matt",
+              "lastName": "Prater"
+            },
+            "points": 302.8
           }
         ]
       },
@@ -1355,19 +1199,9 @@
         "total": 9,
         "history": [
           {
-            "season": 2014,
-            "week": 1,
-            "points": 2746.6
-          },
-          {
             "season": 2015,
             "week": 3,
             "points": 2997.7
-          },
-          {
-            "season": 2016,
-            "week": 4,
-            "points": 3032
           },
           {
             "season": 2016,
@@ -1375,19 +1209,14 @@
             "points": 2612
           },
           {
-            "season": 2017,
-            "week": 2,
-            "points": 2652.8
-          },
-          {
-            "season": 2017,
-            "week": 3,
-            "points": 2856.6
-          },
-          {
-            "season": 2017,
+            "season": 2016,
             "week": 4,
-            "points": 2842.2
+            "points": 3032
+          },
+          {
+            "season": 2017,
+            "week": 14,
+            "points": 2860
           },
           {
             "season": 2017,
@@ -1396,8 +1225,23 @@
           },
           {
             "season": 2017,
-            "week": 14,
-            "points": 2860
+            "week": 4,
+            "points": 2842.2
+          },
+          {
+            "season": 2017,
+            "week": 3,
+            "points": 2856.6
+          },
+          {
+            "season": 2017,
+            "week": 2,
+            "points": 2652.8
+          },
+          {
+            "season": 2018,
+            "week": 1,
+            "points": 2999.2
           }
         ]
       },
@@ -1408,10 +1252,26 @@
         "total": 0
       },
       "YEARLY_OFFENSIVE_PLAYER": {
-        "total": 0
+        "id": 15,
+        "total": 1,
+        "history": [
+          {
+            "season": 2017,
+            "player": {
+              "firstName": "Todd",
+              "lastName": "Gurley Ii"
+            }
+          }
+        ]
       },
       "YEARLY_OWNER": {
-        "total": 0
+        "id": 14,
+        "total": 1,
+        "history": [
+          {
+            "season": 2017
+          }
+        ]
       },
       "YEARLY_REGULAR_SEASON_CHAMPION": {
         "total": 0
@@ -1426,7 +1286,17 @@
         ]
       },
       "YEARLY_ROOKIE": {
-        "total": 0
+        "id": 17,
+        "total": 1,
+        "history": [
+          {
+            "season": 2017,
+            "player": {
+              "firstName": "Kareem",
+              "lastName": "Hunt"
+            }
+          }
+        ]
       },
       "YEARLY_RUNNER_UP": {
         "total": 0
@@ -1439,7 +1309,7 @@
   {
     "teamId": 6,
     "owner": "Brian Williams",
-    "currentName": "Ball Sagna",
+    "currentName": "Barry's Dingles",
     "overall": {
       "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 9,
@@ -1480,21 +1350,21 @@
         "history": [
           {
             "season": 2017,
-            "week": 1,
-            "player": {
-              "firstName": "Alex",
-              "lastName": "Smith"
-            },
-            "points": 334.4
-          },
-          {
-            "season": 2017,
             "week": 13,
             "player": {
               "firstName": "Matt",
               "lastName": "Haack"
             },
             "points": 472.2
+          },
+          {
+            "season": 2017,
+            "week": 1,
+            "player": {
+              "firstName": "Alex",
+              "lastName": "Smith"
+            },
+            "points": 334.4
           }
         ]
       },
@@ -1503,17 +1373,8 @@
       },
       "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 6,
-        "total": 5,
+        "total": 4,
         "history": [
-          {
-            "season": 2014,
-            "week": 8,
-            "player": {
-              "firstName": "Jeremy",
-              "lastName": "Maclin"
-            },
-            "points": 463
-          },
           {
             "season": 2015,
             "week": 6,
@@ -1603,12 +1464,12 @@
           },
           {
             "season": 2017,
-            "week": 3,
+            "week": 14,
             "player": {
               "firstName": "Chris",
-              "lastName": "Jones"
+              "lastName": "Boswell"
             },
-            "points": 292.2
+            "points": 410
           },
           {
             "season": 2017,
@@ -1621,24 +1482,19 @@
           },
           {
             "season": 2017,
-            "week": 14,
+            "week": 3,
             "player": {
               "firstName": "Chris",
-              "lastName": "Boswell"
+              "lastName": "Jones"
             },
-            "points": 410
+            "points": 292.2
           }
         ]
       },
       "WEEKLY_TEAM_HIGHEST_POINTS": {
         "id": 5,
-        "total": 4,
+        "total": 3,
         "history": [
-          {
-            "season": 2014,
-            "week": 8,
-            "points": 3509.9
-          },
           {
             "season": 2015,
             "week": 9,
@@ -1688,48 +1544,12 @@
   {
     "teamId": 7,
     "owner": "Kurtis Dilyard",
-    "currentName": "Jobu's Rum",
+    "currentName": "Speedball Brown",
     "overall": {
       "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 9,
-        "total": 11,
+        "total": 8,
         "history": [
-          {
-            "season": 2014,
-            "week": 1,
-            "player": {
-              "firstName": "Eric",
-              "lastName": "Berry"
-            },
-            "points": 380
-          },
-          {
-            "season": 2014,
-            "week": 4,
-            "player": {
-              "firstName": "Lavonte",
-              "lastName": "David"
-            },
-            "points": 325
-          },
-          {
-            "season": 2014,
-            "week": 5,
-            "player": {
-              "firstName": "Lavonte",
-              "lastName": "David"
-            },
-            "points": 340
-          },
-          {
-            "season": 2014,
-            "week": 16,
-            "player": {
-              "firstName": "Antoine",
-              "lastName": "Bethea"
-            },
-            "points": 360
-          },
           {
             "season": 2015,
             "week": 2,
@@ -1768,21 +1588,21 @@
           },
           {
             "season": 2016,
-            "week": 11,
-            "player": {
-              "firstName": "Vontaze",
-              "lastName": "Burfict"
-            },
-            "points": 310
-          },
-          {
-            "season": 2016,
             "week": 13,
             "player": {
               "firstName": "Vontaze",
               "lastName": "Bufict"
             },
             "points": 455
+          },
+          {
+            "season": 2016,
+            "week": 11,
+            "player": {
+              "firstName": "Vontaze",
+              "lastName": "Burfict"
+            },
+            "points": 310
           },
           {
             "season": 2017,
@@ -1792,31 +1612,22 @@
               "lastName": "Burfict"
             },
             "points": 360
+          },
+          {
+            "season": 2018,
+            "week": 1,
+            "player": {
+              "firstName": "Fred",
+              "lastName": "Warner"
+            },
+            "points": 345
           }
         ]
       },
       "WEEKLY_HINDSIGHT": {
         "id": 11,
-        "total": 8,
+        "total": 6,
         "history": [
-          {
-            "season": 2014,
-            "week": 8,
-            "player": {
-              "firstName": "Tom",
-              "lastName": "Brady"
-            },
-            "points": 366.2
-          },
-          {
-            "season": 2014,
-            "week": 14,
-            "player": {
-              "firstName": "Craig",
-              "lastName": "Robertson"
-            },
-            "points": 400
-          },
           {
             "season": 2015,
             "week": 6,
@@ -1828,12 +1639,12 @@
           },
           {
             "season": 2016,
-            "week": 2,
+            "week": 16,
             "player": {
-              "firstName": "Cam",
-              "lastName": "Newton"
+              "firstName": "Aaron",
+              "lastName": "Rodgers"
             },
-            "points": 320.9
+            "points": 328.1
           },
           {
             "season": 2016,
@@ -1846,21 +1657,12 @@
           },
           {
             "season": 2016,
-            "week": 16,
+            "week": 2,
             "player": {
-              "firstName": "Aaron",
-              "lastName": "Rodgers"
+              "firstName": "Cam",
+              "lastName": "Newton"
             },
-            "points": 328.1
-          },
-          {
-            "season": 2017,
-            "week": 3,
-            "player": {
-              "firstName": "Stefon",
-              "lastName": "Diggs"
-            },
-            "points": 362
+            "points": 320.9
           },
           {
             "season": 2017,
@@ -1870,6 +1672,15 @@
               "lastName": "Schobert"
             },
             "points": 377.5
+          },
+          {
+            "season": 2017,
+            "week": 3,
+            "player": {
+              "firstName": "Stefon",
+              "lastName": "Diggs"
+            },
+            "points": 362
           }
         ]
       },
@@ -1884,26 +1695,8 @@
       },
       "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 6,
-        "total": 3,
+        "total": 1,
         "history": [
-          {
-            "season": 2014,
-            "week": 4,
-            "player": {
-              "firstName": "Steve",
-              "lastName": "Smith"
-            },
-            "points": 325
-          },
-          {
-            "season": 2014,
-            "week": 9,
-            "player": {
-              "firstName": "Julian",
-              "lastName": "Edleman"
-            },
-            "points": 350
-          },
           {
             "season": 2015,
             "week": 12,
@@ -1919,15 +1712,6 @@
         "id": 10,
         "total": 3,
         "history": [
-          {
-            "season": 2014,
-            "week": 12,
-            "player": {
-              "firstName": "Cody",
-              "lastName": "Parkay"
-            },
-            "points": 385
-          },
           {
             "season": 2015,
             "week": 7,
@@ -1945,23 +1729,22 @@
               "lastName": "Vinatieri"
             },
             "points": 485
+          },
+          {
+            "season": 2018,
+            "week": 3,
+            "player": {
+              "firstName": "Will",
+              "lastName": "Lutz"
+            },
+            "points": 335
           }
         ]
       },
       "WEEKLY_TEAM_HIGHEST_POINTS": {
         "id": 5,
-        "total": 7,
+        "total": 5,
         "history": [
-          {
-            "season": 2014,
-            "week": 4,
-            "points": 2793.6
-          },
-          {
-            "season": 2014,
-            "week": 6,
-            "points": 2892.2
-          },
           {
             "season": 2015,
             "week": 2,
@@ -2011,13 +1794,7 @@
         ]
       },
       "YEARLY_REGULAR_SEASON_RUNNER_UP": {
-        "id": 3,
-        "total": 1,
-        "history": [
-          {
-            "season": 2014
-          }
-        ]
+        "total": 0
       },
       "YEARLY_ROOKIE": {
         "total": 0
@@ -2033,21 +1810,12 @@
   {
     "teamId": 8,
     "owner": "Brian Frye",
-    "currentName": "DisNigga Swings BIG DICK",
+    "currentName": "New Beginnings",
     "overall": {
       "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 9,
-        "total": 4,
+        "total": 3,
         "history": [
-          {
-            "season": 2014,
-            "week": 3,
-            "player": {
-              "firstName": "Deandre",
-              "lastName": "Levy"
-            },
-            "points": 345
-          },
           {
             "season": 2015,
             "week": 7,
@@ -2079,35 +1847,8 @@
       },
       "WEEKLY_HINDSIGHT": {
         "id": 11,
-        "total": 8,
+        "total": 5,
         "history": [
-          {
-            "season": 2014,
-            "week": 9,
-            "player": {
-              "firstName": "Ben",
-              "lastName": "Rapelisberger"
-            },
-            "points": 348
-          },
-          {
-            "season": 2014,
-            "week": 15,
-            "player": {
-              "firstName": "Chandler",
-              "lastName": "Catanzaro"
-            },
-            "points": 320
-          },
-          {
-            "season": 2014,
-            "week": 16,
-            "player": {
-              "firstName": "Colin",
-              "lastName": "Kaepernick"
-            },
-            "points": 310.2
-          },
           {
             "season": 2015,
             "week": 10,
@@ -2137,21 +1878,21 @@
           },
           {
             "season": 2016,
-            "week": 9,
-            "player": {
-              "firstName": "Matt",
-              "lastName": "Prater"
-            },
-            "points": 320
-          },
-          {
-            "season": 2016,
             "week": 12,
             "player": {
               "firstName": "Dustin",
               "lastName": "Colquitt"
             },
             "points": 351.2
+          },
+          {
+            "season": 2016,
+            "week": 9,
+            "player": {
+              "firstName": "Matt",
+              "lastName": "Prater"
+            },
+            "points": 320
           }
         ]
       },
@@ -2160,7 +1901,7 @@
       },
       "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 6,
-        "total": 1,
+        "total": 2,
         "history": [
           {
             "season": 2016,
@@ -2170,57 +1911,30 @@
               "lastName": "Elliot"
             },
             "points": 415
+          },
+          {
+            "season": 2018,
+            "week": 7,
+            "player": {
+              "firstName": "Zeke",
+              "lastName": "Elliott"
+            },
+            "points": 422
           }
         ]
       },
       "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE": {
         "id": 10,
-        "total": 8,
+        "total": 4,
         "history": [
           {
-            "season": 2014,
-            "week": 1,
-            "player": {
-              "firstName": "Dan",
-              "lastName": "Carpenter"
-            },
-            "points": 245
-          },
-          {
-            "season": 2014,
-            "week": 2,
-            "player": {
-              "firstName": "Dan",
-              "lastName": "Carpenter"
-            },
-            "points": 290
-          },
-          {
-            "season": 2014,
-            "week": 13,
-            "player": {
-              "firstName": "Dan",
-              "lastName": "Carpenter"
-            },
-            "points": 290
-          },
-          {
-            "season": 2014,
-            "week": 15,
-            "player": {
-              "firstName": "Dan",
-              "lastName": "Carpenter"
-            },
-            "points": 310
-          },
-          {
             "season": 2016,
-            "week": 9,
+            "week": 16,
             "player": {
               "firstName": "Matt",
               "lastName": "Bryant"
             },
-            "points": 360
+            "points": 420
           },
           {
             "season": 2016,
@@ -2233,12 +1947,12 @@
           },
           {
             "season": 2016,
-            "week": 16,
+            "week": 9,
             "player": {
               "firstName": "Matt",
               "lastName": "Bryant"
             },
-            "points": 420
+            "points": 360
           },
           {
             "season": 2017,
@@ -2253,13 +1967,8 @@
       },
       "WEEKLY_TEAM_HIGHEST_POINTS": {
         "id": 5,
-        "total": 3,
+        "total": 2,
         "history": [
-          {
-            "season": 2014,
-            "week": 15,
-            "points": 2921.3
-          },
           {
             "season": 2015,
             "week": 7,
@@ -2328,26 +2037,8 @@
     "overall": {
       "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 9,
-        "total": 5,
+        "total": 3,
         "history": [
-          {
-            "season": 2014,
-            "week": 12,
-            "player": {
-              "firstName": "James",
-              "lastName": "Idehigbo"
-            },
-            "points": 315
-          },
-          {
-            "season": 2014,
-            "week": 14,
-            "player": {
-              "firstName": "Curtis",
-              "lastName": "Lofton"
-            },
-            "points": 350
-          },
           {
             "season": 2015,
             "week": 10,
@@ -2419,21 +2110,21 @@
           },
           {
             "season": 2016,
-            "week": 3,
-            "player": {
-              "firstName": "Marvin",
-              "lastName": "Jones"
-            },
-            "points": 398
-          },
-          {
-            "season": 2016,
             "week": 9,
             "player": {
               "firstName": "Melvin",
               "lastName": "Gordon"
             },
             "points": 348
+          },
+          {
+            "season": 2016,
+            "week": 3,
+            "player": {
+              "firstName": "Marvin",
+              "lastName": "Jones"
+            },
+            "points": 398
           },
           {
             "season": 2017,
@@ -2448,25 +2139,16 @@
       },
       "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE": {
         "id": 10,
-        "total": 5,
+        "total": 6,
         "history": [
           {
             "season": 2016,
-            "week": 1,
+            "week": 11,
             "player": {
-              "firstName": "Dan",
-              "lastName": "Bailey"
+              "firstName": "Mike",
+              "lastName": "Darr"
             },
-            "points": 350
-          },
-          {
-            "season": 2016,
-            "week": 6,
-            "player": {
-              "firstName": "Dan",
-              "lastName": "Bailey"
-            },
-            "points": 280
+            "points": 310.6
           },
           {
             "season": 2016,
@@ -2479,12 +2161,21 @@
           },
           {
             "season": 2016,
-            "week": 11,
+            "week": 6,
             "player": {
-              "firstName": "Mike",
-              "lastName": "Darr"
+              "firstName": "Dan",
+              "lastName": "Bailey"
             },
-            "points": 310.6
+            "points": 280
+          },
+          {
+            "season": 2016,
+            "week": 1,
+            "player": {
+              "firstName": "Dan",
+              "lastName": "Bailey"
+            },
+            "points": 350
           },
           {
             "season": 2017,
@@ -2494,6 +2185,15 @@
               "lastName": "Tucker"
             },
             "points": 390
+          },
+          {
+            "season": 2018,
+            "week": 2,
+            "player": {
+              "firstName": "Matt",
+              "lastName": "Haack"
+            },
+            "points": 339
           }
         ]
       },
@@ -2540,51 +2240,15 @@
   {
     "teamId": 10,
     "owner": "Brock Holtzapple",
-    "currentName": "Cleveland Browns",
+    "currentName": "War Hammer",
     "overall": {
       "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE": {
         "total": 0
       },
       "WEEKLY_HINDSIGHT": {
         "id": 11,
-        "total": 6,
+        "total": 3,
         "history": [
-          {
-            "season": 2014,
-            "week": 1,
-            "player": {
-              "firstName": "Nike",
-              "lastName": "Nugent"
-            },
-            "points": 350
-          },
-          {
-            "season": 2014,
-            "week": 2,
-            "player": {
-              "firstName": "Dan",
-              "lastName": "Bailey"
-            },
-            "points": 375
-          },
-          {
-            "season": 2014,
-            "week": 3,
-            "player": {
-              "firstName": "Bruce",
-              "lastName": "Carter"
-            },
-            "points": 380
-          },
-          {
-            "season": 2014,
-            "week": 4,
-            "player": {
-              "firstName": "Eli",
-              "lastName": "Manning"
-            },
-            "points": 317
-          },
           {
             "season": 2015,
             "week": 15,
@@ -2602,6 +2266,15 @@
               "lastName": "Lechler"
             },
             "points": 358
+          },
+          {
+            "season": 2018,
+            "week": 4,
+            "player": {
+              "firstName": "Jared",
+              "lastName": "Goff"
+            },
+            "points": 423.5
           }
         ]
       },
@@ -2641,21 +2314,21 @@
           },
           {
             "season": 2017,
-            "week": 5,
-            "player": {
-              "firstName": "Leonard",
-              "lastName": "Fournete"
-            },
-            "points": 337
-          },
-          {
-            "season": 2017,
             "week": 6,
             "player": {
               "firstName": "Kirk",
               "lastName": "Cousins"
             },
             "points": 310
+          },
+          {
+            "season": 2017,
+            "week": 5,
+            "player": {
+              "firstName": "Leonard",
+              "lastName": "Fournete"
+            },
+            "points": 337
           }
         ]
       },
@@ -2665,21 +2338,21 @@
         "history": [
           {
             "season": 2016,
-            "week": 3,
-            "player": {
-              "firstName": "Justin",
-              "lastName": "Tucker"
-            },
-            "points": 350
-          },
-          {
-            "season": 2016,
             "week": 12,
             "player": {
               "firstName": "Justin",
               "lastName": "Tucker"
             },
             "points": 400
+          },
+          {
+            "season": 2016,
+            "week": 3,
+            "player": {
+              "firstName": "Justin",
+              "lastName": "Tucker"
+            },
+            "points": 350
           },
           {
             "season": 2017,
@@ -2698,13 +2371,13 @@
         "history": [
           {
             "season": 2017,
-            "week": 11,
-            "points": 2782.8
+            "week": 13,
+            "points": 2657.1
           },
           {
             "season": 2017,
-            "week": 13,
-            "points": 2657.1
+            "week": 11,
+            "points": 2782.8
           }
         ]
       },
@@ -2744,53 +2417,8 @@
     "overall": {
       "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 9,
-        "total": 12,
+        "total": 7,
         "history": [
-          {
-            "season": 2014,
-            "week": 7,
-            "player": {
-              "firstName": "Lawrence",
-              "lastName": "Timmons"
-            },
-            "points": 320
-          },
-          {
-            "season": 2014,
-            "week": 9,
-            "player": {
-              "firstName": "Chris",
-              "lastName": "Borland"
-            },
-            "points": 435
-          },
-          {
-            "season": 2014,
-            "week": 10,
-            "player": {
-              "firstName": "Chris",
-              "lastName": "Borland"
-            },
-            "points": 360
-          },
-          {
-            "season": 2014,
-            "week": 11,
-            "player": {
-              "firstName": "Chris",
-              "lastName": "Borland"
-            },
-            "points": 430
-          },
-          {
-            "season": 2014,
-            "week": 13,
-            "player": {
-              "firstName": "Chris",
-              "lastName": "Borland"
-            },
-            "points": 415
-          },
           {
             "season": 2015,
             "week": 5,
@@ -2802,15 +2430,6 @@
           },
           {
             "season": 2016,
-            "week": 3,
-            "player": {
-              "firstName": "Derrick",
-              "lastName": "Johnson"
-            },
-            "points": 372.5
-          },
-          {
-            "season": 2016,
             "week": 10,
             "player": {
               "firstName": "Eric",
@@ -2819,22 +2438,22 @@
             "points": 365
           },
           {
-            "season": 2017,
+            "season": 2016,
             "week": 3,
             "player": {
-              "firstName": "Ryan",
-              "lastName": "Shazier"
+              "firstName": "Derrick",
+              "lastName": "Johnson"
             },
-            "points": 370
+            "points": 372.5
           },
           {
             "season": 2017,
-            "week": 4,
+            "week": 16,
             "player": {
-              "firstName": "Ryan",
-              "lastName": "Shazier"
+              "firstName": "Reshad",
+              "lastName": "Jones"
             },
-            "points": 385
+            "points": 337.5
           },
           {
             "season": 2017,
@@ -2847,37 +2466,28 @@
           },
           {
             "season": 2017,
-            "week": 16,
+            "week": 4,
             "player": {
-              "firstName": "Reshad",
-              "lastName": "Jones"
+              "firstName": "Ryan",
+              "lastName": "Shazier"
             },
-            "points": 337.5
+            "points": 385
+          },
+          {
+            "season": 2017,
+            "week": 3,
+            "player": {
+              "firstName": "Ryan",
+              "lastName": "Shazier"
+            },
+            "points": 370
           }
         ]
       },
       "WEEKLY_HINDSIGHT": {
         "id": 11,
-        "total": 6,
+        "total": 4,
         "history": [
-          {
-            "season": 2014,
-            "week": 10,
-            "player": {
-              "firstName": "Alec",
-              "lastName": "Ogletree"
-            },
-            "points": 285
-          },
-          {
-            "season": 2014,
-            "week": 11,
-            "player": {
-              "firstName": "Alec",
-              "lastName": "Ogletree"
-            },
-            "points": 355
-          },
           {
             "season": 2015,
             "week": 4,
@@ -2898,21 +2508,21 @@
           },
           {
             "season": 2016,
-            "week": 4,
-            "player": {
-              "firstName": "Jason",
-              "lastName": "Myers"
-            },
-            "points": 305
-          },
-          {
-            "season": 2016,
             "week": 15,
             "player": {
               "firstName": "Chris",
               "lastName": "Boswell"
             },
             "points": 480
+          },
+          {
+            "season": 2016,
+            "week": 4,
+            "player": {
+              "firstName": "Jason",
+              "lastName": "Myers"
+            },
+            "points": 305
           }
         ]
       },
@@ -2921,26 +2531,8 @@
       },
       "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 6,
-        "total": 6,
+        "total": 5,
         "history": [
-          {
-            "season": 2014,
-            "week": 3,
-            "player": {
-              "firstName": "Julio",
-              "lastName": "Jones"
-            },
-            "points": 363
-          },
-          {
-            "season": 2014,
-            "week": 5,
-            "player": {
-              "firstName": "T.y.",
-              "lastName": "Hilton"
-            },
-            "points": 350
-          },
           {
             "season": 2016,
             "week": 4,
@@ -2952,12 +2544,12 @@
           },
           {
             "season": 2017,
-            "week": 8,
+            "week": 14,
             "player": {
-              "firstName": "Deandre",
-              "lastName": "Hopkins"
+              "firstName": "Ben",
+              "lastName": "Roethlisberger"
             },
-            "points": 378
+            "points": 324.8
           },
           {
             "season": 2017,
@@ -2970,37 +2562,28 @@
           },
           {
             "season": 2017,
-            "week": 14,
+            "week": 8,
             "player": {
-              "firstName": "Ben",
-              "lastName": "Roethlisberger"
+              "firstName": "Deandre",
+              "lastName": "Hopkins"
             },
-            "points": 324.8
+            "points": 378
+          },
+          {
+            "season": 2018,
+            "week": 4,
+            "player": {
+              "firstName": "Andrew",
+              "lastName": "Luck"
+            },
+            "points": 400.2
           }
         ]
       },
       "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE": {
         "id": 10,
-        "total": 4,
+        "total": 3,
         "history": [
-          {
-            "season": 2014,
-            "week": 7,
-            "player": {
-              "firstName": "Shaun",
-              "lastName": "Suisham"
-            },
-            "points": 260
-          },
-          {
-            "season": 2014,
-            "week": 14,
-            "player": {
-              "firstName": "Mason",
-              "lastName": "Crosby"
-            },
-            "points": 250
-          },
           {
             "season": 2015,
             "week": 2,
@@ -3018,38 +2601,22 @@
               "lastName": "Anger"
             },
             "points": 331.4
+          },
+          {
+            "season": 2018,
+            "week": 7,
+            "player": {
+              "firstName": "Kai",
+              "lastName": "Forbath"
+            },
+            "points": 465
           }
         ]
       },
       "WEEKLY_TEAM_HIGHEST_POINTS": {
         "id": 5,
-        "total": 11,
+        "total": 7,
         "history": [
-          {
-            "season": 2014,
-            "week": 3,
-            "points": 2570.7
-          },
-          {
-            "season": 2014,
-            "week": 5,
-            "points": 2792.9
-          },
-          {
-            "season": 2014,
-            "week": 10,
-            "points": 3097.6
-          },
-          {
-            "season": 2014,
-            "week": 13,
-            "points": 3171.7
-          },
-          {
-            "season": 2014,
-            "week": 14,
-            "points": 3168.7
-          },
           {
             "season": 2015,
             "week": 6,
@@ -3057,8 +2624,8 @@
           },
           {
             "season": 2016,
-            "week": 7,
-            "points": 2880.6
+            "week": 13,
+            "points": 2804.2
           },
           {
             "season": 2016,
@@ -3067,8 +2634,13 @@
           },
           {
             "season": 2016,
-            "week": 13,
-            "points": 2804.2
+            "week": 7,
+            "points": 2880.6
+          },
+          {
+            "season": 2017,
+            "week": 16,
+            "points": 3142.1
           },
           {
             "season": 2017,
@@ -3076,23 +2648,27 @@
             "points": 3094.8
           },
           {
-            "season": 2017,
-            "week": 16,
-            "points": 3142.1
+            "season": 2018,
+            "week": 7,
+            "points": 3101.5
           }
         ]
       },
       "YEARLY_CHAMPION": {
-        "id": 1,
+        "total": 0
+      },
+      "YEARLY_DEFENSIVE_PLAYER": {
+        "id": 13,
         "total": 1,
         "history": [
           {
-            "season": 2014
+            "season": 2017,
+            "player": {
+              "firstName": "Bobby",
+              "lastName": "Wagner"
+            }
           }
         ]
-      },
-      "YEARLY_DEFENSIVE_PLAYER": {
-        "total": 0
       },
       "YEARLY_OFFENSIVE_PLAYER": {
         "total": 0
@@ -3139,15 +2715,6 @@
         "total": 7,
         "history": [
           {
-            "season": 2014,
-            "week": 2,
-            "player": {
-              "firstName": "Chandler",
-              "lastName": "Jones"
-            },
-            "points": 325
-          },
-          {
             "season": 2015,
             "week": 6,
             "player": {
@@ -3176,12 +2743,12 @@
           },
           {
             "season": 2017,
-            "week": 6,
+            "week": 13,
             "player": {
-              "firstName": "Cameron",
-              "lastName": "Jordan"
+              "firstName": "Christian",
+              "lastName": "Jones"
             },
-            "points": 352.5
+            "points": 305
           },
           {
             "season": 2017,
@@ -3194,18 +2761,27 @@
           },
           {
             "season": 2017,
-            "week": 13,
+            "week": 6,
             "player": {
-              "firstName": "Christian",
-              "lastName": "Jones"
+              "firstName": "Cameron",
+              "lastName": "Jordan"
             },
-            "points": 305
+            "points": 352.5
+          },
+          {
+            "season": 2018,
+            "week": 7,
+            "player": {
+              "firstName": "Zack",
+              "lastName": "Brown"
+            },
+            "points": 372.5
           }
         ]
       },
       "WEEKLY_HINDSIGHT": {
         "id": 11,
-        "total": 4,
+        "total": 5,
         "history": [
           {
             "season": 2015,
@@ -3218,21 +2794,21 @@
           },
           {
             "season": 2016,
-            "week": 5,
-            "player": {
-              "firstName": "Sebastian",
-              "lastName": "Janikowski"
-            },
-            "points": 370
-          },
-          {
-            "season": 2016,
             "week": 7,
             "player": {
               "firstName": "Josh",
               "lastName": "Lambo"
             },
             "points": 360
+          },
+          {
+            "season": 2016,
+            "week": 5,
+            "player": {
+              "firstName": "Sebastian",
+              "lastName": "Janikowski"
+            },
+            "points": 370
           },
           {
             "season": 2017,
@@ -3242,6 +2818,15 @@
               "lastName": "Lee"
             },
             "points": 370
+          },
+          {
+            "season": 2018,
+            "week": 2,
+            "player": {
+              "firstName": "Matt",
+              "lastName": "Ryan"
+            },
+            "points": 290.6
           }
         ]
       },
@@ -3250,35 +2835,8 @@
       },
       "WEEKLY_OFFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 6,
-        "total": 10,
+        "total": 7,
         "history": [
-          {
-            "season": 2014,
-            "week": 12,
-            "player": {
-              "firstName": "Odell",
-              "lastName": "Beckham Jr."
-            },
-            "points": 323
-          },
-          {
-            "season": 2014,
-            "week": 14,
-            "player": {
-              "firstName": "Le'veon",
-              "lastName": "Bell"
-            },
-            "points": 428
-          },
-          {
-            "season": 2014,
-            "week": 15,
-            "player": {
-              "firstName": "Odell",
-              "lastName": "Beckham Jr."
-            },
-            "points": 398
-          },
           {
             "season": 2015,
             "week": 14,
@@ -3290,30 +2848,12 @@
           },
           {
             "season": 2016,
-            "week": 6,
+            "week": 16,
             "player": {
-              "firstName": "Odell",
-              "lastName": "Beckham Jr"
+              "firstName": "Jordy",
+              "lastName": "Nelson"
             },
-            "points": 431
-          },
-          {
-            "season": 2016,
-            "week": 11,
-            "player": {
-              "firstName": "Le'veon",
-              "lastName": "Bell"
-            },
-            "points": 315
-          },
-          {
-            "season": 2016,
-            "week": 14,
-            "player": {
-              "firstName": "Leveon",
-              "lastName": "Bell"
-            },
-            "points": 510
+            "points": 320
           },
           {
             "season": 2016,
@@ -3326,12 +2866,30 @@
           },
           {
             "season": 2016,
-            "week": 16,
+            "week": 14,
             "player": {
-              "firstName": "Jordy",
-              "lastName": "Nelson"
+              "firstName": "Leveon",
+              "lastName": "Bell"
             },
-            "points": 320
+            "points": 510
+          },
+          {
+            "season": 2016,
+            "week": 11,
+            "player": {
+              "firstName": "Le'veon",
+              "lastName": "Bell"
+            },
+            "points": 315
+          },
+          {
+            "season": 2016,
+            "week": 6,
+            "player": {
+              "firstName": "Odell",
+              "lastName": "Beckham Jr"
+            },
+            "points": 431
           },
           {
             "season": 2017,
@@ -3346,17 +2904,8 @@
       },
       "WEEKLY_SPECIAL_TEAMS_PLAYER_HIGH_SCORE": {
         "id": 10,
-        "total": 5,
+        "total": 6,
         "history": [
-          {
-            "season": 2016,
-            "week": 7,
-            "player": {
-              "firstName": "Sebastian",
-              "lastName": "Janikowski"
-            },
-            "points": 385
-          },
           {
             "season": 2016,
             "week": 13,
@@ -3367,11 +2916,20 @@
             "points": 330
           },
           {
+            "season": 2016,
+            "week": 7,
+            "player": {
+              "firstName": "Sebastian",
+              "lastName": "Janikowski"
+            },
+            "points": 385
+          },
+          {
             "season": 2017,
-            "week": 9,
+            "week": 12,
             "player": {
               "firstName": "Greg",
-              "lastName": "Zuerlein"
+              "lastName": "Zuerlien"
             },
             "points": 395
           },
@@ -3386,12 +2944,21 @@
           },
           {
             "season": 2017,
-            "week": 12,
+            "week": 9,
             "player": {
               "firstName": "Greg",
-              "lastName": "Zuerlien"
+              "lastName": "Zuerlein"
             },
             "points": 395
+          },
+          {
+            "season": 2018,
+            "week": 1,
+            "player": {
+              "firstName": "Greg",
+              "lastName": "Zurelein"
+            },
+            "points": 360
           }
         ]
       },
@@ -3411,13 +2978,8 @@
           },
           {
             "season": 2016,
-            "week": 6,
-            "points": 2727.8
-          },
-          {
-            "season": 2016,
-            "week": 11,
-            "points": 2518.4
+            "week": 16,
+            "points": 2918.5
           },
           {
             "season": 2016,
@@ -3426,8 +2988,13 @@
           },
           {
             "season": 2016,
-            "week": 16,
-            "points": 2918.5
+            "week": 11,
+            "points": 2518.4
+          },
+          {
+            "season": 2016,
+            "week": 6,
+            "points": 2727.8
           }
         ]
       },
@@ -3453,16 +3020,20 @@
         "total": 0
       },
       "YEARLY_RUNNER_UP": {
-        "id": 4,
+        "total": 0
+      },
+      "YEARLY_SPECIAL_TEAMS_PLAYER": {
+        "id": 16,
         "total": 1,
         "history": [
           {
-            "season": 2014
+            "season": 2017,
+            "player": {
+              "firstName": "Greg",
+              "lastName": "Zeurlin"
+            }
           }
         ]
-      },
-      "YEARLY_SPECIAL_TEAMS_PLAYER": {
-        "total": 0
       }
     }
   }

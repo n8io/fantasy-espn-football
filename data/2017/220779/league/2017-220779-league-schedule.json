@@ -4,8 +4,8 @@
       "id": 11,
       "name": "Danger Muffin",
       "record": {
-        "wins": 8,
-        "losses": 5
+        "wins": 1,
+        "losses": 0
       },
       "score": 2036.4,
       "tags": [
@@ -16,8 +16,8 @@
       "id": 1,
       "name": "Destroyer of Worlds",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 0,
+        "losses": 1
       },
       "score": 1615.9,
       "tags": [
@@ -36,8 +36,8 @@
       "id": 5,
       "name": "Two Mannings One Cup",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 0,
+        "losses": 1
       },
       "score": 2379.3,
       "tags": [
@@ -48,8 +48,8 @@
       "id": 12,
       "name": "Down With OBJr.",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 1,
+        "losses": 0
       },
       "score": 2399.4,
       "tags": [
@@ -67,8 +67,8 @@
       "id": 2,
       "name": "jotas HOS",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 0,
+        "losses": 1
       },
       "score": 2410.2,
       "tags": [
@@ -79,8 +79,8 @@
       "id": 7,
       "name": "Jobu's Rum",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 1,
+        "losses": 0
       },
       "score": 2416.4,
       "tags": [
@@ -99,8 +99,8 @@
       "id": 10,
       "name": "Cleveland Browns",
       "record": {
-        "wins": 9,
-        "losses": 4
+        "wins": 1,
+        "losses": 0
       },
       "score": 2287.5,
       "tags": [
@@ -111,8 +111,8 @@
       "id": 3,
       "name": "Spell things how you want",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 0,
+        "losses": 1
       },
       "score": 2031.6,
       "tags": [
@@ -130,8 +130,8 @@
       "id": 4,
       "name": "Maximum Effort",
       "record": {
-        "wins": 4,
-        "losses": 9
+        "wins": 0,
+        "losses": 1
       },
       "score": 1834.1,
       "tags": [
@@ -142,8 +142,8 @@
       "id": 6,
       "name": "Ball Sagna",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 1,
+        "losses": 0
       },
       "score": 2528.9,
       "tags": [
@@ -162,8 +162,8 @@
       "id": 9,
       "name": "Mike Bixler",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 0,
+        "losses": 1
       },
       "score": 1618.9,
       "tags": [
@@ -174,8 +174,8 @@
       "id": 8,
       "name": "DisNigga Swings BIG DICK",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 1,
+        "losses": 0
       },
       "score": 1919.4,
       "tags": [
@@ -194,8 +194,8 @@
       "id": 12,
       "name": "Down With OBJr.",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 1,
+        "losses": 1
       },
       "score": 1849.1,
       "tags": [
@@ -206,8 +206,8 @@
       "id": 1,
       "name": "Destroyer of Worlds",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 1,
+        "losses": 1
       },
       "score": 2224.6,
       "tags": [
@@ -226,8 +226,8 @@
       "id": 2,
       "name": "jotas HOS",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 1,
+        "losses": 1
       },
       "score": 2454,
       "tags": [
@@ -238,8 +238,8 @@
       "id": 11,
       "name": "Danger Muffin",
       "record": {
-        "wins": 8,
-        "losses": 5
+        "wins": 1,
+        "losses": 1
       },
       "score": 1806.3,
       "tags": [
@@ -257,8 +257,8 @@
       "id": 7,
       "name": "Jobu's Rum",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 2,
+        "losses": 0
       },
       "score": 2165.7,
       "tags": [
@@ -269,8 +269,8 @@
       "id": 3,
       "name": "Spell things how you want",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 0,
+        "losses": 2
       },
       "score": 1997.3,
       "tags": [
@@ -289,8 +289,8 @@
       "id": 5,
       "name": "Two Mannings One Cup",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 1,
+        "losses": 1
       },
       "score": 2677.8,
       "tags": [
@@ -301,8 +301,8 @@
       "id": 4,
       "name": "Maximum Effort",
       "record": {
-        "wins": 4,
-        "losses": 9
+        "wins": 0,
+        "losses": 2
       },
       "score": 2561.4,
       "tags": [
@@ -321,8 +321,8 @@
       "id": 6,
       "name": "Ball Sagna",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 2,
+        "losses": 0
       },
       "score": 2545.7,
       "tags": [
@@ -333,8 +333,8 @@
       "id": 8,
       "name": "DisNigga Swings BIG DICK",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 1,
+        "losses": 1
       },
       "score": 2047.3,
       "tags": [
@@ -352,8 +352,8 @@
       "id": 10,
       "name": "Cleveland Browns",
       "record": {
-        "wins": 9,
-        "losses": 4
+        "wins": 2,
+        "losses": 0
       },
       "score": 2375,
       "tags": [
@@ -364,8 +364,8 @@
       "id": 9,
       "name": "Mike Bixler",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 0,
+        "losses": 2
       },
       "score": 1973.2,
       "tags": [
@@ -384,8 +384,8 @@
       "id": 11,
       "name": "Danger Muffin",
       "record": {
-        "wins": 8,
-        "losses": 5
+        "wins": 1,
+        "losses": 2
       },
       "score": 2326.7,
       "tags": [
@@ -396,8 +396,8 @@
       "id": 12,
       "name": "Down With OBJr.",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 2,
+        "losses": 1
       },
       "score": 2655.3,
       "tags": [
@@ -416,8 +416,8 @@
       "id": 1,
       "name": "Destroyer of Worlds",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 1,
+        "losses": 2
       },
       "score": 1901.3,
       "tags": [
@@ -428,8 +428,8 @@
       "id": 7,
       "name": "Jobu's Rum",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 3,
+        "losses": 0
       },
       "score": 1913,
       "tags": [
@@ -447,8 +447,8 @@
       "id": 3,
       "name": "Spell things how you want",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 1,
+        "losses": 2
       },
       "score": 2626.1,
       "tags": [
@@ -459,8 +459,8 @@
       "id": 2,
       "name": "jotas HOS",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 1,
+        "losses": 2
       },
       "score": 2496.1,
       "tags": [
@@ -479,8 +479,8 @@
       "id": 9,
       "name": "Mike Bixler",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 1,
+        "losses": 2
       },
       "score": 2382.8,
       "tags": [
@@ -491,8 +491,8 @@
       "id": 6,
       "name": "Ball Sagna",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 2,
+        "losses": 1
       },
       "score": 1909,
       "tags": [
@@ -510,8 +510,8 @@
       "id": 8,
       "name": "DisNigga Swings BIG DICK",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 1,
+        "losses": 2
       },
       "score": 2060.7,
       "tags": [
@@ -522,8 +522,8 @@
       "id": 5,
       "name": "Two Mannings One Cup",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 2,
+        "losses": 1
       },
       "score": 2856.6,
       "tags": [
@@ -541,8 +541,8 @@
       "id": 4,
       "name": "Maximum Effort",
       "record": {
-        "wins": 4,
-        "losses": 9
+        "wins": 0,
+        "losses": 3
       },
       "score": 2275.3,
       "tags": [
@@ -553,8 +553,8 @@
       "id": 10,
       "name": "Cleveland Browns",
       "record": {
-        "wins": 9,
-        "losses": 4
+        "wins": 3,
+        "losses": 0
       },
       "score": 2619.8,
       "tags": [
@@ -572,8 +572,8 @@
       "id": 2,
       "name": "jotas HOS",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 2,
+        "losses": 2
       },
       "score": 2285.8,
       "tags": [
@@ -584,8 +584,8 @@
       "id": 1,
       "name": "Destroyer of Worlds",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 1,
+        "losses": 3
       },
       "score": 2030.6,
       "tags": [
@@ -603,8 +603,8 @@
       "id": 7,
       "name": "Jobu's Rum",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 3,
+        "losses": 1
       },
       "score": 2288.3,
       "tags": [
@@ -615,8 +615,8 @@
       "id": 11,
       "name": "Danger Muffin",
       "record": {
-        "wins": 8,
-        "losses": 5
+        "wins": 2,
+        "losses": 2
       },
       "score": 2636.1,
       "tags": [
@@ -634,8 +634,8 @@
       "id": 12,
       "name": "Down With OBJr.",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 3,
+        "losses": 1
       },
       "score": 2534.9,
       "tags": [
@@ -646,8 +646,8 @@
       "id": 3,
       "name": "Spell things how you want",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 1,
+        "losses": 3
       },
       "score": 2391.9,
       "tags": [
@@ -665,8 +665,8 @@
       "id": 10,
       "name": "Cleveland Browns",
       "record": {
-        "wins": 9,
-        "losses": 4
+        "wins": 4,
+        "losses": 0
       },
       "score": 2264.4,
       "tags": [
@@ -677,8 +677,8 @@
       "id": 6,
       "name": "Ball Sagna",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 2,
+        "losses": 2
       },
       "score": 2157.3,
       "tags": [
@@ -696,8 +696,8 @@
       "id": 8,
       "name": "DisNigga Swings BIG DICK",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 2,
+        "losses": 2
       },
       "score": 2272,
       "tags": [
@@ -708,8 +708,8 @@
       "id": 4,
       "name": "Maximum Effort",
       "record": {
-        "wins": 4,
-        "losses": 9
+        "wins": 0,
+        "losses": 4
       },
       "score": 2160.1,
       "tags": [
@@ -727,8 +727,8 @@
       "id": 5,
       "name": "Two Mannings One Cup",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 3,
+        "losses": 1
       },
       "score": 2842.2,
       "tags": [
@@ -739,8 +739,8 @@
       "id": 9,
       "name": "Mike Bixler",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 1,
+        "losses": 3
       },
       "score": 1796.9,
       "tags": [
@@ -758,8 +758,8 @@
       "id": 12,
       "name": "Down With OBJr.",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 3,
+        "losses": 2
       },
       "score": 1945.9,
       "tags": [
@@ -770,8 +770,8 @@
       "id": 11,
       "name": "Danger Muffin",
       "record": {
-        "wins": 8,
-        "losses": 5
+        "wins": 3,
+        "losses": 2
       },
       "score": 1969.1,
       "tags": [
@@ -790,8 +790,8 @@
       "id": 3,
       "name": "Spell things how you want",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 2,
+        "losses": 3
       },
       "score": 2780,
       "tags": [
@@ -802,8 +802,8 @@
       "id": 7,
       "name": "Jobu's Rum",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 3,
+        "losses": 2
       },
       "score": 2524,
       "tags": [
@@ -822,8 +822,8 @@
       "id": 6,
       "name": "Ball Sagna",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 2,
+        "losses": 3
       },
       "score": 2280.8,
       "tags": [
@@ -834,8 +834,8 @@
       "id": 2,
       "name": "jotas HOS",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 3,
+        "losses": 2
       },
       "score": 2377.1,
       "tags": [
@@ -853,8 +853,8 @@
       "id": 4,
       "name": "Maximum Effort",
       "record": {
-        "wins": 4,
-        "losses": 9
+        "wins": 1,
+        "losses": 4
       },
       "score": 2565.1,
       "tags": [
@@ -865,8 +865,8 @@
       "id": 5,
       "name": "Two Mannings One Cup",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 3,
+        "losses": 2
       },
       "score": 2423,
       "tags": [
@@ -885,8 +885,8 @@
       "id": 8,
       "name": "DisNigga Swings BIG DICK",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 2,
+        "losses": 3
       },
       "score": 1968.5,
       "tags": [
@@ -897,8 +897,8 @@
       "id": 10,
       "name": "Cleveland Browns",
       "record": {
-        "wins": 9,
-        "losses": 4
+        "wins": 5,
+        "losses": 0
       },
       "score": 2424.2,
       "tags": [
@@ -917,8 +917,8 @@
       "id": 1,
       "name": "Destroyer of Worlds",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 1,
+        "losses": 4
       },
       "score": 1767.9,
       "tags": [
@@ -929,8 +929,8 @@
       "id": 9,
       "name": "Mike Bixler",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 2,
+        "losses": 3
       },
       "score": 1957.7,
       "tags": [
@@ -948,8 +948,8 @@
       "id": 3,
       "name": "Spell things how you want",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 3,
+        "losses": 3
       },
       "score": 2469,
       "tags": [
@@ -960,8 +960,8 @@
       "id": 1,
       "name": "Destroyer of Worlds",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 1,
+        "losses": 5
       },
       "score": 1895.9,
       "tags": [
@@ -979,8 +979,8 @@
       "id": 7,
       "name": "Jobu's Rum",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 3,
+        "losses": 3
       },
       "score": 1966.3,
       "tags": [
@@ -991,8 +991,8 @@
       "id": 12,
       "name": "Down With OBJr.",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 4,
+        "losses": 2
       },
       "score": 2643.5,
       "tags": [
@@ -1010,8 +1010,8 @@
       "id": 8,
       "name": "DisNigga Swings BIG DICK",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 2,
+        "losses": 4
       },
       "score": 2015,
       "tags": [
@@ -1022,8 +1022,8 @@
       "id": 2,
       "name": "jotas HOS",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 4,
+        "losses": 2
       },
       "score": 2797.4,
       "tags": [
@@ -1041,8 +1041,8 @@
       "id": 11,
       "name": "Danger Muffin",
       "record": {
-        "wins": 8,
-        "losses": 5
+        "wins": 3,
+        "losses": 3
       },
       "score": 2065.2,
       "tags": [
@@ -1053,8 +1053,8 @@
       "id": 6,
       "name": "Ball Sagna",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 3,
+        "losses": 3
       },
       "score": 2280.3,
       "tags": [
@@ -1072,8 +1072,8 @@
       "id": 5,
       "name": "Two Mannings One Cup",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 3,
+        "losses": 3
       },
       "score": 2092.2,
       "tags": [
@@ -1084,8 +1084,8 @@
       "id": 10,
       "name": "Cleveland Browns",
       "record": {
-        "wins": 9,
-        "losses": 4
+        "wins": 6,
+        "losses": 0
       },
       "score": 2716.5,
       "tags": [
@@ -1103,8 +1103,8 @@
       "id": 4,
       "name": "Maximum Effort",
       "record": {
-        "wins": 4,
-        "losses": 9
+        "wins": 1,
+        "losses": 5
       },
       "score": 2252.8,
       "tags": [
@@ -1115,8 +1115,8 @@
       "id": 9,
       "name": "Mike Bixler",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 3,
+        "losses": 3
       },
       "score": 2667.6,
       "tags": [
@@ -1134,8 +1134,8 @@
       "id": 4,
       "name": "Maximum Effort",
       "record": {
-        "wins": 4,
-        "losses": 9
+        "wins": 1,
+        "losses": 6
       },
       "score": 1905.9,
       "tags": [
@@ -1146,8 +1146,8 @@
       "id": 12,
       "name": "Down With OBJr.",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 5,
+        "losses": 2
       },
       "score": 2436.4,
       "tags": [
@@ -1165,8 +1165,8 @@
       "id": 10,
       "name": "Cleveland Browns",
       "record": {
-        "wins": 9,
-        "losses": 4
+        "wins": 7,
+        "losses": 0
       },
       "score": 2108.8,
       "tags": [
@@ -1177,8 +1177,8 @@
       "id": 7,
       "name": "Jobu's Rum",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 3,
+        "losses": 4
       },
       "score": 2020.4,
       "tags": [
@@ -1196,8 +1196,8 @@
       "id": 1,
       "name": "Destroyer of Worlds",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 1,
+        "losses": 6
       },
       "score": 2002.9,
       "tags": [
@@ -1208,8 +1208,8 @@
       "id": 6,
       "name": "Ball Sagna",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 4,
+        "losses": 3
       },
       "score": 2221.3,
       "tags": [
@@ -1227,8 +1227,8 @@
       "id": 2,
       "name": "jotas HOS",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 5,
+        "losses": 2
       },
       "score": 2780.7,
       "tags": [
@@ -1239,8 +1239,8 @@
       "id": 5,
       "name": "Two Mannings One Cup",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 3,
+        "losses": 4
       },
       "score": 2400,
       "tags": [
@@ -1258,8 +1258,8 @@
       "id": 3,
       "name": "Spell things how you want",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 4,
+        "losses": 3
       },
       "score": 2901.7,
       "tags": [
@@ -1270,8 +1270,8 @@
       "id": 8,
       "name": "DisNigga Swings BIG DICK",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 2,
+        "losses": 5
       },
       "score": 2050.7,
       "tags": [
@@ -1289,8 +1289,8 @@
       "id": 11,
       "name": "Danger Muffin",
       "record": {
-        "wins": 8,
-        "losses": 5
+        "wins": 4,
+        "losses": 3
       },
       "score": 3101.5,
       "tags": [
@@ -1301,8 +1301,8 @@
       "id": 9,
       "name": "Mike Bixler",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 3,
+        "losses": 4
       },
       "score": 1724.4,
       "tags": [
@@ -1320,8 +1320,8 @@
       "id": 10,
       "name": "Cleveland Browns",
       "record": {
-        "wins": 9,
-        "losses": 4
+        "wins": 7,
+        "losses": 1
       },
       "score": 2132.9,
       "tags": [
@@ -1332,8 +1332,8 @@
       "id": 1,
       "name": "Destroyer of Worlds",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 2,
+        "losses": 6
       },
       "score": 2263.3,
       "tags": [
@@ -1351,8 +1351,8 @@
       "id": 3,
       "name": "Spell things how you want",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 4,
+        "losses": 4
       },
       "score": 2228.7,
       "tags": [
@@ -1363,8 +1363,8 @@
       "id": 11,
       "name": "Danger Muffin",
       "record": {
-        "wins": 8,
-        "losses": 5
+        "wins": 5,
+        "losses": 3
       },
       "score": 2767.6,
       "tags": [
@@ -1382,8 +1382,8 @@
       "id": 12,
       "name": "Down With OBJr.",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 6,
+        "losses": 2
       },
       "score": 2179.8,
       "tags": [
@@ -1394,7 +1394,7 @@
       "id": 2,
       "name": "jotas HOS",
       "record": {
-        "wins": 10,
+        "wins": 5,
         "losses": 3
       },
       "score": 2005.9,
@@ -1413,8 +1413,8 @@
       "id": 6,
       "name": "Ball Sagna",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 4,
+        "losses": 4
       },
       "score": 2081.4,
       "tags": [
@@ -1425,8 +1425,8 @@
       "id": 5,
       "name": "Two Mannings One Cup",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 4,
+        "losses": 4
       },
       "score": 2914.5,
       "tags": [
@@ -1445,8 +1445,8 @@
       "id": 7,
       "name": "Jobu's Rum",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 3,
+        "losses": 5
       },
       "score": 2267.2,
       "tags": [
@@ -1457,8 +1457,8 @@
       "id": 4,
       "name": "Maximum Effort",
       "record": {
-        "wins": 4,
-        "losses": 9
+        "wins": 2,
+        "losses": 6
       },
       "score": 2405.6,
       "tags": [
@@ -1476,8 +1476,8 @@
       "id": 8,
       "name": "DisNigga Swings BIG DICK",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 2,
+        "losses": 6
       },
       "score": 2238,
       "tags": [
@@ -1488,8 +1488,8 @@
       "id": 9,
       "name": "Mike Bixler",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 4,
+        "losses": 4
       },
       "score": 2542.9,
       "tags": [
@@ -1508,8 +1508,8 @@
       "id": 6,
       "name": "Ball Sagna",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 5,
+        "losses": 4
       },
       "score": 1909.1,
       "tags": [
@@ -1520,8 +1520,8 @@
       "id": 7,
       "name": "Jobu's Rum",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 3,
+        "losses": 6
       },
       "score": 1801.5,
       "tags": [
@@ -1539,8 +1539,8 @@
       "id": 4,
       "name": "Maximum Effort",
       "record": {
-        "wins": 4,
-        "losses": 9
+        "wins": 2,
+        "losses": 7
       },
       "score": 2418.3,
       "tags": [
@@ -1551,7 +1551,7 @@
       "id": 2,
       "name": "jotas HOS",
       "record": {
-        "wins": 10,
+        "wins": 6,
         "losses": 3
       },
       "score": 2631.9,
@@ -1570,8 +1570,8 @@
       "id": 9,
       "name": "Mike Bixler",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 4,
+        "losses": 5
       },
       "score": 2044.8,
       "tags": [
@@ -1582,8 +1582,8 @@
       "id": 3,
       "name": "Spell things how you want",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 5,
+        "losses": 4
       },
       "score": 2379.8,
       "tags": [
@@ -1601,8 +1601,8 @@
       "id": 1,
       "name": "Destroyer of Worlds",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 2,
+        "losses": 7
       },
       "score": 1879.4,
       "tags": [
@@ -1613,8 +1613,8 @@
       "id": 5,
       "name": "Two Mannings One Cup",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 5,
+        "losses": 4
       },
       "score": 2317.2,
       "tags": [
@@ -1632,8 +1632,8 @@
       "id": 12,
       "name": "Down With OBJr.",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 7,
+        "losses": 2
       },
       "score": 2557,
       "tags": [
@@ -1644,8 +1644,8 @@
       "id": 8,
       "name": "DisNigga Swings BIG DICK",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 2,
+        "losses": 7
       },
       "score": 1745.5,
       "tags": [
@@ -1663,8 +1663,8 @@
       "id": 11,
       "name": "Danger Muffin",
       "record": {
-        "wins": 8,
-        "losses": 5
+        "wins": 6,
+        "losses": 3
       },
       "score": 2540.5,
       "tags": [
@@ -1675,8 +1675,8 @@
       "id": 10,
       "name": "Cleveland Browns",
       "record": {
-        "wins": 9,
-        "losses": 4
+        "wins": 7,
+        "losses": 2
       },
       "score": 1987.9,
       "tags": [
@@ -1694,8 +1694,8 @@
       "id": 4,
       "name": "Maximum Effort",
       "record": {
-        "wins": 4,
-        "losses": 9
+        "wins": 3,
+        "losses": 7
       },
       "score": 2044.5,
       "tags": [
@@ -1706,8 +1706,8 @@
       "id": 1,
       "name": "Destroyer of Worlds",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 2,
+        "losses": 8
       },
       "score": 2023.4,
       "tags": [
@@ -1725,8 +1725,8 @@
       "id": 8,
       "name": "DisNigga Swings BIG DICK",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 2,
+        "losses": 8
       },
       "score": 2424.2,
       "tags": [
@@ -1737,8 +1737,8 @@
       "id": 11,
       "name": "Danger Muffin",
       "record": {
-        "wins": 8,
-        "losses": 5
+        "wins": 7,
+        "losses": 3
       },
       "score": 2501.8,
       "tags": [
@@ -1756,8 +1756,8 @@
       "id": 6,
       "name": "Ball Sagna",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 5,
+        "losses": 5
       },
       "score": 1551.9,
       "tags": [
@@ -1768,8 +1768,8 @@
       "id": 12,
       "name": "Down With OBJr.",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 8,
+        "losses": 2
       },
       "score": 2730.8,
       "tags": [
@@ -1788,7 +1788,7 @@
       "name": "Mike Bixler",
       "record": {
         "wins": 5,
-        "losses": 8
+        "losses": 5
       },
       "score": 2009.9,
       "tags": [
@@ -1799,8 +1799,8 @@
       "id": 7,
       "name": "Jobu's Rum",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 3,
+        "losses": 7
       },
       "score": 1637.3,
       "tags": [
@@ -1818,8 +1818,8 @@
       "id": 3,
       "name": "Spell things how you want",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 6,
+        "losses": 4
       },
       "score": 2865.5,
       "tags": [
@@ -1830,8 +1830,8 @@
       "id": 5,
       "name": "Two Mannings One Cup",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 5,
+        "losses": 5
       },
       "score": 2786.7,
       "tags": [
@@ -1849,7 +1849,7 @@
       "id": 2,
       "name": "jotas HOS",
       "record": {
-        "wins": 10,
+        "wins": 7,
         "losses": 3
       },
       "score": 2368.5,
@@ -1861,8 +1861,8 @@
       "id": 10,
       "name": "Cleveland Browns",
       "record": {
-        "wins": 9,
-        "losses": 4
+        "wins": 7,
+        "losses": 3
       },
       "score": 1863.8,
       "tags": [
@@ -1881,7 +1881,7 @@
       "name": "Mike Bixler",
       "record": {
         "wins": 5,
-        "losses": 8
+        "losses": 6
       },
       "score": 2304.2,
       "tags": [
@@ -1892,7 +1892,7 @@
       "id": 2,
       "name": "jotas HOS",
       "record": {
-        "wins": 10,
+        "wins": 8,
         "losses": 3
       },
       "score": 2425.6,
@@ -1911,8 +1911,8 @@
       "id": 6,
       "name": "Ball Sagna",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 6,
+        "losses": 5
       },
       "score": 2761.1,
       "tags": [
@@ -1923,8 +1923,8 @@
       "id": 3,
       "name": "Spell things how you want",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 6,
+        "losses": 5
       },
       "score": 2401.9,
       "tags": [
@@ -1942,8 +1942,8 @@
       "id": 7,
       "name": "Jobu's Rum",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 4,
+        "losses": 7
       },
       "score": 2340.8,
       "tags": [
@@ -1954,7 +1954,7 @@
       "id": 5,
       "name": "Two Mannings One Cup",
       "record": {
-        "wins": 7,
+        "wins": 5,
         "losses": 6
       },
       "score": 2301.1,
@@ -1973,8 +1973,8 @@
       "id": 11,
       "name": "Danger Muffin",
       "record": {
-        "wins": 8,
-        "losses": 5
+        "wins": 7,
+        "losses": 4
       },
       "score": 2060.3,
       "tags": [
@@ -1986,7 +1986,7 @@
       "name": "Maximum Effort",
       "record": {
         "wins": 4,
-        "losses": 9
+        "losses": 7
       },
       "score": 2346.9,
       "tags": [
@@ -2005,7 +2005,7 @@
       "name": "Destroyer of Worlds",
       "record": {
         "wins": 3,
-        "losses": 10
+        "losses": 8
       },
       "score": 2692.7,
       "tags": [
@@ -2016,8 +2016,8 @@
       "id": 8,
       "name": "DisNigga Swings BIG DICK",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 2,
+        "losses": 9
       },
       "score": 2113.7,
       "tags": [
@@ -2035,7 +2035,7 @@
       "id": 12,
       "name": "Down With OBJr.",
       "record": {
-        "wins": 10,
+        "wins": 8,
         "losses": 3
       },
       "score": 2313.9,
@@ -2047,8 +2047,8 @@
       "id": 10,
       "name": "Cleveland Browns",
       "record": {
-        "wins": 9,
-        "losses": 4
+        "wins": 8,
+        "losses": 3
       },
       "score": 2782.8,
       "tags": [
@@ -2067,7 +2067,7 @@
       "name": "Destroyer of Worlds",
       "record": {
         "wins": 3,
-        "losses": 10
+        "losses": 9
       },
       "score": 1864.7,
       "tags": [
@@ -2079,7 +2079,7 @@
       "name": "Danger Muffin",
       "record": {
         "wins": 8,
-        "losses": 5
+        "losses": 4
       },
       "score": 3119.8,
       "tags": [
@@ -2098,7 +2098,7 @@
       "id": 7,
       "name": "Jobu's Rum",
       "record": {
-        "wins": 5,
+        "wins": 4,
         "losses": 8
       },
       "score": 2100.8,
@@ -2110,7 +2110,7 @@
       "id": 2,
       "name": "jotas HOS",
       "record": {
-        "wins": 10,
+        "wins": 9,
         "losses": 3
       },
       "score": 2429.6,
@@ -2130,7 +2130,7 @@
       "id": 5,
       "name": "Two Mannings One Cup",
       "record": {
-        "wins": 7,
+        "wins": 6,
         "losses": 6
       },
       "score": 2608.5,
@@ -2142,7 +2142,7 @@
       "id": 6,
       "name": "Ball Sagna",
       "record": {
-        "wins": 7,
+        "wins": 6,
         "losses": 6
       },
       "score": 2491.2,
@@ -2163,7 +2163,7 @@
       "name": "Spell things how you want",
       "record": {
         "wins": 7,
-        "losses": 6
+        "losses": 5
       },
       "score": 2633.2,
       "tags": [
@@ -2175,7 +2175,7 @@
       "name": "Maximum Effort",
       "record": {
         "wins": 4,
-        "losses": 9
+        "losses": 8
       },
       "score": 2351,
       "tags": [
@@ -2193,7 +2193,7 @@
       "id": 10,
       "name": "Cleveland Browns",
       "record": {
-        "wins": 9,
+        "wins": 8,
         "losses": 4
       },
       "score": 2158.4,
@@ -2206,7 +2206,7 @@
       "name": "DisNigga Swings BIG DICK",
       "record": {
         "wins": 3,
-        "losses": 10
+        "losses": 9
       },
       "score": 2290.3,
       "tags": [
@@ -2225,7 +2225,7 @@
       "id": 12,
       "name": "Down With OBJr.",
       "record": {
-        "wins": 10,
+        "wins": 9,
         "losses": 3
       },
       "score": 2114.8,
@@ -2238,7 +2238,7 @@
       "name": "Mike Bixler",
       "record": {
         "wins": 5,
-        "losses": 8
+        "losses": 7
       },
       "score": 1967.8,
       "tags": [
@@ -2446,7 +2446,7 @@
       "id": 9,
       "name": "Mike Bixler",
       "record": {
-        "wins": 5,
+        "wins": 6,
         "losses": 8
       },
       "score": 2073.8,
@@ -2461,7 +2461,7 @@
       "name": "Down With OBJr.",
       "record": {
         "wins": 10,
-        "losses": 3
+        "losses": 4
       },
       "score": 2017.9,
       "tags": [
@@ -2484,7 +2484,7 @@
       "name": "Danger Muffin",
       "record": {
         "wins": 8,
-        "losses": 5
+        "losses": 6
       },
       "score": 2569.8,
       "tags": [
@@ -2497,7 +2497,7 @@
       "id": 5,
       "name": "Two Mannings One Cup",
       "record": {
-        "wins": 7,
+        "wins": 8,
         "losses": 6
       },
       "score": 2860.8,
@@ -2520,7 +2520,7 @@
       "id": 6,
       "name": "Ball Sagna",
       "record": {
-        "wins": 7,
+        "wins": 8,
         "losses": 6
       },
       "score": 2702.3,
@@ -2535,7 +2535,7 @@
       "name": "Cleveland Browns",
       "record": {
         "wins": 9,
-        "losses": 4
+        "losses": 5
       },
       "score": 1998.1,
       "tags": [
@@ -2558,7 +2558,7 @@
       "name": "Spell things how you want",
       "record": {
         "wins": 7,
-        "losses": 6
+        "losses": 7
       },
       "score": 2299.5,
       "tags": [
@@ -2571,7 +2571,7 @@
       "id": 2,
       "name": "jotas HOS",
       "record": {
-        "wins": 10,
+        "wins": 11,
         "losses": 3
       },
       "score": 2626.7,
@@ -2596,7 +2596,7 @@
       "name": "Maximum Effort",
       "record": {
         "wins": 4,
-        "losses": 9
+        "losses": 10
       },
       "score": 1637.2,
       "tags": [
@@ -2609,7 +2609,7 @@
       "id": 7,
       "name": "Jobu's Rum",
       "record": {
-        "wins": 5,
+        "wins": 6,
         "losses": 8
       },
       "score": 1856,
@@ -2633,7 +2633,7 @@
       "name": "DisNigga Swings BIG DICK",
       "record": {
         "wins": 3,
-        "losses": 10
+        "losses": 11
       },
       "score": 2166,
       "tags": [
@@ -2646,7 +2646,7 @@
       "id": 1,
       "name": "Destroyer of Worlds",
       "record": {
-        "wins": 3,
+        "wins": 4,
         "losses": 10
       },
       "score": 2594.9,
@@ -2669,8 +2669,8 @@
       "id": 9,
       "name": "Mike Bixler",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 6,
+        "losses": 9
       },
       "score": 2240.4,
       "tags": [
@@ -2682,7 +2682,7 @@
       "id": 5,
       "name": "Two Mannings One Cup",
       "record": {
-        "wins": 7,
+        "wins": 9,
         "losses": 6
       },
       "score": 2446.8,
@@ -2704,8 +2704,8 @@
       "id": 6,
       "name": "Ball Sagna",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 8,
+        "losses": 7
       },
       "score": 2101.2,
       "tags": [
@@ -2717,7 +2717,7 @@
       "id": 2,
       "name": "jotas HOS",
       "record": {
-        "wins": 10,
+        "wins": 12,
         "losses": 3
       },
       "score": 2111.1,
@@ -2740,7 +2740,7 @@
       "name": "Cleveland Browns",
       "record": {
         "wins": 9,
-        "losses": 4
+        "losses": 6
       },
       "score": 1954.4,
       "tags": [
@@ -2752,8 +2752,8 @@
       "id": 12,
       "name": "Down With OBJr.",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 11,
+        "losses": 4
       },
       "score": 2086.6,
       "tags": [
@@ -2774,8 +2774,8 @@
       "id": 3,
       "name": "Spell things how you want",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 8,
+        "losses": 7
       },
       "score": 2917,
       "tags": [
@@ -2788,7 +2788,7 @@
       "name": "Danger Muffin",
       "record": {
         "wins": 8,
-        "losses": 5
+        "losses": 7
       },
       "score": 2441.5,
       "tags": [
@@ -2809,7 +2809,7 @@
       "id": 1,
       "name": "Destroyer of Worlds",
       "record": {
-        "wins": 3,
+        "wins": 5,
         "losses": 10
       },
       "score": 2430.7,
@@ -2822,8 +2822,8 @@
       "id": 7,
       "name": "Jobu's Rum",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 6,
+        "losses": 9
       },
       "score": 1916.8,
       "tags": [
@@ -2845,7 +2845,7 @@
       "name": "DisNigga Swings BIG DICK",
       "record": {
         "wins": 3,
-        "losses": 10
+        "losses": 12
       },
       "score": 2011.2,
       "tags": [
@@ -2857,8 +2857,8 @@
       "id": 4,
       "name": "Maximum Effort",
       "record": {
-        "wins": 4,
-        "losses": 9
+        "wins": 5,
+        "losses": 10
       },
       "score": 2185.5,
       "tags": [
@@ -2879,7 +2879,7 @@
       "id": 5,
       "name": "Two Mannings One Cup",
       "record": {
-        "wins": 7,
+        "wins": 10,
         "losses": 6
       },
       "score": 2550.1,
@@ -2894,8 +2894,8 @@
       "id": 2,
       "name": "jotas HOS",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 12,
+        "losses": 4
       },
       "score": 2134.2,
       "tags": [
@@ -2918,8 +2918,8 @@
       "id": 9,
       "name": "Mike Bixler",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 7,
+        "losses": 9
       },
       "score": 2120.4,
       "tags": [
@@ -2932,8 +2932,8 @@
       "id": 6,
       "name": "Ball Sagna",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 8,
+        "losses": 8
       },
       "score": 1952.4,
       "tags": [
@@ -2955,8 +2955,8 @@
       "id": 3,
       "name": "Spell things how you want",
       "record": {
-        "wins": 7,
-        "losses": 6
+        "wins": 9,
+        "losses": 7
       },
       "score": 2164.7,
       "tags": [
@@ -2969,8 +2969,8 @@
       "id": 12,
       "name": "Down With OBJr.",
       "record": {
-        "wins": 10,
-        "losses": 3
+        "wins": 11,
+        "losses": 5
       },
       "score": 1880.8,
       "tags": [
@@ -2992,8 +2992,8 @@
       "id": 11,
       "name": "Danger Muffin",
       "record": {
-        "wins": 8,
-        "losses": 5
+        "wins": 9,
+        "losses": 7
       },
       "score": 3107.1,
       "tags": [
@@ -3007,7 +3007,7 @@
       "name": "Cleveland Browns",
       "record": {
         "wins": 9,
-        "losses": 4
+        "losses": 7
       },
       "score": 1928.4,
       "tags": [
@@ -3029,7 +3029,7 @@
       "id": 1,
       "name": "Destroyer of Worlds",
       "record": {
-        "wins": 3,
+        "wins": 6,
         "losses": 10
       },
       "score": 2368.6,
@@ -3043,8 +3043,8 @@
       "id": 4,
       "name": "Maximum Effort",
       "record": {
-        "wins": 4,
-        "losses": 9
+        "wins": 5,
+        "losses": 11
       },
       "score": 1785.1,
       "tags": [
@@ -3066,8 +3066,8 @@
       "id": 8,
       "name": "DisNigga Swings BIG DICK",
       "record": {
-        "wins": 3,
-        "losses": 10
+        "wins": 4,
+        "losses": 12
       },
       "score": 1688.7,
       "tags": [
@@ -3080,8 +3080,8 @@
       "id": 7,
       "name": "Jobu's Rum",
       "record": {
-        "wins": 5,
-        "losses": 8
+        "wins": 6,
+        "losses": 10
       },
       "score": 1675,
       "tags": [

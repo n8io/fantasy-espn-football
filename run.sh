@@ -24,6 +24,8 @@ scrape_data() {
 run_reports() {
   echo "$(date): 📊 Running alltime reports..." | tee -a "$LOG_FILE" && \
   QUICKHITS=1 MAX_RESULTS=10 yarn reporting -s | tee -a "$LOG_FILE" && QUICKHITS= && \
+  echo "$(date): 📊 Running 15 year rollup reports..." | tee -a "$LOG_FILE" && \
+  YEARS_BACK=15 yarn reporting -s | tee -a "$LOG_FILE" && \
   echo "$(date): 📊 Running 10 year rollup reports..." | tee -a "$LOG_FILE" && \
   YEARS_BACK=10 yarn reporting -s | tee -a "$LOG_FILE" && \
   echo "$(date): 📊 Running 5 year rollup reports..." | tee -a "$LOG_FILE" && \

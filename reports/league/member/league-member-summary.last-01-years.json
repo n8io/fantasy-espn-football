@@ -2,7 +2,7 @@
   {
     "teamId": 1,
     "owner": "Nate Clark",
-    "currentName": "Destroyer of Worlds",
+    "currentName": "N8th Place",
     "names": [
       "Destroyer of Worlds",
       "League Man Nate'd"
@@ -250,7 +250,7 @@
       },
       {
         "id": 4,
-        "vs": "DANK",
+        "vs": "CJAY",
         "wins": {
           "total": 2,
           "home": 1,
@@ -636,7 +636,7 @@
       },
       {
         "id": 4,
-        "vs": "DANK",
+        "vs": "CJAY",
         "wins": {
           "total": 2,
           "home": 2,
@@ -774,7 +774,7 @@
   {
     "teamId": 3,
     "owner": "Zak Hurley",
-    "currentName": "Spell things how you want",
+    "currentName": "NUMBER FIVE",
     "names": [
       "Chicken Dinner",
       "Spell things how you want"
@@ -1022,7 +1022,7 @@
       },
       {
         "id": 4,
-        "vs": "DANK",
+        "vs": "CJAY",
         "wins": {
           "total": 1,
           "home": 0,
@@ -1159,8 +1159,8 @@
   },
   {
     "teamId": 4,
-    "owner": "Daniel Kelly",
-    "currentName": "Maximum Effort",
+    "owner": "Christopher Iliff",
+    "currentName": "ABOUT TO GO H.A.M.",
     "names": [
       "Maximum Effort",
       "Mongolian Giants"
@@ -1812,7 +1812,7 @@
       },
       {
         "id": 4,
-        "vs": "DANK",
+        "vs": "CJAY",
         "wins": {
           "total": 2,
           "home": 0,
@@ -1935,7 +1935,7 @@
   {
     "teamId": 6,
     "owner": "Brian Williams",
-    "currentName": "Ball Sagna",
+    "currentName": "Barry's Dingles",
     "names": [
       "Ball Sagna"
     ],
@@ -2197,7 +2197,7 @@
       },
       {
         "id": 4,
-        "vs": "DANK",
+        "vs": "CJAY",
         "wins": {
           "total": 3,
           "home": 2,
@@ -2320,7 +2320,7 @@
   {
     "teamId": 7,
     "owner": "Kurtis Dilyard",
-    "currentName": "Jobu's Rum",
+    "currentName": "Speedball Brown",
     "names": [
       "Jobu's Rum",
       "Susan Bixler"
@@ -2583,7 +2583,7 @@
       },
       {
         "id": 4,
-        "vs": "DANK",
+        "vs": "CJAY",
         "wins": {
           "total": 1,
           "home": 1,
@@ -2706,7 +2706,7 @@
   {
     "teamId": 8,
     "owner": "Brian Frye",
-    "currentName": "DisNigga Swings BIG DICK",
+    "currentName": "New Beginnings",
     "names": [
       "DisNigga Swings BIG DICK",
       "Grabbin Pussie"
@@ -2973,7 +2973,7 @@
       },
       {
         "id": 4,
-        "vs": "DANK",
+        "vs": "CJAY",
         "wins": {
           "total": 1,
           "home": 0,
@@ -3358,7 +3358,7 @@
       },
       {
         "id": 4,
-        "vs": "DANK",
+        "vs": "CJAY",
         "wins": {
           "total": 1,
           "home": 1,
@@ -3481,7 +3481,7 @@
   {
     "teamId": 10,
     "owner": "Brock Holtzapple",
-    "currentName": "Cleveland Browns",
+    "currentName": "War Hammer",
     "names": [
       "Cleveland Browns"
     ],
@@ -3743,7 +3743,7 @@
       },
       {
         "id": 4,
-        "vs": "DANK",
+        "vs": "CJAY",
         "wins": {
           "total": 1,
           "home": 1,
@@ -4129,7 +4129,7 @@
       },
       {
         "id": 4,
-        "vs": "DANK",
+        "vs": "CJAY",
         "wins": {
           "total": 2,
           "home": 1,
@@ -4514,7 +4514,7 @@
       },
       {
         "id": 4,
-        "vs": "DANK",
+        "vs": "CJAY",
         "wins": {
           "total": 2,
           "home": 1,
