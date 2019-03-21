@@ -97,16 +97,16 @@
       },
       "points": {
         "total": {
-          "for": 413367.9,
-          "against": 410493
+          "for": 413347.9,
+          "against": 410498
         },
         "home": {
           "for": 201624.4,
           "against": 199886.7
         },
         "away": {
-          "for": 211743.5,
-          "against": 210606.3
+          "for": 211723.5,
+          "against": 210611.3
         }
       },
       "games": {
@@ -514,7 +514,7 @@
       "points": {
         "total": {
           "for": 395863.4,
-          "against": 407920
+          "against": 407900
         },
         "home": {
           "for": 188148.8,
@@ -522,7 +522,7 @@
         },
         "away": {
           "for": 207714.6,
-          "against": 210992.7
+          "against": 210972.7
         }
       },
       "games": {
@@ -907,12 +907,12 @@
       },
       "points": {
         "total": {
-          "for": 54354.6,
-          "against": 52677
+          "for": 54379.6,
+          "against": 52652
         },
         "home": {
-          "for": 39434.8,
-          "against": 38966.6
+          "for": 39459.8,
+          "against": 38941.6
         },
         "away": {
           "for": 14919.8,
@@ -939,12 +939,12 @@
       },
       "points": {
         "total": {
-          "for": 439129.9,
-          "against": 411257.1
+          "for": 439154.9,
+          "against": 411232.1
         },
         "home": {
-          "for": 223383.6,
-          "against": 213767.9
+          "for": 223408.6,
+          "against": 213742.9
         },
         "away": {
           "for": 215746.3,
@@ -1359,7 +1359,7 @@
       },
       "points": {
         "total": {
-          "for": 405577.4,
+          "for": 405557.4,
           "against": 407508.7
         },
         "home": {
@@ -1367,7 +1367,7 @@
           "against": 205676.2
         },
         "away": {
-          "for": 201623.7,
+          "for": 201603.7,
           "against": 201832.5
         }
       },
@@ -1784,12 +1784,12 @@
       },
       "points": {
         "total": {
-          "for": 409899.2,
-          "against": 412606.7
+          "for": 409926.7,
+          "against": 412586.7
         },
         "home": {
-          "for": 212590.1,
-          "against": 212628.7
+          "for": 212617.6,
+          "against": 212608.7
         },
         "away": {
           "for": 197309.1,
@@ -2203,12 +2203,12 @@
       },
       "points": {
         "total": {
-          "for": 405939.1,
-          "against": 403375.2
+          "for": 405944.1,
+          "against": 403355.2
         },
         "home": {
-          "for": 208243.9,
-          "against": 206328.3
+          "for": 208248.9,
+          "against": 206308.3
         },
         "away": {
           "for": 197695.2,
@@ -2624,11 +2624,11 @@
       "points": {
         "total": {
           "for": 415916.1,
-          "against": 403316.3
+          "against": 403296.3
         },
         "home": {
           "for": 233894.5,
-          "against": 230176.3
+          "against": 230156.3
         },
         "away": {
           "for": 182021.6,
@@ -3048,12 +3048,12 @@
       },
       "points": {
         "total": {
-          "for": 391039.1,
-          "against": 414977.5
+          "for": 391089.1,
+          "against": 415002.5
         },
         "home": {
-          "for": 170774.9,
-          "against": 186677.9
+          "for": 170824.9,
+          "against": 186702.9
         },
         "away": {
           "for": 220264.2,
@@ -3372,7 +3372,7 @@
   },
   {
     "teamId": 9,
-    "owner": "Mike Bixler",
+    "owner": "Geraldo Bixler",
     "currentName": "Mike Bixler",
     "names": [
       "Black Magic",
@@ -3468,16 +3468,16 @@
       },
       "points": {
         "total": {
-          "for": 389610,
-          "against": 408362
+          "for": 389635,
+          "against": 408412
         },
         "home": {
           "for": 180244.6,
           "against": 190164.8
         },
         "away": {
-          "for": 209365.4,
-          "against": 218197.2
+          "for": 209390.4,
+          "against": 218247.2
         }
       },
       "games": {
@@ -3882,11 +3882,11 @@
       },
       "points": {
         "total": {
-          "for": 396321.4,
+          "for": 396301.4,
           "against": 408023.8
         },
         "home": {
-          "for": 206915.5,
+          "for": 206895.5,
           "against": 220569.5
         },
         "away": {
@@ -4306,16 +4306,16 @@
       },
       "points": {
         "total": {
-          "for": 429748.7,
-          "against": 412017
+          "for": 429728.7,
+          "against": 412044.5
         },
         "home": {
           "for": 234969.4,
           "against": 223873.8
         },
         "away": {
-          "for": 194779.3,
-          "against": 188143.2
+          "for": 194759.3,
+          "against": 188170.7
         }
       },
       "games": {
@@ -4694,16 +4694,16 @@
       },
       "points": {
         "total": {
-          "for": 43014.8,
-          "against": 40762.2
+          "for": 42989.8,
+          "against": 40787.2
         },
         "home": {
           "for": 9147,
           "against": 9322
         },
         "away": {
-          "for": 33867.8,
-          "against": 31440.2
+          "for": 33842.8,
+          "against": 31465.2
         }
       }
     },
@@ -4726,16 +4726,16 @@
       },
       "points": {
         "total": {
-          "for": 415768.4,
-          "against": 408323.3
+          "for": 415743.4,
+          "against": 408348.3
         },
         "home": {
           "for": 180628.5,
           "against": 176131.3
         },
         "away": {
-          "for": 235139.9,
-          "against": 232192
+          "for": 235114.9,
+          "against": 232217
         }
       },
       "games": {

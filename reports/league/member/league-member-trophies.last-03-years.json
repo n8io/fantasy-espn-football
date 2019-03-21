@@ -562,12 +562,12 @@
           },
           {
             "season": 2018,
-            "week": 2,
+            "week": 7,
             "player": {
-              "firstName": "Darius",
-              "lastName": "Leonard"
+              "firstName": "Aaron",
+              "lastName": "Donald"
             },
-            "points": 477.5
+            "points": 375
           },
           {
             "season": 2018,
@@ -580,12 +580,12 @@
           },
           {
             "season": 2018,
-            "week": 7,
+            "week": 2,
             "player": {
-              "firstName": "Aaron",
-              "lastName": "Donald"
+              "firstName": "Darius",
+              "lastName": "Leonard"
             },
-            "points": 375
+            "points": 477.5
           }
         ]
       },
@@ -613,21 +613,21 @@
           },
           {
             "season": 2018,
-            "week": 7,
-            "player": {
-              "firstName": "Trey",
-              "lastName": "Burton"
-            },
-            "points": 351
-          },
-          {
-            "season": 2018,
             "week": 9,
             "player": {
               "firstName": "Cody",
               "lastName": "Parkey"
             },
             "points": 285
+          },
+          {
+            "season": 2018,
+            "week": 7,
+            "player": {
+              "firstName": "Trey",
+              "lastName": "Burton"
+            },
+            "points": 351
           }
         ]
       },
@@ -691,21 +691,21 @@
           },
           {
             "season": 2018,
-            "week": 1,
-            "player": {
-              "firstName": "Tyreek",
-              "lastName": "Hill"
-            },
-            "points": 529
-          },
-          {
-            "season": 2018,
             "week": 11,
             "player": {
               "firstName": "Tyreek",
               "lastName": "Hill"
             },
             "points": 442
+          },
+          {
+            "season": 2018,
+            "week": 1,
+            "player": {
+              "firstName": "Tyreek",
+              "lastName": "Hill"
+            },
+            "points": 529
           }
         ]
       },
@@ -751,21 +751,21 @@
           },
           {
             "season": 2018,
-            "week": 4,
-            "player": {
-              "firstName": "Cody",
-              "lastName": "Parkey"
-            },
-            "points": 365
-          },
-          {
-            "season": 2018,
             "week": 5,
             "player": {
               "firstName": "Ryan",
               "lastName": "Succup"
             },
             "points": 320
+          },
+          {
+            "season": 2018,
+            "week": 4,
+            "player": {
+              "firstName": "Cody",
+              "lastName": "Parkey"
+            },
+            "points": 365
           }
         ]
       },
@@ -820,8 +820,8 @@
           },
           {
             "season": 2018,
-            "week": 3,
-            "points": 2874.8
+            "week": 11,
+            "points": 2902.9
           },
           {
             "season": 2018,
@@ -830,8 +830,8 @@
           },
           {
             "season": 2018,
-            "week": 11,
-            "points": 2902.9
+            "week": 3,
+            "points": 2874.8
           }
         ]
       },
@@ -954,21 +954,12 @@
           },
           {
             "season": 2018,
-            "week": 3,
+            "week": 14,
             "player": {
-              "firstName": "Calvin",
-              "lastName": "Ridley"
+              "firstName": "Derrick",
+              "lastName": "Henry"
             },
-            "points": 391
-          },
-          {
-            "season": 2018,
-            "week": 8,
-            "player": {
-              "firstName": "Graham",
-              "lastName": "Gano"
-            },
-            "points": 330
+            "points": 543
           },
           {
             "season": 2018,
@@ -981,12 +972,21 @@
           },
           {
             "season": 2018,
-            "week": 14,
+            "week": 8,
             "player": {
-              "firstName": "Derrick",
-              "lastName": "Henry"
+              "firstName": "Graham",
+              "lastName": "Gano"
             },
-            "points": 543
+            "points": 330
+          },
+          {
+            "season": 2018,
+            "week": 3,
+            "player": {
+              "firstName": "Calvin",
+              "lastName": "Ridley"
+            },
+            "points": 391
           }
         ]
       },
@@ -1017,21 +1017,21 @@
           },
           {
             "season": 2018,
-            "week": 2,
-            "player": {
-              "firstName": "Ben",
-              "lastName": "Roethlisberger"
-            },
-            "points": 432.6
-          },
-          {
-            "season": 2018,
             "week": 13,
             "player": {
               "firstName": "Travis",
               "lastName": "Kelce"
             },
             "points": 473
+          },
+          {
+            "season": 2018,
+            "week": 2,
+            "player": {
+              "firstName": "Ben",
+              "lastName": "Roethlisberger"
+            },
+            "points": 432.6
           }
         ]
       },
@@ -1285,21 +1285,21 @@
           },
           {
             "season": 2018,
-            "week": 6,
-            "player": {
-              "firstName": "Todd",
-              "lastName": "Gurley"
-            },
-            "points": 381
-          },
-          {
-            "season": 2018,
             "week": 9,
             "player": {
               "firstName": "Michael",
               "lastName": "Thomas"
             },
             "points": 372
+          },
+          {
+            "season": 2018,
+            "week": 6,
+            "player": {
+              "firstName": "Todd",
+              "lastName": "Gurley"
+            },
+            "points": 381
           }
         ]
       },
@@ -1382,18 +1382,8 @@
           },
           {
             "season": 2018,
-            "week": 1,
-            "points": 2999.2
-          },
-          {
-            "season": 2018,
-            "week": 7,
-            "points": 2984.1
-          },
-          {
-            "season": 2018,
-            "week": 9,
-            "points": 2646.5
+            "week": 13,
+            "points": 2945.4
           },
           {
             "season": 2018,
@@ -1402,8 +1392,18 @@
           },
           {
             "season": 2018,
-            "week": 13,
-            "points": 2945.4
+            "week": 9,
+            "points": 2646.5
+          },
+          {
+            "season": 2018,
+            "week": 7,
+            "points": 2984.1
+          },
+          {
+            "season": 2018,
+            "week": 1,
+            "points": 2999.2
           }
         ]
       },
@@ -1484,7 +1484,7 @@
     "overall": {
       "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 9,
-        "total": 4,
+        "total": 5,
         "history": [
           {
             "season": 2015,
@@ -1512,6 +1512,15 @@
               "lastName": "Goodson"
             },
             "points": 385
+          },
+          {
+            "season": 2018,
+            "week": 11,
+            "player": {
+              "firstName": "Mason",
+              "lastName": "Foster"
+            },
+            "points": 310
           },
           {
             "season": 2018,
@@ -1548,12 +1557,12 @@
           },
           {
             "season": 2018,
-            "week": 10,
+            "week": 13,
             "player": {
-              "firstName": "Mitchell",
-              "lastName": "Trubisky"
+              "firstName": "Jason",
+              "lastName": "Myers"
             },
-            "points": 350.5
+            "points": 380
           },
           {
             "season": 2018,
@@ -1566,12 +1575,12 @@
           },
           {
             "season": 2018,
-            "week": 13,
+            "week": 10,
             "player": {
-              "firstName": "Jason",
-              "lastName": "Myers"
+              "firstName": "Mitchell",
+              "lastName": "Trubisky"
             },
-            "points": 380
+            "points": 350.5
           }
         ]
       },
@@ -1620,12 +1629,12 @@
           },
           {
             "season": 2018,
-            "week": 7,
+            "week": 12,
             "player": {
-              "firstName": "Patrick",
-              "lastName": "Mahomes"
+              "firstName": "Christian",
+              "lastName": "Mccaffrey"
             },
-            "points": 348.4
+            "points": 480
           },
           {
             "season": 2018,
@@ -1638,12 +1647,12 @@
           },
           {
             "season": 2018,
-            "week": 12,
+            "week": 7,
             "player": {
-              "firstName": "Christian",
-              "lastName": "Mccaffrey"
+              "firstName": "Patrick",
+              "lastName": "Mahomes"
             },
-            "points": 480
+            "points": 348.4
           }
         ]
       },
@@ -1858,21 +1867,21 @@
           },
           {
             "season": 2018,
-            "week": 1,
-            "player": {
-              "firstName": "Fred",
-              "lastName": "Warner"
-            },
-            "points": 345
-          },
-          {
-            "season": 2018,
             "week": 5,
             "player": {
               "firstName": "Josh",
               "lastName": "Bynes"
             },
             "points": 375
+          },
+          {
+            "season": 2018,
+            "week": 1,
+            "player": {
+              "firstName": "Fred",
+              "lastName": "Warner"
+            },
+            "points": 345
           }
         ]
       },
@@ -1984,30 +1993,12 @@
           },
           {
             "season": 2018,
-            "week": 3,
-            "player": {
-              "firstName": "Will",
-              "lastName": "Lutz"
-            },
-            "points": 335
-          },
-          {
-            "season": 2018,
-            "week": 7,
-            "player": {
-              "firstName": "Giorgio",
-              "lastName": "Tavecchio"
-            },
-            "points": 350
-          },
-          {
-            "season": 2018,
-            "week": 8,
+            "week": 11,
             "player": {
               "firstName": "Wil",
               "lastName": "Lutz"
             },
-            "points": 355
+            "points": 315
           },
           {
             "season": 2018,
@@ -2020,12 +2011,30 @@
           },
           {
             "season": 2018,
-            "week": 11,
+            "week": 8,
             "player": {
               "firstName": "Wil",
               "lastName": "Lutz"
             },
-            "points": 315
+            "points": 355
+          },
+          {
+            "season": 2018,
+            "week": 7,
+            "player": {
+              "firstName": "Giorgio",
+              "lastName": "Tavecchio"
+            },
+            "points": 350
+          },
+          {
+            "season": 2018,
+            "week": 3,
+            "player": {
+              "firstName": "Will",
+              "lastName": "Lutz"
+            },
+            "points": 335
           }
         ]
       },
@@ -2060,13 +2069,13 @@
           },
           {
             "season": 2018,
-            "week": 12,
-            "points": 2840.2
+            "week": 15,
+            "points": 2670.7
           },
           {
             "season": 2018,
-            "week": 15,
-            "points": 2670.7
+            "week": 12,
+            "points": 2840.2
           }
         ]
       },
@@ -2254,12 +2263,12 @@
           },
           {
             "season": 2018,
-            "week": 12,
+            "week": 15,
             "player": {
-              "firstName": "Tress",
-              "lastName": "Way"
+              "firstName": "Ka'imi",
+              "lastName": "Fairbairn"
             },
-            "points": 285.6
+            "points": 460
           },
           {
             "season": 2018,
@@ -2272,12 +2281,12 @@
           },
           {
             "season": 2018,
-            "week": 15,
+            "week": 12,
             "player": {
-              "firstName": "Ka'imi",
-              "lastName": "Fairbairn"
+              "firstName": "Tress",
+              "lastName": "Way"
             },
-            "points": 460
+            "points": 285.6
           }
         ]
       },
@@ -2348,7 +2357,7 @@
   },
   {
     "teamId": 9,
-    "owner": "Mike Bixler",
+    "owner": "Geraldo Bixler",
     "currentName": "Mike Bixler",
     "overall": {
       "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE": {
@@ -2471,21 +2480,21 @@
           },
           {
             "season": 2018,
-            "week": 10,
-            "player": {
-              "firstName": "Zach",
-              "lastName": "Ertz"
-            },
-            "points": 495
-          },
-          {
-            "season": 2018,
             "week": 16,
             "player": {
               "firstName": "Zach",
               "lastName": "Ertz"
             },
             "points": 445
+          },
+          {
+            "season": 2018,
+            "week": 10,
+            "player": {
+              "firstName": "Zach",
+              "lastName": "Ertz"
+            },
+            "points": 495
           }
         ]
       },
@@ -2540,12 +2549,12 @@
           },
           {
             "season": 2018,
-            "week": 2,
+            "week": 16,
             "player": {
-              "firstName": "Matt",
-              "lastName": "Haack"
+              "firstName": "Harrison",
+              "lastName": "Butker"
             },
-            "points": 339
+            "points": 275
           },
           {
             "season": 2018,
@@ -2558,12 +2567,12 @@
           },
           {
             "season": 2018,
-            "week": 16,
+            "week": 2,
             "player": {
-              "firstName": "Harrison",
-              "lastName": "Butker"
+              "firstName": "Matt",
+              "lastName": "Haack"
             },
-            "points": 275
+            "points": 339
           }
         ]
       },
@@ -2651,21 +2660,21 @@
           },
           {
             "season": 2018,
-            "week": 4,
-            "player": {
-              "firstName": "Jared",
-              "lastName": "Goff"
-            },
-            "points": 423.5
-          },
-          {
-            "season": 2018,
             "week": 15,
             "player": {
               "firstName": "Jake",
               "lastName": "Elliott"
             },
             "points": 345
+          },
+          {
+            "season": 2018,
+            "week": 4,
+            "player": {
+              "firstName": "Jared",
+              "lastName": "Goff"
+            },
+            "points": 423.5
           }
         ]
       },
@@ -2808,7 +2817,7 @@
     "overall": {
       "WEEKLY_DEFENSIVE_PLAYER_HIGH_SCORE": {
         "id": 9,
-        "total": 11,
+        "total": 10,
         "history": [
           {
             "season": 2015,
@@ -2875,12 +2884,12 @@
           },
           {
             "season": 2018,
-            "week": 6,
+            "week": 13,
             "player": {
-              "firstName": "Budda",
-              "lastName": "Baker"
+              "firstName": "Bobby",
+              "lastName": "Wagner"
             },
-            "points": 355
+            "points": 450
           },
           {
             "season": 2018,
@@ -2893,21 +2902,12 @@
           },
           {
             "season": 2018,
-            "week": 11,
+            "week": 6,
             "player": {
-              "firstName": "Mason",
-              "lastName": "Foster"
+              "firstName": "Budda",
+              "lastName": "Baker"
             },
-            "points": 310
-          },
-          {
-            "season": 2018,
-            "week": 13,
-            "player": {
-              "firstName": "Bobby",
-              "lastName": "Wagner"
-            },
-            "points": 450
+            "points": 355
           }
         ]
       },
@@ -3007,12 +3007,12 @@
           },
           {
             "season": 2018,
-            "week": 4,
+            "week": 15,
             "player": {
-              "firstName": "Andrew",
-              "lastName": "Luck"
+              "firstName": "Deandre",
+              "lastName": "Hopkins"
             },
-            "points": 400.2
+            "points": 350
           },
           {
             "season": 2018,
@@ -3025,12 +3025,12 @@
           },
           {
             "season": 2018,
-            "week": 15,
+            "week": 4,
             "player": {
-              "firstName": "Deandre",
-              "lastName": "Hopkins"
+              "firstName": "Andrew",
+              "lastName": "Luck"
             },
-            "points": 350
+            "points": 400.2
           }
         ]
       },
@@ -3103,13 +3103,13 @@
           },
           {
             "season": 2018,
-            "week": 5,
-            "points": 2747.8
+            "week": 14,
+            "points": 3301.5
           },
           {
             "season": 2018,
-            "week": 14,
-            "points": 3301.5
+            "week": 5,
+            "points": 2747.8
           }
         ]
       },
@@ -3280,21 +3280,21 @@
           },
           {
             "season": 2018,
-            "week": 2,
-            "player": {
-              "firstName": "Matt",
-              "lastName": "Ryan"
-            },
-            "points": 290.6
-          },
-          {
-            "season": 2018,
             "week": 11,
             "player": {
               "firstName": "Alec",
               "lastName": "Ogletree"
             },
             "points": 325
+          },
+          {
+            "season": 2018,
+            "week": 2,
+            "player": {
+              "firstName": "Matt",
+              "lastName": "Ryan"
+            },
+            "points": 290.6
           }
         ]
       },
@@ -3475,13 +3475,13 @@
           },
           {
             "season": 2018,
-            "week": 8,
-            "points": 2828.1
+            "week": 16,
+            "points": 3060.3
           },
           {
             "season": 2018,
-            "week": 16,
-            "points": 3060.3
+            "week": 8,
+            "points": 2828.1
           }
         ]
       },

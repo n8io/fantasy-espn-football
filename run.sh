@@ -5,7 +5,7 @@ LOG_DIR="./data"
 LOG_FILE="${LOG_DIR}/scrape.log"
 CURRENT_MONTH="$(date +%m | sed 's/^0*//')"
 
-YEAR_START=2007
+YEAR_START=2018
 YEAR_END="$(date +%Y)"
 MONTH_NOW=$((CURRENT_MONTH + 0))
 

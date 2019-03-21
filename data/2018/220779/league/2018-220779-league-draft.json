@@ -1473,14 +1473,14 @@
         {
           "pickOverall": 155,
           "player": {
-            "team": "WSH",
+            "team": "ARI",
             "positions": [
               "S"
             ],
             "firstName": "D.J.",
             "lastName": "Swearinger",
             "injuryStatus": "ACTIVE",
-            "raw": "D.J. Swearinger, Wsh S"
+            "raw": "D.J. Swearinger, Ari S"
           }
         },
         {
@@ -3502,7 +3502,7 @@
       "team": {
         "id": 9,
         "name": "Mike Bixler",
-        "owner": "Gary Bixler"
+        "owner": "Geraldo Bixler"
       },
       "picks": [
         {

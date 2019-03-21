@@ -217,7 +217,7 @@
       "fee": 7
     },
     "irPlacements": {
-      "count": 88,
+      "count": 90,
       "fee": 0
     },
     "misc": {
@@ -287,15 +287,15 @@
       "fee": 0.5
     },
     "adds": {
-      "count": 37,
-      "fee": 18.5
+      "count": 40,
+      "fee": 20
     },
     "drops": {
-      "count": 37,
-      "fee": 18.5
+      "count": 39,
+      "fee": 19.5
     },
     "irPlacements": {
-      "count": 109,
+      "count": 110,
       "fee": 0
     },
     "misc": {
@@ -308,7 +308,7 @@
     },
     "paid": {
       "count": 0,
-      "fee": 88.5
+      "fee": 91
     }
   },
   {
